@@ -1,0 +1,2044 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:14+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <http://translate.blockstory.net/projects/block-story/"
+"female-warrior/it/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:1
+msgid "Dragon Boots"
+msgstr "Gli stivali del drago"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:6
+#, no-wrap
+msgid "Do not blame yourself.  None of us saw through the Dragon Lord’s ruse.  I feel so foolish."
+msgstr "Non te la prendere con te stesso. Nessuno di noi ha visto lo stratagemma del Dragon Lord. Mi sento così sciocco."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:14
+#, no-wrap
+msgid "When the dragons abandoned the Dragon Lord, they took his power with them.  In his weakened state he had no choice but to rely on someone else for help.  Someone powerful.  Someone...like you."
+msgstr "Quando i draghi abbandonarono il Signore Drago, ne presero il potere. Nel suo stato indebolito egli non ebbe altra scelta che affidarsi a qualcun altro per un aiuto. Qualcuno potente. Qualcuno...come te."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:17
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:27
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:37
+#, no-wrap
+msgid "Speak to Paula about the Wizard's betrayal."
+msgstr "Parla a Paula a proposito del tradimento del Mago."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:24
+#, no-wrap
+msgid "With the last of his magic, the Dragon Lord concealed himself with a glamer, taking on the appearance of a weak old man.  He then used you to do his bidding, to bring his dragons home, and make him more powerful than ever.  He tricked you.  We were all fooled."
+msgstr "Con la sua ultima magia, il Signore Drago nascose se stesso con bagliore, prendendo le sembianze di un debole e vecchio uomo. Quindi ti usò per fare la sua scommessa, per portare i suoi draghi a casa, e farsi più potente che mai. Ti ha ingannato. Siamo stati tutti ingannati."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:34
+#, no-wrap
+msgid "Our mission remains the same.  Stop the Dragon Lord at all costs.  To stand a chance against his power, you will need equipment that befits a Dragon Rider.  I can help you to get started."
+msgstr "La nostra missione resta la stessa. Fermare il Signore Drago a tutti i costi. Per avere una possibilità contro il suo potere, avrai bisogno dell'equipaggiamento che si addice ad un Cavaliere Drago. Ti posso aiutare ad iniziare."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:50
+#, no-wrap
+msgid ""
+"To think I had a hand in helping that monster, after what he did to me and my dragon.\n"
+"\n"
+"Craft the Dragon Boots to stand a chance against the Dragon Lord."
+msgstr ""
+"Pensare che ho dato una mano ad aiutare quel mostro, dopo quel che ha fatto a me ed al mio drago, \n"
+"\n"
+"Crea gli Stivali del Drago per avere una possibilità contro il Signore Drago."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:62
+#, no-wrap
+msgid "Tell Paula you have crafted the Dragon Boots."
+msgstr "Dì a Paula che hai creato gli Stivali del Drago."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:58
+#, no-wrap
+msgid "Buckle on those boots, Dragon Rider.  There is still more to do."
+msgstr "Allaccia quegli stivali, Cavaliere di Drago. C'è ancora molto da fare."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:77
+#, no-wrap
+msgid ""
+"The next piece of dragon gear takes inspiration from Nordic design.  I think you know where to go.\n"
+"\n"
+"My dear friend, please be swift.  You must make the Dragon Lord pay for his treachery."
+msgstr ""
+"Il prossimo pezzo dell'ingranaggio del drago prende ispirazione dal design Nordico. Penso tu sappia dove andare.\n"
+"\n"
+"Mio caro amico, per favore sii rapido. Devi farla pagare al Signore Drago per questo tradimento."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Boots.xml:84
+#, no-wrap
+msgid "Speak to Ted about the next piece of dragon gear."
+msgstr "Parla a Ted a proposito del prossimo pezzo dell'ingranaggio del drago."
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:1
+#, fuzzy
+msgid "Dragon Hunting"
+msgstr "Allenamente del Drago"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:23
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:44
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:65
+#, no-wrap
+msgid "Oh it’s good to see you!  How does your dragon fare today?  Would you show me the kindness of acquiring some Dragonscale for me?  My hope is to use it to assemble a fantastic new weapon."
+msgstr "Oh è bello vederti! Come se la cava oggi il tuo drago? Mi mostreresti la gentilezza di procurarmi un po' di Scaglie di Drago? La mia speranza è di usarlo per assemblare una nuova fantastica arma."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:24
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:45
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:66
+#, no-wrap
+msgid "I know that Dragonscale is not easy to acquire, but you are the Dragon Rider, after all."
+msgstr "So che Dragonscale non è facile da acquisire, ma tu sei il Dragon Rider, dopotutto."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:29
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:50
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:71
+#, fuzzy, no-wrap
+msgid "Tell Paula you have the Dragonscales."
+msgstr "Dì a Paula che hai creato gli Stivali del Drago."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:25
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:67
+#, no-wrap
+msgid "Thank you so much!  Bring more tomorrow and I will continue work on my new weapon."
+msgstr "Grazie molte! Portane di più domani e continuerò a lavorare sulla mia nuova arma."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Hunting.xml:46
+#, no-wrap
+msgid "That should do it!  Oh, Dragon Rider, feast your eyes on this beauty!"
+msgstr "Questo dovrebbe farlo! Oh, Dragon Rider, goditi gli occhi con questa bellezza!"
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:1
+msgid "Dragon Rider"
+msgstr "Cavaliere di Drago"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:6
+#, no-wrap
+msgid "Dragon Rider!  This is a pleasant surprise.  It has been too long."
+msgstr "Cavaliere di Drago! Questa è una piacevole sorpresa. E' passato tanto tempo."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:19
+#, no-wrap
+msgid "It fills me with warmth to see you and your dragon.  I’ve missed you both so.  As for your mission, only through combat and rigorous training will your dragon grow stronger."
+msgstr "Mi riempie di calore vedere te ed il tuo drago. Mi siete mancati entrambi. Come per la tua missione, solamente attraverso il combattimento e un rigoroso allenamento il tuo drago crescerà forte."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:33
+#, no-wrap
+msgid ""
+"I smile when I think of your arrival in this land so long ago.  You’ve grown so much since then – and your dragon too, of course.\n"
+"\n"
+"When you are able to ride your dragon, speak to me again."
+msgstr ""
+"Sorrido quando penso al tuo arrivo su questa terra tanto tempo fa. Sei cresciuto così tanto da allora — ed anche il tuo drago, naturalmente.\n"
+"\n"
+"Quando sarai in grado di cavalcare il tuo drago, parla ancora con me."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:43
+#, no-wrap
+msgid "Craft a Saddle and mount the dragon."
+msgstr "Crea una Sella e monta il drago."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:59
+#, no-wrap
+msgid "Amazing!  Truly, you have earned the name Dragon Rider."
+msgstr "Fantastico! Veramente, ti sei guadagnato il nome di Cavaliere di Drago."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:62
+#, no-wrap
+msgid "Tell Paula you can ride the dragon."
+msgstr "Dì a Paula che puoi cavalcare il drago."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Rider.xml:75
+#, no-wrap
+msgid ""
+"I sense the Dragon Lord’s presence.  He is closer than I have felt in a long time.\n"
+"\n"
+"My prayers are with you.  I only wish we could fly dragons side by side.\n"
+"\n"
+"Return to the Wizard and complete your quest."
+msgstr ""
+"Percepisco la presenza delSignore  Drago. E' più vicino di quando lo sentii tanto tempo fa.\n"
+"\n"
+"Le mie preghiere sono con te. Desidero solo cheu ed io te possiamo volare sul drago spalla a spalla.\n"
+"\n"
+"Ritorna dal Mago e completa la tua ricerca."
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:1
+msgid "Dragon Training"
+msgstr "Allenamente del Drago"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:6
+#, no-wrap
+msgid "So you wish to train this lizard whelp and take on the Dragon Lord?  Hey, it's your funeral."
+msgstr "Così desideri allenare questo cucciolo di lucertola e affrontare il Signore Drago? Hey, è il tuo funerale."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:14
+#, no-wrap
+msgid ""
+"Killing powerful monsters is the fastest way to strengthen your dragon.  As your dragon defeats monsters, it will level up and eventually grow into a magnificent creature.\n"
+"\n"
+"Find some werewolves and put an end to their terror.  Werewolves live in the mountains with the sequoia trees."
+msgstr ""
+"Uccidere potenti mostri è il modo più veloce per rafforzare il tuo drago. Così il tuo drago sconfigge i mostri, sale di livello ed alla fine diventa una magnifica creatura.\n"
+"\n"
+"Trova alcuni lupi mannari e poni fine al loro terrore. I lupi mannari vivono in montagna tra gli alberi di sequoia."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:19
+#, no-wrap
+msgid ""
+"I'm happy to help you.  The Dragon Lord killed . . . many people.  He needs to pay.\n"
+"\n"
+"But first find some werewolves and put an end to their terror.  Werewolves live in the mountains with the sequoia trees."
+msgstr ""
+"Sono felice di aiutarti. Il Signore Drago ha ucciso...molte persone. Deve pagarla.\n"
+"\n"
+" Ma prima trova un po' di lupi mannari e metti fine al loro terrore. I lupi mannari vivono in montagna tra gli alberi di sequoia."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:28
+#, no-wrap
+msgid "Tell Paula that you have slain the werewolves."
+msgstr "Dì a Paula che hai ucciso i lupi mannari."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:24
+#, no-wrap
+msgid "Now that you have killed some of the werewolves, your dragon could use some more intense training.  It will need to be able to defeat even more powerful monsters before you will have a chance to defeat the Dragon Lord."
+msgstr "Ora che hai ucciso un po' di lupi mannari, il tuo drago può avere qualche allenamento più intenso. Dovrà essere in grado di sconfiggere persino i mostri più potenti, prima che tu possa avere l'occasione di sconfiggere Signore Drago."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:43
+#, no-wrap
+msgid ""
+"Your dragon grows stronger by the day.  When dragons get big enough, you can ride them into battle.  For now, you must fight to make the dragon stronger.\n"
+"\n"
+"There are even more powerful werewolves with black fur that lurk in the mountains.  Find some of these black werewolves and put an end to their wickedness."
+msgstr ""
+"Il tuo drago cresce giorno per giorno sempre più forte. Quando i draghi diventano abbastanza grandi, li puoi cavalcare in battaglia. Per adesso devi combattere per rendere il drago più forte.\n"
+"\n"
+"                                                                                                                                                                                                                                                        Ci sono persino lupi mannari più potenti con la pelliccia nera che stanno in agguato nelle montagne. Trova qualcuno di questi lupi mannari neri e metti fine alle loro malvagità."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:48
+#, no-wrap
+msgid ""
+"Seeing you and your dragon work together as a team brings a smile to my face.  Dragons are majestic creatures, aren't they?  So strong.  So wise. I wish they were all as friendly as yours.\n"
+"\n"
+"But your dragon still needs training.  Find some black werewolves and put an end to their wickedness."
+msgstr ""
+"Vedere te ed il tuo drago lavorare insieme dona un sorriso al mio viso.  I draghi sono creature maestose, non è vero? Così forti. Così saggi. Mi piacerebbe che fossero tutti amichevoli come il tuo.\n"
+"\n"
+" Ma il tuo drago  ha bisogno ancora di allenarsi.Trova qualche lupo mannaro nero e metti fine alla loro malvagità."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:57
+#, no-wrap
+msgid "Tell Paula that you have slain the black werewolves."
+msgstr "Dì a Paula che hai ucciso i lupi mannari neri."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:53
+#, no-wrap
+msgid "Some say the Dragon Lord's evil power draws monsters to this place and makes them violent.  The faster you defeat them, the faster more appear.  But still, every little bit helps.  Good work."
+msgstr "Qualcuno dice che il  potere malefico del Signore Drago attrae i mostri di questo posto e li rende violenti.  Più velocemente li sconfiggi, più numerosi appaiono.  Ma tuttavia ogni piccolo sforzo aiuta.  Buon lavoro."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:76
+#, no-wrap
+msgid "Find Paula a pet spider."
+msgstr "Trova un ragno domestico per Paula."
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:72
+#, no-wrap
+msgid "It is nice to see you and your dragon getting along so well.  But the truth is, seeing you two reminds me of my grief.  Perhaps you guessed that I too was once a dragon rider.  Xordaraxus, that was my dragon's name.  And what a beautiful dragon he was, long necked and majestic, with scales like polished ebony.  Oh I miss him so.  Even more than flying among the clouds, I miss the companionship.  My dragon was my dearest friend."
+msgstr "E' bello vedere te e il tuo drago andare così d'accordo. Ma la verità è, che vederti mi ricorda la mia pena. Forse hai indovinato sul fatto che anche io una volta cavalcavo draghi. Xordaraxus, questo era il nome del mio drago. E che bel drago che era, dal collo lungo e maestoso, con le scaglie come ebano lucente. Oh mi manca così tanto. Persino più del volare tra le nuvole, mi manca la sua compagnia. Il mio drago era il mio più caro amico."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:80
+#, no-wrap
+msgid "I could really use another companion.  Please leave me.  I'm too sad to talk right now."
+msgstr "Potevo veramente usare un'altro compagno.  Lasciami per favore.  Sono troppo triste per parlare adesso."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:85
+#, no-wrap
+msgid "Give Paula the pet spider."
+msgstr "Dai a Paula il ragno domestico."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:81
+#, no-wrap
+msgid "What?  You brought me a pet spider?  This little critter is adorable!  Sniff.  I will name him Xordy Jr.  Thank you so much!"
+msgstr "Cosa? Mi hai portato un ragno domestico? Questo piccolo animaletto è adorabile! Sniff. Lo chiamerò Xordy Jr. Grazie molto davvero!"
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:100
+#, no-wrap
+msgid "Thank you again for bringing Xordy Jr. to me.  When I play with him, I will always think of you.  These recent events remind me.  There was a monster Xordaraxus and I could never defeat.  I should have taken that as a sign we were not strong enough to fight the Dragon Lord.  You and your dragon must defeat Rex, a dinosaur, as a test."
+msgstr "Grazie ancora per avermi portato Xordy Jr. Quando gioco con lui, penso sempre a te. Questi eventi recenti mi fanno ricordare. C'era un mostro che io e Xordaraxus non potevamo mai sconfiggere. Dovrei averlo preso come un segno che non eravamo abbastanza forti per combattere contro il Signore Drago. Tu ed il tuo drago dovete sconfiggere Rex, un dinosauro, come prova."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:101
+#, no-wrap
+msgid "Careful of the dinosaur's deadly bite, and huge feet, or he'll squash you like a bug."
+msgstr "Attento al morso mortale del dinosauro ed alle sue enormi zampe, o ti schiaccerà come un verme."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:106
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:124
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:134
+#, no-wrap
+msgid "Tell Paula that Rex has been slain."
+msgstr "Dì a Paula che Rex è stato ucciso."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:102
+#, no-wrap
+msgid "Unbelievable.  Rex is vanquished.  And it's all thanks to you.  Your dragon seems happy the battle is over."
+msgstr "Incredibile. Rex è stato sconfitto. E tutto grazie a te. Il tuo drago sembra felice che la battaglia è finita."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:121
+#, no-wrap
+msgid "I'm impressed with the progress you and your dragon have made.  I think it's time for you to embark on your first quest to defeat the Dragon Lord.  The wizard will tell you more."
+msgstr "Sono impressionato dal progresso che tu ed il tuo drago avete compiuto. Penso che sia ora che tu ed il tuo drago vi imbarchiate nella vostra prima ricerca per sconfiggere Lord Dragon. Vi dirà di più il mago."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Dragon%20Training.xml:131
+#, no-wrap
+msgid "Good luck, Dragon Rider.  I'll never forget you."
+msgstr "Buona fortuna, Cavaliere di Drago, non ti dimenticherò mai."
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:1
+msgid "Final Battle"
+msgstr "Battaglia Finale"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:6
+#, no-wrap
+msgid "The final battle is at hand."
+msgstr "La battaglia finale è a portata di mano."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:14
+#, no-wrap
+msgid "Help us, Dragon Rider.  Seek out the Dragon Lord and end it.  You’re this world’s only hope."
+msgstr "Aiutaci, Cavaliere di Drago. Cerca il Signore Drago e finiscilo. Tu sei la sola speranza di questo mondo."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:20
+#, no-wrap
+msgid "Defeat the Dragon Lord."
+msgstr "Sconfiggi il Signore  Drago ."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:31
+#, no-wrap
+msgid "You did it!  The Dragon Lord is vanquished.  The world is saved!"
+msgstr "Ce l'hai fatta! Il Signore Drago è sconfitto. Il mondo è stato salvato!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Battle.xml:34
+#, no-wrap
+msgid "Tell Paula you have defeated the Dragon Lord."
+msgstr "Dì a Paula che hai sconfitto il Signore Drago."
+
+#. (itstool) path: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml/quest@title
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:1
+msgid "Final Training"
+msgstr "Allenamento finale"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:6
+#, no-wrap
+msgid "We have all lost loved ones.  But soon our suffering will end."
+msgstr "Abbiamo tutti perso i nostri cari. Ma presto le nostre sofferenze termineranno."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:14
+#, no-wrap
+msgid "You must prepare.  If you and your dragon are not strong enough, you won’t stand a chance against the Dragon Lord."
+msgstr "Ti devi preparare. Se tu ed il tuo drago non sarete abbastanza forti, non avrete una possibilità contro il Signore Drago."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:15
+#, no-wrap
+msgid "What will I do when it’s all over?  Raise my animals in peace.  I suppose Ted will build his city.  What will you do?"
+msgstr "Cosa farò quando sarà tutto finito? Crescere i miei animali in pace. Suppongo che Ted costruirà la sua città. Tu cosa farai?"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:18
+#, no-wrap
+msgid "Reach level 50 with the dragon."
+msgstr "Raggiungi il livello 50 con il drago."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:29
+#, no-wrap
+msgid "You are the greatest person I have ever known.  I truly believe you can end our struggle."
+msgstr "Tu sei la persona più fantastica che io abbia mai conosciuto. Credo sinceramente che tu possa porre fine alla nostra lotta."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/FemaleWarrior/Final%20Training.xml:32
+#, no-wrap
+msgid "Tell Paula the dragon has reached its maximum potential."
+msgstr "Dì a Paula che il drago ha raggiunto il suo potenziale massimo."
+
+#, fuzzy
+msgid "The Maturation of the Dragon"
+msgstr "Dì a Paula che puoi cavalcare il drago."
+
+#, fuzzy
+msgid "Tell Paula the Xordaraxus has reached its maximum potential."
+msgstr "Dì a Paula che il drago ha raggiunto il suo potenziale massimo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"I always believed in your victory and I am happy that I was not mistaken in "
+"you. \n"
+"    But why am I crying? These are tears of joy, because during the battle I "
+"saw my beloved dragon, whom I considered dead. Do you remember, I told you "
+"about my dragon Xordaraxus?"
+msgstr ""
+"Ho sempre creduto nella tua vittoria e sono felice di non essermi sbagliato "
+"in te.\n"
+"    Ma perché sto piangendo? Sono lacrime di gioia, perché durante la "
+"battaglia ho visto il mio adorato drago, che consideravo morto. Ricordi che "
+"ti ho parlato del mio drago Xordaraxus?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I grieved for him and missed so much, but it turns out, he did not die, he "
+"was stolen by this vile Dragon Lord! \n"
+"    Dear God, my handsome dragon has changed under the dark spell of the "
+"Lord ... \n"
+"    I could hardly recognize him, but it is undoubtedly him. I am so glad to "
+"be able to see him again."
+msgstr ""
+"Mi sono addolorato per lui e mi è mancato così tanto, ma si scopre che non è "
+"morto, è stato rubato da questo vile Signore dei Draghi!\n"
+"    Caro Dio, il mio bel drago è cambiato sotto l'oscuro incantesimo del "
+"Signore...\n"
+"    Fatico a riconoscerlo, ma è senza dubbio lui. Sono così felice di "
+"poterlo rivedere."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I see that the Lord mistreated his dragons and he is not worthy to own them! "
+"But I can not take care of dragons. \n"
+"    Only you, the Dragon Rider, could pacify all three dragons and become "
+"their friend and mentor. \n"
+"    But this is not an easy goal, are you ready to start?"
+msgstr ""
+"Vedo che il Signore ha maltrattato i suoi draghi e non è degno di "
+"possederli! Ma non posso occuparmi dei draghi.\n"
+"    Solo tu, il Dragon Rider, potresti pacificare tutti e tre i draghi e "
+"diventare loro amico e mentore.\n"
+"    Ma questo non è un traguardo facile, sei pronto per iniziare?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I did not doubt that you would agree to help the unfortunate dragons. Then "
+"let’s start immediately.\n"
+"      The Ice Dragon is very wayward and rebellious, to subdue it you will "
+"need a lot of effort. Only the power of the Dragon hearts will help conquer "
+"this obstinate dragon."
+msgstr ""
+"Non avevo dubbi che avresti accettato di aiutare gli sfortunati draghi. "
+"Allora cominciamo subito.\n"
+"      Il drago di ghiaccio è molto ribelle e ribelle, per sottometterlo "
+"avrai bisogno di un grande sforzo. Solo il potere dei cuori di drago aiuterà "
+"a conquistare questo drago ostinato."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Sullen Dragon"
+msgstr "Il drago imbronciato"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Oh! Have you brought them already? You are a great warrior, Dragon Rider if "
+"you coped with this difficult quest so quickly.\n"
+"      Now it will be easier for you to subjugate the Ice Dragon. I will help "
+"you with this."
+msgstr ""
+"Oh! Li hai già portati? Sei un grande guerriero, Dragon Rider, se hai "
+"affrontato questa difficile missione così velocemente.\n"
+"      Ora sarà più facile per te soggiogare il drago di ghiaccio. Ti aiuterò "
+"con questo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"I know that you’ll take good care of your new dragon. But we still have a "
+"lot of work to do, and before we embark on it, I have to tell you something. "
+"Are you ready to listen to a long story?"
+msgstr ""
+"So che ti prenderai cura del tuo nuovo drago. Ma abbiamo ancora molto lavoro "
+"da fare, e prima di imbarcarci, devo dirti una cosa. Sei pronto ad ascoltare "
+"una lunga storia?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Before I begin, I have to show you one amazing thing with the help of which "
+"you can gain power over the Fire Dragon."
+msgstr ""
+"Prima di iniziare, devo mostrarti una cosa straordinaria con l'aiuto della "
+"quale puoi ottenere potere sul Drago di fuoco."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"This is a feather of a flamy bird that no one has ever seen in our world, we "
+"know about it only from legends. \n"
+"    Only the one who defeats it can subjugate the Fire Dragon. The Phoenix, "
+"as this bird is called, lives very far from here and to find it, you will "
+"need to go on a difficult journey."
+msgstr ""
+"Questa è una piuma di un uccello fiammeggiante che nessuno ha mai visto nel "
+"nostro mondo, lo sappiamo solo dalle leggende.\n"
+"    Solo chi lo sconfigge può soggiogare il drago di fuoco. La Fenice, come "
+"viene chiamato questo uccello, vive molto lontano da qui e per trovarla "
+"dovrai intraprendere un viaggio difficile."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Legends say that beyond our world, there are also external, unknown worlds, "
+"and there is another huge world, beautiful and dangerous at the same time, a "
+"world that is hard to get into and even harder to survive there."
+msgstr ""
+"Le leggende dicono che al di là del nostro mondo, ci sono anche mondi "
+"esterni, sconosciuti, e c'è un altro mondo enorme, bello e pericoloso allo "
+"stesso tempo, un mondo in cui è difficile entrare e ancora più difficile "
+"sopravvivere lì."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But you are not afraid of difficulties, Dragon Rider, are not you? If you "
+"still decide to go there, you will find not only a danger but also many "
+"adventures that you will remember for a very long time.\n"
+"      Rising higher and higher, you will see the cold moonlit wastelands, "
+"poisonous rivers and lakes with huge luminous cities on their banks, endless "
+"Mushroom Wetlands, and even higher, you’ll find the wild primeval jungle "
+"over which the Phoenix reigns."
+msgstr ""
+"Ma tu non hai paura delle difficoltà, Dragon Rider, vero? Se decidi ancora "
+"di andarci, troverai non solo un pericolo ma anche tante avventure che "
+"ricorderai per molto tempo.\n"
+"      Salendo sempre più in alto, vedrai le fredde lande desolate illuminate "
+"dalla luna, fiumi e laghi velenosi con enormi città luminose sulle loro "
+"rive, infinite zone umide di funghi e ancora più in alto troverai la "
+"selvaggia giungla primordiale su cui regna la Fenice."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Wild tribes live in this jungle, some of them are very warlike, and their "
+"tree houses are made of beautiful and very durable stone called amber. If "
+"you still decide to go to this dangerous world, could you grab some amber "
+"for me?\n"
+"      But what am I talking about? Because this is only a legend and no one "
+"knows if this world really exists for sure.\n"
+"      Probably the time has come to check whether ancient legends tell the "
+"truth because only you can go there."
+msgstr ""
+"Tribù selvagge vivono in questa giungla, alcune sono molto bellicose e le "
+"loro case sugli alberi sono fatte di pietra bella e molto resistente "
+"chiamata ambra. Se decidi ancora di andare in questo mondo pericoloso, "
+"potresti prendere dell'ambra per me?\n"
+"      Ma di cosa sto parlando? Perché questa è solo una leggenda e nessuno "
+"sa se questo mondo esiste davvero.\n"
+"      Probabilmente è arrivato il momento di verificare se le antiche "
+"leggende dicono la verità perché solo tu puoi andarci."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Take the feather of a flamy bird, keep it with you until you can defeat it."
+msgstr ""
+"Prendi la piuma di un uccello fiammeggiante, tienila con te finché non puoi "
+"sconfiggerla."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Amber"
+msgstr "L'Ambra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"It is time to hit the road, but follow my advice - leave your pets at home, "
+"they can’t survive in a strange cruel world. Only the Mechanical pet and "
+"Maty pet could accompany you on this journey."
+msgstr ""
+"È ora di mettersi in viaggio, ma segui il mio consiglio: lascia i tuoi "
+"animali domestici a casa, non possono sopravvivere in uno strano mondo "
+"crudele. Solo l'animale domestico meccanico e l'animale domestico Maty "
+"potrebbero accompagnarti in questo viaggio."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But let's not hesitate, go and finally reveal the secret of this mysterious "
+"world existence. I will look forward to hearing from you; I still have a lot "
+"to tell you. Bring amber to prove that this world really exists."
+msgstr ""
+"Ma non esitiamo, andiamo e finalmente sveliamo il segreto di questa "
+"misteriosa esistenza mondiale. Non vedo l'ora di sentire da voi; Ho ancora "
+"molto da dirti. Porta l'ambra per dimostrare che questo mondo esiste davvero."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"How long have you been gone, Dragon Rider! I am glad to see you safe after "
+"such a difficult journey.\n"
+"      But what is it? Have you brought this amazing stone called amber? So "
+"the world in which you got it really exists!"
+msgstr ""
+"Da quanto tempo sei via, Dragon Rider! Sono felice di vederti al sicuro dopo "
+"un viaggio così difficile.\n"
+"      Ma cos'è? Hai portato questa incredibile pietra chiamata ambra? Quindi "
+"il mondo in cui l'hai preso esiste davvero!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"But you look so exhausted and tired, probably you had a hard time in this "
+"alien world.\n"
+"      I know how to help you. The news of your unusual journey spread far "
+"around, and Alchemist told me something interesting, which was told to him "
+"by Fuza, who live in the Ice cities."
+msgstr ""
+"Ma sembri così esausto e stanco, probabilmente hai avuto difficoltà in "
+"questo mondo alieno.\n"
+"      So come aiutarti. La notizia del tuo insolito viaggio si è diffusa in "
+"giro, e Alchemist mi ha raccontato qualcosa di interessante, che gli è stato "
+"detto da Fuza, che vive nelle città di ghiaccio."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Of course, you have already met these strange creatures living on ice in the "
+"middle of the ocean, and others similar to them, who live in glass "
+"underwater domes and on the Heavenly islands. \n"
+"      But have you ever wondered where they came from in our world?"
+msgstr ""
+"Certo, hai già incontrato queste strane creature che vivono sul ghiaccio in "
+"mezzo all'oceano, e altre simili a loro, che vivono in cupole di vetro "
+"sottomarine e sulle isole celesti.\n"
+"      Ma vi siete mai chiesti da dove venissero nel nostro mondo?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Ancient legends say that the world from which you just returned is their "
+"homeland. That once, very long ago, they flew from there in a large flying "
+"ship that could fly in the sky without the help of magic. \n"
+"      They were prisoners and outcasts in their homeland, but they managed "
+"to escape from there to our world. At first, they landed on the Heavenly "
+"islands, but there lived a mighty Ashkor, whom they were very afraid of. \n"
+"      Therefore, they decided to go down to the ground. Some of them still "
+"remained on the Heavenly islands to be closer to their homeland, the rest "
+"flew down..."
+msgstr ""
+"Antiche leggende dicono che il mondo da cui sei appena tornato è la loro "
+"patria. Che una volta, molto tempo fa, volarono da lì in una grande nave "
+"volante che poteva volare nel cielo senza l'aiuto della magia.\n"
+"      Erano prigionieri ed emarginati nella loro patria, ma sono riusciti a "
+"fuggire da lì nel nostro mondo. All'inizio sbarcarono sulle isole celesti, "
+"ma viveva un potente Ashkor, di cui avevano molta paura.\n"
+"      Pertanto, hanno deciso di scendere a terra. Alcuni di loro sono "
+"rimasti ancora sulle isole Celesti per essere più vicini alla loro patria, "
+"gli altri sono volati giù..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But their flying ship fell into the sea and sank. They say that it is still "
+"there. Eccentric Ted even claims that once, when he was fishing on a clear "
+"sunny day and the sea was especially calm, he saw its outlines through the "
+"water, but no one believes him.\n"
+"      But the visitors who were on the ship did not die. At first, they "
+"built underwater domes and lived in them, rising to the surface only at "
+"night, since the light of the sun was destructive for them. \n"
+"      But once they managed to get an unusual substance - a mutagen. With "
+"the help of it, they found the opportunity to live on the surface."
+msgstr ""
+"Ma la loro nave volante cadde in mare e affondò. Dicono che sia ancora lì. "
+"L'eccentrico Ted afferma anche che una volta, mentre stava pescando in una "
+"limpida giornata di sole e il mare era particolarmente calmo, ne vide i "
+"contorni attraverso l'acqua, ma nessuno gli crede.\n"
+"      Ma i visitatori che erano sulla nave non sono morti. All'inizio "
+"costruirono cupole sottomarine e vi abitarono, salendo in superficie solo di "
+"notte, poiché la luce del sole era distruttiva per loro.\n"
+"      Ma una volta sono riusciti a ottenere una sostanza insolita: un "
+"mutageno. Con l'aiuto di esso, hanno trovato l'opportunità di vivere in "
+"superficie."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Not all visitors resolved upon a bold experiment, some of them remained "
+"underwater in glass domes. The rest settled on ice, away from people and "
+"predatory animals, and live a peaceful life. We humans do not like talking "
+"to them, and only Alchemist conducts trade with them."
+msgstr ""
+"Non tutti i visitatori si sono risolti in un esperimento audace, alcuni di "
+"loro sono rimasti sott'acqua in cupole di vetro. Il resto si è stabilito sul "
+"ghiaccio, lontano da persone e animali predatori, e vive una vita pacifica. "
+"A noi umani non piace parlare con loro, e solo l'Alchimista fa affari con "
+"loro."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But why do I tell you all this? Fuza, hearing about your trip (of course it "
+"was Alchemist who chatted with them about it) were very happy. \n"
+"      They said that their people, which they left, and who, they hope, "
+"still live in the endless Mushroom Wetlands, have a relic that they call The "
+"Miracle Stone. \n"
+"      This stone is not only beautiful but also has unique properties that "
+"will help us create equipment with which you can stay in an alien world for "
+"as long as you want without any harm to health."
+msgstr ""
+"Ma perché ti dico tutto questo? Fuza, avendo saputo del tuo viaggio "
+"(ovviamente è stato Alchemist a parlarne con loro) sono stati molto "
+"contenti.\n"
+"      Hanno detto che la loro gente, che hanno lasciato e che, sperano, viva "
+"ancora nelle infinite zone umide dei funghi, ha una reliquia che chiamano La "
+"Pietra Miracolosa.\n"
+"      Questa pietra non è solo bella, ma ha anche proprietà uniche che ci "
+"aiuteranno a creare attrezzature con cui potrai rimanere in un mondo alieno "
+"per tutto il tempo che desideri senza alcun danno alla salute."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"They asked you to get this relic for them so that they could keep it in "
+"memory of their abandoned homeland. But they left their homeland so long ago "
+"that none of them remember exactly where this relic is stored. \n"
+"      They only know that this stone must be sought in one of the mushroom "
+"houses in the settlements of Umhi in the Mushroom Wetlands. But be careful, "
+"they said, this relic is not so easy to pick up. I do not know what these "
+"words mean, you have to figure it out by yourself."
+msgstr ""
+"Ti hanno chiesto di procurare loro questa reliquia in modo che potessero "
+"conservarla in memoria della loro patria abbandonata. Ma hanno lasciato la "
+"loro patria così tanto tempo fa che nessuno di loro ricorda esattamente dove "
+"è conservata questa reliquia.\n"
+"      Sanno solo che questa pietra deve essere cercata in una delle case dei "
+"funghi negli insediamenti di Umhi nelle zone umide dei funghi. Ma "
+"attenzione, dicevano, questa reliquia non è così facile da raccogliere. Non "
+"so cosa significano queste parole, devi capirlo da solo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "Spacesuit"
+msgstr "Tuta spaziale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"How beautiful this stone is, the relic of Umhi! Now you can create the "
+"equipment for a new trip to an alien world."
+msgstr ""
+"Com'è bella questa pietra, la reliquia di Umhi! Ora puoi creare "
+"l'equipaggiamento per un nuovo viaggio in un mondo alieno."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"Your armor seems to me not strong enough to fight a flamy bird. But is there "
+"any armor that can withstand the onslaught of the Phoenix? \n"
+"    While you wandered in search of the Umhi relic, the goblin, who also "
+"wanted to help you, studied many ancient legends in search of an answer to "
+"this question. \n"
+"    He spent days and nights in a desert tower, where a lot of old books are "
+"kept, and finally, in one very old book, he found mention of armor that "
+"would help you withstand this fight."
+msgstr ""
+"La tua armatura mi sembra non abbastanza forte per combattere un uccello "
+"fiammeggiante. Ma c'è qualche armatura in grado di resistere all'assalto "
+"della Fenice?\n"
+"    Mentre vagavi alla ricerca della reliquia Umhi, il goblin, che voleva "
+"anche aiutarti, ha studiato molte antiche leggende alla ricerca di una "
+"risposta a questa domanda.\n"
+"    Ha trascorso giorni e notti in una torre nel deserto, dove sono "
+"conservati molti libri antichi, e infine, in un libro molto antico, ha "
+"trovato menzione di armature che ti avrebbero aiutato a resistere a questa "
+"battaglia."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"This book says that in that part of the outside world where huge trees grow "
+"and a flamy bird lives, you can find huge pyramids and temples hidden in the "
+"thicket of the forest. \n"
+"    These are the buildings of the ancient disappeared people who lived "
+"there long before the advent of Umhi and Dagi. No one knows who the builders "
+"of these pyramids really were. \n"
+"    The book mentions that they called themselves Maya, but I do not know "
+"whether to believe it or not."
+msgstr ""
+"Questo libro dice che in quella parte del mondo esterno dove crescono enormi "
+"alberi e vive un uccello fiammeggiante, puoi trovare enormi piramidi e "
+"templi nascosti nel folto della foresta.\n"
+"    Questi sono gli edifici dell'antico popolo scomparso che vi abitava "
+"molto prima dell'avvento di Umhi e Dagi. Nessuno sa chi fossero veramente i "
+"costruttori di queste piramidi.\n"
+"    Il libro dice che si chiamavano Maya, ma non so se crederci o no."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"The residents, inhabitants of amber houses, try to circumvent the pyramids "
+"and never go inside. According to their beliefs, everyone who dares to go "
+"into the pyramid will surely die. \n"
+"      Many daredevils tried to penetrate these ancient structures, but none "
+"of them came back. Also, each pyramid is guarded by numerous and ferocious "
+"dreamcats."
+msgstr ""
+"I residenti, abitanti delle case d'ambra, cercano di aggirare le piramidi e "
+"non entrano mai. Secondo le loro convinzioni, chiunque osi entrare nella "
+"piramide morirà sicuramente.\n"
+"      Molti temerari hanno cercato di penetrare in queste antiche strutture, "
+"ma nessuno di loro è tornato. Inoltre, ogni piramide è sorvegliata da "
+"numerosi e feroci gatti dei sogni."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I hope you won’t be afraid of some cats, even big ones, and you won’t "
+"believe the superstitions of forest aborigines, right? \n"
+"    Because it is there, in the cache of one of these pyramids, that what we "
+"need is located, the unusual amber block, which we need to create a new "
+"durable armor."
+msgstr ""
+"Spero che non avrai paura di alcuni gatti, anche grandi, e non crederai alle "
+"superstizioni degli aborigeni delle foreste, giusto?\n"
+"    Perché è lì, nel nascondiglio di una di queste piramidi, che si trova "
+"ciò di cui abbiamo bisogno, l'insolito blocco d'ambra, di cui abbiamo "
+"bisogno per creare una nuova armatura durevole."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Unfortunately, the book in which Goblin read all this is badly damaged by "
+"the time, and it is impossible to read the description of the pyramid in "
+"which the cache with the amber block is located."
+msgstr ""
+"Sfortunatamente, il libro in cui Goblin ha letto tutto questo è gravemente "
+"danneggiato dal tempo ed è impossibile leggere la descrizione della piramide "
+"in cui si trova la cache con il blocco d'ambra."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"You have to find the necessary pyramid among others and find the path to the "
+"cache in it."
+msgstr ""
+"Devi trovare la piramide necessaria tra le altre e trovare il percorso per "
+"la cache in essa contenuta."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:13
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "The Amber Armor"
+msgstr "L'armatura d'ambra"
+
+#, fuzzy
+msgid "Tell Paula that you found Amber Bricks."
+msgstr "Dì a Paula che hai ucciso i lupi mannari."
+
+#, fuzzy
+msgid "Tell Paula you have dragon hearts."
+msgstr "Dì a Paula che hai creato gli Stivali del Drago."
+
+#, fuzzy
+msgid "Tell Paula that you found Amber."
+msgstr "Dì a Paula che hai ucciso i lupi mannari."
+
+#, fuzzy
+msgid "Tell Paula that you found Miracle Stone."
+msgstr "Dì a Paula che puoi cavalcare il drago."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Surprisingly, you did it! You found the amber block in these terrible "
+"pyramids! Perhaps you are the first who did this and returned alive. "
+"However, I always suspected that ancient legends are dramatizing everything."
+msgstr ""
+"Sorprendentemente, ce l'hai fatta! Hai trovato il blocco d'ambra in queste "
+"terribili piramidi! Forse sei il primo che ha fatto questo ed è tornato "
+"vivo. Tuttavia, ho sempre sospettato che le antiche leggende "
+"drammatizzassero tutto."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Alchemist searching for you. Go check him. It looks like he knows how to get "
+"Amber Bricks recipe from Fuza.\n"
+"    Then come back to me, I have an important task for you."
+msgstr ""
+"Alchimista alla ricerca di te. Vai a controllarlo. Sembra che sappia come "
+"ottenere la ricetta dei mattoni d'ambra da Fuza.\n"
+"    Allora torna da me, ho un compito importante per te."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid "Work with Alchemist until you get Amber Bricks recipe."
+msgstr ""
+"Lavora con Alchemist finché non ottieni la ricetta dei mattoni d'ambra."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Flamy Bird"
+msgstr "L'uccello fiammeggiante"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "How is your progress in getting a recipe from Fuza?"
+msgstr "Come sono i tuoi progressi nell'ottenere una ricetta da Fuza?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I already told you that only the one who defeats the Phoenix can subjugate "
+"the Red dragon. Now when you have everything you need, it's time for a "
+"decisive battle. \n"
+"    But this struggle will not be easy. To call on the Phoenix you need to "
+"find its egg and break it. Only a very strong warrior such as you can break "
+"the egg of a Flamy bird. \n"
+"    Dying, the Phoenix can reborn again and again. Its crushing power "
+"increases with its every revival, and when it becomes very strong, the fire "
+"begins to fall from its wings..."
+msgstr ""
+"Ti ho già detto che solo chi sconfigge la Fenice può soggiogare il Drago "
+"Rosso. Ora che hai tutto ciò di cui hai bisogno, è il momento di una "
+"battaglia decisiva.\n"
+"    Ma questa lotta non sarà facile. Per chiamare la Fenice devi trovare il "
+"suo uovo e romperlo. Solo un guerriero molto forte come te può rompere "
+"l'uovo di un uccello Flamy.\n"
+"    Morendo, la Fenice può rinascere ancora e ancora. Il suo potere "
+"schiacciante aumenta ad ogni suo risveglio, e quando diventa molto forte, il "
+"fuoco inizia a cadere dalle sue ali..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I see you are a little pale, ha? Perhaps I’m telling you all this in vain, "
+"but you should be prepared for what you’ll see.\n"
+"      But don't let us waste time. Return to the primeval jungle, the "
+"kingdom of the Phoenix, find it and fight with it. \n"
+"      I believe in your victory because you are the greatest warrior of all "
+"that I know."
+msgstr ""
+"Vedo che sei un po' pallido, eh? Forse ti sto dicendo tutto questo invano, "
+"ma dovresti essere preparato per quello che vedrai.\n"
+"      Ma non perdiamo tempo. Torna nella giungla primordiale, il regno della "
+"Fenice, trovalo e combatti con esso.\n"
+"      Credo nella tua vittoria perché sei il più grande guerriero di tutto "
+"ciò che conosco."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"To call on the Phoenix you need to find its egg and break it. Only a very "
+"strong warrior such as you can break the egg of a Flamy bird. \n"
+"      Dying, the Phoenix can reborn again and again. Its crushing power "
+"increases with its every revival, and when it becomes very strong, the fire "
+"begins to fall from its wings..."
+msgstr ""
+"Per chiamare la Fenice devi trovare il suo uovo e romperlo. Solo un "
+"guerriero molto forte come te può rompere l'uovo di un uccello Flamy.\n"
+"      Morendo, la Fenice può rinascere ancora e ancora. Il suo potere "
+"schiacciante aumenta ad ogni suo risveglio, e quando diventa molto forte, il "
+"fuoco inizia a cadere dalle sue ali..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Have you found all the hearts?"
+msgstr "Hai trovato tutti i cuori?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Have you found this beautiful stone?"
+msgstr "Hai trovato questa bellissima pietra?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Have you found Amber Bricks?"
+msgstr "Hai trovato tutti i cuori?"
+
+#, fuzzy
+msgid "Tell Paula that you killed Phoenix."
+msgstr "Dì a Paula che Rex è stato ucciso."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I knew that you would win, I always believed in you. Now you can tame the "
+"Fire dragon and your strength will increase even more. \n"
+"      I am sure you will get along well with each other."
+msgstr ""
+"Sapevo che avresti vinto, ho sempre creduto in te. Ora puoi domare il drago "
+"di fuoco e la tua forza aumenterà ancora di più.\n"
+"      Sono sicuro che andrete d'accordo l'uno con l'altro."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"You have to get the last, most powerful dragon.\n"
+"      We do not need to tame it, because I am sure that this is my favorite "
+"dragon, my Xordaraxus. \n"
+"      Are you asking me why I won’t leave him to myself because I loved him "
+"so much and grieved for his loss?"
+msgstr ""
+"Devi prendere l'ultimo drago più potente.\n"
+"      Non abbiamo bisogno di domarlo, perché sono sicuro che questo è il mio "
+"drago preferito, il mio Xordaraxus.\n"
+"      Mi stai chiedendo perché non lo lascio a me stesso perché lo amavo "
+"così tanto e mi addoloravo per la sua perdita?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"After the dark spell of the Lord, Xordaraxus became so strong that his power "
+"and strength frighten me. I am afraid that I will not be able to deal with "
+"him. \n"
+"      You are stronger than me, Dragon Rider, and only you are worthy to own "
+"this dragon.\n"
+"      I know you for a long time, we have experienced a lot together, but "
+"still, I want to make sure that your strength is sufficient to wield all "
+"these dragons."
+msgstr ""
+"Dopo l'incantesimo oscuro del Signore, Xordaraxus è diventato così forte che "
+"il suo potere e la sua forza mi spaventano. Ho paura di non essere in grado "
+"di trattare con lui.\n"
+"      Sei più forte di me, Dragon Rider, e solo tu sei degno di possedere "
+"questo drago.\n"
+"      Ti conosco da molto tempo, abbiamo sperimentato molto insieme, ma "
+"voglio comunque assicurarmi che la tua forza sia sufficiente per maneggiare "
+"tutti questi draghi."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"You have already visited the Mushroom Wetlands in search of the Umhi relic, "
+"but did you know that the terrible creature Swamp Golem lives there? \n"
+"      They say that he has a stone heart, his body is armor and he is so "
+"strong that he can kill a person with one hit. \n"
+"      If you could defeat this terrible monster, then I would not doubt "
+"about your strength."
+msgstr ""
+"Hai già visitato le Mushroom Wetlands alla ricerca della reliquia Umhi, ma "
+"sapevi che la terribile creatura Swamp Golem vive lì?\n"
+"      Dicono che abbia un cuore di pietra, che il suo corpo sia un'armatura "
+"ed è così forte che può uccidere una persona con un colpo.\n"
+"      Se potessi sconfiggere questo terribile mostro, non dubiterei della "
+"tua forza."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:13
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid "Xordaraxus"
+msgstr "Xordaraxus"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"If you could defeat this terrible monster, then I would not doubt about your "
+"strength."
+msgstr ""
+"Se potessi sconfiggere questo terribile mostro, non dubiterei della tua "
+"forza."
+
+#, fuzzy
+msgid "Tell Paula that you killed Swamp Golem."
+msgstr "Dì a Paula che hai ucciso i lupi mannari."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Incredible, you did it! You defeated the terrible Swamp Golem! How powerful "
+"you are, Dragon Rider, now I'm sure I can trust you with my beloved "
+"Xordaraxus."
+msgstr ""
+"Incredibile, ce l'hai fatta! Hai sconfitto il terribile Swamp Golem! Quanto "
+"sei potente, Dragon Rider, ora sono sicuro di poterti fidare del mio amato "
+"Xordaraxus."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
+msgid ""
+"We have completed our quest, and all three dragons are now yours. I am sure "
+"that they will be well under your protection, and they will become your "
+"faithful friends and helpers. And I am very glad that Xordaraxus will be "
+"with you too."
+msgstr ""
+"Abbiamo completato la nostra missione e ora tutti e tre i draghi sono tuoi. "
+"Sono sicuro che saranno ben sotto la tua protezione e diventeranno tuoi "
+"fedeli amici e aiutanti. E sono molto contento che anche Xordaraxus sarà con "
+"te."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Now it's time to train Xordaraxus so it reaches his maximum power. Just like "
+"in old good days."
+msgstr ""
+"Ora è il momento di addestrare Xordaraxus in modo che raggiunga la sua "
+"massima potenza. Proprio come ai vecchi tempi."
+
+#, fuzzy
+msgid "Reach level 50 with the Xordaraxus."
+msgstr "Raggiungi il livello 50 con il drago."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"How big and strong Xordaraxus became, how beautiful he is, just like in the "
+"good old days, when we flew with him under the clouds. I will miss him, "
+"although I understand that he will feel better with you."
+msgstr ""
+"Com'è diventato grande e forte Xordaraxus, com'è bello, proprio come ai bei "
+"vecchi tempi, quando volavamo con lui sotto le nuvole. Mi mancherà, anche se "
+"capisco che si sentirà meglio con te."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Now when you have gained power over the dragons, your strength has increased "
+"manifold. But I must warn you. Not everyone will be able to withstand the "
+"burden of such power, the temptation to use your power for evil will always "
+"accompany you. \n"
+"      You may not be able to cope with yourself, as the Lord, and the dark "
+"forces prevailed over him. Whether you fall for temptations or resist, I do "
+"not know. But I know that this incredible power can drive a person crazy, as "
+"it did to the Dragon Lord."
+msgstr ""
+"Ora, quando hai acquisito potere sui draghi, la tua forza è aumentata molte "
+"volte. Ma devo avvertirti. Non tutti saranno in grado di sopportare il peso "
+"di tale potere, la tentazione di usare il tuo potere per il male ti "
+"accompagnerà sempre.\n"
+"      Potresti non essere in grado di farcela con te stesso, poiché il "
+"Signore e le forze oscure hanno prevalso su di lui. Se cadi per le "
+"tentazioni o resisti, non lo so. Ma so che questo incredibile potere può far "
+"impazzire una persona, come ha fatto con il Signore dei Draghi."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"You have to choose your own path. I want to hope that we will see each other "
+"again. But just in case, goodbye, Dragon Rider."
+msgstr ""
+"Devi scegliere la tua strada. Voglio sperare che ci rivedremo. Ma per ogni "
+"evenienza, arrivederci, Dragon Rider."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid ""
+"You feel how power begins to overwhelm you. Talk to the Dragon Lord to "
+"dispel your doubts once and for all."
+msgstr ""
+"Senti come il potere inizia a sopraffarti. Parla con il Signore dei Draghi "
+"per dissipare i tuoi dubbi una volta per tutte."
+
+#, fuzzy
+msgid "Tell Paula that you could resist the temptation of dark forces."
+msgstr "Dì a Paula che hai ucciso i lupi mannari."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"I knew that you would return, even though I had doubts because only a person "
+"of incredible willpower could resist the temptation of unlimited power, but "
+"in my heart, I always believed in you. \n"
+"    Now we will get done with the Dragon Lord forever because this world has "
+"a protector no less powerful than him."
+msgstr ""
+"Sapevo che saresti tornato, anche se avevo dei dubbi perché solo una persona "
+"di incredibile forza di volontà poteva resistere alla tentazione di un "
+"potere illimitato, ma nel mio cuore, ho sempre creduto in te.\n"
+"    Ora avremo finito con il Signore dei Draghi per sempre perché questo "
+"mondo ha un protettore non meno potente di lui."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42
+msgid ""
+"It remains only to cleanse our world from a terrible creature, a creature of "
+"darkness, which appears every night of nowhere and creates many troubles. \n"
+"    You can’t hide from him anywhere, and his name is usually mentioned only "
+"in a whisper."
+msgstr ""
+"Resta solo da purificare il nostro mondo da una terribile creatura, una "
+"creatura delle tenebre, che appare ogni notte dal nulla e crea molti "
+"problemi.\n"
+"    Non puoi nasconderti da lui da nessuna parte e il suo nome di solito è "
+"menzionato solo in un sussurro."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Dark Spirit"
+msgstr "Lo spirito oscuro"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"He came to us from another world, for a long time he only watched, without "
+"interfering in the life of people. \n"
+"    And only his eyes, which sometimes appeared in the night sky, were "
+"terrifying. But then he showed up to people, and there was no salvation from "
+"him. \n"
+"    Perhaps the dark spell of the Lord called him. He is an evil that "
+"appears at night and for which there are no barriers. \n"
+"    This is an evil dark spirit that claimed many lives and his name is Mati."
+msgstr ""
+"È venuto da noi da un altro mondo, per molto tempo ha solo guardato, senza "
+"interferire nella vita delle persone.\n"
+"    E solo i suoi occhi, che a volte apparivano nel cielo notturno, erano "
+"terrificanti. Ma poi si è presentato alla gente e non c'era salvezza da "
+"lui.\n"
+"    Forse l'oscuro incantesimo del Signore lo ha chiamato. È un male che "
+"appare di notte e per il quale non ci sono barriere.\n"
+"    Questo è uno spirito malvagio e oscuro che ha mietuto molte vite e il "
+"suo nome è Mati."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"He is covered with evil spells and ordinary weapons are powerless against "
+"him. Only magic spells can defeat this monster. I know your strength is "
+"great, but it won't hurt you to arm better.\n"
+"\n"
+"    Take this staff, it will help you kill this evil spirit."
+msgstr ""
+"È coperto di incantesimi malvagi e le armi ordinarie sono impotenti contro "
+"di lui. Solo gli incantesimi magici possono sconfiggere questo mostro. So "
+"che la tua forza è grande, ma non ti farà male armarti meglio.\n"
+"\n"
+"    Prendi questo bastone, ti aiuterà a uccidere questo spirito malvagio."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Now go and clear this world from this evil spirit."
+msgstr "Ora vai e libera questo mondo da questo spirito malvagio."
+
+#, fuzzy
+msgid "Tell Paula that you killed Mati."
+msgstr "Dì a Paula che Rex è stato ucciso."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Finally, it is finished with this terrible creature, which everyone was so "
+"afraid of! You cleansed our land of evil and chose the hard path of the "
+"protector of this world. Legends will be composed of your exploits."
+msgstr ""
+"Finalmente è finita con questa terribile creatura, di cui tutti avevano "
+"tanta paura! Hai purificato la nostra terra dal male e hai scelto il duro "
+"sentiero del protettore di questo mondo. Le leggende saranno composte dai "
+"tuoi exploit."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Take good care of your dragons, train and mentor them, because evil can come "
+"back at any moment.\n"
+"    \n"
+"    Good luck, Dragon Rider, maybe we'll meet again and I will reveal to you "
+"new secrets of our world."
+msgstr ""
+"Prenditi cura dei tuoi draghi, addestrali e guidali, perché il male può "
+"tornare in qualsiasi momento.\n"
+"    \n"
+"    Buona fortuna, Dragon Rider, forse ci rivedremo e ti svelerò nuovi "
+"segreti del nostro mondo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"It is time to hit the road, but follow my advice - leave your pets at home, "
+"they can’t survive in a strange cruel world. Only the Mechanical pet and "
+"Mati pet could accompany you on this journey."
+msgstr ""
+"È ora di mettersi in viaggio, ma segui il mio consiglio: lascia i tuoi "
+"animali domestici a casa, non possono sopravvivere in uno strano mondo "
+"crudele. Solo l'animale domestico meccanico e l'animale domestico Mati "
+"potrebbero accompagnarti in questo viaggio."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Ancient legends say that the world from which you just returned is their "
+"homeland. That once, very long ago, they flew from there in a large flying "
+"ship that could fly in the sky without the help of magic. \n"
+"      They were prisoners and outcasts in their homeland, but they managed "
+"to escape from there to our world. At first, they landed on the Heavenly "
+"islands, but there lived a mighty Ashkore, whom they were very afraid of. \n"
+"      Therefore, they decided to go down to the ground. Some of them still "
+"remained on the Heavenly islands to be closer to their homeland, the rest "
+"flew down..."
+msgstr ""
+"Antiche leggende dicono che il mondo da cui sei appena tornato è la loro "
+"patria. Che una volta, molto tempo fa, volarono da lì in una grande nave "
+"volante che poteva volare nel cielo senza l'aiuto della magia.\n"
+"      Erano prigionieri ed emarginati nella loro patria, ma sono riusciti a "
+"fuggire da lì nel nostro mondo. All'inizio sbarcarono sulle isole celesti, "
+"ma viveva un potente Ashkore, di cui avevano molta paura.\n"
+"      Pertanto, hanno deciso di scendere a terra. Alcuni di loro sono "
+"rimasti ancora sulle isole Celesti per essere più vicini alla loro patria, "
+"gli altri sono volati giù..."

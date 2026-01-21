@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Male"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Store"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Trade"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Feed Us"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Repair Our Tools"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Upgrade Our Tools"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Upgrade Our Towns"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Power On Our Equipment"
+msgstr ""
+
+msgid ""
+"Hello fellow traveler, if you're here to help, you're already welcome. We're "
+"struggling to survive in this harsh world, and any assistance is greatly "
+"appreciated. Do you think you can help us? Even the smallest bit of help can "
+"go a long way. Help us rebuild our villages. What do you say? Can you bring "
+"us some Fried Meat? We are starving out here. It requires a Furnace to cook "
+"this meat. If you bring us some, we have some extra coal we can spare for "
+"your journey."
+msgstr ""
+
+msgid ""
+"Have you managed to gather some Fried Meat for us? We desperately need it to "
+"survive."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us this Fried Meat! We will be able to "
+"survive a little longer thanks to your help. Keep helping us out and I'll "
+"have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countryman you have the Fried Meat."
+msgstr ""
+
+msgid ""
+"Hello again fellow traveler, You've been a great help to our towns. We've "
+"been able to grow and defend our villages thanks to your assistance. Now, I "
+"have a special reward for you this time around. I've encountered this music "
+"disk during my travels, and I think it would be a great addition to your "
+"collection. I've listened to it myself and I've listened to it, however I've "
+"grown tired of it and want to try out something else. One time, in the "
+"nearby marketplace I heard a music track that was called Pirates - Ending. "
+"Do you happen to have this track on you? I'd be happy to trade it with you "
+"for this one that I have. What do you say, fellow traveler? Want to make a "
+"deal?"
+msgstr ""
+
+msgid ""
+"Do you have the disk I'm looking for? I'd be happy to trade it for the one I "
+"have."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing me this music disk! I can't wait to hear this "
+"song once more! I hope you enjoy the one I give you in return!"
+msgstr ""
+
+msgid "Tell a Countryman you have the matching music disk."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us this Fried Meat! We will be able to "
+"survive a little longer thanks to your help."
+msgstr ""
+
+msgid ""
+"Hello fellow traveler, I have another request for you. Our tools are falling "
+"apart. We cannot sustain our towns without proper working equipment. A Stone "
+"Hammer is essential for getting our tools repaired. If you could bring us "
+"some, we would be forever grateful. In return, we can offer you some gold "
+"coins that can be used to purchase items by the fellow Alchemist that visits "
+"our towns."
+msgstr ""
+
+msgid ""
+"Have you managed to craft hammers for our tools? We need them to keep our "
+"towns in shape."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us these Stone Hammers! We will be able to "
+"repair our tools and survive longer thanks to your help. Keep helping us out "
+"and I'll have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countryman you have the Stone Hammers."
+msgstr ""
+
+msgid ""
+"Welcome back fellow traveler! Our towns are in better shape thanks to you. "
+"Now, it's time for us to get some upgrades for our tools. We need stronger "
+"tools to help us survive and get tasks done more efficiently. Can you bring "
+"us some Iron Bars to help us upgrade our tools? If you can bring us some, "
+"we'll make sure to reward you well for your efforts with some Arrows for "
+"your journey."
+msgstr ""
+
+msgid ""
+"Have you managed to smelt the Iron Bars yet? We need them to upgrade our "
+"tools."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us these Iron Bars! We will be able to "
+"upgrade our tools and complete tasks much quicker! Keep helping us out and "
+"I'll have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countryman you have the Iron Bars."
+msgstr ""
+
+msgid ""
+"Thank you for returning, fellow traveler! Our new tools have been a great "
+"help to our towns, now we are looking to upgrade the structure of our towns. "
+"A strong foundation will help us survive against the harsh elements and will "
+"allow us to expand our towns further. Can you bring us some Bricks? This "
+"material is one of the strongest known blocks out there and will be perfect "
+"for upgrading our towns. You need to smelt Stone to get Clear Stone, and "
+"from there you can smelt the Clear Stone to make Bricks. If you can bring us "
+"some, we'll reward you with some Gold Bars to help you upgrade your own "
+"equipment."
+msgstr ""
+
+msgid ""
+"Have you managed to smelt the Clear Stone into Bricks yet? We need them to "
+"upgrade our towns."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us these Bricks! We will be able to upgrade "
+"our towns and protect our people much better! Keep helping us out and I'll "
+"have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countryman you have the Bricks."
+msgstr ""
+
+msgid ""
+"Thank you for returning, fellow traveler! Our towns are in much better shape "
+"thanks to you! We've managed to expand and discover some valuable resources. "
+"If you can help us with this task, we can share some of these valuable "
+"resources with you. We are looking to get fuel for our towns to power our "
+"equipment. Can you bring us some Fuel to help us use this equipment? If you "
+"can bring us a few tanks of Fuel, we'll give you some Unobtainium and Gold "
+"Coins as a reward for your efforts. Getting Fuel tanks can be tough. You "
+"need to locate Sulfur, Coal, and get buckets of water. These will allow you "
+"to craft Fuel."
+msgstr ""
+
+msgid "Have you managed to craft Fuel? We need it to power our equipment."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us this Fuel! We will be able to power our "
+"equipment and evolve as a society much quicker! Keep helping us out and I'll "
+"have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countryman you have the Fuel."
+msgstr ""

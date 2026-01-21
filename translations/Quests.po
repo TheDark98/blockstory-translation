@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-02-18 07:02-0400\n"
+"Last-Translator: John <certified_translators@outlook.com>\n"
+"Language-Team: Italian <http://weblate-blockstory.rhcloud.com/projects/block-"
+"story/quests/it/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.2\n"
+
+msgid "Collect {0}: [00FF00]{1}/{2}[-]"
+msgstr "Raccogli {0}: [00FF00] {1} / {2} [-]"
+
+msgid "Collect {0}: [FF0000]{1}/{2}[-]"
+msgstr "Raccogli {0}: [FF0000] {1} / {2} [-]"
+
+msgid "Have {0} consume {1}: [00FF00]{2}/{3}[-]"
+msgstr "ha consumato"
+
+msgid "Have {0} consume {1}: [FF0000]{2}/{3}[-]"
+msgstr "ha consumato"
+
+msgid "Kill {0}: [FF0000]{1}/{2}[-]"
+msgstr "Uccidi {0}: [FF0000] {1} / {2} [-]"
+
+msgid "Kill {0}: [00FF00]{1}/{2}[-]"
+msgstr "Uccidi {0}: [00FF00] {1} / {2} [-]"
+
+msgid "Place {0}: [FF0000]{1}/{2}[-]"
+msgstr "Luogo {0}: [FF0000] {1} / {2} [-]"
+
+msgid "Place {0}: [00FF00]{1}/{2}[-]"
+msgstr "Luogo {0}: [00FF00] {1} / {2} [-]"

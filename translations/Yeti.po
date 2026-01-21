@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <http://translate.blockstory.net/projects/block-story/"
+"yeti/it/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Otherworldly Visitors"
+msgstr "Visitatori ultraterreni"
+
+msgid ""
+"The yeti howls angrily and draws an image in the snow.  You recognize it at "
+"once.  The Visitors.  Mister Yeti clearly wants them eliminated."
+msgstr ""
+"Lo yeti ulula con rabbia e disegna un'immagine nella neve. Lo riconosci "
+"subito. I visitatori. Mister Yeti vuole chiaramente che vengano eliminati."
+
+msgid "The yeti growls inquisitively at your progress."
+msgstr "Lo yeti ringhia curioso ai tuoi progressi."
+
+msgid "Tell the Yeti you have slain the visitors."
+msgstr "Dì allo Yeti che hai ucciso i visitatori."
+
+msgid ""
+"The yeti howls joyfully at your triumph over the visitors.  He rummages "
+"through his treasure stash and presents you with a metal contraption.  "
+"Surely there is some use for it."
+msgstr ""
+"Lo yeti ulula di gioia al tuo trionfo sui visitatori. Rovista nella sua "
+"scorta del tesoro e ti presenta un aggeggio di metallo. Sicuramente c'è "
+"qualche utilità per questo."
+
+# #-#-#-#-#  Yeti.po  #-#-#-#-#
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid ""
+"A big smile passes over the yeti's face as you tell him of your battle with "
+"the visitors, but it appears he is not satisfied, yet."
+msgstr ""
+"Un grande sorriso passa sul volto dello yeti mentre gli racconti della tua "
+"battaglia con i visitatori, ma sembra che non sia ancora soddisfatto."

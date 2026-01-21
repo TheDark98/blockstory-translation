@@ -1,0 +1,3987 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-06 22:39+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <http://translate.blockstory.net/projects/block-story/"
+"item-names/it/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Sky Leaves"
+msgstr "Foglie del Cielo"
+
+msgid "Axe"
+msgstr "Ascia"
+
+msgid "Jungle Bush Plant"
+msgstr "Cespuglio della giungla"
+
+msgid "Goblin Pants"
+msgstr "Pantaloni Goblin"
+
+msgid "Tentackle Staff"
+msgstr "Bastone Tentacolo"
+
+msgid "Saw Shield"
+msgstr "Scudo della vista"
+
+msgid "Animal Spawner"
+msgstr "Riproduttore di animali"
+
+msgid "Old Stone Fence"
+msgstr "Recinzione in Pietra Antica"
+
+msgid "Goblin PickAxe"
+msgstr "Piccone del Goblin"
+
+msgid "TRex"
+msgstr "T-Rex"
+
+msgid "Bricks"
+msgstr "Mattoni"
+
+msgid "Hammer"
+msgstr "Martello"
+
+msgid "Oak Leaves"
+msgstr "Foglie di quercia"
+
+msgid "Poplar Leaves"
+msgstr "Foglie di pioppo"
+
+msgid "Wheat Seed"
+msgstr "Chicco di grano"
+
+msgid "Brick Stairs"
+msgstr "Scale in Mattoni"
+
+msgid "Jungle Bush Green"
+msgstr "Cespuglio Verde della Giungla"
+
+msgid "Dragonscale"
+msgstr "Scaglia di Drago"
+
+msgid "Shiva"
+msgstr "Shiva"
+
+msgid "Chest"
+msgstr "Cassa"
+
+msgid "Warrior Boots"
+msgstr "Stivali da Guerriero"
+
+msgid "Arrow"
+msgstr "Freccia"
+
+msgid "Replicon"
+msgstr "Agente Mutageno"
+
+msgid "Old Stone Stairs"
+msgstr "Scale in Pietra Antica"
+
+msgid "Gravity Boots"
+msgstr "Scarponi Per la Gravità"
+
+msgid "Ticket"
+msgstr "Biglietto"
+
+msgid "Electrite"
+msgstr "Elettricità"
+
+msgid "Necklace Of Life"
+msgstr "Collana Della Vita"
+
+msgid "Palm Plank"
+msgstr "Asse di palma"
+
+msgid "Boat"
+msgstr "Barca"
+
+msgid "Wood Window"
+msgstr "Finestra di Legno"
+
+msgid "Leaves"
+msgstr "Foglie"
+
+msgid "Miner Helmet"
+msgstr "Casco da Minatore"
+
+msgid "Pumpkin"
+msgstr "Zucca"
+
+msgid "Cactus Plant"
+msgstr "Cactus"
+
+msgid "Palm Bark"
+msgstr "Legno di palma"
+
+msgid "Cryptonite"
+msgstr "Kryptonite"
+
+msgid "Life Magic"
+msgstr "Vita Magica"
+
+msgid "Dragon Soul"
+msgstr "Anima di Drago"
+
+msgid "Tentackle Magic"
+msgstr "Tentacolo Magico"
+
+msgid "Spider Soul"
+msgstr "Anima di Ragno"
+
+msgid "Skull"
+msgstr "Teschio"
+
+msgid "Monster Spawner"
+msgstr "{0} Madre di Mostri"
+
+msgid "Acacia Plant"
+msgstr "Pianta di Acacia"
+
+msgid "Birch Plank"
+msgstr "Tavola di Betulla"
+
+msgid "water"
+msgstr "Acqua"
+
+msgid "Meat"
+msgstr "Carne"
+
+msgid "Desert Bird Spawner"
+msgstr "{0} Madre di uccelli del deserto"
+
+msgid "Yellow Coral"
+msgstr "Corallo Giallo"
+
+msgid "Teleportation Arrow"
+msgstr "Freccia Teletrasportatrice"
+
+msgid "Gold Ore"
+msgstr "Oro Grezzo"
+
+msgid "Baobab Plant"
+msgstr "Pianta di Baobab"
+
+msgid "Car"
+msgstr "Automobile"
+
+msgid "Apple Tree Plant"
+msgstr "Pianta di Melo"
+
+msgid "Food"
+msgstr "cibo"
+
+msgid "Gun"
+msgstr "Pistola"
+
+msgid "Dragon Armor"
+msgstr "Armatura Da Drago"
+
+msgid "Birch Bark"
+msgstr "Legno di Betulla"
+
+msgid "Ring"
+msgstr "Anello"
+
+msgid "Angelic Swords"
+msgstr "Spade Angeliche"
+
+msgid "Bread"
+msgstr "Pane"
+
+msgid "Baobab Leaves"
+msgstr "Foglie di Baobab"
+
+msgid "Crystal Block Red"
+msgstr "Rubino"
+
+msgid "Glass"
+msgstr "Vetro"
+
+msgid "Diver Suit"
+msgstr "Tuta da sub"
+
+msgid "Forgotten Grass"
+msgstr "Erba Dimenticata"
+
+msgid "Bucket"
+msgstr "Secchio"
+
+msgid "Dye"
+msgstr "Tinta"
+
+msgid "Magic Orb"
+msgstr "Sfera magica"
+
+msgid "Dragon Shield"
+msgstr "Scudo da Drago"
+
+msgid "Fire Arrow"
+msgstr "Freccia Infuocata"
+
+msgid "Gold Bar"
+msgstr "Lingotto d'Oro"
+
+msgid "Birch Stairs"
+msgstr "Scale in Legno di Betulla"
+
+msgid "Watermelon"
+msgstr "Anguria"
+
+msgid "Pine Plant"
+msgstr "Pino"
+
+msgid "Bow"
+msgstr "Arco"
+
+msgid "Unobtainium Bar"
+msgstr "Lingotto di unobtanio"
+
+msgid "Brick Fence"
+msgstr "Recinzione in Mattoni"
+
+msgid "Stone"
+msgstr "Pietra"
+
+msgid "Clouds"
+msgstr "Nuvole"
+
+msgid "Spider Web"
+msgstr "{0} Tela di ragno"
+
+msgid "Seed"
+msgstr "Seme"
+
+msgid "Iron Hammer"
+msgstr "Martello di Ferro"
+
+msgid "Crystal Block Blue"
+msgstr "Zaffiro"
+
+msgid "Window"
+msgstr "Finestra"
+
+msgid "Gold Block"
+msgstr "Blocco d'oro"
+
+msgid "Aragog Eye"
+msgstr "Occhio di Aragog"
+
+msgid "Spider Fang"
+msgstr "Zanna di ragno"
+
+msgid "Wheat Crop"
+msgstr "Grano Raccolto"
+
+msgid "Iron Shovel"
+msgstr "Pala di Ferro"
+
+msgid "Fence"
+msgstr "Recinto"
+
+msgid "Health Potion"
+msgstr "Pozione della Salute"
+
+msgid "Stick"
+msgstr "Bastone"
+
+msgid "Green Coral"
+msgstr "Corallo Verde"
+
+msgid "Cauldron"
+msgstr "Calderone"
+
+msgid "Wood Door"
+msgstr "Porta di Legno"
+
+msgid "Antique Spawner"
+msgstr "Nido antico"
+
+msgid "Acid"
+msgstr "Acido"
+
+msgid "Megalodon Tooth"
+msgstr "Dente di Megalodonte"
+
+msgid "Hunting Knife"
+msgstr "Coltello da Caccia"
+
+msgid "Palm Stairs"
+msgstr "Scale in legno di Palma"
+
+msgid "Trident"
+msgstr "Tridente"
+
+msgid "Dig"
+msgstr "Piccone di pietra"
+
+msgid "Pumpkin Head"
+msgstr "Testa di zucca"
+
+msgid "Unobtainium"
+msgstr "Unobtainio"
+
+msgid "Sulphure Ore"
+msgstr "Zolfo Grezzo"
+
+msgid "Shirt"
+msgstr "Camicia"
+
+msgid "Sand Clock"
+msgstr "Clessidra"
+
+msgid "Radar"
+msgstr "Radar"
+
+msgid "Forgotten Stone Old"
+msgstr "Vecchia Pietra Dimenticata"
+
+msgid "Iron Axe"
+msgstr "Ascia di Ferro"
+
+msgid "Dragon Pants"
+msgstr "Pantaloni da Drago"
+
+msgid "Blue Flower"
+msgstr "Fiore blu"
+
+msgid "Soul Catcher"
+msgstr "Cacciatore di Anime"
+
+msgid "Cactus"
+msgstr "Cactus"
+
+msgid "Graviton"
+msgstr "Gravitone"
+
+msgid "Air Ring"
+msgstr "Anello d'aria"
+
+msgid "Deerskin"
+msgstr "Pelle di Cervo"
+
+msgid "Elevator"
+msgstr "Ascensore"
+
+msgid "Energy"
+msgstr "Energia"
+
+msgid "Snow"
+msgstr "Neve"
+
+msgid "TNT"
+msgstr "TNT"
+
+msgid "Great Sword"
+msgstr "Grande Spada"
+
+msgid "Shark Fin Soup"
+msgstr "Zuppa di pinne di Squalo"
+
+msgid "Red Flower"
+msgstr "Fiori rossi"
+
+msgid "Jungle Tree Plant"
+msgstr "Albero della giungla"
+
+msgid "Epic Sword"
+msgstr "Spada Epica"
+
+msgid "Torch"
+msgstr "Torcia"
+
+msgid "Generator"
+msgstr "Generatore"
+
+msgid "Drill"
+msgstr "Distruttore"
+
+msgid "Snow Leaves"
+msgstr "Foglie di neve"
+
+msgid "Apple"
+msgstr "Mela"
+
+msgid "Cat Soul"
+msgstr "Anima di gatto"
+
+msgid "Book Shelf"
+msgstr "Scaffale di Libreria"
+
+msgid "Iron Ore"
+msgstr "Ferro Grezzo"
+
+msgid "Grass 3D"
+msgstr "Erba 3D"
+
+msgid "Palm Plant"
+msgstr "Palma"
+
+msgid "CarBody"
+msgstr "Carrozzeria dell'auto"
+
+msgid "Dragon Boots"
+msgstr "Stivali da Drago"
+
+msgid "Iron Block"
+msgstr "Blocco di ferro"
+
+msgid "Electric Pipe"
+msgstr "Tubo"
+
+msgid "Grass"
+msgstr "Erba"
+
+msgid "Poisoned Arrow"
+msgstr "Freccia avvelenata"
+
+msgid "Blue Dye"
+msgstr "Colorante blu"
+
+msgid "Ashkore"
+msgstr "Ashkore"
+
+msgid "Yellow Dye"
+msgstr "Colorante giallo"
+
+msgid "Swamp"
+msgstr "Palude"
+
+msgid "Hand Torch"
+msgstr "Torcia"
+
+msgid "BoarSkin"
+msgstr "Pelle di cinghiale"
+
+msgid "Stone Stairs"
+msgstr "Scale in Pietra"
+
+msgid "Springs"
+msgstr "Molle"
+
+msgid "Dragon Heart"
+msgstr "Cuore di drago"
+
+msgid "Magic Arrow"
+msgstr "Freccia magica"
+
+msgid "Coal"
+msgstr "Carbone"
+
+msgid "Hoe"
+msgstr "Zappa"
+
+msgid "Letter"
+msgstr "Lettera"
+
+msgid "Candle"
+msgstr "Candela"
+
+msgid "Fence Gate"
+msgstr "Cancello"
+
+msgid "Fuel"
+msgstr "Carburante"
+
+msgid "Table"
+msgstr "Tavolo"
+
+msgid "Fire"
+msgstr "Fuoco"
+
+msgid "Wheat"
+msgstr "Grano"
+
+msgid "Pants"
+msgstr "Pantaloni"
+
+msgid "My Precious"
+msgstr "Il Mio tesssoro"
+
+msgid "Epic Shield"
+msgstr "Scudo Epico"
+
+msgid "Jungle Grass"
+msgstr "Erba della giungla"
+
+msgid "Ice"
+msgstr "Ghiaccio"
+
+msgid "Hydra"
+msgstr "Idra"
+
+msgid "Crystal Block Black"
+msgstr "Blocco di cristallo nero"
+
+msgid "Swamp Stone"
+msgstr "Pietra paludosa"
+
+msgid "Rose Bush"
+msgstr "Cespuglio di rose"
+
+msgid "Sand Stone"
+msgstr "Arenaria"
+
+msgid "Bed"
+msgstr "Letto"
+
+msgid "Dirt"
+msgstr "Sporcizia"
+
+msgid "Nest"
+msgstr "{0} Nido"
+
+msgid "Spider Venom"
+msgstr "Veleno"
+
+msgid "Dark Staff"
+msgstr "Bastone oscuro"
+
+msgid "Forgotten Stone"
+msgstr "Pietra Dimenticata"
+
+msgid "Forgotten Stone Antique"
+msgstr "Antica Pietra Dimenticata"
+
+msgid "Shovel"
+msgstr "Vanga"
+
+msgid "Crystal Block Green"
+msgstr "Smeraldo"
+
+msgid "Birch Leaves"
+msgstr "Foglie di betulla"
+
+msgid "Wax"
+msgstr "Cera"
+
+msgid "Iron Dig"
+msgstr "Piccone di ferro"
+
+msgid "Brush"
+msgstr "Pennello"
+
+msgid "Birch Fence"
+msgstr "Recinzione in legno di Betulla"
+
+msgid "Coco Bean"
+msgstr "Cocco"
+
+msgid "GiantSpider"
+msgstr "Aragog"
+
+msgid "Furnace"
+msgstr "Caldaia"
+
+msgid "Paraffin"
+msgstr "Alveare"
+
+msgid "Lilia Flower"
+msgstr "Glicine"
+
+msgid "Alien Dog Soul"
+msgstr "Anima di Gontar"
+
+msgid "Boots"
+msgstr "Stivali"
+
+msgid "Spirit Necklace"
+msgstr "Collana degli spiriti"
+
+msgid "Forgotten Bushes"
+msgstr "Cespugli Dimenticati"
+
+msgid "Bullet"
+msgstr "Proiettile"
+
+msgid "Magic"
+msgstr "Magia nera"
+
+msgid "Safebox"
+msgstr "Cassaforte"
+
+msgid "Green Fluorite"
+msgstr "Smeraldo Grezzo"
+
+msgid "Saddle"
+msgstr "Sella"
+
+msgid "Red Dye"
+msgstr "Colorante rosso"
+
+msgid "Warrior Armor"
+msgstr "Armatura da guerriero"
+
+msgid "Nature Staff"
+msgstr "Bastone della natura"
+
+msgid "Pan Tool"
+msgstr "Setaccio"
+
+msgid "Stone Fence"
+msgstr "Recinzione in Pietra"
+
+msgid "Palm Leaves"
+msgstr "Foglie di palma"
+
+msgid "Skeletone Helmet"
+msgstr "Elmo di scheletro"
+
+msgid "JetPack"
+msgstr "Zaino-jet"
+
+msgid "Spikes Magic"
+msgstr "Chiodo magico"
+
+msgid "Bone"
+msgstr "Osso"
+
+msgid "Spruce Plant"
+msgstr "Abete Rosso"
+
+msgid "Oak Tree Plant"
+msgstr "Quercia"
+
+msgid "Clear Plank"
+msgstr "Tavola pulita"
+
+msgid "Wheel"
+msgstr "Ruota"
+
+msgid "Hat"
+msgstr "Cappello"
+
+msgid "Replicator"
+msgstr "Replicatore"
+
+msgid "Coal Ore"
+msgstr "Carbone Grezzo"
+
+msgid "Palm Fence"
+msgstr "Recinzione in legno di Palma"
+
+msgid "Goblin Armor"
+msgstr "Armatura Goblin"
+
+msgid "Fire Staff"
+msgstr "Bastone del fuoco"
+
+msgid "Iron Bar"
+msgstr "Sbarra di ferro"
+
+msgid "Sea Grass"
+msgstr "Alghe"
+
+msgid "Antique Window"
+msgstr "Finestra antica"
+
+msgid "TrapDoor"
+msgstr "Botola"
+
+msgid "Devil Rock"
+msgstr "Roccia dell'Inferno"
+
+msgid "Birch Plant"
+msgstr "Pianta di Betulla"
+
+msgid "Raven Wing"
+msgstr "Ala di corvo"
+
+msgid "Coloring Block"
+msgstr "Blocco da colorare"
+
+msgid "Metal Fence Gate"
+msgstr "Cancello di Ferro"
+
+msgid "Stair"
+msgstr "Scala"
+
+msgid "Mistic Ring"
+msgstr "Anello mistico"
+
+msgid "Duck Spawner"
+msgstr "Fecondatrice di anatre"
+
+msgid "Dragon Helmet"
+msgstr "Elmo di Drago"
+
+msgid "Teleport"
+msgstr "Teletrasportatore"
+
+msgid "Swamp Spawner"
+msgstr "{0} Generatore di paludi"
+
+msgid "Bark"
+msgstr "Legno"
+
+msgid "Sand"
+msgstr "Sabbia"
+
+msgid "Short Sword"
+msgstr "Spada corta"
+
+msgid "Crystal Sword"
+msgstr "Spada di Cristallo"
+
+msgid "Bones Shield"
+msgstr "Scudo d'osso"
+
+msgid "Dog Soul"
+msgstr "Anima di cane"
+
+msgid "GunPowder"
+msgstr "Polvere da sparo"
+
+msgid "SheepSkin"
+msgstr "Pelle di pecora"
+
+msgid "Dragon Ring"
+msgstr "Anello del drago"
+
+msgid "Clear Stone"
+msgstr "Pietra pulita"
+
+msgid "Chair"
+msgstr "Sedia"
+
+msgid "Red Leaves"
+msgstr "Melma"
+
+msgid "Red Crystals"
+msgstr "Rubino Grezzo"
+
+msgid "Lava"
+msgstr "Lava"
+
+msgid "Forgotten Leaves"
+msgstr "Foglie Dimenticate"
+
+msgid "HorseSkin"
+msgstr "Pelle di cavallo"
+
+msgid "Poplar Plant"
+msgstr "Pioppo"
+
+msgid "Flippers"
+msgstr "Pinne"
+
+msgid "Warrior Pants"
+msgstr "Pantaloni da guerriero"
+
+msgid "Long Sword"
+msgstr "Spada lunga"
+
+msgid "Sword"
+msgstr "Spada"
+
+msgid "Engine"
+msgstr "Motore"
+
+msgid "Shark Fin"
+msgstr "Pinna di squalo"
+
+msgid "Yellow Flower"
+msgstr "Fiore Giallo"
+
+msgid "Mana Potion"
+msgstr "Pozione del mana"
+
+msgid "Explosive Arrow"
+msgstr "Freccia esplosiva"
+
+msgid "Diamond"
+msgstr "Diamanti"
+
+msgid "Plank"
+msgstr "Asse"
+
+msgid "Goblin Helmet"
+msgstr "Elmo Goblin"
+
+msgid "Pine Leaves"
+msgstr "Aghi di pino"
+
+msgid "Fire Magic"
+msgstr "Fuoco Magico"
+
+msgid "Rose Flower"
+msgstr "Rosa"
+
+msgid "Blue Crystals"
+msgstr "minerale di Zaffiro"
+
+msgid "Craft Table"
+msgstr "Crea Tavolo"
+
+msgid "Spikes Staff"
+msgstr "Bastone a punta"
+
+msgid "Ladder"
+msgstr "scala"
+
+msgid "Klorium"
+msgstr "Clorium"
+
+msgid "Jungle Bush Leaves"
+msgstr "Cespuglio di Foglie di Giungla"
+
+msgid "Jungle Leaves"
+msgstr "Foglie di Giungla"
+
+msgid "Rose Flowers"
+msgstr "Fiori di Rose"
+
+msgid "Jungle Flower"
+msgstr "Fiore di giungla"
+
+msgid "Vehicles"
+msgstr "Veicoli"
+
+msgid "Neck"
+msgstr "Collo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:118
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1142
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:673
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1493
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:929
+msgid "Skill Reset"
+msgstr "Ripristino Abilità"
+
+msgid "Marble Block"
+msgstr "Blocco di marmo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:118
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:91
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:41
+msgid "Anvil"
+msgstr "Incudine"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:277
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:62
+# UnityGame/Assets/Scripts/Achievements/Actions/AchieveRewardRecipe.cs:46
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:131
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:32
+msgid "DarkBoss"
+msgstr "Dark Boss"
+
+msgid "DragonLord"
+msgstr "Signore Drago"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Pet"
+msgstr "Mech Pet"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Cannon"
+msgstr "Cannone"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Computer"
+msgstr "Computer"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Leg Left"
+msgstr "Mech gamba sinistra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Leg Right"
+msgstr "Mech gamba destra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Rocket Launcher"
+msgstr "Lanciarazzi"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Left"
+msgstr "Ventilazione sinistra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Right"
+msgstr "Ventilazione a destra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Rockets"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:33
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1244
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1250
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Storage Row"
+msgstr "Riga di archiviazione"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Desert Bush"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mystical Block"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Devil Bush"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Ice Bricks"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Carpet"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Devil Bricks"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Skulls Block"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Granite"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Battle Axe"
+msgstr "Ascia da battaglia"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Axe"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Ice Axe"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dark Axe"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Snowman"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Christmas Tree"
+msgstr "Albero di Natale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:94
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:127
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:798
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:764
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:577
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Teleporter"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:874
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:840
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:653
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Baby Ashkore Soul"
+msgstr "Baby Ashkore Soul"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rails"
+msgstr "Rotaie"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Minecart"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sign"
+msgstr "Cartello"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fireworks"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mati Soul"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rainbow Basilisk Soul"
+msgstr "Anima del Basilisco Arcobaleno"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Viking Boat"
+msgstr "Barca vichinga"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bait"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fish Rod"
+msgstr "canna da pesca"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Meat"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried ClownFish"
+msgstr "Pesce pagliaccio fritto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried LionFish"
+msgstr "Pesce Leone Fritto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried GruntFish"
+msgstr "Grunt Fritto Di Pesce"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried TriggerFish"
+msgstr "Pesce Balestra Fritto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Squid"
+msgstr "Calamaro fritto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Stingray"
+msgstr "Pastinaca Fritta"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Urchin"
+msgstr "Ricci Di Mare Fritti"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried StarFish"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Shark"
+msgstr "Squalo Fritto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "ClownFish"
+msgstr "Pesce pagliaccio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "LionFish"
+msgstr "Pesce leone"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "GruntFish"
+msgstr "pesce grugnito"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "TriggerFish"
+msgstr "pesce balestra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Squid"
+msgstr "Calamaro"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Stingray"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Urchin"
+msgstr "Riccio di mare"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "StarFish"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Shark"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:96
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wall Torch"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mashine Gun"
+msgstr "Mitragliatrice"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:927
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:893
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber"
+msgstr "Ambra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wood Half"
+msgstr "Metà legno"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wood Vertical"
+msgstr "Legno verticale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Wood Triangle"
+msgstr "Triangolo di legno"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Vertical"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Vertical"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Vertical"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Stairs"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Stone Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Stone Vertical"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Stone Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Old Stone Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Old Stone Vertical"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Old Stone Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Bricks Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Bricks Vertical"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Bricks Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Carpet Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Carpet Vertical"
+msgstr "Tappeto verticale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Tile"
+msgstr "Piastrelle di metallo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Vertical"
+msgstr "Marmo verticale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Triangle"
+msgstr "Triangolo di marmo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Stairs"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Pillar Bottom"
+msgstr "Pilastro inferiore"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Pillar"
+msgstr "Pilastro"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Pillar Top"
+msgstr "Pilastro in alto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Miracle Stone"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Iron Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Iron Vertical"
+msgstr "Ferro verticale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Iron Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Half"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Vertical"
+msgstr "Oro verticale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Triangle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Ladder"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Simple Wood Door"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Lattice Door"
+msgstr "Porta a grata metallica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Door"
+msgstr "Porta di metallo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Trap Door"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Fence"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Metal Fence"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Marble Fence"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Gold Fence"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Birch Fence Gate"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Palm Fence Gate"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Clear Planks Fence Gate"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Chain"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sponge"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Alien Fish Rod"
+msgstr "Canna da pesca aliena"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sunshard Paula"
+msgstr "Frammento solare"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sunshard Wizard"
+msgstr "Frammento solare"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Goblin Rocket Launcher"
+msgstr "Lanciarazzi Goblin"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Phoenix Swords"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "World Breaker"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Helmet"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Armor"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Pants"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Amber Boots"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Alien Shield"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Phoenix Shield"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Space Suit"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Angel Wings"
+msgstr "Ali d'angelo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Daithir Soul"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Vairmut Soul"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Xordaraxus Soul"
+msgstr "Anima di Xordaraxus"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Onyx Soul"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "SwampGolem"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Liana"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Big Liana"
+msgstr "Grande Liana"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Sequoia Tree Plant"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
+msgid "Amber From Bricks"
+msgstr "ambra dai mattoni"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
+msgid "Amber Bricks"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Paving Stone"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Purplefish"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried DumboOctopus"
+msgstr "Polpo Dumbo Fritto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Dunkleosteus"
+msgstr "Dunkleosteus fritto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Fangtooth"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Fried Gulper"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Concrete"
+msgstr "Calcestruzzo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Mashine Gun Bullet"
+msgstr "Proiettile di mitragliatrice"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:930
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:896
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:706
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Sunshard"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Purplefish"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "DumboOctopus"
+msgstr "Polpo Dumbo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dunkleosteus"
+msgstr "Dunkleosteus"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fangtooth"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gulper"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Moon Sand"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Space Grass"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Space Dirt"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Space Bark"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Static Water"
+msgstr "Acqua statica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Static Lava"
+msgstr "Lava statica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Static Swamp"
+msgstr "Palude Statica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Frozen Coral"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mushroom Trunk"
+msgstr "Tronco di funghi"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Flower"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mushroom"
+msgstr "Fungo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Glowing Grass"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Acid Grass"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Moss"
+msgstr "Muschio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Leafs"
+msgstr "Spazio Foglie"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Straight Grass"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Blooming Grass"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Grace"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix Wing"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Essence"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:898
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:864
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:674
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Cheat Diamond"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Railway Dead End"
+msgstr "Vicolo cieco ferroviario"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle son Note"
+msgstr "Bottiglia con nota"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle Poi Note"
+msgstr "Bottiglia con nota"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle Empty Note"
+msgstr "Bottiglia con nota"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note Empty"
+msgstr "Nota vuota"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note Poi"
+msgstr "Nota con simboli"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+msgid "Note son"
+msgstr "Nota con simboli"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Note With Symbols"
+msgstr "Nota con simboli"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Magic Scroll"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Note Empty Iron"
+msgstr "Nota vuota"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Note Poi Iron"
+msgstr "Nota con simboli"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Note son Iron"
+msgstr "Nota con simboli"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:906
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:872
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:682
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Locomotive"
+msgstr "Locomotiva"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:906
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:872
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:682
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wrench"
+msgstr "Chiave inglese"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
+# UnityGame/Assets/Scripts/Achievements/Actions/AchieveRewardRecipe.cs:46
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:172
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:37
+msgid "Multitool"
+msgstr "Multi attrezzo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Eldriar Soul"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Meteorite Ore"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dragon Egg"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Old Dragon Armor"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Blue Dragon Armor"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Red Dragon Armor"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Emerald Dragon Armor"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Vehicle"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Radar/RadarTool.cs:11
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:135
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:202
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:254
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEquipment.cs:235
+# UnityGame/Assets/Blocksters/Scripts/Particles/InventoryStorage.cs:60
+msgid "Teleport / Bed / Vehicle"
+msgstr "Letto / Veicolo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Heavy Metal Swords"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Wires"
+msgstr "fili"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Piston"
+msgstr "Pistone"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Wood Piston"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Electric Torch"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Light Sensor"
+msgstr "Sensore di luce"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Motion Sensor"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Timer Sensor"
+msgstr "Timer"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Relay Sensor"
+msgstr "relè"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Variable Resistor"
+msgstr "Resistenza variabile"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Relay Controller"
+msgstr "Controllore"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Remote Sensor"
+msgstr "Trasmettitore"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Piano Music Box"
+msgstr "Carillon per pianoforte"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Guitar Music Box"
+msgstr "Carillon per chitarra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Accordion Music Box"
+msgstr "Carillon a fisarmonica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Drum Music Box"
+msgstr "Scatola musicale per batteria"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Gramophone"
+msgstr "Grammofono"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Clock"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Scripts/Achievements/Options/Collect/AchieveCollectItem.cs:26
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Diode"
+msgstr "Diodo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:48
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Flame of the Cosmic Forge"
+msgstr "Fiamma della Forgia Cosmica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Airplane"
+msgstr "Aereo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
+msgid "Jungle Sod"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Siren"
+msgstr "Registra la sirena"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Haven"
+msgstr "Il paradiso dei record"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Abyss"
+msgstr "Registra Abyss"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Arpeggio"
+msgstr "Registra l'arpeggio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Atmosphere"
+msgstr "Registra l'atmosfera"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Atmosphere Piano"
+msgstr "Registra l'atmosfera del pianoforte"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Boss Fight"
+msgstr "Record Boss Fight"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Desrtino"
+msgstr "Registra Desrtino"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Epic"
+msgstr "Registra epico"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Guitar Accords"
+msgstr "Registra accordi per chitarra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Menu Theme"
+msgstr "Tema del menu di registrazione"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Miracles"
+msgstr "Registra miracoli"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Mistery"
+msgstr "Registra il mistero"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record New Forest"
+msgstr "Registra nuova foresta"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Pip Orquesta"
+msgstr "Record Pip Orquesta"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Solar"
+msgstr "Registra solare"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Vanity"
+msgstr "Vanità da record"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Wonderland"
+msgstr "Registra il Paese delle Meraviglie"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - 8bit"
+msgstr "Registra Tradiore - 8bit"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Indie"
+msgstr "Record Tradiore - Indie"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Ragga"
+msgstr "Record Tradiore - Ragga"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Ray of sunset"
+msgstr "Record Tradiore - Raggio di tramonto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Serenity"
+msgstr "Record Tradiore - Serenity"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Space 80s"
+msgstr "Record Tradiore - Spazio anni '80"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Thoughts"
+msgstr "Record Tradiore - Pensieri"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Walpurgis Night"
+msgstr "Record Tradiore - La notte di Valpurga"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Pirates - Silent Sea"
+msgstr "Record Pirates - Silent Sea"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Pirates - Ending"
+msgstr "Record Pirates - Finale"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:905
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:871
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:681
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Gold Coin"
+msgstr "Moneta d'oro"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Dye From Red"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Dye From Blue"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51
+msgid "Dye From Yellow"
+msgstr ""
+
+#, fuzzy
+msgid "Drill 50x50"
+msgstr "Distruttore"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drill Creative"
+msgstr ""
+
+#, fuzzy
+msgid "Lost Bark"
+msgstr "Legno"
+
+#, fuzzy
+msgid "Dead Bark"
+msgstr "Legno di palma"
+
+#, fuzzy
+msgid "Lost Leaves"
+msgstr "Foglie di neve"
+
+#, fuzzy
+msgid "Autumn Leaves"
+msgstr "Foglie di Giungla"
+
+#, fuzzy
+msgid "Sakura Leaves"
+msgstr "Foglie del Cielo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:97 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:51 
+msgid "Sentinel's Branch"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Aragog"
+msgstr "Registra l'arpeggio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ashkore"
+msgstr "Registra l'atmosfera"
+
+#, fuzzy
+msgid "Record Dragon Lord"
+msgstr "Signore Drago"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Mati"
+msgstr "Vanità da record"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Phoenix"
+msgstr "Il paradiso dei record"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Swamp Golem"
+msgstr "Registra solare"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Space Mushrooms"
+msgstr "Registra solare"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:107 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Liquid Fog"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ocean Ripples"
+msgstr "Registra miracoli"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:68
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Begin"
+msgstr "Registra la sirena"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:118
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1142
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:673
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1493
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:929
+#, fuzzy
+msgid "Skill Reset Scroll"
+msgstr "Ripristino Abilità"
+
+#, fuzzy
+msgid "Swamp Grass"
+msgstr "Alghe"
+
+#, fuzzy
+msgid "Peony Flower"
+msgstr "Fiori rossi"
+
+#, fuzzy
+msgid "Swamp Plank"
+msgstr "Asse di palma"
+
+#, fuzzy
+msgid "Elf Bricks"
+msgstr "Mattoni"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:99 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:128 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:71 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59 
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:45 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:67 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:83 
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:34 
+msgid "Elf Column"
+msgstr ""

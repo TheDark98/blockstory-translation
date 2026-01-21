@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 18:15-0500\n"
+"PO-Revision-Date: 2021-08-11 23:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <http://translate.blockstory.net/projects/block-story/"
+"skeleton-normal/it/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#, fuzzy
+msgid "Splitting Skullache"
+msgstr "Mal di testa che divide"
+
+#, fuzzy
+msgid ""
+"You have bested so many of us skeletons in battle, Dragon Rider.  Now I need "
+"your help.  Bring me the skulls of my fallen comrades, and I will reward you "
+"for your trouble."
+msgstr ""
+"Hai battuto tanti di noi scheletri in battaglia, Dragon Rider. Ora ho "
+"bisogno del tuo aiuto. Portami i teschi dei miei compagni caduti e ti "
+"ricompenserò per il tuo disturbo."
+
+#, fuzzy
+msgid ""
+"You can bring me up to ten skulls per day.  When I am satisfied, I will "
+"share an intriguing object I found with you."
+msgstr ""
+"Puoi portarmi fino a dieci teschi al giorno. Quando sarò soddisfatto, "
+"condividerò con voi un oggetto intrigante che ho trovato."
+
+#, fuzzy
+msgid ""
+"Alas, poor Yorick.  I knew him, Dragon Rider.  Thank you for these skulls."
+msgstr ""
+"Ahimè, povero Yorick. Lo conoscevo, Dragon Rider. Grazie per questi teschi."
+
+#, fuzzy
+msgid "Tell the Skeleton you have the skulls."
+msgstr "Dì allo scheletro che hai i teschi."
+
+#, fuzzy
+msgid ""
+"Now that we have gathered the skulls of my comrades, I can be at peace.  "
+"Thank you, Dragon Rider.  As promised, here is your reward.  I hope you can "
+"put it to good use."
+msgstr ""
+"Ora che abbiamo raccolto i teschi dei miei compagni, posso essere in pace. "
+"Grazie, Cavaliere del Drago. Come promesso, ecco la tua ricompensa. Spero "
+"che tu possa farne buon uso."

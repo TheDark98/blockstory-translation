@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-13 19:51+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <http://translate.blockstory.net/projects/block-story/"
+"item-effects/it/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Health"
+msgstr "{0}Massimo Salute"
+
+msgid "Light"
+msgstr "Produce Luce"
+
+msgid "FireMagic"
+msgstr "{0} Fuoco Magico"
+
+msgid "Tick"
+msgstr "Al Secondo"
+
+msgid "Gravity"
+msgstr "{0} Forza Gravitazionale"
+
+msgid "LootDistance"
+msgstr "{0} Distanza Saccheggio"
+
+msgid "Mana"
+msgstr "{0}Max. Mana"
+
+msgid "Duration"
+msgstr "oltre {0} secondi"
+
+msgid "BowDamage"
+msgstr "{0} Danni all' Arco"
+
+msgid "Energy"
+msgstr ""
+"Fornisci [FFFF00]{0} Energia[-]per creare oggetti nella [FF0000]Fonace [-] o "
+"nel [FF0000]Calderone[-]."
+
+msgid "HealthRegen"
+msgstr "{0}Max. Salute Rigenerazione"
+
+msgid "SwordDamage"
+msgstr "{0} Danni dalla Spada"
+
+msgid "Breath"
+msgstr "{0}Max. Respiro in Immersione"
+
+msgid "PoisonDamage"
+msgstr "{0} Conseguenze del veleno"
+
+msgid "JumpHeight"
+msgstr "{0} Altezza del Salto"
+
+msgid "LightningMagic"
+msgstr "{0} Danni da Fulmine"
+
+msgid "BreathMagic"
+msgstr "Respiro da {0}"
+
+msgid "SlowTime"
+msgstr "Rallentamento del Tempo per {0} secondi"
+
+msgid "DarkMagic"
+msgstr "{0} Buio Magico"
+
+msgid "FlySpeed"
+msgstr "{0} Velocità di Volo"
+
+msgid "Explode"
+msgstr "Distrugge i Blocchi"
+
+msgid "ManaRegen"
+msgstr "{0}Max. Mana Rigenerazione"
+
+msgid "Restores"
+msgstr "Ripara"
+
+msgid "Speed"
+msgstr "{0} Velocità di Cammino"
+
+msgid "HealthMagic"
+msgstr "{0} Salute da"
+
+msgid "SwimSpeed"
+msgstr "{0} Velocità di Nuoto"
+
+msgid "Effects"
+msgstr "Effetti"
+
+msgid "Magic"
+msgstr "{0} Danni dalla Magia"
+
+msgid "Armor"
+msgstr "{0} Armore"
+
+msgid "WaterGravity"
+msgstr "{0} Forza Gravitazionale in acqua"
+
+msgid "Damages"
+msgstr "Danni"
+
+msgid "HealthRegenMagic"
+msgstr "Salute da {0}"
+
+msgid "EarthMagic"
+msgstr "{0} Terra Magica"
+
+msgid "ManaRegenMagic"
+msgstr "Mana da {0}"
+
+msgid "Radius"
+msgstr "in un {0} raggio del blocco"
+
+msgid "RadialDamage"
+msgstr "{0}Danni"
+
+msgid "BreathRegenMagic"
+msgstr "Respiro da {0}"
+
+msgid "AcidDamage"
+msgstr "{0} Conseguenze dell'acido"
+
+msgid "GunDamage"
+msgstr "{0}Danni dal Fucile"
+
+msgid "BreathRegen"
+msgstr "{0} Max Rigenerazione. spiro in Immersione"
+
+msgid "HealingMagic"
+msgstr "{0} Salute da"
+
+msgid "HungerMagic"
+msgstr "Saziata {0} Fame"
+
+msgid "ManaMagic"
+msgstr "Mana da {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:84
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:290
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "IceMagic"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:86
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:238
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "HungerRegen"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:238
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "SpaceBreathRegen"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:238
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "SpaceGravity"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:238
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "SpaceJumpHeight"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:238
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1364
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1370
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "FlyingGravity"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:238
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1364
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1370
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchaseAccess.cs:27
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "SpaceFlyingGravity"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:238
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "PetHealth"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:296
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "NormalDamage"
+msgstr "{0} Danno normale"

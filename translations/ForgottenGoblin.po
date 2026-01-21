@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-11 23:14+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <http://translate.blockstory.net/projects/block-story/"
+"ForgottenGoblin/it/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Worthy Opponent"
+msgstr "Degno avversario"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
+msgid ""
+"Finally, I see a worthy opponent! Look at my magnificent wings, do you want "
+"to have the same? They will give you strength and freedom of flight, and you "
+"will no longer have to use the potions of this quack Alchemist. When you "
+"receive my grace, you will be able to possess them. But are you worthy? "
+"Let's check your strength."
+msgstr ""
+"Finalmente vedo un degno avversario! Guarda le mie magnifiche ali, vuoi "
+"avere lo stesso? Ti daranno forza e libertà di volo, e non dovrai più usare "
+"le pozioni di questo ciarlatano Alchimista. Quando riceverai la mia grazia, "
+"potrai possederli. Ma sei degno? Controlliamo la tua forza."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:604
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid ""
+"I see you're not ready to fight me yet. Muster up the nerve and come next "
+"time, I do not want to think that you are a coward."
+msgstr ""
+"Vedo che non sei ancora pronto a combattere contro di me. Fatti coraggio e "
+"vieni la prossima volta, non voglio pensare che tu sia un codardo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Talk to Angel Goblin."
+msgstr "Parla con Angelo Goblin."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:604
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid ""
+"I'm still not sure of your strength. Your victory could be an accident. I "
+"will fight you every day until I am convinced that you are worthy to receive "
+"my wings."
+msgstr ""
+"Non sono ancora sicuro della tua forza. La tua vittoria potrebbe essere un "
+"incidente. Ti combatterò ogni giorno finché non sarò convinto che sei degno "
+"di ricevere le mie ali."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid "Talk to Angel Goblin about your victory."
+msgstr "Parla con Angel Goblin della tua vittoria."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:604
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "Now I see that you are worthy. You can take my wings."
+msgstr "Ora vedo che sei degno. Puoi prendere le mie ali."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
+msgid "Finally, I see a worthy opponent! What I see, you want more grace?"
+msgstr "Finalmente vedo un degno avversario! Quello che vedo, vuoi più grazia?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:604
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid ""
+"Now I see that you are worthy. Come back tomorrow if you need more grace, I "
+"need some time to replenish it."
+msgstr ""
+"Ora vedo che sei degno. Torna domani se hai bisogno di più grazia, ho "
+"bisogno di un po' di tempo per riempirla."

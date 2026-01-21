@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 18:15-0500\n"
+"PO-Revision-Date: 2021-08-11 23:15+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Italian <http://translate.blockstory.net/projects/block-story/"
+"source-life/it/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#, fuzzy
+msgid "Intimidating Boss"
+msgstr "Capo intimidatorio"
+
+#, fuzzy
+msgid ""
+"Dark BOSS has returned, even more powerful than before.  You must defeat him "
+"to restore peace to our land."
+msgstr ""
+"Dark BOSS è tornato, ancora più potente di prima. Devi sconfiggerlo per "
+"riportare la pace nella nostra terra."
+
+#, fuzzy
+msgid ""
+"I have the rare rockets you seek, but I must know Dark BOSS is defeated "
+"before I can part with them."
+msgstr ""
+"Ho i razzi rari che cerchi, ma devo sapere che Dark BOSS è stato sconfitto "
+"prima che possa separarmi da loro."
+
+#, fuzzy
+msgid ""
+"I am glad to hear of your triumph over Dark BOSS.  Place these rockets in "
+"the Mech's inventory to properly use them."
+msgstr ""
+"Sono felice di sapere del tuo trionfo su Dark BOSS. Metti questi razzi "
+"nell'inventario del Mech per usarli correttamente."
+
+#, fuzzy
+msgid "Tell the Source of Life you have slain the Dark BOSS."
+msgstr "Dì alla Fonte della Vita che hai ucciso il BOSS Oscuro."
