@@ -1267,7 +1267,7 @@ msgid "Ты МЕРТВ!!!"
 msgstr "Ты МЕРТВ!!!"
 
 msgid "Default"
-msgstr "Difetto"
+msgstr "Predefinito"
 
 #, fuzzy
 msgid "Come back tomorrow for a new gift!"
