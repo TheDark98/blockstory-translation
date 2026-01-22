@@ -14,34 +14,32 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
-#, fuzzy
+# mission title
 msgid "Intimidating Boss"
 msgstr "Capo intimidatorio"
 
-#, fuzzy
+# mission completed
+msgid "Tell the Source of Life you have slain the Dark BOSS."
+msgstr "Dì alla Fonte della Vita che hai ucciso Dark BOSS."
+
+# mission dialogue
 msgid ""
 "Dark BOSS has returned, even more powerful than before.  You must defeat him "
 "to restore peace to our land."
 msgstr ""
-"Dark BOSS è tornato, ancora più potente di prima. Devi sconfiggerlo per "
-"riportare la pace nella nostra terra."
+"Dark BOSS sta tornando dall'Ade, ancora più potente di prima. Devi ucciderlo prima "
+"che minacci le nostre terre."
 
-#, fuzzy
+# mission incomplete dialogue
 msgid ""
 "I have the rare rockets you seek, but I must know Dark BOSS is defeated "
 "before I can part with them."
-msgstr ""
-"Ho i razzi rari che cerchi, ma devo sapere che Dark BOSS è stato sconfitto "
-"prima che possa separarmi da loro."
+msgstr "Ho quei razzi rari che cerchi, te li darò dopo aver ucciso Dark BOSS."
 
-#, fuzzy
+# mission complete dialogue
 msgid ""
 "I am glad to hear of your triumph over Dark BOSS.  Place these rockets in "
 "the Mech's inventory to properly use them."
 msgstr ""
-"Sono felice di sapere del tuo trionfo su Dark BOSS. Metti questi razzi "
-"nell'inventario del Mech per usarli correttamente."
-
-#, fuzzy
-msgid "Tell the Source of Life you have slain the Dark BOSS."
-msgstr "Dì alla Fonte della Vita che hai ucciso il BOSS Oscuro."
+"Sono felice di sapere che Dark BOSS sia morto. Sai usarli? "
+"in qualsiasi caso mettili nell'inventario del Mech."
