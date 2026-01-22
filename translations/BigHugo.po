@@ -14,28 +14,31 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+# mission title
 msgid "Lightning Struck"
 msgstr "Scariche elettriche"
 
+# mission completed
+msgid "Tell Hugo you have the Electrite."
+msgstr "Fai sapere a Hugo che hai l'Electrite."
+
+# mission dialogue
 msgid ""
 "Ashkore continues to antagonize the sky world.  Please defeat him and bring "
 "me his Electrite."
-msgstr ""
-"Ashkore è una creatura spaventosa che continua a minacciare il mondo celeste. "
+msgstr "Ashkore è una creatura spaventosa che continua a minacciare il mondo celeste. "
 "Saresti in grado di ucciderlo? oh, eheheh non dimenticarti di portarmi dell'Electrite"
-
-msgid "Ashkore is not a creature to be trifled with.  Exercise caution."
-msgstr "Ashkore non è una creatura con cui scherzare. Presta attenzione."
 
 msgid ""
 "This will do for now, but I will need more Electrite tomorrow.  Bring me "
 "enough, and you will be rewarded."
-msgstr ""
-"Può andare bene per il momento, però non durerà per molto. Portamene in abbondanza."
+msgstr "Può andare bene per il momento, però non durerà per molto. Portamene in abbondanza."
 "Sarai ricompensato a modino eheh."
 
-msgid "Tell Hugo you have the Electrite."
-msgstr "Fai sapere a Hugo che hai l'Electrite."
+# mission incomplete dialogue
+msgid "Ashkore is not a creature to be trifled with.  Exercise caution."
+msgstr "Ashkore non è una creatura con cui scherzare. Presta attenzione."
 
+# mission complete dialogue
 msgid "Thank you.  I suspect you will make good use of this item."
 msgstr "Grazie. Ho il sospetto che farai un buon uso di questo oggetto."
