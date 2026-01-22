@@ -17,10 +17,10 @@ msgid "Collect {0}: [FF0000]{1}/{2}[-]"
 msgstr "Raccogli {0}: [FF0000] {1} / {2} [-]"
 
 msgid "Have {0} consume {1}: [00FF00]{2}/{3}[-]"
-msgstr "ha consumato"
+msgstr "Hai {0} utilizza {1}: [00FF00] {2} / {3} [-]"
 
 msgid "Have {0} consume {1}: [FF0000]{2}/{3}[-]"
-msgstr "ha consumato"
+msgstr "Hai {0} utilizza {1}: [FF0000] {2} / {3} [-]"
 
 msgid "Kill {0}: [FF0000]{1}/{2}[-]"
 msgstr "Uccidi {0}: [FF0000] {1} / {2} [-]"
@@ -29,7 +29,7 @@ msgid "Kill {0}: [00FF00]{1}/{2}[-]"
 msgstr "Uccidi {0}: [00FF00] {1} / {2} [-]"
 
 msgid "Place {0}: [FF0000]{1}/{2}[-]"
-msgstr "Luogo {0}: [FF0000] {1} / {2} [-]"
+msgstr "Piazza {0}: [FF0000] {1} / {2} [-]"
 
 msgid "Place {0}: [00FF00]{1}/{2}[-]"
-msgstr "Luogo {0}: [00FF00] {1} / {2} [-]"
+msgstr "Piazza {0}: [00FF00] {1} / {2} [-]"
