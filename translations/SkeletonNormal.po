@@ -14,44 +14,39 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
-#, fuzzy
+# mission title
 msgid "Splitting Skullache"
-msgstr "Mal di testa che divide"
+msgstr "Distruggendo il mal di testa"
 
-#, fuzzy
+# mission completed
+msgid "Tell the Skeleton you have the skulls."
+msgstr "Dì allo scheletro che hai i teschi."
+
+# mission dialogue
 msgid ""
 "You have bested so many of us skeletons in battle, Dragon Rider.  Now I need "
 "your help.  Bring me the skulls of my fallen comrades, and I will reward you "
 "for your trouble."
-msgstr ""
-"Hai battuto tanti di noi scheletri in battaglia, Dragon Rider. Ora ho "
-"bisogno del tuo aiuto. Portami i teschi dei miei compagni caduti e ti "
-"ricompenserò per il tuo disturbo."
+msgstr "Hai battuto tanti di noi scheletri in battaglia, Cavalcatore di Draghi. Ho "
+"bisogno del tuo aiuto. Portami i teschi dei miei compagni caduti in battaglia e ti "
+"ricompenserò per il disturbo causato."
 
-#, fuzzy
+# mission incomplete dialogue
 msgid ""
 "You can bring me up to ten skulls per day.  When I am satisfied, I will "
 "share an intriguing object I found with you."
-msgstr ""
-"Puoi portarmi fino a dieci teschi al giorno. Quando sarò soddisfatto, "
-"condividerò con voi un oggetto intrigante che ho trovato."
+msgstr "Puoi portarmi fino a dieci teschi al giorno. Quando sarò soddisfatto, "
+"condividerò con te un oggetto intrigante che ho trovato."
 
-#, fuzzy
-msgid ""
-"Alas, poor Yorick.  I knew him, Dragon Rider.  Thank you for these skulls."
-msgstr ""
-"Ahimè, povero Yorick. Lo conoscevo, Dragon Rider. Grazie per questi teschi."
-
-#, fuzzy
-msgid "Tell the Skeleton you have the skulls."
-msgstr "Dì allo scheletro che hai i teschi."
-
-#, fuzzy
+# mission complete dialogue
 msgid ""
 "Now that we have gathered the skulls of my comrades, I can be at peace.  "
 "Thank you, Dragon Rider.  As promised, here is your reward.  I hope you can "
 "put it to good use."
-msgstr ""
-"Ora che abbiamo raccolto i teschi dei miei compagni, posso essere in pace. "
-"Grazie, Cavaliere del Drago. Come promesso, ecco la tua ricompensa. Spero "
+msgstr "Ora che abbiamo raccolto i teschi dei miei compagni, posso riposare in pace. "
+"Grazie, Cavalcatore di Draghi. Come promesso, ecco la tua ricompensa. Spero "
 "che tu possa farne buon uso."
+
+msgid ""
+"Alas, poor Yorick.  I knew him, Dragon Rider.  Thank you for these skulls."
+msgstr "Ahimè, povero Yorick. Lo conoscevo, era un bravo guerriero. Cavalcatore di Draghi, grazie per questi teschi."
