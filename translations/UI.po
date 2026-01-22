@@ -13,6 +13,7 @@ msgstr ""
 msgid "Loaded Succesfully"
 msgstr "Caricamento riuscito"
 
+#, unknown
 msgid "Sync"
 msgstr "Sync"
 
@@ -34,7 +35,7 @@ msgstr ""
 "più tempo di volo e più incantesimi."
 
 msgid "Combat"
-msgstr "combattimento"
+msgstr "Combattimento"
 
 msgid "Item"
 msgstr "Strumento"
@@ -59,13 +60,13 @@ msgid "Exponential"
 msgstr "Esponenziale"
 
 msgid "Please enter pet name"
-msgstr "Per favore inserite il nome dell'animale"
+msgstr "Inserite il nome dell'animale"
 
 msgid "Are you sure you wish to delete character [FF0000]{0}[-]?"
 msgstr "Sei sicuro di voler eliminare questo personaggio? [FF0000]{0}[-]?"
 
 msgid "Anisotropic Filtering"
-msgstr "Filtraggio"
+msgstr "Filtro Anisotropico"
 
 msgid "Successfully uploaded character {0}"
 msgstr "Hai caricato correttamente il giocatore {0}"
@@ -79,29 +80,33 @@ msgstr "Non puoi guidare un'auto in acqua!"
 msgid "Back"
 msgstr "Indietro"
 
+#, unknown
 msgid "Moving Joysticks"
 msgstr "Joysticks movibili"
 
 msgid "Enable Weather"
 msgstr "Attiva il tempo atmosferico"
 
+#, weird
 msgid "Walk Speed:"
 msgstr "Velocità del passo:"
 
 msgid "Misc"
-msgstr "Diverso"
+msgstr "Varie"
 
 msgid "Skill Pt:"
-msgstr "Punto abilità:"
+msgstr "Punti abilità:"
 
+#, unknown
 msgid "Unable to purchase key"
 msgstr "Impossibile comprare la chiave"
 
+#, weird
 msgid "Interactive Blocks"
 msgstr "Blocchi interattivi"
 
 msgid "World seed"
-msgstr "Seed del mondo"
+msgstr "Seme del mondo"
 
 msgid "Auto save frequency: [FF0000]{0:0}"
 msgstr "Frequenza di salvataggio automatico"
@@ -110,10 +115,10 @@ msgid "Profiles"
 msgstr "Profili"
 
 msgid "Spawn point direction"
-msgstr "Direzione del punto di respawn"
+msgstr "Direzione del punto di rinascita"
 
 msgid "Successfully uploaded world {0}"
-msgstr "Hai caricato correttamente il mondo {0}"
+msgstr "Mondo {0} caricato correttamente"
 
 msgid "Suomalainen"
 msgstr "Finlandese"
@@ -122,22 +127,23 @@ msgid "Calibrate tilt"
 msgstr "Calibra l'inclinazione"
 
 msgid "Get More"
-msgstr "Ottieni altro"
+msgstr "Ottieni di più"
 
 msgid "Can't mount a vehicle with the Saddle!"
-msgstr "Non puoi muovere il veicolo con la Sella!"
+msgstr "Non puoi salire nel veicolo con la Sella!"
 
 msgid "Graphics"
 msgstr "Grafica"
 
+#, weird
 msgid "Mouse Smoothing: [FF0000]{0:0.00}"
-msgstr "velocità scorrimento  del mouse: [FF0000]{0:0.00}"
+msgstr "velocità scorrimento del mouse: [FF0000]{0:0.00}"
 
 msgid "Joy rotation sensitivity: [FF0000]{0:0.0}"
 msgstr "Sensibilità della rotazione del Joystick: [FF0000]{0:0,0}"
 
 msgid "Exp:"
-msgstr "Scad:"
+msgstr "Esp:"
 
 msgid "Time:"
 msgstr "Tempo :"
@@ -151,6 +157,7 @@ msgstr "Contatore di FPS"
 msgid "View distance: [FF0000]{0:0}"
 msgstr "Distanza visuale: [FF0000]{0:0}"
 
+#, weird
 msgid "Elevator move forward"
 msgstr "L'Ascensore si muove in alto"
 
@@ -183,13 +190,13 @@ msgid "<<Resume"
 msgstr "<<Riprendi"
 
 msgid "Not enough Fuel!"
-msgstr "Non c'e abbastanza benzina!"
+msgstr "Non hai abbastanza carburante!"
 
 msgid "Selector quality: [FF0000]{0:0}"
-msgstr "Selezione della qualita: [ff0000]{0:0}"
+msgstr "Qualità della selezione: [ff0000]{0:0}"
 
 msgid "Saving..."
-msgstr "Salvataggio …"
+msgstr "Salvataggio..."
 
 msgid "Recipe Book"
 msgstr "Ricettario"
@@ -230,6 +237,7 @@ msgstr "Italiano"
 msgid "{0}"
 msgstr "{0}"
 
+#, to do
 msgid ""
 "Increases the amount of time before damage is taken while underwater. If you "
 "like to swim and investigate deep oceans to find epic underwater monsters or "
@@ -243,11 +251,12 @@ msgid "Sound"
 msgstr "Suono"
 
 msgid "Русский"
-msgstr "russo"
+msgstr "Russo"
 
 msgid "New World"
 msgstr "Nuovo mondo"
 
+#, to check
 msgid "Respawn"
 msgstr "Respawn"
 
@@ -264,17 +273,18 @@ msgid "Select friends to invite to Block Story"
 msgstr "Seleziona gli amici da invitare a Block Story"
 
 msgid "Space"
-msgstr "Space"
+msgstr "Spazio"
 
 msgid "Português"
 msgstr "Portoghese"
 
 msgid "Do you want to get more?"
-msgstr "Ne volete di più?"
+msgstr "Vuoi ottenerne di più?"
 
 msgid "Use"
 msgstr "Usa"
 
+#, weird
 msgid "Cross"
 msgstr "Attraversa"
 
@@ -294,7 +304,7 @@ msgid "Drag Speed:  [FF0000]{0:0.0}"
 msgstr "Velocità di trascinamento: [FF0000]{0:0,0}"
 
 msgid "You DIED!!!"
-msgstr "Sei morto!!!"
+msgstr "Sei MORTO!!!"
 
 msgid "Reset"
 msgstr "Azzera"
@@ -307,8 +317,9 @@ msgid ""
 "unlimited resources, mana, health."
 msgstr ""
 "Modalità creativa :\n"
-"risorse illimitate,mana e vita infiniti."
+"risorse, mana e vita infiniti."
 
+#, weird
 msgid ""
 "Normal survival mode:\n"
 "quests, skills, crafting."
@@ -331,6 +342,9 @@ msgstr "Acquista la versione completa"
 msgid "Left Hand"
 msgstr "Mano sinistra"
 
+msgid "Right Hand"
+msgstr "Mano destra"
+
 msgid ""
 "Increases bow attack damage. Higher damage will allow you to kill stronger "
 "enemies from a distance. To use the bow you need arrows."
@@ -343,8 +357,9 @@ msgid "Good"
 msgstr "Buono"
 
 msgid "Can't fly in water!"
-msgstr "Non può volare nell'acqua!"
+msgstr "Non puoi volare nell'acqua!"
 
+#, to do
 msgid ""
 "[FF0000]Use the following keys:[-]\n"
 "Quick button access with [FFFF00]\"R1\"[-] trigger\n"
@@ -377,7 +392,7 @@ msgstr ""
 "[FFFF00]\"Start\"[-] - Opzioni"
 
 msgid "Controller Detected"
-msgstr "Regolatore rilevato"
+msgstr "Controller rilevato"
 
 msgid "Beautiful"
 msgstr "Bellissimo"
@@ -400,11 +415,12 @@ msgstr "Danno inflitto con la spada:"
 msgid "MOGA Pocket Connected"
 msgstr "MOGA Pocket connesso"
 
+#, to check
 msgid "Start game"
-msgstr "Comincia il gioco"
+msgstr "Avvia il gioco"
 
 msgid "Settings"
-msgstr "Opzioni"
+msgstr "Impostazioni"
 
 msgid "Not enough Mana..."
 msgstr "Mana insufficiente..."
@@ -422,9 +438,6 @@ msgstr "Acqua"
 msgid "Failed to upload {0}, {1}"
 msgstr "Caricamento non riuscito {0}, {1}"
 
-msgid "Right Hand"
-msgstr "Mano destra"
-
 msgid "Player Statistic"
 msgstr "Statistiche del giocatore"
 
@@ -433,8 +446,9 @@ msgid ""
 "Changing distance sliders can greatly increase memory usage and reduce "
 "performance!"
 msgstr ""
-"ATTENZIONE!     Cambiando la distanza dei cursori potrebbe aumentare "
-"drasticamente l'utilizzo di memoria e diminuire la velocità del gioco!"
+"ATTENZIONE!\n"
+"La distanza di caricamento impatta drasticamente l'utilizzo "
+"della memoria e ridurre la prestazini in gioco!"
 
 msgid "Ashkore"
 msgstr "Ashkore"
@@ -499,13 +513,13 @@ msgid "Warning"
 msgstr "Avvertimento"
 
 msgid "Generator should stand to the right or left side of the elevator!"
-msgstr "Il Generatore deve essere a destra o a sinstra dell'ascensore!"
+msgstr "Il Generatore deve essere di fianco l'ascensore!"
 
 msgid "Vertical load distance: [FF0000]{0:0}"
 msgstr "Caricamento della distanza verticale: [FF0000]{0:0}"
 
 msgid "Teleport to:"
-msgstr "Teletrasporta a:"
+msgstr "Teletrasportati a:"
 
 msgid "Enter profile name"
 msgstr "Inserisci il nome del profilo"
@@ -580,21 +594,21 @@ msgstr "Azzera la pagina"
 
 msgid "Are You sure to delete world: [00FF00]{0}[-]? This can't be undone!!!"
 msgstr ""
-"Sei sicuro di voler cancellare questo mondo: [00FF00]{0}[-]? Non potrai "
+"Sei sicuro di voler eliminare questo mondo: [00FF00]{0}[-]? Non potrai "
 "recuperarlo!"
 
 msgid "Coming Soon..."
-msgstr "Disponibile in Futuro..."
+msgstr "Prossimamente..."
 
 msgid "Can't mount enemy creature with less than 50% health!"
-msgstr "Non Puoi salire su una creatura se la sua vita è superiore al 50%!"
+msgstr "Non puoi salire su una creatura nemica con più del 50% di vita!"
 
 msgid ""
 "Are You sure you want to delete this\n"
 "world?\n"
 "This cannot be undone!!!"
 msgstr ""
-"Sei sicuro di voler cancellare questo mondo? Non potrai più recuperarlo!!"
+"Sei sicuro di voler eliminare questo mondo? Non potrai più recuperarlo!!"
 
 msgid "Elevator stopped"
 msgstr "L'Ascensore si è fermato"
@@ -642,8 +656,7 @@ msgstr "Abilita il suono"
 
 msgid "Invalid world name: [00FF00]{0}[-], use only letters, numbers or space."
 msgstr ""
-"Nome per il mondo invalido: [00FF00]{0}[-], usa solo lettere, numeri  o lo  "
-"spazio."
+"Nome per il mondo invalido: [00FF00]{0}[-], usa solo lettere e numeri"
 
 msgid "Cancel"
 msgstr "Annulla"
@@ -652,7 +665,7 @@ msgid "Fog density: [FF0000]{0:0.00}"
 msgstr "Densità della nebbia: [FF0000]{0:0.00}"
 
 msgid "Now available on"
-msgstr "Ora disponibile in"
+msgstr "Ora disponibile su"
 
 msgid "Sucessfully downloaded world {0}"
 msgstr "Mondo {0} scaricato correttamente"
@@ -679,16 +692,18 @@ msgstr ""
 "Tieni premuto uno stack con un dito,e premi uno slot vuoto con un altro dito "
 "per dividere lo stack."
 
+#, to check
 msgid ""
 "Swords are close range weapons.  If you like to fight, spend some skill "
 "points to improve the damage of the sword's attack.  To use the sword, "
 "select one in the inventory, and tap on an enemy."
 msgstr ""
-"La spada è l' arma più  versatile, se ti piace combattere dovresti spendere "
+"La spada è l'arma più  versatile, se ti piace combattere dovresti spendere "
 "alcuni punti abilità nel potenziare i tuoi attacchi con spada.\n"
 "Per usare la spada, selezionala nell' inventario e premi su un nemico per "
 "attaccarlo."
 
+#, to check
 msgid ""
 "You can mix dyes in color table so then colored dye can be used on craft "
 "table to color other blocks.\n"
@@ -701,7 +716,7 @@ msgstr ""
 "necessario per creare quel colore."
 
 msgid "Bow Shoot Force:"
-msgstr "Potenza del tiro con l'arco:"
+msgstr "Potenza di tiro con l'arco:"
 
 msgid "Monster spawn"
 msgstr "Spawn dei mostri"
@@ -713,12 +728,12 @@ msgid "Shields"
 msgstr "Scudo"
 
 msgid "Drag Smoothing:  [FF0000]{0:0.00}"
-msgstr "velocità di scorrimento durante il trascinamento:  [FF0000]{0:0.00}"
+msgstr "velocità di trascinamento:  [FF0000]{0:0.00}"
 
 msgid ""
 "Cinematic\n"
 "Motion Blur"
-msgstr "Sfocatura da movimento cinematica"
+msgstr "Sfocatura da movimento"
 
 msgid "Exit"
 msgstr "Esci"
@@ -745,10 +760,10 @@ msgid "Controls"
 msgstr "Controlli"
 
 msgid "Drag sensitivity: [FF0000]{0:0.0}"
-msgstr "Sensibilità di trascinamento: [FF0000]{0:0.00}"
+msgstr "Sensibilità: [FF0000]{0:0.00}"
 
 msgid "Magic Damage:"
-msgstr "Danno da magia:"
+msgstr "Danno magico:"
 
 msgid "Exploring"
 msgstr "Esplorazione"
@@ -774,6 +789,7 @@ msgstr "Mondi"
 msgid "Weapons"
 msgstr "Armi"
 
+#, weird
 msgid "Show тews at startup"
 msgstr "Vedi all'avvio"
 
@@ -793,10 +809,10 @@ msgid "Buy"
 msgstr "Acquista"
 
 msgid "Hardcore"
-msgstr "Modalità Estrema"
+msgstr "Incubo"
 
 msgid "Dig Particles"
-msgstr "Particelle scavate"
+msgstr "Particelle di scavo"
 
 msgid "Days:"
 msgstr "Giorni trascorsi:"
@@ -836,7 +852,7 @@ msgstr ""
 
 msgid "Pick up loot from greater distances."
 msgstr ""
-"Se migliorerai questa abilità, potrai droppare da una distanza maggiore."
+"Se migliorerai questa abilità, potrai buttare oggetti da una distanza maggiore."
 
 msgid ""
 "Enable\n"
@@ -867,26 +883,25 @@ msgid "Rate App"
 msgstr "Vota l'applicazione"
 
 msgid "Restart the game for the changes to take effect."
-msgstr "Riavvia il gioco per attivare le modifiche."
+msgstr "Riavvia il gioco per applicare le modifiche."
 
 msgid "Supplies"
 msgstr "Provviste"
 
 msgid "Each item description in next update."
-msgstr ""
-"La descrizione degli oggetti sarà disponibile nel prossimo aggiornamento."
+msgstr "La descrizione degli oggetti sarà disponibile prossimamente."
 
 msgid "Language"
 msgstr "Lingua"
 
 msgid "Rename"
-msgstr "Rinominare"
+msgstr "Rinomina"
 
 msgid "Load Successful"
 msgstr "Caricamento completato"
 
 msgid "Split Touch Controls"
-msgstr "Controlli split touch"
+msgstr "Controlli touch separati"
 
 msgid ""
 "Screen\n"
@@ -897,7 +912,7 @@ msgid "Horizontal load distance: [FF0000]{0:0}"
 msgstr "Distanza di caricamento orizzontale [FF0000]{0:0}"
 
 msgid "Not enough Diamonds"
-msgstr "Non abbastanza Diamanti"
+msgstr "Non hai abbastanza Diamanti"
 
 msgid "Items"
 msgstr "Strumenti"
@@ -918,7 +933,7 @@ msgid "Texture resolution: [FF0000]{0:0}"
 msgstr "Risoluzione delle texture: [ff0000]{0:0}"
 
 msgid "Full version only"
-msgstr "Solo per la versione completa"
+msgstr "Solo nella versione completa"
 
 msgid "Driving"
 msgstr "Stai Guidando"
@@ -939,7 +954,7 @@ msgid "Save"
 msgstr "Salva"
 
 msgid "Water quality: [FF0000]{0:0}"
-msgstr "Qualità dell' acqua : [ff0000]{0:0}"
+msgstr "Qualità dell'acqua : [ff0000]{0:0}"
 
 msgid "Try to use elevator closer to pipes!"
 msgstr "Prova a piazzare l'ascensore più vicino ai tubi!"
@@ -957,7 +972,7 @@ msgid "Tools"
 msgstr "Strumenti"
 
 msgid "Enable USB Mouse Support"
-msgstr "Attiva l'utilizzo di un mouse USB"
+msgstr "Attiva il support di un mouse USB"
 
 msgid "Joy Control"
 msgstr "Controllo del Joystick"
@@ -965,8 +980,9 @@ msgstr "Controllo del Joystick"
 msgid "Preview Pictures"
 msgstr "Immagini di anteprima"
 
+#, weird
 msgid "Current fly time: {0}"
-msgstr "Tempo di volo attuale : {0}"
+msgstr "Tempo di volo attuale: {0}"
 
 msgid "World: [00FF00]{0}[-], already exists. Pick a different name."
 msgstr "Il mondo: [00FF00]{0}[-], esiste già. Usa un altro nome."
