@@ -12,19 +12,19 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Claim Reward"
-msgstr "Richiedi la Ricompensa"
+msgstr "Riscatta la Ricompensa"
 
 msgid "Stone Breaker"
-msgstr "Rompi Pietra"
+msgstr "Distruttore della Pietra"
 
 msgid "Break {0} blocks with the {1}."
-msgstr "Rompi {0} blocchi con lo {1}."
+msgstr "Rompi {0} blocchi con {1}."
 
 msgid "Journeyman Miner"
 msgstr "Minatore specializzato"
 
 msgid "Iron Miner"
-msgstr "Minatore di ferro"
+msgstr "Minatore del ferro"
 
 msgid "Tasty Frog Legs"
 msgstr "Gustose Cosce di Rana"
@@ -45,18 +45,17 @@ msgid "Legendary Miner"
 msgstr "Minatore legendario"
 
 msgid "Stone Digger"
-msgstr "spcava pietre"
+msgstr "scavatore della pietra"
 
 msgid ""
 "[00FF00]Achievement Complete!\n"
 "{0}[-]"
 msgstr ""
-"[00FF00]Realizzazione \n"
-" Complete!\n"
+"[00FF00]Obiettivo Completato!\n"
 "{0}[-]"
 
 msgid "Heroic Blockster"
-msgstr "Gigante eroico"
+msgstr "Blocchettaro Eroico"
 
 msgid "Break {0} blocks."
 msgstr "Rompi {0} blocchi."
@@ -65,16 +64,16 @@ msgid "Stone Miner"
 msgstr "Minatore di Pietra"
 
 msgid "Stone Chopper"
-msgstr "Pietra chopper"
+msgstr "Spaccatore della Pietra"
 
 msgid "Apprentice Miner"
-msgstr "minatore apprendista"
+msgstr "Minatore Apprendista"
 
 msgid "Journeyman Blockster"
-msgstr "blockster specializzato"
+msgstr "Blocchettaro specializzato"
 
 msgid "Apprentice Blockster"
-msgstr "blockster apprendista"
+msgstr "Blocchettaro apprendista"
 
 msgid "Arachnophobia"
 msgstr "Aracnofobia"
