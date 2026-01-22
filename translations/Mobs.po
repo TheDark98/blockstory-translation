@@ -114,7 +114,7 @@ msgid "Deer"
 msgstr "Cervo"
 
 msgid "MissDeer"
-msgstr "Cervo"
+msgstr "Cerva"
 
 msgid "Cow"
 msgstr "Mucca"
@@ -188,7 +188,7 @@ msgid "Otter"
 msgstr "Lontra"
 
 msgid "TriggerFish"
-msgstr "Balisti"
+msgstr "Pesce Balestra"
 
 msgid "Jackelope"
 msgstr "Lepre Cornuta"
@@ -235,14 +235,14 @@ msgstr "Medusa"
 # UnityGame/Assets/Localization/T.cs:132 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118
 msgid "PeasantMale"
-msgstr "Abitante"
+msgstr "Uomo del Vilaggio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:132 
 # UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118
 msgid "PeasantFemale"
-msgstr "Abitante"
+msgstr "Donna del Vilaggio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -252,7 +252,7 @@ msgstr "Abitante"
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167
 msgid "FemalePeasant"
-msgstr "Abitante"
+msgstr "Donna del Vilaggio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -262,13 +262,13 @@ msgstr "Abitante"
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167
 msgid "MalePeasant"
-msgstr "Abitante"
+msgstr "Uomo del Vilaggio"
 
 msgid "BabyGoblin"
 msgstr "Goblin Bambino"
 
 msgid "MrGoblin"
-msgstr "Goblin"
+msgstr "Mr.Goblin"
 
 msgid "GoblinWarrior"
 msgstr "Goblin Guerriero"
@@ -353,13 +353,11 @@ msgstr "Ted"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
 msgid "Manowar"
 msgstr "Manowar"
 
-#, fuzzy
 msgid "Umhi"
-msgstr "Alieno"
+msgstr "Umhi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -377,9 +375,8 @@ msgstr "Alieno"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-#, fuzzy
 msgid "Fuza"
-msgstr "Alieno Glaciale"
+msgstr "Fuza"
 
 # Aggressive
 
@@ -394,7 +391,7 @@ msgid "Werewoolf"
 msgstr "Lupo Mannaro"
 
 msgid "WerewoolfBlack"
-msgstr "Lupo Mannaro nero"
+msgstr "Lupo Mannaro Nero"
 
 msgid "SmallWorm"
 msgstr "Verme Piccolo"
@@ -403,7 +400,7 @@ msgid "MediumWorm"
 msgstr "Verme"
 
 msgid "DarkWorm"
-msgstr "Verme Oscuro"
+msgstr "Verme degli Abissi"
 
 msgid "SnowWorm"
 msgstr "Verme Glaciale"
@@ -412,7 +409,7 @@ msgid "BigWorm"
 msgstr "Verme Gigante"
 
 msgid "DarkBigWorm"
-msgstr "Verme Oscuro Gigante"
+msgstr "Verme degli Abissi Gigante"
 
 msgid "SnowBigWorm"
 msgstr "Verme Glaciale Gigante"
@@ -430,7 +427,7 @@ msgid "BearPolar"
 msgstr "Orso Polare"
 
 msgid "BabyBearGrizzly"
-msgstr "Cucciolo Grizzly"
+msgstr "Cucciolo di Grizzly"
 
 msgid "BearGrizzly"
 msgstr "Grizzly"
@@ -441,9 +438,8 @@ msgstr "Orso"
 msgid "BabyBear"
 msgstr "Cucciolo d'Orso"
 
-#, fuzzy
 msgid "IceElemental"
-msgstr "Elemento Ghiacciato"
+msgstr "Elementale Glaciale"
 
 msgid "Basilisk"
 msgstr "Basilisco"
@@ -709,7 +705,7 @@ msgstr "Liopleurodon"
 
 #, fuzzy
 msgid "Dagi"
-msgstr "Drago"
+msgstr "Dagi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
