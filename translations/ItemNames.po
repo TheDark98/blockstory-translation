@@ -11,13 +11,13 @@ msgstr ""
 "X-Generator: Weblate 4.7.1\n"
 
 msgid "Sky Leaves"
-msgstr "Foglie del Cielo"
+msgstr "Foglie Cielesti"
 
 msgid "Axe"
 msgstr "Ascia"
 
 msgid "Jungle Bush Plant"
-msgstr "Cespuglio della giungla"
+msgstr "Cespuglio della Giungla"
 
 msgid "Goblin Pants"
 msgstr "Pantaloni Goblin"
@@ -26,8 +26,9 @@ msgid "Tentackle Staff"
 msgstr "Bastone Tentacolo"
 
 msgid "Saw Shield"
-msgstr "Scudo della vista"
+msgstr "Scudo Pungente"
 
+#, fuzzy
 msgid "Animal Spawner"
 msgstr "Riproduttore di animali"
 
@@ -38,7 +39,7 @@ msgid "Goblin PickAxe"
 msgstr "Piccone del Goblin"
 
 msgid "TRex"
-msgstr "T-Rex"
+msgstr "T.Rex"
 
 msgid "Bricks"
 msgstr "Mattoni"
@@ -76,6 +77,7 @@ msgstr "Stivali da Guerriero"
 msgid "Arrow"
 msgstr "Freccia"
 
+#, fuzzy
 msgid "Replicon"
 msgstr "Agente Mutageno"
 
@@ -89,7 +91,7 @@ msgid "Ticket"
 msgstr "Biglietto"
 
 msgid "Electrite"
-msgstr "Elettricità"
+msgstr "Electrite"
 
 msgid "Necklace Of Life"
 msgstr "Collana Della Vita"
@@ -116,28 +118,27 @@ msgid "Cactus Plant"
 msgstr "Cactus"
 
 msgid "Palm Bark"
-msgstr "Legno di palma"
+msgstr "Legno Grezzo di Palma"
 
 msgid "Cryptonite"
 msgstr "Kryptonite"
 
+#, fuzzy
 msgid "Life Magic"
-msgstr "Vita Magica"
+msgstr "Bacchetta Rigenerante"
 
 msgid "Dragon Soul"
-msgstr "Anima di Drago"
+msgstr "Anima del Drago"
 
+#, fuzzy
 msgid "Tentackle Magic"
 msgstr "Tentacolo Magico"
 
 msgid "Spider Soul"
-msgstr "Anima di Ragno"
+msgstr "Anima del Ragno"
 
 msgid "Skull"
 msgstr "Teschio"
-
-msgid "Monster Spawner"
-msgstr "{0} Madre di Mostri"
 
 msgid "Acacia Plant"
 msgstr "Pianta di Acacia"
@@ -150,9 +151,6 @@ msgstr "Acqua"
 
 msgid "Meat"
 msgstr "Carne"
-
-msgid "Desert Bird Spawner"
-msgstr "{0} Madre di uccelli del deserto"
 
 msgid "Yellow Coral"
 msgstr "Corallo Giallo"
@@ -203,7 +201,7 @@ msgid "Glass"
 msgstr "Vetro"
 
 msgid "Diver Suit"
-msgstr "Tuta da sub"
+msgstr "Muta da sub"
 
 msgid "Forgotten Grass"
 msgstr "Erba Dimenticata"
@@ -250,9 +248,6 @@ msgstr "Pietra"
 msgid "Clouds"
 msgstr "Nuvole"
 
-msgid "Spider Web"
-msgstr "{0} Tela di ragno"
-
 msgid "Seed"
 msgstr "Seme"
 
@@ -297,9 +292,6 @@ msgstr "Calderone"
 
 msgid "Wood Door"
 msgstr "Porta di Legno"
-
-msgid "Antique Spawner"
-msgstr "Nido antico"
 
 msgid "Acid"
 msgstr "Acido"
@@ -500,7 +492,7 @@ msgid "Pants"
 msgstr "Pantaloni"
 
 msgid "My Precious"
-msgstr "Il Mio tesssoro"
+msgstr "Il mio Tesssoro"
 
 msgid "Epic Shield"
 msgstr "Scudo Epico"
@@ -518,10 +510,10 @@ msgid "Crystal Block Black"
 msgstr "Blocco di cristallo nero"
 
 msgid "Swamp Stone"
-msgstr "Pietra paludosa"
+msgstr "Pietra Paludosa"
 
 msgid "Rose Bush"
-msgstr "Cespuglio di rose"
+msgstr "Cespuglio di Rose"
 
 msgid "Sand Stone"
 msgstr "Arenaria"
@@ -530,10 +522,7 @@ msgid "Bed"
 msgstr "Letto"
 
 msgid "Dirt"
-msgstr "Sporcizia"
-
-msgid "Nest"
-msgstr "{0} Nido"
+msgstr "Terra"
 
 msgid "Spider Venom"
 msgstr "Veleno"
@@ -711,9 +700,6 @@ msgstr "Elmo di Drago"
 
 msgid "Teleport"
 msgstr "Teletrasportatore"
-
-msgid "Swamp Spawner"
-msgstr "{0} Generatore di paludi"
 
 msgid "Bark"
 msgstr "Legno"
@@ -3985,3 +3971,23 @@ msgstr "Mattoni"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:34 
 msgid "Elf Column"
 msgstr ""
+
+# Spawners
+
+msgid "Monster Spawner"
+msgstr "Generatore di Mostri {0}"
+
+msgid "Swamp Spawner"
+msgstr "Generatore di paludi {0}"
+
+msgid "Desert Bird Spawner"
+msgstr "Generatore di {0}"
+
+msgid "Antique Spawner"
+msgstr "Antico nido di {0}"
+
+msgid "Spider Web"
+msgstr "Tela di {0}"
+
+msgid "Nest"
+msgstr "Nido di {0}"
