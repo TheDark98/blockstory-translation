@@ -14,10 +14,10 @@ msgid "Locked recipe"
 msgstr "Ricetta bloccata"
 
 msgid "To unlock this recipe you need finish some quests."
-msgstr "Per sbloccare  questa ricetta devi aver completato alcune missioni."
+msgstr "Per sbloccare questa ricetta devi aver completato alcune missioni."
 
 msgid "Complete quest from {0} to unlock."
 msgstr "Completa missione da {0} per sbloccare."
 
 msgid "Complete achievement {0} to unlock."
-msgstr "completa raggiungimento per sbloccare."
+msgstr "completa obbiettivo per sbloccare."
