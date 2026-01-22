@@ -1,0 +1,2567 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-17 13:46-0400\n"
+"PO-Revision-Date: 2023-10-10 16:23+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"ui/es/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Loaded Succesfully"
+msgstr "Cargado Completo"
+
+msgid "Sync"
+msgstr "Sincronizar"
+
+msgid "Coming soon"
+msgstr "Próximamente"
+
+msgid "DropBox"
+msgstr "Dropbox"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "Сreature mounted"
+msgstr "Criatura montada"
+
+msgid "Increases maximum mana."
+msgstr "Aumenta el maná máximo."
+
+msgid "Combat"
+msgstr "Combate"
+
+msgid "Item"
+msgstr "Objeto"
+
+msgid "Backup"
+msgstr "Copia de Seguridad"
+
+msgid ""
+"Increases flying speed.  Allows faster travel, and the ability to reach "
+"floating islands."
+msgstr ""
+"Aumenta la velocidad de vuelo. Permite viajar más rápidamente e incluso "
+"llegar a las islas flotantes."
+
+msgid "Simple"
+msgstr "Sencillo"
+
+msgid "Purchase..."
+msgstr "Comprar..."
+
+msgid "Exponential"
+msgstr "Exponencial"
+
+msgid "Please enter pet name"
+msgstr "Por favor, introduce el nombre de la mascota"
+
+msgid "Are you sure you wish to delete character [FF0000]{0}[-]?"
+msgstr "¿Estás seguro de querer eliminar el personaje [FF0000]{0}[-]?"
+
+msgid "Anisotropic Filtering"
+msgstr "Filtro Anisotrópico"
+
+msgid "Successfully uploaded character {0}"
+msgstr "Personaje {0} subido correctamente"
+
+msgid "{0} Diamonds"
+msgstr "{0} Diamantes"
+
+msgid "Can't drive in water!"
+msgstr "¡No se puede conducir el coche en el agua!"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Moving Joysticks"
+msgstr "Movimiento de Joysticks"
+
+msgid "Enable Weather"
+msgstr "Activar Tiempo"
+
+msgid "Walk Speed:"
+msgstr "Velocidad para Caminar:"
+
+msgid "Misc"
+msgstr "Otros"
+
+msgid "Skill Pt:"
+msgstr "Puntos de Habilidad:"
+
+msgid "Unable to purchase key"
+msgstr "No se ha podido comprar la clave"
+
+msgid "Interactive Blocks"
+msgstr "Bloques Interactivos"
+
+msgid "World seed"
+msgstr "Semilla del Mundo"
+
+msgid "Auto save frequency: [FF0000]{0:0}"
+msgstr "Frecuencia de Autoguardado: [FF0000]{0:0}"
+
+msgid "Profiles"
+msgstr "Perfiles"
+
+msgid "Spawn point direction"
+msgstr "Dirección Punto de Deshove"
+
+msgid "Successfully uploaded world {0}"
+msgstr "Mundo {0} subido correctamente"
+
+msgid "Suomalainen"
+msgstr "Finés"
+
+msgid "Calibrate tilt"
+msgstr "Calibrar Inclinación"
+
+msgid "Get More"
+msgstr "Obtener Más"
+
+msgid "Can't mount a vehicle with the Saddle!"
+msgstr "¡No se puede montar este vehículo con una silla de montar!"
+
+msgid "Graphics"
+msgstr "Gráficos"
+
+msgid "Mouse Smoothing: [FF0000]{0:0.00}"
+msgstr "Sensibilidad del Ratón: [FF0000]{0:0.00}"
+
+msgid "Joy rotation sensitivity: [FF0000]{0:0.0}"
+msgstr "Sensibilidad de rotación del Joystick: [FF0000]{0:0.0}"
+
+msgid "Exp:"
+msgstr "Exp.:"
+
+msgid "Time:"
+msgstr "Tiempo:"
+
+msgid "Underwater Breath:"
+msgstr "Respiración bajo el agua:"
+
+msgid "FPS counter"
+msgstr "Contador De FPS"
+
+msgid "View distance: [FF0000]{0:0}"
+msgstr "Distancia De Vista: [FF0000]{0:0}"
+
+msgid "Elevator move forward"
+msgstr "Mover el elevador hacia delante"
+
+msgid ""
+"Increases maximum health.  The more health you have, the better you feel.  :)"
+msgstr ""
+"Incrementa la salud máxima. Cuanto mejor estado de salud tienes, mejor te "
+"sientes :)"
+
+msgid "Screenshot Resolution"
+msgstr "Resolución de Captura Pantalla"
+
+msgid "Game Over"
+msgstr "Fin de la Partida"
+
+msgid ""
+"Are you sure you want to reset all\n"
+"Player progress and settings?\n"
+"\n"
+"This cannot be undone!!!"
+msgstr ""
+"¿Estás seguro de resetear todo \n"
+"el progreso de tu jugador y las opciones?\n"
+"\n"
+"¡¡¡No podras recuperarlas!!!"
+
+msgid "Time Of Day: [FF0000]{0:0.0}"
+msgstr "Hora del Día: [FF0000]{0:0.0}"
+
+msgid "<<Resume"
+msgstr "<<Reanudar"
+
+msgid "Not enough Fuel!"
+msgstr "¡No hay combustible suficiente!"
+
+msgid "Selector quality: [FF0000]{0:0}"
+msgstr "Selector de Calidad: [FF0000]{0:0}"
+
+msgid "Saving..."
+msgstr "Guardando..."
+
+msgid "Recipe Book"
+msgstr "Libro de Recetas"
+
+msgid "News"
+msgstr "Noticias"
+
+msgid "Character: [FF0000]{0}[-], already exists!"
+msgstr "¡El personaje: [FF0000]{0}[-] ya existe!"
+
+msgid "Player"
+msgstr "Jugador"
+
+msgid "Store"
+msgstr "Tienda"
+
+msgid "Dynamic sky quality: {0:0}"
+msgstr "Calidad Dinámica Del Cielo: {0:0}"
+
+msgid "Theme"
+msgstr "Temática"
+
+msgid "Auto Save"
+msgstr "Auto Guardado"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Invert Y Axis"
+msgstr "Invertir Eje Y"
+
+msgid "World name"
+msgstr "Nombre del Mundo"
+
+msgid "Italiano"
+msgstr "Idioma Italiano"
+
+msgid "{0}"
+msgstr "{0}"
+
+msgid ""
+"Increases the amount of time before damage is taken while underwater. If you "
+"like to swim and investigate deep oceans to find epic underwater monsters or "
+"build underwater worlds, then this skill for you."
+msgstr ""
+"Aumenta el tiempo antes de recibir daños bajo el agua. Si te gusta nadar e "
+"investigar los océanos profundos para encontrar monstruos épicos bajo el "
+"agua o construir un mundo submarino, entonces esta habilidad es para ti."
+
+msgid "Sound"
+msgstr "Sonido"
+
+msgid "Русский"
+msgstr "Ruso"
+
+msgid "New World"
+msgstr "Nuevo Mundo"
+
+msgid "Respawn"
+msgstr "Reaparecer"
+
+msgid "Load World"
+msgstr "Cargar Mundo"
+
+msgid "Skills: [00FF00]{0:0}"
+msgstr "Habilidades: [00FF00]{0:0}"
+
+msgid "Profile name"
+msgstr "Nombre de perfil"
+
+msgid "Select friends to invite to Block Story"
+msgstr "Seleccionar amigos para invitar a Historia de Bloques"
+
+msgid "Space"
+msgstr "Espacio"
+
+msgid "Português"
+msgstr "Portugués"
+
+msgid "Do you want to get more?"
+msgstr "¿Quieres obtener más?"
+
+msgid "Use"
+msgstr "Usar"
+
+msgid "Cross"
+msgstr "Cruzar"
+
+msgid "Click here to create a new character"
+msgstr "Haz clic aquí para crear un nuevo personaje"
+
+msgid "MOGA Pro Connected"
+msgstr "MOGA Pro Conectado"
+
+msgid "(click for hint)"
+msgstr "(clic para pista)"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Drag Speed:  [FF0000]{0:0.0}"
+msgstr "Velocidad De Arrastrado:  [FF0000]{0:0.0}"
+
+msgid "You DIED!!!"
+msgstr "¡¡¡Has MUERTO!!!"
+
+msgid "Reset"
+msgstr "Resetear"
+
+msgid "Not enough mana!  Try attacking the creature first!"
+msgstr "¡No tienes suficiente maná! ¡Prueba a atacar a la criatura primero!"
+
+msgid ""
+"Normal creative mode:\n"
+"unlimited resources, mana, health."
+msgstr ""
+"Modo creatividad nivel Normal:\n"
+"recursos ilimitados, maná, salud."
+
+msgid ""
+"Normal survival mode:\n"
+"quests, skills, crafting."
+msgstr ""
+"Modo supervivencia nivel Normal:\n"
+"misiones, habilidades, fabricación."
+
+msgid "Exit Game"
+msgstr "Salir Del Juego"
+
+msgid "Resolution"
+msgstr "Resolución"
+
+msgid "Get Content"
+msgstr "Obtener Contenido"
+
+msgid "Buy Full"
+msgstr "Comprar Versión Completa"
+
+msgid "Left Hand"
+msgstr "Mano Izquierda"
+
+msgid ""
+"Increases bow attack damage. Higher damage will allow you to kill stronger "
+"enemies from a distance. To use the bow you need arrows."
+msgstr ""
+"Incrementa el daño de ataque del arco. Un mayor daño te permitirá matar a "
+"los enemigos más poderosos desde la distancia. Para usar el arco necesitas "
+"flechas."
+
+msgid "Good"
+msgstr "Bien"
+
+msgid "Can't fly in water!"
+msgstr "¡No puedes volar en el agua!"
+
+msgid ""
+"[FF0000]Use the following keys:[-]\n"
+"Quick button access with [FFFF00]\"R1\"[-] trigger\n"
+"[00FFFF]When in quick access mode:[-]\n"
+"[FFFF00]\"X\"[-] - Skill points window\n"
+"[FFFF00]\"Y\"[-] - Make screenshot\n"
+"[FFFF00]\"B\"[-] - Quests\n"
+"[FFFF00]\"A\"[-] - Equipment\n"
+"[00FFFF]When in normal mode:[-]\n"
+"[FFFF00]\"L1\"[-] - Open inventory\n"
+"[FFFF00]\"Y\"[-] - Fly\n"
+"[FFFF00]\"A\"[-] - Jump\n"
+"[FFFF00]\"B\"[-] - Return to game mode from any screen\n"
+"[FFFF00]\"X\"[-] - Dig, attack, shoot\n"
+"[FFFF00]\"Start\"[-] - Settings"
+msgstr ""
+"[FF0000]Usa las siguientes teclas:[-]\n"
+"Botón de acceso rápido con [FFFF00]\"R1\"[-] gatillo\n"
+"[00FFFF]Cuando se está en modo de acceso rápido:[-]\n"
+"[FFFF00]\"X\"[-] - Ventana de puntos de habilidad\n"
+"[FFFF00]\"Y\"[-] - Hacer captura de pantalla\n"
+"[FFFF00]\"B\"[-] - Misiones\n"
+"[FFFF00]\"A\"[-] - Equipamiento\n"
+"[00FFFF]Cuando se está en modo normal:[-]\n"
+"[FFFF00]\"L1\"[-] - Abrir inventario\n"
+"[FFFF00]\"Y\"[-] - Volar\n"
+"[FFFF00]\"A\"[-] - Saltar\n"
+"[FFFF00]\"B\"[-] - Volver al modo de juego desde cualquier pantalla\n"
+"[FFFF00]\"X\"[-] - Cavar, atacar, disparar\n"
+"[FFFF00]\"Start\"[-] - Configuración"
+
+msgid "Controller Detected"
+msgstr "Controlador Detectado"
+
+msgid "Beautiful"
+msgstr "Hermoso"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Show compass"
+msgstr "Mostrar Brújula"
+
+msgid "Failed to download {0}, {1}"
+msgstr "Fallo al descargar {0}, {1}"
+
+msgid "Dig speed:"
+msgstr "Velocidad de Excavación:"
+
+msgid "Sword Damage:"
+msgstr "Daño De Espada:"
+
+msgid "MOGA Pocket Connected"
+msgstr "MOGA Pocket Conectado"
+
+msgid "Start game"
+msgstr "Empezar la Partida"
+
+msgid "Settings"
+msgstr "Opciones"
+
+msgid "Not enough Mana..."
+msgstr "No tienes Maná suficiente..."
+
+msgid ""
+"Bullets: [00FF00]{0}[-]\n"
+"Gun Powder: [00FF00]{1}"
+msgstr ""
+"Balas: [00FF00]{0}[-]\n"
+"Pólvora: [00FF00]{1}"
+
+msgid "Water"
+msgstr "Agua"
+
+msgid "Failed to upload {0}, {1}"
+msgstr "Fallo al subir {0}, {1}"
+
+msgid "Right Hand"
+msgstr "Mano Derecha"
+
+msgid "Player Statistic"
+msgstr "Estadísticas de Jugador"
+
+msgid ""
+"WARNING!\n"
+"Changing distance sliders can greatly increase memory usage and reduce "
+"performance!"
+msgstr ""
+"¡ATENCIÓN! \n"
+"¡El cambio de distancia puede aumentar el uso de memoria y disminuir la "
+"velocidad del juego!"
+
+msgid "Ashkore"
+msgstr "AshKore"
+
+msgid "Dynamic sky"
+msgstr "Cielo Dinámico"
+
+msgid "Anti Aliasing: [FF0000]{0:0}"
+msgstr "Gráficos Anti Alias: [FF0000]{0:0}"
+
+msgid "Play"
+msgstr "Jugar"
+
+msgid "Blocks"
+msgstr "Bloques"
+
+msgid "Player Mana:"
+msgstr "Maná del Jugador.:"
+
+msgid ""
+"Use the following keys:\n"
+"[FFFF00]1-7[-] for the quick slots\n"
+"[FFFF00]Q[-] or [FFFF00]~[-]  for the inventory\n"
+"[FFFF00]Tab[-] for using objects\n"
+"[FFFF00]Space[-] for jumping\n"
+"[FFFF00]WASD[-] for moving\n"
+"[FFFF00]F1[-] for skill points\n"
+"[FFFF00]F2[-] for current quests\n"
+"[FFFF00]F3[-] for taking pictures\n"
+"[FFFF00]F4[-] for settings\n"
+"[FFFF00]F5[-] for equipment\n"
+"[FFFF00]F[-] for flying\n"
+"[FFFF00]R[-] use radar (if equipped)"
+msgstr ""
+"Usa las siguientes teclas:\n"
+"[FFFF00]1-7[-]  para los accesos rápidos\n"
+"[FFFF00]Q[-] o [FFFF00]~[-]  para el inventario\n"
+"[FFFF00]Tab[-] para usar objetos\n"
+"[FFFF00]Space[-] para saltar\n"
+"[FFFF00]WASD[-] para moverse\n"
+"[FFFF00]F1[-] para sacar fotografías\n"
+"[FFFF00]F2[-] para configurar\n"
+"[FFFF00]F3[-] para puntos de habilidad\n"
+"[FFFF00]F4[-] para misiones actuales\n"
+"[FFFF00]F5[-] para equipamiento \n"
+"[FFFF00]F[-] para volar \n"
+"[FFFF00]R[-] usar radar (si está equipado)"
+
+msgid "Equip"
+msgstr "Equipar"
+
+msgid "Craft"
+msgstr "Artesanía"
+
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Download"
+msgstr "Descargar"
+
+msgid "Warning"
+msgstr "Advertencia"
+
+msgid "Generator should stand to the right or left side of the elevator!"
+msgstr "¡El generador debería colocarse a la derecha o izquierda del elevador!"
+
+msgid "Vertical load distance: [FF0000]{0:0}"
+msgstr "Carga De Distancia Vertical: [FF0000]{0:0}"
+
+msgid "Teleport to:"
+msgstr "Teletransportar a:"
+
+msgid "Enter profile name"
+msgstr "Introducir nombre de perfil"
+
+msgid "Reset data"
+msgstr "Resetear Datos"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Interface (GUI) scale: [FF0000]{0:0.0}"
+msgstr "Escala Interfaz (GUI): [FF0000]{0:0.0}"
+
+msgid "Terrain quality: [FF0000]{0:0}"
+msgstr "Calidad De Terreno: [FF0000]{0:0}"
+
+msgid "日本語"
+msgstr "Japonés"
+
+msgid "Can't mount this pet until it reaches lvl 30!"
+msgstr "¡No puedes montar esta mascota hasta alcanzar el nivel 30!"
+
+msgid "T-Rex"
+msgstr "Tiranosaurio Rex"
+
+msgid "[00FF00]Hint:[-]"
+msgstr "[00FF00]Pista:[-]"
+
+msgid "You are trying to attack an NPC!!!"
+msgstr "¡¡¡Estás intentando atacar a un NPC!!!"
+
+msgid ""
+"The same as story mode except:\n"
+"monsters twice stronger, limited death count, progress lost after death."
+msgstr ""
+"Igual que el modo historia a excepción de:\n"
+"los monstruos son el doble de fuertes, hay un límite de muertes y el "
+"progreso se pierde si mueres."
+
+msgid "Load"
+msgstr "Cargar"
+
+msgid "Quests:"
+msgstr "Misiones:"
+
+msgid "Trinkets"
+msgstr "Baratijas"
+
+msgid "Click here to create a new world"
+msgstr "Haz clic aquí para crear un nuevo mundo"
+
+msgid "My world #blockstory"
+msgstr "Mi mundo #blockstory"
+
+msgid "Exit To Menu"
+msgstr "Salir Al Menu"
+
+msgid "Player Health:"
+msgstr "Salud del jugador:"
+
+msgid "Sky quality: [FF0000]{0:0}"
+msgstr "Calidad Del Cielo: [FF0000]{0:0}"
+
+msgid "Aragog"
+msgstr "AraGog"
+
+msgid "Reset Page"
+msgstr "Resetear Página"
+
+msgid "Are You sure to delete world: [00FF00]{0}[-]? This can't be undone!!!"
+msgstr ""
+"¿Estás seguro de querer eliminar el mundo: [00FF00]{0}[-]? ¡¡¡No podrás dar "
+"marcha atrás!!!"
+
+msgid "Coming Soon..."
+msgstr "Próximamente..."
+
+msgid "Can't mount enemy creature with less than 50% health!"
+msgstr "¡No se puede montar la criatura del enemigo con menos de 50% de salud!"
+
+msgid ""
+"Are You sure you want to delete this\n"
+"world?\n"
+"This cannot be undone!!!"
+msgstr ""
+"¿Estás seguro de borrar este\n"
+"mundo? \n"
+"¡¡¡No podrás recuperarlo!!!"
+
+msgid "Elevator stopped"
+msgstr "Elevador detenido"
+
+msgid "Weather Humidity: [FF0000]{0:0.0}"
+msgstr "Humedad del Tiempo: [FF0000]{0:0.0}"
+
+msgid "Vehicles"
+msgstr "Vehículos"
+
+msgid "Armor"
+msgstr "Armadura"
+
+msgid "Time Remaining:"
+msgstr "Tiempo Restante:"
+
+msgid "Native"
+msgstr "Nativo"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Monsters"
+msgstr "Monstruos"
+
+msgid ""
+"If you want to kill strong enemies with guns, spend some skill points on "
+"this skill."
+msgstr ""
+"Si quieres matar enemigos fuertes con armas, gasta algunos puntos en esta "
+"habilidad."
+
+msgid ""
+"Your Diamonds\n"
+"{0}"
+msgstr ""
+"Tus Diamantes\n"
+"{0}"
+
+msgid "Wheel of fortune"
+msgstr "Rueda de la fortuna"
+
+msgid "Enable Sound"
+msgstr "Activar Sonido"
+
+msgid "Invalid world name: [00FF00]{0}[-], use only letters, numbers or space."
+msgstr ""
+"Nombre de mundo no válido: [00FF00]{0}[-], usa solamente letras, números o "
+"espacios."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Fog density: [FF0000]{0:0.00}"
+msgstr "Densidad De Niebla: [FF0000]{0:0.00}"
+
+msgid "Now available on"
+msgstr "Ahora disponible en"
+
+msgid "Sucessfully downloaded world {0}"
+msgstr "Mundo {0} descargado correctamente"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Gun Power:"
+msgstr "Potencia de Pistola:"
+
+msgid "Magic Items"
+msgstr "Objetos Mágicos"
+
+msgid ""
+"Drag any item here to see it's description.\n"
+"\n"
+"Tap and hold a stack to move all the items.\n"
+"\n"
+"Tap and hold a stack with 1 finger, and tap an empty slot with another "
+"finger to split the stack."
+msgstr ""
+"Arrastra cualquier objeto para ver su descripción.\n"
+"\n"
+"Pulsa y mantén para mover todos los objetos.\n"
+"\n"
+"Pulsa y mantén con 1 dedo y pulsa en un hueco vacío con otro dedo para "
+"separar el material."
+
+msgid ""
+"Swords are close range weapons.  If you like to fight, spend some skill "
+"points to improve the damage of the sword's attack.  To use the sword, "
+"select one in the inventory, and tap on an enemy."
+msgstr ""
+"La espada es el arma más útil, así que si te gusta pelear definitivamente "
+"necesitas gastar unos puntos de habilidad para mejorar el ataque de espada. "
+"Para usar la espada, selecciónala en el inventario y toque un enemigo para "
+"atacarlo."
+
+msgid ""
+"You can mix dyes in color table so then colored dye can be used on craft "
+"table to color other blocks.\n"
+"There are 3 numbers per cell, that is the amount of red, yellow and blue dye "
+"needed to make that color."
+msgstr ""
+"Puedes mezclar tintes en la mesa de color para que el tinte se pueda usar en "
+"la mesa de trabajo para colorear otros bloques.\n"
+"Hay 3 números por celda, esa es la cantidad de tinte rojo, amarillo y azul "
+"necesaria para hacer ese color."
+
+msgid "Bow Shoot Force:"
+msgstr "Fuerza De Tiro Del Arco:"
+
+msgid "Monster spawn"
+msgstr "Nido de Monstruos"
+
+msgid "Rewards:"
+msgstr "Recompensas:"
+
+msgid "Shields"
+msgstr "Escudos"
+
+msgid "Drag Smoothing:  [FF0000]{0:0.00}"
+msgstr "Sensibilidad de Arrastre:  [FF0000]{0:0.00}"
+
+msgid ""
+"Cinematic\n"
+"Motion Blur"
+msgstr ""
+"Desenfoque Cinemático\n"
+"de Movimiento"
+
+msgid "Exit"
+msgstr "Salir"
+
+msgid "Create new world"
+msgstr "Crear nuevo mundo"
+
+msgid "No"
+msgstr "No"
+
+msgid "Elevator placed"
+msgstr "Elevador colocado"
+
+msgid "Successfully downloaded character {0}"
+msgstr "Personaje {0} descargado correctamente"
+
+msgid "Shiva"
+msgstr "Shiva"
+
+msgid "Hand"
+msgstr "Mano"
+
+msgid "Controls"
+msgstr "Controles"
+
+msgid "Drag sensitivity: [FF0000]{0:0.0}"
+msgstr "Sensibilidad De Arrastre: [FF0000]{0:0.0}"
+
+msgid "Magic Damage:"
+msgstr "Daño Mágico:"
+
+msgid "Exploring"
+msgstr "Exploración"
+
+msgid "Tilt speed: [FF0000]{0:0.0}"
+msgstr "Velocidad De Inclinación: [FF0000]{0:0.0}"
+
+msgid "Good spawn"
+msgstr "Nido de Bienes"
+
+msgid "Fantastic"
+msgstr "Fantástico"
+
+msgid "Equip arrow to left hand!"
+msgstr "¡Coge la flecha con la mano izquierda!"
+
+msgid "Fastest"
+msgstr "Más Rápido"
+
+msgid "Worlds"
+msgstr "Mundos"
+
+msgid "Weapons"
+msgstr "Armas"
+
+msgid "Show тews at startup"
+msgstr "Mostrar noticias al iniciar"
+
+msgid "Rotation"
+msgstr "Rotación"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Motion blur quality: [FF0000]{0:0}"
+msgstr "Calidad De Enfoque de Movimiento: [FF0000]{0:0}"
+
+msgid "Vibrate when hit"
+msgstr "Vibrar al Golpear"
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "Hardcore"
+msgstr "Modo difícil"
+
+msgid "Dig Particles"
+msgstr "Partículas Excavación"
+
+msgid "Days:"
+msgstr "Días:"
+
+msgid "Other"
+msgstr "Otros"
+
+msgid "Rotation Sensitivity:  [FF0000]{0:0.0}"
+msgstr "Sensibilidad de Rotación:  [FF0000]{0:0.0}"
+
+msgid "SURE!"
+msgstr "¡SEGURO!"
+
+msgid "Save and exit"
+msgstr "Guardar y salir"
+
+msgid "Leveling down..."
+msgstr "Bajando de nivel..."
+
+msgid "Hydra"
+msgstr "Hidra"
+
+msgid ""
+"Would you like to purchase a key to unlock this world?\n"
+"Once unlocked, you can continue building it.\n"
+"Keys are cheap and will help us develop this game further.\n"
+"\n"
+"Otherwise, you can continue developing your character by starting a new world"
+msgstr ""
+"¿Quieres comprar la llave para desbloquear este mundo?\n"
+"Una vez desbloqueado, puedes continuar construyendo.\n"
+"Las llaves son baratas y nos ayudarán a desarrollar aún más este juego.\n"
+"\n"
+"Si no, puedes seguir desarrollando tu personaje al iniciar un nuevo mundo"
+
+msgid "Pick up loot from greater distances."
+msgstr "Recoge el botín a una distancia mayor."
+
+msgid ""
+"Enable\n"
+"Weather"
+msgstr ""
+"Activar\n"
+"Tiempo"
+
+msgid "Screen Resolution"
+msgstr "Resolución De Pantalla"
+
+msgid "You can increase digging speed by spending some skill points here."
+msgstr ""
+"Puedes mejorar la velocidad de excavación gastando algunos puntos de "
+"habilidad."
+
+msgid "Field of View: [FF0000]{0:0}"
+msgstr "Campo de Vista: [FF0000]{0:0}"
+
+msgid "Texture quality"
+msgstr "Calidad De Textura"
+
+msgid "Click on item to see description"
+msgstr "Haz clic sobre el objeto para ver la descripción"
+
+msgid "Mode"
+msgstr "Modo"
+
+msgid "Rate App"
+msgstr "Evaluar Aplicación"
+
+msgid "Restart the game for the changes to take effect."
+msgstr "Reinicia el juego para que los cambios tengan efecto."
+
+msgid "Supplies"
+msgstr "Suministros"
+
+msgid "Each item description in next update."
+msgstr "Descripción de cada objeto en la próxima actualización."
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Rename"
+msgstr "Renombrar"
+
+msgid "Load Successful"
+msgstr "Cargado Correctamente"
+
+msgid "Split Touch Controls"
+msgstr "Controles de Toque"
+
+msgid ""
+"Screen\n"
+"Resolution"
+msgstr ""
+"Resolución\n"
+"De Pantalla"
+
+msgid "Horizontal load distance: [FF0000]{0:0}"
+msgstr "Carga De Distancia Horizontal: [FF0000]{0:0}"
+
+msgid "Not enough Diamonds"
+msgstr "No tienes suficientes Diamantes"
+
+msgid "Items"
+msgstr "Objetos"
+
+msgid "Current fly speed: {0}"
+msgstr "Velocidad de Vuelo Actual: {0}"
+
+msgid "български"
+msgstr "Búlgaro"
+
+msgid "한국어"
+msgstr "Coreano"
+
+msgid "Walking"
+msgstr "A Pie"
+
+msgid "Texture resolution: [FF0000]{0:0}"
+msgstr "Resolución de textura: [FF0000]{0:0}"
+
+msgid "Full version only"
+msgstr "Solamente en Versión Completa"
+
+msgid "Driving"
+msgstr "Conduciendo"
+
+msgid "Complete"
+msgstr "Completado"
+
+msgid "Plants"
+msgstr "Plantas"
+
+msgid "Dynamic Elements Effects"
+msgstr "Efectos de Elementos Dinámicos"
+
+msgid "Characters"
+msgstr "Personajes"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Water quality: [FF0000]{0:0}"
+msgstr "Calidad De Agua: [FF0000]{0:0}"
+
+msgid "Try to use elevator closer to pipes!"
+msgstr "¡Trata de usar el elevador más cerca de las tuberías!"
+
+msgid "Load this character and world by default"
+msgstr "Carga este personaje y este mundo por defecto"
+
+msgid "Main Menu"
+msgstr "Menú Principal"
+
+msgid "Current level: {0}"
+msgstr "Nivel Actual: {0}"
+
+msgid "Tools"
+msgstr "Herramientas"
+
+msgid "Enable USB Mouse Support"
+msgstr "Activar Soporte De Ratón Por USB"
+
+msgid "Joy Control"
+msgstr "Control De Joystick"
+
+msgid "Preview Pictures"
+msgstr "Vista Previa de Fotos"
+
+msgid "Current fly time: {0}"
+msgstr "Tiempo Actual de Vuelo: {0}"
+
+msgid "World: [00FF00]{0}[-], already exists. Pick a different name."
+msgstr "El Mundo: [00FF00]{0}[-], ya existe. Elige un nombre diferente."
+
+msgid "World: [00FF00]{0}[-], not found."
+msgstr "No se ha encontrado el Mundo: [00FF00]{0}[-]."
+
+msgid "Loot Distance:"
+msgstr "Distancia Del Botín:"
+
+msgid "Radar legend"
+msgstr "Leyenda de Radar"
+
+msgid "Come build something EPIC!"
+msgstr "¡Ven y construye algo ÉPICO!"
+
+msgid "Spawners"
+msgstr "Nidos"
+
+msgid "Skip"
+msgstr "Omitir"
+
+msgid "Bed point direction"
+msgstr "Dirección Punto de Cama"
+
+msgid "Community"
+msgstr "Comunidad"
+
+msgid "Fly Speed:"
+msgstr "Velocidad De Vuelo:"
+
+msgid ""
+"Unload Assets from memory\n"
+"(for low memory devices only)\n"
+"[FF0000]Decreases Performance![-]"
+msgstr ""
+"Descargar Activos Desde La Memoria \n"
+"(Solo Para Dispositivos con poca memoria)\n"
+"[FF0000]¡Disminuye Rendimiento![-]"
+
+msgid "Volume: [FF0000]{0:0.0}"
+msgstr "Volumen: [FF0000]{0:0.0}"
+
+msgid "Tilt sensitivity: [FF0000]{0:0.0}"
+msgstr "Sensibilidad De Inclinación: [FF0000]{0:0.0}"
+
+msgid "Auto Jump"
+msgstr "Salto Automático"
+
+msgid "Increases bow shoot distance and arrow speed."
+msgstr "Aumenta la distancia de lanzamiento y la velocidad de la flecha."
+
+msgid "Enable Camera Z axis tilt effect"
+msgstr "Activar efecto de inclinación en la Cámara del eje Z"
+
+msgid "Tilt Control"
+msgstr "Control De Inclinación"
+
+msgid "Drag rotation"
+msgstr "Rotación De Arrastre"
+
+msgid "Drag Control"
+msgstr "Control de Arrastre"
+
+msgid "Enter spawn point name"
+msgstr "Introducir nombre de punto de nacimiento"
+
+msgid "Coloring"
+msgstr "Tintado"
+
+msgid "Background Sounds"
+msgstr "Sonidos De Fondo"
+
+msgid "Show On Connect"
+msgstr "Mostrar al Conectar"
+
+msgid "Head Bobbing"
+msgstr "Mover cabeza"
+
+msgid "You will receive:"
+msgstr "Recibirás:"
+
+msgid "Story"
+msgstr "Historia"
+
+msgid "Animals"
+msgstr "Animales"
+
+msgid "Arrow Damage:"
+msgstr "Daño de Flecha:"
+
+msgid "Current health: {0}/{1}"
+msgstr "Salud Actual: {0}/{1}"
+
+msgid "Achievements"
+msgstr "Logros"
+
+msgid "Fast"
+msgstr "Rápido"
+
+msgid "Current Exp: {0}"
+msgstr "Exp Actual: {0}"
+
+msgid "Deutsch"
+msgstr "Alemán"
+
+msgid "#blockstory http://www.blockstory.net"
+msgstr "#blockstory http://www.blockstory.net"
+
+msgid "Creative"
+msgstr "Creativo"
+
+msgid "Unlock World"
+msgstr "Desbloquear Mundo"
+
+msgid "Field of view"
+msgstr "Campo de vista"
+
+msgid "Increases movement speed."
+msgstr "Incrementa la velocidad de movimiento."
+
+msgid "Exp"
+msgstr "Exp."
+
+msgid "Rotation Smoothing:  [FF0000]{0:0.00}"
+msgstr "Suavidad de Rotación:  [FF0000]{0:0.00}"
+
+msgid "Can't mount this creature!"
+msgstr "¡No puedes montar esta criatura!"
+
+msgid "Can't use this tool on creatures!"
+msgstr "¡No se puede usar esta herramienta sobre criaturas!"
+
+msgid "Arrows: [00FF00]{0}"
+msgstr "Flechas: [00FF00]{0}"
+
+msgid "Quests"
+msgstr "Misiones"
+
+msgid ""
+"Increases magic attack.  To use it, click and hold on an enemy, then wait "
+"for the casting bar to reach full.  Magic can be the most powerful weapon in "
+"your inventory, but need you time to cast it.  Be careful!  ;)"
+msgstr ""
+"Aumenta el ataque mágico. Para usarlo, haz clic y mantén pulsado sobre un "
+"enemigo. Espera hasta que la barra de lanzamiento esté llena. La magia puede "
+"ser el arma más poderosa de tu inventario, pero necesitas tiempo para su "
+"lanzarla, así que ¡ten cuidado;)"
+
+msgid "Français"
+msgstr "Francés"
+
+msgid "Enable Camera effects"
+msgstr "Activar Efectos de Cámara"
+
+msgid "Earthquake!!!"
+msgstr "¡¡¡Terremoto!!!"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Tilt rotation"
+msgstr "Rotación de Inclinación"
+
+msgid "Elevator move backward"
+msgstr "Mover el elevador hacia atrás"
+
+msgid "Enable Hand tools tilt effect"
+msgstr "Habilitar herramientas de mano con efecto de inclinación"
+
+msgid "Epic Spawners"
+msgstr "Nidos Épicos"
+
+msgid "Spawn point"
+msgstr "Punto de Nido"
+
+msgid "Please Wait..."
+msgstr "Por favor, espera..."
+
+msgid "Level:"
+msgstr "Nivel:"
+
+msgid ""
+"If you purchase the full version you will be able to have more than one "
+"character"
+msgstr "Si compras la versión completa podrás tener más de un personaje"
+
+msgid "NPC / Neytral"
+msgstr "NPC / NeyTral"
+
+msgid "Not enough Graviton!"
+msgstr "¡No hay Gravitón suficiente!"
+
+msgid "Español"
+msgstr "Idioma Español"
+
+msgid ""
+"Redeem\n"
+"Coupon"
+msgstr ""
+"Redimir\n"
+"Cupón"
+
+msgid "Show when taking pictures"
+msgstr "Muéstralo cuando saques fotos"
+
+msgid "Picture"
+msgstr "Imagen"
+
+msgid "Enter Coupon Code"
+msgstr "Introduce el código del cupón"
+
+msgid "Login"
+msgstr "Iniciar sesión"
+
+msgid "Logout"
+msgstr "Salir de la sesión"
+
+msgid "Not logged in"
+msgstr "No se ha registrado"
+
+msgid ""
+"Watch a short video\n"
+"to keep your experience"
+msgstr ""
+"Ve un vídeo corto \n"
+"para mantener tu experiencia"
+
+msgid "Watch"
+msgstr "Ver"
+
+msgid ""
+"Coupon already redeemed\n"
+"\n"
+"Would you like to purchase more Diamonds?"
+msgstr ""
+"El cupón ya se ha procesado\n"
+"\n"
+"¿Quieres comprar más Diamantes?"
+
+msgid "Enable Attack Button"
+msgstr "Habilitar Botón de Ataque"
+
+msgid "Enable Creatures"
+msgstr "Habilitar Criaturas"
+
+msgid "Max Creatures Count: [FF0000]{0}[-]"
+msgstr "Máximas Criaturas: [FF0000]{0}[-]"
+
+msgid "Chinese"
+msgstr "Chino"
+
+msgid "Chinese (Taiwan)"
+msgstr "Chino (Taiwan)"
+
+msgid "Not enough room in inventory."
+msgstr "No tienes suficiente espacio en el inventario."
+
+msgid "You don't have enough {0}."
+msgstr "No tienes suficiente {0}."
+
+msgid "Purchase successful!"
+msgstr "¡La compra se ha completado!"
+
+msgid "Controller Connected"
+msgstr "Controlador Detectado"
+
+msgid "Exit To Desktop"
+msgstr "Salir"
+
+msgid "Joystick"
+msgstr "Joystick"
+
+msgid "Drag"
+msgstr "Arrastrar"
+
+msgid "Accelerometer"
+msgstr "Acelerómetro"
+
+msgid "D-Pad"
+msgstr "Botones"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:287
+# UnityGame/Assets/Localization/T.cs:41
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1081
+msgid "Ты МЕРТВ!!!"
+msgstr "¡Tы МЕРТВ!!!"
+
+msgid "Default"
+msgstr "Por Defecto"
+
+msgid "Come back tomorrow for a new gift!"
+msgstr "¡Vuelve mañana por un regalo nuevo!"
+
+msgid ""
+"Place a [FF0000]Hammer[-] or [FF0000]Iron Hammer[-] in the left crafting "
+"slot to repair weapons and armor over time."
+msgstr ""
+"Pon un [FF0000]Martillo[-] o un [FF0000]Martillo de Hierro[-] a la izquierda "
+"para reparar armas y armaduras."
+
+msgid "NPC / Neutral"
+msgstr "NPC / Neutral"
+
+msgid "Watch a short video to keep your experience."
+msgstr "Ve un vídeo corto para mantener tu experiencia."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:40
+# UnityGame/Assets/Localization/BaseTranslation.cs:330
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+msgid "Free"
+msgstr "Gratis"
+
+msgid "Free Diamonds"
+msgstr "Diamantes Gratis"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "Key Mapping:"
+msgstr "Mapa del Teclado:"
+
+msgid "Walk"
+msgstr "Caminar"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Jump"
+msgstr "Saltar"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "Fly"
+msgstr "Volar"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "F"
+msgstr "F"
+
+msgid "Interact / Attack"
+msgstr "Usar / Atacar"
+
+msgid "Left Mouse"
+msgstr "Botón izquierdo del Ratón"
+
+msgid "Use Item"
+msgstr "Usar Objeto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "Right Mouse"
+msgstr "Botón derecho del Ratón"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "Use Offhand"
+msgstr "Usar"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "R"
+msgstr "R"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "Quick Slot"
+msgstr "Acceso Rápido"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "0 - 9"
+msgstr "0 - 9"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "Q"
+msgstr "Q"
+
+msgid "Skills"
+msgstr "Habilidades"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "C"
+msgstr "C"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "J"
+msgstr "J"
+
+msgid "Screenshot"
+msgstr "Foto de la Pantalla"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "P"
+msgstr "P"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1103
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:413
+msgid "Esc"
+msgstr "Esc"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUIMath.cs:419
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:150
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:196
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:332
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:267
+msgid "V"
+msgstr "V"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+msgid "Y"
+msgstr "Y"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+msgid "W"
+msgstr "W"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+msgid "S"
+msgstr "S"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1097
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:407
+msgid "E"
+msgstr "E"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1097
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:407
+msgid "Mouse Scroll"
+msgstr "Desplazarse con el Ratón"
+
+msgid "Day {0}"
+msgstr "Día {0}"
+
+msgid "Come back tomorrow for more free prizes!!!"
+msgstr "¡¡¡Regresa mañana para más regalos!!!"
+
+msgid "Antialias"
+msgstr "Antialiado"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1111
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:416
+msgid "Pixel Correction"
+msgstr "Corrección de puntos"
+
+msgid "Grass quality: [FF0000]{0:0}"
+msgstr "Nivel de detalle de la grama: [FF0000]{0:0}"
+
+msgid "Model Blocks Quality: [FF0000]{0:0}"
+msgstr "Nivel de detalle de modelos: [FF0000]{0:0}"
+
+msgid "Grass Quality: [FF0000]{0:0}"
+msgstr "Nivel de detalle de la grama: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+msgid "Window Blur"
+msgstr "Nublado de Ventanas"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:530
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:456
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+msgid "Selector Color"
+msgstr "Selección de Color"
+
+msgid "Weather quality: [FF0000]{0:0}"
+msgstr "Nivel de detalle del clima: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1461
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:237
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drop {0}x{1}?"
+msgstr "Suelta {0}x{1}?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:503
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:232
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drop this item?"
+msgstr "Soltar el objeto?"
+
+msgid "Try to use minecart closer to rails!"
+msgstr "Pon la vagoneta sobre los rieles!"
+
+msgid "Minecart placed"
+msgstr "Vagoneta colocada"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/NGUIMath.cs:419
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:150
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:196
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:332
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIDraggablePanel.cs:241
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1094
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1158
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:425
+msgid "Reset Daily Reward Settings"
+msgstr "Limpia la configuración del regalo diario"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1134
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1158
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:425
+msgid "Fog"
+msgstr "Neblina"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Selector/MinecartSummoner.cs:28
+msgid "Minecart can only be placed on flat rails!"
+msgstr "La vagoneta va sobre los rieles planos!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Mount/Minecart.cs:82
+msgid "Can stop or change direction only on flat rails"
+msgstr "Solo puedes parar y cambiar dirección sobre los rieles planos"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:76
+# UnityGame/Assets/Blocksters/Scripts/Mount/Minecart.cs:86
+msgid "Need to stop before reverse"
+msgstr "Para antes de retroceder"
+
+msgid "Please enter sign message"
+msgstr "Introduce el mensaje para el letrero"
+
+msgid ""
+"Restore\n"
+"Purchases"
+msgstr ""
+"Restaurar\n"
+"Compras"
+
+msgid "Foods"
+msgstr "Comida"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1083
+msgid "Mati_Pet"
+msgstr "Mascota Mati"
+
+msgid "Music Volume: [FF0000]{0:0.0}"
+msgstr "Volumen de música: [FF0000]{0:0.0}"
+
+msgid "Vertical Sync: [FF0000]{0:0}"
+msgstr "Sincronización vertical: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+msgid "Use Custom Controller"
+msgstr "Usar controlador personalizado"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+msgid "Light"
+msgstr "Luz"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+msgid "Shadows"
+msgstr "Sombra"
+
+msgid "Vertical Sync (60 fps)"
+msgstr "Sincronización vertical (60 fps)"
+
+msgid "Vertical Sync (30 fps)"
+msgstr "Sincronización vertical (30 fps)"
+
+msgid "Coupons"
+msgstr "Cupones"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Show Battery Indicator"
+msgstr "Mostrar indicador de batería"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+msgid "Critical battery power, the game will automatically quit in 15 seconds"
+msgstr ""
+"Nivel de batería crítico, el juego se cerrará automáticamente en 15 segundos"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+msgid "Low battery power"
+msgstr "Batería baja"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+msgid "Failed to load rewarded video"
+msgstr "No se pudo cargar vídeo de recompensa"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+msgid "Awarded [FF0000]{0:0}[-] Diamonds"
+msgstr "Recompensa [FF0000]{0:0}[-] Diamantes"
+
+msgid "Awarded Respawn"
+msgstr "Reaparecer"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Collector"
+msgstr "Coleccionista"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:696
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "U"
+msgstr "U"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UITrashSlot.cs:37
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drag any item here to destroy it."
+msgstr "Arrastra cualquier objeto aquí para destruirlo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:503
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:232
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Destroy this item?"
+msgstr "¿Destruir este objeto?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:74
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:503
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:232
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Destroy item {0}?"
+msgstr "¿Destruir el objeto {0}?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:28
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+msgid ""
+"Same rules as Survival but,\n"
+"creatures are twice as strong, and you have a limited amount of lives. If "
+"you lose all of your lives the world and character get deleted."
+msgstr ""
+"Las mismas reglas que la supervivencia, pero, las criaturas son dos veces "
+"más fuertes, y tienes una cantidad limitada de vidas. si pierdes todas tus "
+"vidas el mundo y el personaje se eliminan."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:24
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+msgid ""
+"Free roam.\n"
+"You have unlimited health, resources, and you can fly infinitely."
+msgstr ""
+"Deambula libremente. tienes salud ilimitada, recursos y puedes volar "
+"infinitamente."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:15
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+msgid ""
+"Easy Difficulty.\n"
+"Complete the main story and conquer all of your foes to become the ultimate "
+"dragon rider! "
+msgstr ""
+"Dificultad fácil. ¡Completa la historia principal y conquista a todos tus "
+"enemigos para convertirte en el mejor jinete de dragón! "
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/Gui/ModeDescription.cs:20
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:189
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:123
+msgid ""
+"Story, but with a twist!\n"
+"No flying with mana, and you drop everything and lose some experience when "
+"you die."
+msgstr ""
+"Historia, pero con un toque!\n"
+"No puedes volar con maná, y cuando mueres pierdes tus objetos y algo de "
+"experiencia."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:294
+# UnityGame/Assets/Scripts/Talents/CharacterAttributeScaled.cs:25
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:138
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:120
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerHealth.cs:114
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEffectTimedDamage.cs:39
+msgid "Losing experience..."
+msgstr "Perdiendo experiencia..."
+
+msgid "Survival"
+msgstr "Supervivencia"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIPetEquipmentSlot.cs:43
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Special equipment slot for pets.\n"
+"\n"
+"Only special pet equipment items can be equipped here."
+msgstr ""
+"Ranura de equipamiento especial para mascotas. \n"
+"Solo se pueden equipar artículos especiales para mascotas"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/ControlsMobile/Summoner.cs:49
+msgid "You can't summon more than 5 creatures at once!"
+msgstr "¡No puedes invocar más de 5 criaturas a la vez!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/ControlsMobile/Summoner.cs:49
+msgid "You can't summon more than {0} creatures at once!"
+msgstr "¡No puedes invocar más de {0} criaturas a la vez!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Past Code"
+msgstr "Pegar Codigo"
+
+msgid "Get Code"
+msgstr "Obtener Codigo"
+
+msgid "Link"
+msgstr "Enlace"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Scripts/UI/UIInput.cs:221
+# UnityGame/Assets/NGUI/Scripts/UI/UIInput.cs:264
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:379
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:856
+msgid "Input Code Here"
+msgstr "Introduce el codigo aquí"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:68
+msgid "Used: {0}% ({1}/{2})"
+msgstr "Usado: {0}% ({1}/{2})"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:55
+msgid "Hello, {0}"
+msgstr "Hola, {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:71
+msgid "Used: {0}% ({1} Mb/{2} Mb)"
+msgstr "Usado: {0}% ({1} Mb/{2} Mb)"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/DropboxLogin.cs:71
+msgid "Used: {0}% ({1}/{2} Mb)"
+msgstr "Usado: {0}% ({1}/{2} Mb)"
+
+msgid "Show news at startup"
+msgstr "Mostrar noticias al iniciar"
+
+msgid "Logging in"
+msgstr "Iniciando sesión"
+
+msgid "Downloading character {0} - {1}%"
+msgstr "Descargando personaje {0} - {1}%"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyChars.cs:65
+# UnityGame/Assets/Boxit/ListMyChars.cs:63
+# UnityGame/Assets/Boxit/ListMyChars.cs:51
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessageUpward.cs:15
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Uploading character {0} - {1}%"
+msgstr "Subiendo personaje {0} - {1}%"
+
+msgid "Failed to download character {0}, {1}"
+msgstr "Fallo al descargar personaje {0}, {1}"
+
+msgid "Failed to upload character {0}, {1}"
+msgstr "Fallo al subir personaje {0}, {1}"
+
+msgid "Uploading world {0} - {1}%"
+msgstr "Subiendo mundo {0} - {1}%"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:69
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:49
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessageUpward.cs:15
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Compressing world {0}"
+msgstr "Comprimiendo mundo {0}"
+
+msgid "Downloading world {0} - {1}%"
+msgstr "Descargando mundo {0} - {1}%"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListAvailableWorlds.cs:119
+msgid "Decompressing world {0}"
+msgstr "Descomponiendo mundo {0}"
+
+msgid "Failed to download world {0}, {1}"
+msgstr "Fallo al descargar mundo {0}, {1}"
+
+msgid "Failed to upload world {0}, {1}"
+msgstr "Fallo al subir {0}, {1}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyWorlds.cs:78
+msgid "Searching for remote world {0}"
+msgstr "Buscando mundo remoto {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Paste code from buffer"
+msgstr "Pegar el código del búfer"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Boxit/ListMyChars.cs:60
+msgid "Searching for remote character {0}"
+msgstr "Buscando personaje remoto {0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1259
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:440
+msgid "Show Selector"
+msgstr "Mostrar selector"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Armor:"
+msgstr "Armadura:"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:381
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:103
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:69
+# UnityGame/Assets/Blocksters/Scripts/Terrain/renderer/TerrainLoader.cs:213
+msgid "Can't move more than [00FF00]{0}[-] blocks."
+msgstr "No se pueden mover más de [00FF00] {0} [-] bloques."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:371
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:103
+# UnityGame/Assets/Blocksters/Selector/Piston.cs:69
+# UnityGame/Assets/Blocksters/Scripts/Terrain/renderer/TerrainLoader.cs:213
+msgid "Block [00FF00]{0}[-] cannot be moved."
+msgstr "El bloque [00FF00] {0} [-] no se puede mover."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:39
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:63
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1400
+# UnityGame/Assets/Scripts/ABTesting/StoreItem.cs:63
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Amount"
+msgstr "Cantidad"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:39
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:63
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1400
+# UnityGame/Assets/Scripts/ABTesting/StoreItem.cs:63
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Amount: {0:0}"
+msgstr "Cantidad: {0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Wheel of Fortune"
+msgstr "Rueda de la fortuna"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Respin"
+msgstr "Respin"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "You have won..."
+msgstr "Usted ha ganado..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIGramophoneEquipmentSlot.cs:42
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid ""
+"Special slot for Gramophone.\n"
+"\n"
+"Only special record items can be placed here."
+msgstr ""
+"Ranura especial para gramófono.\n"
+"\n"
+"Aquí sólo se pueden colocar elementos de registro especiales."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+msgid "Mass Build"
+msgstr ""
+
+#, fuzzy
+msgid "Mass Build Width: [FF0000]{0:0}"
+msgstr "Nivel de detalle de la grama: [FF0000]{0:0}"
+
+#, fuzzy
+msgid "Mass Build Height: [FF0000]{0:0}"
+msgstr "Nivel de detalle de la grama: [FF0000]{0:0}"
+
+#, fuzzy
+msgid "Mass Build Depth: [FF0000]{0:0}"
+msgstr "Nivel de detalle de la grama: [FF0000]{0:0}"
+
+#, fuzzy
+msgid ""
+"Coupon already redeemed.\n"
+"\n"
+"Would you like to purchase more Diamonds?"
+msgstr ""
+"El cupón ya se ha procesado\n"
+"\n"
+"¿Quieres comprar más Diamantes?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
+msgid "Paste"
+msgstr "Pegar Codigo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
+#, fuzzy
+msgid "Awarded [0000FF]{0:0}[-] Diamonds!"
+msgstr "Recompensa [FF0000]{0:0}[-] Diamantes"
+
+#, fuzzy
+msgid "Target FPS: [FF0000]{0:0}"
+msgstr "Sincronización vertical: [FF0000]{0:0}"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:77 
+# UnityGame/Assets/Blocksters/Scripts/IAP/PurchaseSpeedUp.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/IAP/PurchaseSpeedUp.cs:82 
+# UnityGame/Assets/Blocksters/Scripts/ControlsMobile/SummonerRevive.cs:29 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:588 
+msgid "Speed Up for [2b65a0]{0} {1}[-]?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:46 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Don't interrupt music when changing biomes"
+msgstr ""
+
+#, fuzzy
+msgid "Collapse"
+msgstr "Cerrar"
+
+#, fuzzy
+msgid "Vertical Sync"
+msgstr "Sincronización vertical (60 fps)"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:46 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1254 
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:440 
+msgid "Disable Music Cutoff"
+msgstr ""
+
+#, fuzzy
+msgid "Enable Jumping Sounds"
+msgstr "Activar Sonido"
+
+#, fuzzy
+msgid "Max Peasants Count: [FF0000]{0}[-]"
+msgstr "Máximas Criaturas: [FF0000]{0}[-]"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Always Run"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Run"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:424 
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:701 
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
+msgid "Left Shift"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:100 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:63 
+msgid "Are you sure you want to reset your skills?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:99 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:62 
+msgid "Nothing to reset!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:77 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:112 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:164 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:154 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Why?"
+msgstr ""
+
+#, fuzzy
+msgid "Ready"
+msgstr "Recompensas:"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:531
+# UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:457
+# UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:661
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+# UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1133
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:31
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckboxControlledObject.cs:22
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1209
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
+#, fuzzy
+msgid "Fight"
+msgstr "Luz"
+
+#, fuzzy
+msgid "Nope"
+msgstr "No"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:77 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:112 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:164 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:154 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42 
+msgid "Go!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:77 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:112 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:164 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:154 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Thx"
+msgstr ""
+
+#, fuzzy
+msgid "Bye"
+msgstr "Comprar"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:103 
+# UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:62 
+msgid ""
+"Oblivion does not touch the armored. It reaches only those who stand "
+"exposed. Unequip all of your armor and gear before using this item."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:79 
+# UnityGame/Assets/Scripts/ABTesting/SkillResetPurchase.cs:130 
+# UnityGame/Assets/Scripts/ABTesting/SkillResetPurchase.cs:94 
+# UnityGame/Assets/Scripts/ABTesting/VerifyPurchase.cs:171 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"Oblivion does not touch the armored. It reaches only those who stand "
+"exposed. Unequip all of your armor and gear."
+msgstr ""
+
+#, fuzzy
+msgid "Fade Joysticks"
+msgstr "Joystick"
+
+#, fuzzy
+msgid "Auto Saving..."
+msgstr "Guardando..."

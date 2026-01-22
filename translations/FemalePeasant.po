@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Female"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Store"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:317 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Trade"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Get Water"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Protect Us"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Get Food"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Add Beauty To Our Town"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:316 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:643 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "Help Us Light Up The Town"
+msgstr ""
+
+msgid ""
+"Hey there traveler! We could really use your help. Our people are struggling "
+"badly. We can barely survive the night out here. Could you help us out? We "
+"are really thirsty. We've lost our water supplies and need to find some "
+"fresh water to drink. If you can bring us buckets of water, maybe we can "
+"make some deals to get you some supplies in return."
+msgstr ""
+
+msgid "Have you managed to get the buckets of water yet? We are very thirsty!"
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us these buckets of water! We will be able to "
+"survive a little longer thanks to your help. Take this. I got this the last "
+"time I went fishing and cooked them up for you as a token of our gratitude. "
+"Keep helping us out and I might have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countrywoman you have the Buckets of Water."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150 
+msgid ""
+"Welcome back fellow traveler! You've been a great help to our towns. I was "
+"recently doing some exploring myself, and I came across this Music disk, in "
+"a chest, that I think you might like. I've heard that these things can be "
+"valuable to travelers like yourself. Our King used to tell us stories about "
+"these lands up very high in the sky. So high that gravity gets low. He told "
+"us just how beautiful the jungles were up there. If this place does exist, "
+"could you bring me back some Space Flowers for our towns? It will attract "
+"other travels to stop by and trade with us. In return, I'll give you this "
+"Music Disk. What do you think, fellow traveler? If this place does exist, "
+"can you bring me some Space Flowers?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:337 
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103 
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid ""
+"Do you have the Space Flowers? We could really use them to attract fellow "
+"travelers from all over!"
+msgstr ""
+
+msgid ""
+"Wow! These Space Flowers are incredible! I've never seen anything like them "
+"before! Thank you so much for bringing these to us! I can't wait to show "
+"them to the others in our village! I hope you enjoy the Music Disk I give "
+"you in return!"
+msgstr ""
+
+msgid "Tell a Countrywoman you have the Space Flowers."
+msgstr ""
+
+msgid ""
+"Welcome back traveler! Our people are doing better thanks to your help. "
+"However we still face great dangers from the wild creatures that roam these "
+"lands and swim these waters. I've heard of this magical branch called a "
+"Sentinel Branch that can help protect us from harm. The branch is made from "
+"the feather of a Raven with some sticks. If you can bring us a few of these "
+"branches, we can use them to create protective wards around our towns to "
+"keep us safe. In return, I'll make sure to reward you with some of our "
+"finest Fried LionFish for your efforts."
+msgstr ""
+
+msgid ""
+"Have you managed to craft the Sentinel Branches yet? We could really use "
+"them to protect out people from the dangers on the outside."
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us these Sentinel Branches! We will be able "
+"to protect our people from harm thanks to your help! Take this. I cooked "
+"these and saved them for you. Keep helping us out and I might have something "
+"special for you soon."
+msgstr ""
+
+msgid "Tell a Countrywoman you have the Sentinel Branches."
+msgstr ""
+
+msgid ""
+"Oh it's you again traveler! It's amazing, these Sentienel Branches are "
+"working wonders for us! Our people feel so much safer now! But we still need "
+"your help. Our crops are failing and we are running low on food supplies. If "
+"you could bring us some Wheat, we can use it to bake some bread to feed our "
+"people. In return, I'll make sure to reward you with some Mana Potions for "
+"your efforts."
+msgstr ""
+
+msgid "Have you managed to get the wheat yet? Our people are hungry!"
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us this Wheat! We will be able to bake some "
+"bread and feed our people thanks to your help. You can have these Mana "
+"Potions. These will help you on your journey. Keep helping us out and I "
+"might have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countrywoman you have the Wheat."
+msgstr ""
+
+msgid ""
+"Good to see you again, traveler! The town is flourishing thanks to your "
+"help! It's time to add some beauty to our town. Our people have been talking "
+"about how nice some flower gardens would be around our homes. Could you help "
+"us gather some Rose Bushes to plant around our town? If you can bring us "
+"some Rose Bushes, we can exchange another reward for your efforts. Would "
+"Health Potions meet your needs?"
+msgstr ""
+
+msgid ""
+"Have you managed to get the rose bushes yet? Our town could really use some "
+"beautification!"
+msgstr ""
+
+msgid ""
+"Thank you for bringing us these Rose Bushes! We will be able to plant them "
+"around our town and make it look so much better thanks to you! Here you go! "
+"These Health Potions should help you on your adventures. Keep helping us out "
+"and I might have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countrywoman you have the Rose Bushes."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:48 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132 
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:157 
+# UnityGame/Assets/Scripts/Quests/Quest.cs:394 
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150 
+msgid ""
+"It's nice to see you back, fellow traveler! Our town is getting darker at "
+"night and it's becoming harder for our people to move around safely. We "
+"could really use some help lighting up the town. If you could bring us some "
+"Wall Torches, we can use them to light up the towns for our people. In "
+"return, I'll make sure to reward you with some of the best cooked food you "
+"can find for your efforts!"
+msgstr ""
+
+msgid ""
+"Have you managed to get the Wall Torches yet? Our town could really use some "
+"light at night!"
+msgstr ""
+
+msgid ""
+"Thank you so much for bringing us these Wall Torches! We will be able to "
+"light up the town and keep our people safe at night thanks to your help! As "
+"promised, here are some of the best cooked fish I could find for you! Keep "
+"helping us out and I might have something special for you soon."
+msgstr ""
+
+msgid "Tell a Countrywoman you crafted the Wall Torches."
+msgstr ""

@@ -1,0 +1,676 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-21 03:51+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"npc-speak/es/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "I'll never forget this."
+msgstr "Nunca olvidaré esto."
+
+msgid "I will collect it for you."
+msgstr "Voy a recogerlo para usted ."
+
+msgid "AAAAAHHHHHHHH!"
+msgstr "¡AAAAAHHHHHHHH!"
+
+msgid "I'm hungry. Give me something to eat so I can restore my strength."
+msgstr "Tengo hambre. Dame algo de comer para que pueda restaurar mi fuerza ."
+
+msgid "I'm feeling stronger!"
+msgstr "¡Me siento más fuerte !"
+
+msgid "Have mercy...."
+msgstr "Ten piedad...."
+
+msgid "Test me and learn the hard way."
+msgstr "Pruébame y aprende por las malas ."
+
+msgid "Die!"
+msgstr "¡Muérete!"
+
+msgid "Do you know where I can find some mushrooms?"
+msgstr "¿Sabes dónde puedo encontrar algunas setas ?"
+
+msgid "Nothing like a dark cave to have the good life."
+msgstr "No hay nada como una cueva oscura para tener una buena vida ."
+
+msgid "After what I've seen, I doubt anything could surprise me."
+msgstr "Después de lo que he visto, no creo que nada me pueda sorprenderme."
+
+msgid "There are some really scary creatures further below.  Be careful."
+msgstr "Hay algunas criaturas realmente asustadizas más abajo. Ten cuidado."
+
+msgid "What? No more spawners? But where are all these creatures coming from?"
+msgstr "¿Qué? No hay más nidos? Pero, ¿de dónde vienen todas estas criaturas?"
+
+msgid "These stupid sharks are everywhere. Be careful!"
+msgstr "Estos tiburones estúpidos están en todas partes. ¡Ten cuidado !"
+
+msgid "I'm so tired of these monsters.  :(  They appear every night."
+msgstr "Estoy tan cansado de estos monstruos. :( Aparecen todas las noches ."
+
+msgid "Beware of Ashkore!  He's your worst nightmare."
+msgstr "¡Ten cuidado con Ashkore ! Él es tu peor pesadilla ."
+
+msgid "Why is everything made out of blocks? Where I am?"
+msgstr "¿Por qué está todo hecho de bloques? ¿Dónde estoy?"
+
+msgid "I need to talk with someone.  I'm going crazy."
+msgstr "Necesito hablar con alguien. Me estoy volviendo loco ."
+
+msgid "There's nothing like getting out of the castle once in while."
+msgstr "No hay nada como salir de el castillo de vez en cuando."
+
+msgid "Click on my health bar if you want to rename me."
+msgstr "Haz clic en mi barra de salud si quieres cambiar el nombre."
+
+msgid "I'm happy to serve my kingdom."
+msgstr "Estoy feliz de servir a mi reino."
+
+msgid "Be good.  Be well."
+msgstr "Sé bueno .Que estés bien ."
+
+msgid "This is for my kingdom!"
+msgstr "¡Esto es por mi reino!"
+
+msgid "There is nothing that can stop me!"
+msgstr "¡No hay nada que me pueda detener!"
+
+msgid "Food too strong."
+msgstr "La comida está demasiado fuerte."
+
+msgid "I will return with a thousand men!"
+msgstr "Volveré con mil hombres !"
+
+msgid "I'm starving.  I suddenly feel very weak."
+msgstr "Me muero de hambre. Me siento muy débil de repente."
+
+msgid "How pathetic."
+msgstr "Qué patético ."
+
+msgid "The boat won't be accepting your toll."
+msgstr "El barco no aceptará su peaje."
+
+msgid "How dare you!"
+msgstr "¡Cómo te atreves!"
+
+msgid "You are no longer welcome here."
+msgstr "Ya no eres bienvenido aquí."
+
+msgid "GRRRAAAWWWRRR!"
+msgstr "¡GRRRAAAWWWRRR!"
+
+msgid "Me no like you no more."
+msgstr "A mi ya no gustar tú más."
+
+msgid "Ahhhhhhhhh!"
+msgstr "¡Ahhhhhhhhh!"
+
+msgid "Mwahahaha!"
+msgstr "¡Buahahahaha!"
+
+msgid "Would you like to buy something?"
+msgstr "¿Quieres comprar algo?"
+
+msgid "Get the greatest deals in all the land!"
+msgstr "¡Consigue las mayores ofertas de toda la tierra!"
+
+msgid "Step right up, and purchase the finest quality items."
+msgstr "Ven y comprar artículos de primera calidad ."
+
+msgid "You look like you could use some help."
+msgstr "Parece que te vendría bien un poco de ayuda."
+
+msgid "Watch my dancing skills!"
+msgstr "¡Mira qué bien bailo!"
+
+msgid "I smell...food?"
+msgstr "Huelo a... ¿comida?"
+
+msgid "I see you."
+msgstr "Te veo ."
+
+msgid "You'll never dance like me!"
+msgstr "¡Nunca podrás bailar como yo!"
+
+msgid "Me like shiny things."
+msgstr "A mí gustar las cosas que brillan."
+
+msgid "Me Goblin."
+msgstr "Mi Duende."
+
+msgid "Now you know what it is to mess with a Viking."
+msgstr "Ahora sabes lo que es meterte con un Vikingo ."
+
+msgid "Please leave me be."
+msgstr "Por favor, déjame en paz ."
+
+msgid "You should have thought twice before attacking me."
+msgstr "Deberías habértelo pensado dos veces antes de atacarme ."
+
+msgid "You will make a fine meal!"
+msgstr "¡Vas a ser una buena comida!"
+
+msgid "Crush! Smash!"
+msgstr "¡Aplastar!"
+
+msgid "I wish I didn't have to do that."
+msgstr "Quisiera no tener que hacer eso."
+
+msgid "I'm too weak. It is better to stay away from these monsters."
+msgstr ""
+"Estoy demasiado débil. Es mejor mantenerse alejado de estos monstruos ."
+
+msgid "I'll show you the strength of a real warrior!"
+msgstr "¡Te voy a mostrar la fuerza de un verdadero guerrero!"
+
+msgid "Die evil fiend!"
+msgstr "¡Muere, malvado demonio !"
+
+msgid "Hello, adventurer."
+msgstr "Hola, aventurero."
+
+msgid ""
+"If you think my skills are as dull as my blade, you got another thing coming."
+msgstr ""
+"Si piensas que mis habilidades son tan aburridas como mi espada, estás "
+"equivocado ."
+
+msgid "Do you ever wonder what lies deep within the caves?"
+msgstr ""
+"¿Te has preguntado alguna vez qué se esconde en lo profundo de las cuevas ?"
+
+msgid "What a great day to be a warrior."
+msgstr "Qué gran día para ser un guerrero."
+
+msgid "I've had better days..."
+msgstr "He tenido días mejores..."
+
+msgid "He he! I have defeated him again!"
+msgstr "¡He he! ¡Le he derrotado otra vez!"
+
+msgid "Smiting evil never gets old."
+msgstr "Castigar al mal nunca pasa de moda."
+
+msgid "We could have been friends..."
+msgstr "Podríamos haber sido amigos..."
+
+msgid "Good luck, my boy!"
+msgstr "¡Buena suerte, hijo!"
+
+msgid "I am all powerful!"
+msgstr "¡Yo soy todopoderoso!"
+
+msgid "Feel the source of life become your death!"
+msgstr "¡Siente cómo la fuente de la vida será tu muerte!"
+
+msgid "What? A human?"
+msgstr "¿Qué? ¿Un ser humano?"
+
+msgid "Where are you?"
+msgstr "¿Dónde estás?"
+
+msgid "It would be nice to have something to eat."
+msgstr "Sería bueno tener algo que comer."
+
+msgid "FOR THE EMPIRE!!!"
+msgstr "¡POR EL IMPERIO !!!"
+
+msgid "I'm coming!"
+msgstr "¡Ya voy !"
+
+msgid "Attack!"
+msgstr "¡Al ataque!"
+
+msgid "I'll teach you some manners!"
+msgstr "¡Te voy a enseñar algunos modales!"
+
+msgid "You're too weak for me!"
+msgstr "¡Eres demasiado débil para mí!"
+
+msgid "You will never find me."
+msgstr "Nunca me encontrarás."
+
+msgid "Do you really think you can kill the dead?"
+msgstr "¿De verdad crees que puedes matar a los muertos?"
+
+msgid "I will pour upon you the power of my blade!"
+msgstr "¡Voy a derramar sobre vosotros el poder de mi espada!"
+
+msgid "I'm going to chop you up into little pieces!"
+msgstr "¡Te voy a cortar en pedazos!"
+
+msgid "You just made a big mistake!"
+msgstr "¡Cometiste un gran error!"
+
+msgid "Watch my moves!"
+msgstr "¡Mira mis movimientos!"
+
+msgid "I'm bored..."
+msgstr "Me aburro..."
+
+msgid "You cant hide."
+msgstr "No puedes esconderte."
+
+msgid "Time for dinner."
+msgstr "Hora de cenar."
+
+msgid "I didn't sign up for this!"
+msgstr "¡Yo no firmé esto!"
+
+msgid "I need to hide."
+msgstr "Me tengo que esconder."
+
+msgid "Many great dangers live far below the surface."
+msgstr "Los mayores peligros acechan bajo la superficie."
+
+msgid "The ocean can be wonderous at times."
+msgstr "El océano puede ser maravilloso, a veces."
+
+msgid "The sky is quite beautiful."
+msgstr "El cielo es tan hermoso."
+
+msgid "Travel the world and discover the wonders of life."
+msgstr "Viaja por el mundo y descubre las maravillas de la vida ."
+
+msgid "You will fail!"
+msgstr "¡Vas a suspender!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:287
+# UnityGame/Assets/Localization/T.cs:77
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:25
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1432
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:734
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:385
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:233
+msgid "Dragon Lord reborn!"
+msgstr "¡El Renacimiento del Señor Dragón!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+msgid "How did the mumble of these arthropod aliens bother me."
+msgstr "Como me molesta el murmullo de estos artrópodos extraterrestres."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+msgid "I look very peaceful, but believe me, this is far from true."
+msgstr "Me veo muy pacífico, pero creeme, esto esta lejos de la verdad."
+
+msgid "Eat my blades!"
+msgstr "¡Come mis cuchillas!"
+
+msgid "You are too naive, mortal!"
+msgstr "¡Eres muy ingenuo, mortal !"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+msgid "Ashkor is strong and powerful, beware of him!"
+msgstr "Ashkore es fuerte y poderoso, ¡Cuidate de él!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "My lightning will pierce you through!"
+msgstr "¡Mis rayos van a perforarte!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+msgid "Do you feel the air being electrified when I get angry?"
+msgstr "¿Puedes sentir el aire siendo electrificado cuando me enojo?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94
+msgid "This world is full of dangers, you need to be careful!"
+msgstr "Este mundo está lleno de peligros, ¡Necesitas ser cuidadoso!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "You can't defeat me, stranger!"
+msgstr "No puedes derrotarme, extraño!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "Ashkor gives me the power to crush you!"
+msgstr "¡Ashkore me entregó el poder para aplastarte!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "You really wanted to get my grace? You fool!"
+msgstr "¿De verdad querías mi gracia? ¡Que Tonto!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "In vain you wandered here, terrible monsters are found here!"
+msgstr "En vano usted vagó aquí, terribles monstruos se encuentran aquí!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:40
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1919
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1334
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "As I said this won't be easy."
+msgstr "Como dije, esto no va a ser fácil."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1909
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:999
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "My swords are charged with the power of lightning!"
+msgstr "¡Mis espadas están cargadas con el poder de los rayos!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:26
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1913
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1410
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:600
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:305
+msgid "Ashkor lightning gives me strength, but they can kill you!"
+msgstr "Los rayos de Ashkore me dan fuerzas, ¡Pero estos pueden matarte!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:82
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:40
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:2157
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:1396
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:646
+# UnityGame/Assets/Blocksters/Scripts/AI/BehaviourController.cs:349
+#, fuzzy
+msgid "Impossible!!!!"
+msgstr "¡¡¡¡Imposible!!!!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "If you’ve got spare hands, we’ve got work that needs doing."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The sea gives little, and takes plenty."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Got any spare gear? Even broken tools help."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We’re not just surviving. We’re trying to live."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Hope’s a fragile thing out here. Don’t let it sink."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We trade stories for supplies. Got any to share?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We need harpoons, not hope! These beasts don’t care about royal blood!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The megalodon’s not a myth! I saw it breach once! Like a mountain rising "
+"from the deep!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "What happened to the king? Some say he’s alive. Others whisper he fled."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The Prince talks of finding his brother, but who will save us if he leaves "
+"too?"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The King ruled with wisdon. Now we drift without it."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The King is missing. The Prince said something about fighting a dragon that "
+"can bury itself underground. I’ve never heard of such a creature before."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The King spoke of a beast with scales like shifting dunes. We thought it was "
+"madness."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"Do sand dunes move? I could have sworn I saw the sand mmove like waves once, "
+"just before the king disappeared."
+msgstr ""
+
+msgid "For the king! For the town! "
+msgstr "За короля! За город!"
+
+msgid "You stirred the deep, outsider! Now we drown you in it!"
+msgstr "Ты потревожил глубины, чужак! Теперь мы утопим тебя в них!"
+
+#, fuzzy
+msgid "The sea’s cruel, but we can be crueler!"
+msgstr "Море жестоко, но мы можем быть ещё жестче!"
+
+msgid "Fall back! We can’t hold them! "
+msgstr "Отступаем! Мы не сдержим их!"
+
+msgid "They are too strong! We need to regroup!"
+msgstr "Они слишком сильны! Нам нужно перегруппироваться!"
+
+#, fuzzy
+msgid "I won’t die here! Not like this!"
+msgstr "Я не умру здесь! Не вот так!"
+
+msgid "What's Kill?"
+msgstr "Что значит 'убить'?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"We recently installed platforms around our floating villages to make it "
+"easier to get out of the ocean. Hope these help travelers like you. "
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "I used to dream of gardens. Now I dream of clean water."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Even scraps can be salvaged. We’re not picky out here."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "Got extras? Let's make a deal."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "We sleep in shifts. The environment doesn't care if we’re tired."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"I've heard tales of a giant shark that drags entire villages underwater. Be "
+"careful out there."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The Prince means well, but kindness doesn’t patch leaks."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"Before he left, the King provided for all of us. Now we scavenge to survive."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"We used to count stars for fun. Now we count them to forget we’re hungry."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The Prince says we’re safe. He hasn’t seen the shark fins circling our "
+"floating villages!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"The Prince tries, but he’s no king. Maybe one day he can find his lost "
+"father."
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "I swear I saw an eye the size of a bucket beneath the waves!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid ""
+"I might be going crazy, but I swear I saw something looking at me from the "
+"sky! It had red glowing eyes and just vanished!"
+msgstr ""
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:84 
+# UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+msgid "The King used to walk among us. Not above us. That’s why we miss him."
+msgstr ""

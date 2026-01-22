@@ -1,0 +1,876 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-10 03:26+0000\n"
+"Last-Translator: Paul Pacheco <paul@blockstory.net>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"mr-goblin/es/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:1
+msgid "Binary Contraption"
+msgstr "Dispositivo Binario"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:23
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:44
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:65
+#, no-wrap
+msgid "Hello-o-o-o-o-o, Dragon Rider!  It’s great to see your stupid face again.  I’m working on a sick computer-thingy that will power a mechanical walker, the coolest new attack vehicle around!  Bring me some Unobtainium, and I’ll give it to you."
+msgstr "Hooooola  Jinete de Dragones! Me alegra ver tu estúpida cara de nuevo. Estoy trabajando en una computadora que podrá controlar a un robot que camina, el nuevo y mejor vehículo de ataque! Trae algo de Unobtanio y te lo doy."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:24
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:45
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:66
+#, no-wrap
+msgid "C’mon, you knew you’d need to do something before I give up the prize.  But hey, I appreciate you going to hell and back for me.  Literally!  Hahaha!"
+msgstr "Vamos, sabías que ibas a tener que hacer algo antes de que te diera la recompensa. Pero sabes que?  Aprecio que hallas ido al infierno. Literalmente!  Hahaha!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:29
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:50
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:71
+#, no-wrap
+msgid "Tell Mr. Goblin you have the Unobtainium."
+msgstr "Dile al Señor Duende que tienes el Unobtanio."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:25
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:67
+#, no-wrap
+msgid "Not bad, Dragon Rider.  But I’m gonna need way more Unobtainium than this.  Bring me some more tomorrow, and we’ll see."
+msgstr "No esta nada mal Jinete de Dragones. Pero voy a necesitar mas Unobtaneo.  Tráe mas mañana y veremos."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Binary%20Contraption.xml:46
+#, no-wrap
+msgid "Oh all right.  I guess this is enough Unobtainium.  Here ya go, Dragon Rider.  But don’t break my computer!  I’ll pop ya one in the nose."
+msgstr "Está bien. Supongo que es suficiente Unobtaneo. Aquí tienes Jinete de Dragones. Pero no rompas mi computadora!  o te rompo la cara."
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:1
+msgid "Dragon Pants"
+msgstr "Pantalones de Dragón"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:6
+#, no-wrap
+msgid "That no good stinking Dragon Lord!  I’d like to wring his lordly neck!"
+msgstr "¡Ese malvado y apestoso Señor Dragón! ¡Me gustaría retorcerle su señorial cuello!"
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:19
+#, no-wrap
+msgid "Too much time under ground, too many explosions—let’s be honest, I’m pretty nuts.  But not as nuts as that punk Dragon Lord.  Let’s chew his ankles off!  Or I could help you make stuff to fight him.  That too."
+msgstr "Demasiado tiempo bajo tierra, demasiadas explosiones. Seamos honestos: estoy medio loco. Pero no tanto como ese vándalo del Señor Dragón.¡Hagámosle morder el polvo! O podría ayudarte a construir algo para luchar contra él. Eso también."
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:20
+#, no-wrap
+msgid "I’ve been thinking, and maybe this is just a crazy conspiracy theory, but I think the angry streak we goblins have is due to the Dragon Lord’s meddling.  Our weak minds were influenced too easily."
+msgstr "He estado pensando y quizás sea simplemente una teoría conspiratoria, pero creo que ese punto enfadado que tenemos los duendes se debe a la intromisión del Señor Dragón. Nuestras débiles mentes se influencian con demasiada facilidad."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:25
+#, no-wrap
+msgid "Tell Mr. Goblin you have crafted the Dragon Pants."
+msgstr "Dile al Señor Duende que tienes los Pantalones de Dragón."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:21
+#, no-wrap
+msgid "You look rather fetching in those pants, Dragon Rider.  Even if the Dragon Lord smashes you with one blow, at least you’ll look stylish being obliterated."
+msgstr "Mejor trae esos pantalones, Jinete del Dragón. Así, si el Señor Dragón te destroza de un soplido, al menos estarás bien vestido mientras desapareces."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:40
+#, no-wrap
+msgid ""
+"Even I’m not crazy enough to want the Dragon Lord to rule the land.  That guy is a jerk!\n"
+"\n"
+"There’s just one more piece of dragon gear to go, but you’ll need a master craftsman to make this one.  Maybe that wimpy warrior can help you."
+msgstr ""
+"No estoy lo suficientemente loco como para querer que el Señor Dragón dirija la tierra. ¡Es un patán!\n"
+"\n"
+"Solamente falta una pieza más del engranaje del dragón para partir, pero necesitarás un maestro artesano para hacerla. Quizás ese guerrero debilucho pueda ayudarte."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Dragon%20Pants.xml:47
+#, no-wrap
+msgid "Speak to Aaron about the next piece of dragon gear."
+msgstr "Habla con Aaron sobre la siguiente pieza del engranaje del dragón."
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:1
+msgid "Explosive Knowledge"
+msgstr "Conocimiento Explosivo"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:6
+#, no-wrap
+msgid "I promised to help you make things go kaboom, so let's start with the basics."
+msgstr "Prometo ayudarte a que las cosas salgan bien, así que vamos a empezar por lo básico."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:19
+#, no-wrap
+msgid ""
+"Step one: Make gunpowder.\n"
+"\n"
+"Step two: Blow stuff up!\n"
+"\n"
+"Step one is not the fun part, but you gotta start somewhere."
+msgstr ""
+"Paso uno: Consigue pólvora. \n"
+"\n"
+"Paso dos: ¡Explótala!\n"
+"\n"
+"El paso uno no es nada divertido, pero tienes que empezar por algún sitio."
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:26
+#, no-wrap
+msgid ""
+"I can’t wait to show you how to make TNT.  I can almost smell the sulfur.\n"
+"\n"
+"But first we are going to need some gunpowder."
+msgstr ""
+"Estoy deseando enseñarte a hacer TNT. Ya casi puedo oler el azufre.\n"
+"\n"
+"Pero primero necesitamos pólvora."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:35
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:53
+#, no-wrap
+msgid "Tell Mr. Goblin you have crafted the gunpowder."
+msgstr "Dile al Señor Duende que has encontrado la pólvora."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:31
+#, no-wrap
+msgid "I can’t believe I spent all that time living under a mountain.  Have you been up here this whole time, doing stuff for people?  Dang!"
+msgstr "No puedo creerme que haya pasado toda mi vida viviendo bajo una montaña. ¿Has estado aquí todo el tiempo, haciendo cosas para la gente? ¡Pues vaya!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:50
+#, no-wrap
+msgid "With that Gunpowder in hand, making TNT should be a breeze.  It’s fun, too."
+msgstr "Con esa Pólvora en la mano, no tardarás nada en hacer TNT. Además, es divertido."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:66
+#, no-wrap
+msgid "You can never have too much dynaminte.  Trust me, you’ll have a...blast?  Eee hee hee!!!!"
+msgstr "Nunca puedes tener demasiada dinamita. Créeme, te va a ...¿explotar? Ehhh, ehhh!!!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:74
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:94
+#, no-wrap
+msgid "Tell Mr. Goblin you have crafted the TNT."
+msgstr "Dile al Señor Duende que has conseguido TNT."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:70
+#, no-wrap
+msgid "We’ve got explosives.  KABLAMMO!"
+msgstr "Tenemos explosivos. ¡KABLAMMO!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:89
+#, no-wrap
+msgid "Now we can blow things up!  It’s going to be violent and bl-ech, ack!"
+msgstr "¡Ahora podemos explotar cosas! Va a ser violento y bestial, ¡ack!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Explosive%20Knowledge.xml:103
+#, no-wrap
+msgid ""
+"Oh, my little green head.  What happened?  And why do I suddenly have the overwhelming desire to read?\n"
+"\n"
+"[FF00FF]* shudder *[-]"
+msgstr ""
+"¡Oh, mi cabecita verde! ¿Qué ha pasado? ¿Y por qué de repente tengo el irresistible impulso de leer?\n"
+"\n"
+"[FF00FF]* temblor *[-]"
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:1
+msgid "Goblin Secret"
+msgstr "El Secreto del Duende"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:12
+#, no-wrap
+msgid "Is there something I can do for you?  Ah.  That Alchemist fellow told you that I might be able to help you create some armor out of those skins?  Well, I've got good news and bad news."
+msgstr "¿Hay algo que pueda hacer por ti? Ah. ¿Ese Alquimista te dijo que yo podría ayudarte a crear una armadura de esas pieles? Bueno, tengo buenas y malas noticias."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:15
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:29
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:39
+#, no-wrap
+msgid "Talk to Mr. Goblin about his secrets."
+msgstr "Habla con el Señor Duende sobre sus secretos."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:22
+#, no-wrap
+msgid ""
+"The good news is that I can definitely show you how to make some armor.\n"
+"\n"
+"The bad news is that you retrieved the wrong kind of skins."
+msgstr ""
+"La buena noticia es que definitivamente te puedo mostrar cómo hacer una armadura. \n"
+"\n"
+"La mala noticia es que las pieles que has traído no son buenas."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:36
+#, no-wrap
+msgid "You see.  Goblins like to use horse skins to craft their armor.  We tend to get pretty large and a deer just doesn't cut it."
+msgstr "Verás. A los duendes les gusta usar pieles de caballo para sus armadura. Suelen ser bastante grandes y un ciervo no es suficiente."
+
+#. (itstool) path: collectstep/intro
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:48
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:49
+#, no-wrap
+msgid "If you want to learn how to craft the goblin helmet you are going to have to retrieve some horse skins first.  Return to me when you have them."
+msgstr "Si quieres aprender cómo elaborar el casco del duende tienes que conseguir algunas pieles de caballo primero. Vuelve a mí cuando las tengas."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:56
+#, no-wrap
+msgid "Tell Mr. Goblin that you have the horse skins."
+msgstr "Dile al Señor Duende que tienes las pieles de caballo."
+
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:50
+#, no-wrap
+msgid ""
+"Excellent!  Now you can start looking more like a goblin.\n"
+"\n"
+"But this is only the beginning.  I require some things to be taken care of around these parts before I'm willing to part with more of my goblin secrets."
+msgstr ""
+"Excelente! Ahora empeizas a parecerte más a un duende. \n"
+"\n"
+"Pero esto es sólo el principio. Necesito que hagas algunas cosas por aquí antes de que te diga mis secretos de duende."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:71
+#, no-wrap
+msgid "Goblins tend to have too much meat in our diets.  Now that statement is entirely debatable as some of my goblin friends may not share that sentiment."
+msgstr "Los Duendes tendemos a incluir demasiada carne en nuestra dieta. Ahora, esta declaración es totalmente discutible puesto que algunos de mis amigos pueden que no lo hagan."
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:77
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:78
+#, no-wrap
+msgid "I could really use a change of taste.  Bring me some apples and beehives.  I have an idea on how to make one tasty apple."
+msgstr "Me vendría bien un cambio de gusto. Tráeme algunas manzanas y colmenas. Tengo una idea para hacer que una manzana sea sabrosa."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:87
+#, no-wrap
+msgid "Tell Mr. Goblin that you have the apples and beehives."
+msgstr "Dile al Señor Duende que tienes las manzanas y las colmenas."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:79
+#, no-wrap
+msgid ""
+"Thank you kind gatherer of ingredients.  Now let's try this out.\n"
+"\n"
+"Bleh.  Oh my....  This is way too sweet.  I think I'm gonna...\n"
+"\n"
+"Anyway.  Thanks for giving me a chance to test my theory."
+msgstr ""
+"Gracias por recolectar los ingredientes. Ahora vamos a probar esto. \n"
+"\n"
+"Bleh. Oh .... Esto es demasiado dulce. Creo que me voy a... \n"
+"\n"
+"De todos modos, gracias por darme la oportunidad de probar mi teoría ."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:103
+#, no-wrap
+msgid "I wasn't bluffing that I wanted to try something new.  We will just have to try something different entirely."
+msgstr "No era un farol cuando dije que quería probar algo nuevo. Tendremos que intentar algo completamente diferente."
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:109
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:110
+#, no-wrap
+msgid "I was thinking.  What do you think about some soup with shark fin in it?  Really?  You already have a recipe for that?  Well then, brew me up some why don't you.  I'm a large guy.  Make me enough to fill my belly."
+msgstr "Yo estaba pensando... ¿qué te parece un poco de sopa de aleta de tiburón ? ¿En serio? ¿Tienes ya la receta para eso? Pues bien, hazme un poco si no te importa. Soy un tipo grande. Haz suficiente para llenar mi barriga."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:115
+#, no-wrap
+msgid "Tell Mr. Goblin that you have the shark fin soup."
+msgstr "Dile al Señor Duende que tienes la sopa de aleta de tiburón."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:111
+#, no-wrap
+msgid "Wow!  That is some truly delicious soup.  Thank you.  Here is the last part of the goblin armor as promised."
+msgstr "¡Guauu! Esa sopa está verdaderamente deliciosa. Gracias. Aquí está la última parte de la armadura de duende, como te había prometido."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Goblin%20Secret.xml:130
+#, no-wrap
+msgid "I wish you luck in your adventures.  Perhaps in time I will require your services again."
+msgstr "Te deseo suerte en tus aventuras. Puede que con el tiempo necesites mis servicios de nuevo."
+
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:1
+msgid "Pillage Victim"
+msgstr "Víctima de Pillaje"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:6
+#, no-wrap
+msgid "Eee hee hee!  Look who it is.  A Dragon Rider come to chat with little old me?"
+msgstr "¡Hey, hey, hey! Mira quién es. ¿Un Jinete de Dragón´que viene a charlar con este pobre anciano?"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:19
+#, no-wrap
+msgid "Whatever you think I did, I’m innocent, I swear!  $#@!  See?  I swore.  Those goblins that attacked you had nothing to do with me.  They stole my goblin armor.  And now I feel naked without it.  Make me new armor, and I’ll teach you how to make things go kaboom!"
+msgstr "Da igual lo que creas que hice, soy inocente, lo juro! $ # @! ¿Ves? Lo juro. Esos duendes que te atacaron no tenían nada que ver conmigo. Me robaron mi armadura de duende. Y ahora me siento desnudo sin ella. Hazme una nueva armadura y ¡te enseñaré cómo hacer que las cosas vayan kaboom!"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:20
+#, no-wrap
+msgid ""
+"Ooh, yeah!  You almost got it!\n"
+"\n"
+"Make me new armor, and I’ll teach you how to make things go kaboom!"
+msgstr ""
+"¡Oh, si! ¡Casi lo tienes!\n"
+"\n"
+"Hazme una nueva armadura y ¡te enseñaré cómo las cosas hacen kaboom!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:29
+#, no-wrap
+msgid "Tell Mr. Goblin you have his replacement goblin armor."
+msgstr "Dile al Señor Duende que tienes su armadura de duende de repuesto."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:25
+#, no-wrap
+msgid "Armor!  Oh sweet goblin shell.  Sniff—Blech!  It smells like armpits and sun-dried cheese.  Ah...just like home."
+msgstr "¡Armadura! oh, mi dulce concha de duende.¡Sniff-Sorbo! Huele como las áxilas y el queso al sol. Ah, justo como en casa."
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:45
+#, no-wrap
+msgid "So I was posing in that armor you made me and an acorn fell out of the sky and landed on my head.  War wound!  Now I’ve got a bump.  Fix this problem, Dragon Rider, or I’ll get angry.  And you wouldn’t like me when I’m angry."
+msgstr "Así que estaba posando con esa armadura que me hiciste y una bellota cayó del cielo y aterrizó en mi cabeza. ¡Herida de guerra! Ahora tengo un chichón. Soluciona este problema, Jinete del Dragón, o me enfado. Y no te gustaré si me enfado."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:46
+#, no-wrap
+msgid "I got hit on the head so hard I saw stars!  Marilyn Monroe and Clark Gable and even Humphrey Bogart."
+msgstr "Me golpeó en la cabeza tan fuerte que vi las estrellas. A Marilyn Monroe, Clark Gable e incluso a Humphrey Bogart."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:51
+#, no-wrap
+msgid "Tell Mr. Goblin you have his replacement goblin helmet."
+msgstr "Dile al Señor Duende que tienes su casco del duende de repuesto."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:47
+#, no-wrap
+msgid "Sweet dome, Dragon Rider!  This helmet is even thicker than my skull, and that’s saying something!"
+msgstr "¡Qué cabecita, Jinete del Dragón! Este casco es incluso más grueso que mi cabeza, ¡y ya es decir!"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:67
+#, no-wrap
+msgid "There’s just one more piece to complete the ensemble, Dragon Rider, and that’s Goblin Pants!  Make me some pants, for the love of all that is goblin!"
+msgstr "Solamente falta una pieza para terminar el ensamblaje, Jinete del Dragón, y ¡aquí están los Pantalones de Duende! Hazme unos pantalones, ¡por amor de duende!"
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:68
+#, no-wrap
+msgid "I like big pants and I cannot lie.  All you other goblins can’t deny, when a goblin walks in with an itty bitty mace and a sharp knife in your face you put on Goblin Pants!"
+msgstr "Me gustan los pantalones grandes y no puedo mentir. Vosotros, los otros duendes no podéis negar que cuando un duende camina con un bastoncito pequeñito y un cuchillo afilado en tu cara, tú te pones ¡los Pantalones de Duende!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:73
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:94
+#, no-wrap
+msgid "Tell Mr. Goblin you have his replacement goblin pants."
+msgstr "Dile al Señor Duende que tienes sus pantalones de duende de repuesto."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:69
+#, no-wrap
+msgid "That’s it!  Yes!  I feel like my old self again.  Thank you!"
+msgstr "¡Eso es! ¡Si! Me siento yo mismo de nuevo. ¡Gracias!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Pillage%20Victim.xml:89
+#, no-wrap
+msgid "Even a creature as lowly as me, and you still helped, Dragon Rider."
+msgstr "Incluso ayudas a una criatura tan lenta como yo, Jinete del Dragón."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:13
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:951
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:649
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:515
+#. (itstool) path: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml/quest@title
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:1
+msgid "Quantum Theory"
+msgstr "Teoría Quántica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:14
+#, no-wrap
+msgid ""
+"Let’s see . . .\n"
+"\n"
+"If I attach this dispersal hose to the recombobulator . . ."
+msgstr ""
+"Veamos...\n"
+"\n"
+"Si conecto esta manguera con el recombulador ..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:951
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:649
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:515
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:21
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:35
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:49
+#, no-wrap
+msgid "Word has spread that Mr. Goblin has an innovative idea for faster travel.  Speak to him to learn more."
+msgstr "Dicen que el Sr. Goblin tiene una idea innovadora para viajar mas rápido. Pregúntale."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:28
+#, no-wrap
+msgid ""
+"Aha!  Dragon Rider!\n"
+"\n"
+"It’s good to see you."
+msgstr ""
+"Jinete de Dragones!\n"
+"\n"
+"Que bueno verte."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:42
+#, no-wrap
+msgid ""
+"As you can see, I am trying to assemble a contraption.\n"
+"\n"
+"You know, the device everyone has been whispering about?"
+msgstr ""
+"Como ves, estoy tratando de crear una máquina.\n"
+"\n"
+"¿Sabes? el aparato del que todo el mundo esta hablando."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: collectstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:56
+#, no-wrap
+msgid ""
+"Do me a solid and help me get some raw materials.\n"
+"\n"
+"Then I can proudly call you my workhorse!\n"
+"\n"
+"I mean, my loyal friend.  Hehe.\n"
+"\n"
+"But seriously I need some iron bars."
+msgstr ""
+"Hazme un favor y consígueme unos materiales.\n"
+"\n"
+"Entonces te podrás llamar mi asistente.\n"
+"\n"
+"Digo... mi amigo. Jeje.\n"
+"\n"
+"Bueno, en serio, necesito barras the hierro."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:65
+#, no-wrap
+msgid "A buncha iron bars may not whet your appetite just yet, but when you see what I turn them into - ooh yeah, you’re gonna love it!"
+msgstr "Unas cuantas barras de hierro no son muy impresionantes, pero cuando veas lo que hago con ellas... Ya veras!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:72
+#, no-wrap
+msgid "Tell Mr. Goblin you have the iron bars."
+msgstr "Dile al Sr. Goblin que ya tienes las barras de hierro."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:68
+#, no-wrap
+msgid "I knew I could count on you!  Now to begin the assembly."
+msgstr "Sabía que podía contar contigo.  Ahora empiezo a trabajar."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:87
+#, no-wrap
+msgid ""
+"Drat!  Drat!  Curses and drat!\n"
+"\n"
+"I can’t get any work done with those pesky Earth Worms crawling around.  Inching and squirming, wriggling and being all gross, I can’t take it any more!\n"
+"\n"
+"Hunt 5 Earth Worms, come back, and I’ll share the key ingredient you’ll need to build my delicious device."
+msgstr ""
+"#$&˜!(%\n"
+"\n"
+"No puedo trabajar con esa peste los Gusanos de Tierra andando por ahi.  Retorciéndose, arrastrándose y siendo repugnantes. No los aguanto.\n"
+"\n"
+"Caza 5 Gusanos de Tierra,  luego regresa y compartiré contigo los ingredientes necesarios para construir my máquina."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:94
+#, no-wrap
+msgid "These are no ordinary Earth Worms, Dragon Rider.  Be careful or they’ll wriggle you to death!"
+msgstr "Estos no son Gusanos ordinarios.  Ten cuidado que muerden duro!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:103
+#, no-wrap
+msgid "Tell Mr. Goblin that you have slain the Earth Worms."
+msgstr "Dile al Sr. Goblin que ya cazaste los Gusanos de Tierra."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:97
+#, no-wrap
+msgid ""
+"Yes!  YES!  This is going to be exciting.\n"
+"\n"
+"Take these Gravitons.  You’ll need them to complete the final step in our process."
+msgstr ""
+"Si! SI!  Esto va ha ser espectacular.\n"
+"\n"
+"Toma estos Gravitones.  Los necesitaras para completar la fase final en el proceso."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:118
+#, no-wrap
+msgid "The time has come, Dragon Rider.  You’re going to make a few teleporters!"
+msgstr "La hora ha llegado,  Jinete de Dragones.  Vas a construir un teletransportador!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:119
+#, no-wrap
+msgid "You must first craft the teleporters before we can proceed with my grand experiment."
+msgstr "Debes construir los teletransportadores antes de que procedamos con el experimento."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:124
+#, no-wrap
+msgid "Tell Mr. Goblin that you have crafted the teleporters."
+msgstr "Dile al Sr. Goblin que has creado los teletransportadores."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:120
+#, no-wrap
+msgid "Excellent!  We are ready for the next step."
+msgstr "Excelente! Ya estamos listos para el siguiente paso."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:135
+#, no-wrap
+msgid ""
+"That’s right!  We are going to send you from one place to another instantaneously.\n"
+"\n"
+"It may scramble your brain, or rearrange your body parts so your arms are sticking out of your forehead.\n"
+"\n"
+"But that almost probably won’t happen.\n"
+"\n"
+"Place both teleporters, step inside one, and see what happens."
+msgstr ""
+"¡Correcto! te vamos a mandar de un lugar a otro en un instante.\n"
+"\n"
+"Quizá tenga efectos secundarios como convertir tu cerebro en gelatina, o que ponga tus brazos en tu frente.\n"
+"\n"
+"No sabremos si funciona hasta que los pruebes.\n"
+"\n"
+"Pon ambos teletransportadores en el piso, métete en uno y vamos a ver qué sucede."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:951
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:649
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:515
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:150
+#, no-wrap
+msgid ""
+"Place both teleporters.\n"
+"\n"
+"Step inside one teleporter to teleport to another location."
+msgstr ""
+"Pon dos teleportadors en el piso.\n"
+"\n"
+"Cruza los dedos y entra en uno de ellos."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:626
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:601
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:106
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:159
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:165
+#, no-wrap
+msgid ""
+"Glorious!\n"
+"\n"
+"You’ve been recombobulated and you don’t even look like a weird monster.\n"
+"\n"
+"Too bad."
+msgstr ""
+"Fantástico!\n"
+"\n"
+"Has sido recombulado y no te ves como un monstruo.\n"
+"\n"
+"Es una lástima, me hubiese gustado ver eso."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:174
+#, no-wrap
+msgid "Tell Mr. Goblin that you have placed and used the teleporters."
+msgstr "Dile al Sr. Goblin que ya has usado los teletransportadores."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:45
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/MrGoblin/Quantum%20Theory.xml:189
+#, no-wrap
+msgid ""
+"Ya gotta admit, it would be kinda cool if your body got all scrambled like that.\n"
+"\n"
+"Anyway, if you need additional Gravitons, you can get some from the aliens in the sky world or you can purchase some more at the store."
+msgstr ""
+"Debes admitir que seria un buen espectáculo.\n"
+"\n"
+"De cualquier manera, si necesitas mas Gravitones, lo puedes obtener de unos extra terrestres en el cielo. También vi que lo venden en la tienda."

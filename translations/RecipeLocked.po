@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-04-06 15:39-0400\n"
+"Last-Translator: Maria Ines <inesgoncalves@live.com>\n"
+"Language-Team: Spanish <http://weblate-blockstory.rhcloud.com/projects/block-"
+"story/recipelocked/es/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.3\n"
+
+msgid "Locked recipe"
+msgstr "Receta Bloqueada"
+
+msgid "To unlock this recipe you need finish some quests."
+msgstr "Para desbloquear esta receta necesitas terminar algunas misiones."
+
+msgid "Complete quest from {0} to unlock."
+msgstr "Completa la misión de {0} para desbloquear."
+
+msgid "Complete achievement {0} to unlock."
+msgstr "Completa este logro {0} para desbloquear."

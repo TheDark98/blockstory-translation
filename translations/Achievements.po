@@ -1,0 +1,861 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: support@blockstory.net\n"
+"POT-Creation-Date: 2015-02-10 20:15-0400\n"
+"PO-Revision-Date: 2021-08-10 03:26+0000\n"
+"Last-Translator: Paul Pacheco <paul@blockstory.net>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"achievements/es/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Claim Reward"
+msgstr "Reclamar Recompensa"
+
+msgid "Stone Breaker"
+msgstr "Destrozador de Piedras"
+
+msgid "Break {0} blocks with the {1}."
+msgstr "Rompe {0} bloques con {1}."
+
+msgid "Journeyman Miner"
+msgstr "Minero Viajero"
+
+msgid "Iron Miner"
+msgstr "Minero de Hierro"
+
+msgid "Tasty Frog Legs"
+msgstr "Sabrosas Ancas de Ranas"
+
+msgid "Kill {0}{1} with the {2}."
+msgstr "Matar {0}{1} con {2}."
+
+msgid "Kill {0}{1}."
+msgstr "Matar {0}{1}."
+
+msgid "Slayer of Legends"
+msgstr "Cazador de Leyendas"
+
+msgid "Heroic Miner"
+msgstr "Minero Heróico"
+
+msgid "Legendary Miner"
+msgstr "Minero Legendario"
+
+msgid "Stone Digger"
+msgstr "Excavador de Piedra"
+
+msgid ""
+"[00FF00]Achievement Complete!\n"
+"{0}[-]"
+msgstr ""
+"[00FF00]¡Misión Cumplida!\n"
+"{0}[-]"
+
+msgid "Heroic Blockster"
+msgstr "Artificiero Heróico"
+
+msgid "Break {0} blocks."
+msgstr "Rompe {0} bloques."
+
+msgid "Stone Miner"
+msgstr "Minero de Piedra"
+
+msgid "Stone Chopper"
+msgstr "Picador de Piedra"
+
+msgid "Apprentice Miner"
+msgstr "Aprendiz de Minero"
+
+msgid "Journeyman Blockster"
+msgstr "Artificiero Viajero"
+
+msgid "Apprentice Blockster"
+msgstr "Aprendiz de Artificiero"
+
+msgid "Arachnophobia"
+msgstr "Aracnofobia"
+
+msgid "Reach Level {0}."
+msgstr "Llega al Nivel {0}."
+
+msgid "Necrophobia"
+msgstr "Necrofobia"
+
+msgid "Legendary Blockster"
+msgstr "Artificiero Legendario"
+
+msgid "Itsy Bitsy Spider"
+msgstr "Araña Itsy Bitsy"
+
+msgid "Dragon Slayer"
+msgstr "Cazador de Dragones"
+
+msgid "Mythical Beast"
+msgstr "Bestia Mítica"
+
+msgid "Prehistoric Legend"
+msgstr "Leyenda Prehistórica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:277
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:74
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:145
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:672
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
+msgid "Professional Hunter"
+msgstr "Cazador Profesional"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:277
+# UnityGame/Assets/Localization/T.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:74
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:145
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:672
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
+msgid "Skull and Bones"
+msgstr "Calaveras y Huesos"
+
+msgid "Goblin Miner"
+msgstr "Duende Minero"
+
+msgid "Necromancy"
+msgstr "Nigromancia"
+
+msgid "Thalassophobia"
+msgstr "Talasofobia"
+
+msgid "Frog Leg Delicacy"
+msgstr "Delicadeza de Ancas de Rana"
+
+msgid "Frog Leg Feast"
+msgstr "Banquete de Ancas de Rana"
+
+msgid "King of Dragons"
+msgstr "Rey de los dragones"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:286
+# UnityGame/Assets/Localization/T.cs:99
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:80
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:149
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:64
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:947
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:161
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Community Service"
+msgstr "Servicio comunal"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:286
+# UnityGame/Assets/Localization/T.cs:99
+# UnityGame/Assets/Scripts/Achievements/Options/Player/AchieveDaily.cs:17
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:85
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:149
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:64
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:947
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:161
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Complete {0} daily quests."
+msgstr "Completa {0} misiones diarias."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:99
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:90
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Angelic Avenger"
+msgstr "Angel Vengador"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:99
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:90
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Ice Sculpturing"
+msgstr "Escultura de hielo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:99
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:90
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Extinguisher"
+msgstr "Extinguidor de fuego"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:99
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:90
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Scorched Fate"
+msgstr "Destino Quemado"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:99
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:90
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:23
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "3...2...1...Ignition"
+msgstr "3...2...1...ignición"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:101
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:91
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:957
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:472
+msgid "Grand Giveaway"
+msgstr "El gran regalo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:101
+# UnityGame/Assets/Scripts/Achievements/Options/Player/AchieveDailyGift.cs:21
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:96
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:957
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:472
+msgid "Receive {0} consecutive daily gifts."
+msgstr "Recibe {0} regalos consecutivos."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:101
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:91
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Darkness"
+msgstr "Oscuridad"
+
+msgid "World Breaker"
+msgstr "Destrozador de Mundos"
+
+msgid "Stone Lifeform"
+msgstr "Forma de vida de piedra"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:91
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "New Tech"
+msgstr "Nueva Tecnología"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:91
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rocket Power"
+msgstr "Poder de cohete"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:91
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fire Essence"
+msgstr "Esencia de fuego"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:91
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Vicious Seal"
+msgstr "Sello vicioso"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:91
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Moonlight"
+msgstr "Luz de la luna"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:92
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:155
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:135
+msgid "First Dragon"
+msgstr "Primer Dragón"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:92
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:155
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:135
+msgid "Driver"
+msgstr "Conductor"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:92
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:155
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:135
+msgid "Slippery Lizard"
+msgstr "Lagarto resbaladizo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:92
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:155
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:135
+msgid "Astronaut"
+msgstr "Astronauta"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Options/Collect/AchieveCollectItem.cs:26
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Collect {0}."
+msgstr "Recoger {0}."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:92
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Sandman"
+msgstr "Hombre de arena"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:221
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Hidden Achievement"
+msgstr "Logro oculto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:221
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Complete achievement to unlock it."
+msgstr "Completa este logro para desbloquearlo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:245
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Locked Achievement"
+msgstr "Logro bloqueado"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:268
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:245
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Complete quest from {0} to unlock."
+msgstr "Completa la misión de {0} para desbloquear."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Viking legacy"
+msgstr "Legado vikingo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Lucky Bottle"
+msgstr "Botella de la suerte"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Garbage collector"
+msgstr "Recolector de basura"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Glass collector"
+msgstr "Colector de vidrio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Detective"
+msgstr "Detective"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Real magic"
+msgstr "Magia real"
+
+msgid "Heroic Pathfinder"
+msgstr "Pionero heroico"
+
+msgid "Legendary Discoverer"
+msgstr "Descubridor legendario"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1038
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:282
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Stunt Tester"
+msgstr "Probador del truco"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Options/Player/AchieveTravel.cs:22
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1038
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:282
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:511
+msgid "Walk {0} meters."
+msgstr "Caminar {0} metros."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Options/Player/AchieveTravel.cs:26
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1038
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:282
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:511
+msgid "Travel {0} meters while mounted on the creature."
+msgstr "Viaja {0} metros mientras estás montado sobre una criatura."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Options/Player/AchieveTravel.cs:24
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:102
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:94
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1038
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:282
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:511
+msgid "Drive {0} meters in vehicle."
+msgstr "Conduce {0} metros en un vehículo."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Options/AchieveOption.cs:34
+# UnityGame/Assets/Scripts/Achievements/Options/Collect/AchieveCollectItem.cs:75
+msgid "Old recipe"
+msgstr "Receta antigua"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:243
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Petrified Egg"
+msgstr "Huevo Petrificado"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Steel and skin"
+msgstr "Acero y piel"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Fire steel"
+msgstr "Acero de fuego"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Cold metal"
+msgstr "Metal frío"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Perfect forging"
+msgstr "Forja perfecta"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeLockedAchieve.cs:16
+# UnityGame/Assets/Blocksters/Scripts/Recipes/Recipe.cs:57
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:23
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
+# UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:62
+msgid "Steel and Skin"
+msgstr "Acero y piel"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Forged in space"
+msgstr "Forjado en el espacio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Wood Piston collector"
+msgstr "Colección de sensor de movimiento"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Electric Torch collector"
+msgstr "Colección de antorcha eléctrica"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Light Sensor collector"
+msgstr "Colección de sensor de movimiento"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Motion Sensor collector"
+msgstr "Colección de sensor de movimiento"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Timer collector"
+msgstr "Recolector de basura"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Relay collector"
+msgstr "Colector de vidrio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+msgid "Remote Transmitter collector"
+msgstr "Colección de transmisor remoto"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Controller collector"
+msgstr "Colección de sensor de movimiento"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Variable Resistor collector"
+msgstr "Colección de sensor de movimiento"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Piston collector"
+msgstr "Colector de vidrio"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:102
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:97
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:160
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:138
+#, fuzzy
+msgid "Diode collector"
+msgstr "Recolector de basura"
+
+#, fuzzy
+msgid "Heroic Explorer"
+msgstr "Artificiero Heróico"

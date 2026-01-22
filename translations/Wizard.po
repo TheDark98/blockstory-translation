@@ -1,0 +1,1853 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-10 03:26+0000\n"
+"Last-Translator: Paul Pacheco <paul@blockstory.net>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"wizard/es/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:1
+msgid "Baby Dragon"
+msgstr "Bebé Dragón"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:6
+#, no-wrap
+msgid "I must confess, I have been testing you all this time.  I had to know if you were capable of helping me.  You see, dragons live in this mythical land.  Have you ever spotted one?  They are magnificent creatures."
+msgstr "Debo confesar que te he estado probando todo este tiempo. Tenía que saber si serías capaz de ayudarme. Verás, los dragones viven en esta tierra mítica. ¿Alguna vez has visto uno? Son criaturas magníficas."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:9
+#, no-wrap
+msgid "Speak to the Wizard about his current dilemma."
+msgstr "Habla con el Hechicero sobre su problema actual."
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:18
+#, no-wrap
+msgid "It appears your pet dragon was bitten by spiders, and I fear the worst.  Please!  Slay more of the eight-legged beasts, and bring back samples of their venom."
+msgstr "A mi mascota dragón le picaron las arañas, y me temo lo peor. ¡Por Favor! Mata a algunas de esas bestias de ocho patas, y trae muestras de su veneno."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:19
+#, no-wrap
+msgid "This land was once a land of dragons.  Now, few remain.  I can tell you more, but first, please, kill some spiders to retrieve samples of their venom."
+msgstr "Esta tierra fue una vez una tierra de dragones. Ahora, quedan solo algunos. Te puedo contar más, pero primero, por favor, mata algunas arañas para recuperar muestras de su veneno."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:24
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:42
+#, no-wrap
+msgid "Tell the Wizard you have collected the venom."
+msgstr "Dile al Hechicero que has conseguido el veneno."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:20
+#, no-wrap
+msgid "By the balrog's bones!  You did it!  I must consult my spellbooks to discern the extent of the damage, and it will take time to fabricate an antidote."
+msgstr "Por los huesos de Balrog! ¡Lo has conseguido! Debo consultar mis libros de hechizos para discernir el alcance de los daños, y se necesitará tiempo para fabricar un antídoto."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:39
+#, no-wrap
+msgid "While I'm occupied with brewing up the antidote, I have another errand for you.  I received a request from Ted, a viking who lives near here.  Please mine some iron and take it to him."
+msgstr "Mientras estoy preparando el antídoto, tengo otra misión para ti. He recibido una petición de Ted, un vikingo que vive cerca de aquí. Por favor, extrae un poco de hierro y llévaselo."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:49
+#, no-wrap
+msgid "Don't worry.  I will find a cure for the sick dragon.  Poor thing.  You go.  Help Ted."
+msgstr "No te preocupes. Voy a encontrar una cura para el dragón enfermo. Pobrecito. Vete. Ayuda a Ted."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:53
+#, no-wrap
+msgid "Gather some iron and take it to Ted."
+msgstr "Recoge un poco de hierro y llévaselo a Ted."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:70
+#, no-wrap
+msgid "I need more time to find the cure.  I will send word to Ted when I need you again."
+msgstr "Necesito más tiempo para encontrar la cura. Avisaré a Ted cuando te necesite de nuevo."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:73
+#, no-wrap
+msgid "Help Ted while you wait for the Wizard to discover the antidote for the Baby Dragon."
+msgstr "Ayuda a Ted mientras esperas que el Hechicero encuentre el antídoto para el Bebé Dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:89
+#, no-wrap
+msgid "Welcome back.  I have news of our firebreathing friend.  I have devised an antivenom, but I am missing some key ingredients.  You must find them for me, or this dragon will surely perish."
+msgstr "Bienvenido de nuevo. Tengo noticias de nuestro amigo que escupe fuego. He ideado un antídoto, pero me faltan algunos ingredientes clave. Debes encontrarlos, o este dragón seguramente morirá."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:92
+#, no-wrap
+msgid "Talk to the Wizard about his progress on finding a cure for the Baby Dragon."
+msgstr "Habla con el Hechicero sobre su progreso en la búsqueda de una cura para el Bebé Dragón."
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:99
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:100
+#, no-wrap
+msgid "Sulfur is the first ingredient and has many uses.  You can use it to craft gun powder and other useful items.  Its odor is pungent and recognizable.  Many think it smells like rotten eggs.  Bring me some sulfur and then speak to me about the next ingredient we will need."
+msgstr "El azufre es el primer ingrediente y tiene muchos usos. Se puede utilizar para elaborar pólvora y otros artículos útiles. Su olor es acre y reconocible. Muchos piensan que huele a huevos podridos. Tráeme un poco de azufre y luego habla conmigo sobre el siguiente ingrediente que necesitaremos."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:105
+#, no-wrap
+msgid "Bring the Wizard the sulfur you collected."
+msgstr "Lleva al Hechicero el azufre que has recogido."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:101
+#, no-wrap
+msgid "Good work.  That takes care of the first ingredient.  But there is still more work to do."
+msgstr "Buen trabajo. Ya tienes el primer ingrediente. Pero todavía queda más trabajo por hacer."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:120
+#, no-wrap
+msgid "The potions we need for the antivenom can be found by talking to the Alchemist.  But be careful.  Some say he is a thief in disguise."
+msgstr "Las pociones que necesitamos para el antídoto se pueden encontrar hablando con el Alquimista. Pero ten cuidado. Algunos dicen que es un ladrón disfrazado."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:121
+#, no-wrap
+msgid "The Alchemist has always left me with a strange, suspicious feeling.  You'd best be cautious."
+msgstr "El Alquimista siempre me ha dejado con una sensación extraña y sospechosa. Será mejor que tengas cuidado."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:124
+#, no-wrap
+msgid "Ask the Alchemist to help find a cure for the baby dragon."
+msgstr "Pide al Alquimista que te ayude a encontrar una cura para el Bebé Dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:140
+#, no-wrap
+msgid "I hope your progress is swift.  This dragon does not have much time."
+msgstr "Espero que vayas rápido. Al dragón no le queda mucho tiempo."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:143
+#, no-wrap
+msgid "Learn how to craft the potions required to save the baby dragon."
+msgstr "Aprende cómo elaborar las pociones necesarias para salvar al Bebé Dragón."
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:154
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:155
+#, no-wrap
+msgid "We will need those potions before we can heal the dragon."
+msgstr "Vamos a necesitar esas pociones antes de que podamos curar al dragón."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:160
+#, no-wrap
+msgid "Bring the potions to the Wizard."
+msgstr "Lleva las pociones al Hechicero."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:156
+#, no-wrap
+msgid "You have the potions.  Good.  Give them here.  Believe it or not, the final item we require will be even more challenging to get."
+msgstr "Tienes las pociones. Bien. Dámelas. Lo creas o no, el último objeto que necesitamos será aún más difícil de conseguir."
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:177
+#, no-wrap
+msgid "Sharks are plentiful in the waters nearby.  But they are also dangerous.  Normally I wouldn't ask you take such risks, but it must be done if we are to save the dragon.  Sharkfin Soup has restorative properties.  We need some for the antivenom."
+msgstr "Los tiburones abundan en las aguas cercanas. Pero también son peligrosos. Normalmente no pido que tomes tales riesgos, pero hay que hacerlo si queremos salvar al dragón. La Sopa de Aleta de Tiburón tiene propiedades reconstituyentes. Necesitamos un poco para el antídoto."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:185
+#, no-wrap
+msgid "Did you know sharks are some of the oldest animals in existence?  They're quite remarkable creatures.  But whether you think they are majestic or predators, they will die by your sword all the same."
+msgstr "¿Sabías que los tiburones son unos de los animales más antiguos ? Son criaturas muy notables. Pero aunque pienses que son majestuoso o depredadores, tu espada los matará de todas maneras."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:196
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:219
+#, no-wrap
+msgid "Bring the Wizard the Sharkfin Soup you brewed."
+msgstr "Trae al Hechicero la Sopa de Aleta de Tiburón que has preparado."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:186
+#, no-wrap
+msgid "Glad to see you're back in one piece."
+msgstr "Me alegro de ver que has vuelto en una pieza."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Baby%20Dragon.xml:215
+#, no-wrap
+msgid "Now to combine the ingredients and administer the treatment. . . . It worked!  The dragon seems to be coming around.  Look!  His eyes are clear.  This is wonderful.  And it's all thanks to you."
+msgstr "Ahora combinemos los ingredientes y administremos el tratamiento... ¡Funcionó! El dragón parece estar cambiando. ¡Mira! Sus ojos están limpios. Esto es maravilloso. Y todo gracias a ti."
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:1
+msgid "Dragon Lord"
+msgstr "Señor Dragón"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:6
+#, no-wrap
+msgid "I have a confession to make.  My motivations to help you, and to train you, have not been entirely altruistic.  Will you listen to this old man's tale of the Dragon Lord?"
+msgstr "Tengo que hacer una confesión. Mis motivos para ayudarte y entrenarte, no han sido totalmente altruistas. ¿Vas a escuchar el cuento del Señor Dragón que te va a contar este viejo?"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:13
+#, no-wrap
+msgid "Then perhaps you are not the hero I had hoped for."
+msgstr "Entonces, tal vez no eres el héroe que yo esperaba."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:21
+#, no-wrap
+msgid "The Dragon Lord is a wicked sorcerer who has plagued this land for many years.  He commands three terrible monsters: the Ice Dragon, the Fire Dragon, and the Bolt Dragon.  These dragons have been known to burn fields and raze whole villages.  They must be stopped.  But until now, until you, there has been no one to stand up to the Dragon Lord.  It is said that only another dragon rider of equal power stands a chance of defeating the Dragon Lord.  Will you become a dragon rider and defeat the Dragon Lord?"
+msgstr "El Señor Dragón es un hechicero malvado que ha asolado esta tierra durante muchos años. Él maneja tres terribles monstruos: el Dragón de Hielo, el Dragón de Fuego y el Dragón del Rayo. Estos dragones han quemado los campos y arrasado pueblos enteros. Deben ser detenidos. Pero hasta ahora, no ha habido nadie que se enfrentara al Señor Dragón. Se dice que sólo otro jinete del dragón con el mismo poder tiene una oportunidad para derrotar al Señor Dragón. ¿Te convertirás en un jinete de dragón y derrotarás al Señor Dragón?"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:28
+#, no-wrap
+msgid "I knew my faith in you was well founded, my friend.  Take good care of the baby dragon."
+msgstr "Yo sabía que mi fe en ti estaba bien fundada, amigo mío. Cuida bien del Bebé Dragón."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:44
+#, no-wrap
+msgid "Your dragon will need to be much stronger if you hope to take on the Dragon Lord.  There is an animal trainer, Paula, who lives near here.  Find her, and continue your training."
+msgstr "Tu dragón tendrá que ser mucho más fuerte si quieres enfrentarte al Señor Dragón. Hay una entrenadora de animales, Paula, que vive cerca de aquí. Encuéntrala, y continúa tu entrenamiento."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:45
+#, no-wrap
+msgid "Paula has lost much to the Dragon Lord's wrath.  She will help you if you ask."
+msgstr "Paula ha perdido mucho debido a la ira del Señor Dragón. Ella te ayudará si se lo pides."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:48
+#, no-wrap
+msgid "Ask Paula to help train the Baby Dragon."
+msgstr "Pide a Paula que te ayude a entrenar al Bebé Dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:58
+#, no-wrap
+msgid "How goes the training?  I will continue to meditate on your success."
+msgstr "¿Cómo va el entrenamiento? Seguiré meditando sobre tu éxito."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:61
+#, no-wrap
+msgid "Complete the Baby Dragon's training with Paula."
+msgstr "Completa el entrenamiento del Bebé Dragón con Paula."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:72
+#, no-wrap
+msgid "Welcome back.  And my!  Look how that dragon has grown."
+msgstr "Bienvenido de nuevo. ¡Vaya! Mira como ha crecido el dragón."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:75
+#, no-wrap
+msgid "Tell the Wizard you have completed the Dragon's training."
+msgstr "Dile al Hechicero que has completado el entrenamiento del Dragón."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:82
+#, no-wrap
+msgid "Your skills are improving, Dragon Rider, but there is still much to learn.  To defeat the Dragon Lord, you must defeat and capture all three of his dragons.  The first dragon is the Ice Dragon.  You will need armor to protect yourself from his freezing breath.  Talk to the warrior, Aaron, about making armor."
+msgstr "Tus habilidades están mejorando, Jinete del Dragón, pero todavía hay mucho que aprender. Para derrotar al Señor Dragón, debes derrotar y capturar a sus tres dragones. El primero es el Dragón de Hielo. Necesitarás una armadura para protegerte de su aliento helado. Habla con el guerrero, Aaron, sobre cómo hacer la armadura."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:83
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:105
+#, no-wrap
+msgid "Be careful how you speak to Aaron.  Let's just say he's not the most optimistic individual."
+msgstr "Ten cuidado al hablar con Aaron. Digamos que no es la persona más optimista."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:86
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:108
+#, no-wrap
+msgid "Learn how to make armor from Aaron."
+msgstr "Aprende como hacer una armadura con Aaron."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:119
+#, no-wrap
+msgid "You have the armor.  Good.  But the Ice Dragon is resilient.  You will need a weapon that can pierce his defenses.  This is the next step."
+msgstr "Tienes la armadura. Bien. Pero el Dragón de Hielo es resistente. Necesitarás un arma que pueda minar sus defensas. Este es el siguiente paso."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:122
+#, no-wrap
+msgid "Tell the Wizard you have learned how to craft armor from Aaron."
+msgstr "Dile al Hechicero que has aprendido a fabricar una armadura con Aaron."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:129
+#, no-wrap
+msgid "To defeat the Ice Dragon, you will need to master the magic of Fire.  That is the Ice Dragon's weakness.  Magic is contained inside special wands, much like the wand you use to command your dragon.  Your next task will be to craft a Fire Magic Wand."
+msgstr "Para derrotar al Dragón de Hielo, tendrás que dominar la magia del Fuego. Esa es la debilidad del Dragón de Hielo. La magia está dentro de varitas especiales, al igual que la varita que se utiliza para dar órdenes a tu dragón. Tu próxima tarea será elaborar una varita mágica de Fuego."
+
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:130
+#, no-wrap
+msgid "It may seem like a lot of hocus pocus, but a sword is nothing compared to the power of the arcane.  You must craft a Fire Magic Wand to stand a chance against the Ice Dragon."
+msgstr "Puede parecer un truco barato, pero una espada no es nada en comparación con el poder de lo arcano.  Necesitas elaborar una Varita Mágica de Fuego si quieres tener una oportunidad contra el Dragón de Hielo."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:135
+#, no-wrap
+msgid "Tell the Wizard you have the power to cast Fire Magic."
+msgstr "Dile al Hechicero que tienes el poder de lanzar la Magia del Fuego."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:131
+#, no-wrap
+msgid "Dragon Rider, you continue to amaze these old eyes.  Are you a wizard now too?  The Dragon Lord will quake when he sees you coming."
+msgstr "Jinete del Dragón, sigues asombrándome. ¿Ahora eres mago tu también? El Señor Dragón temblará cuando te vea venir."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:146
+#, no-wrap
+msgid "In good conscience I cannot allow you to face the dragon without first practicing with your Fire Magic.  Go to the frozen thundra with the pine trees.  Test your wands on the Ice Elementals that come out at night there.  If you run out of magic, make more wands.  If you need more mana, craft a potion.  Good luck, Dragon Rider.  Be careful."
+msgstr "No puedo permitir conscientemente que te enfrentes al dragón sin antes practicar con tu Magia de Fuego. Ve a la tundra congelada con los pinos. Pon a prueba tus varitas en los Elementales de Hielo que salen por la noche allí. Si te quedas sin magia, haz más varitas. Si necesitas más maná, elabora una poción. Buena suerte, Jinete del Dragón. Ten cuidado."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:147
+#, no-wrap
+msgid "The Ice Elementals, like the projectiles from your wands, are manifestations of magical power.  But Fire Magic is the Ice Elemental's opposite.  You should make short work of them!"
+msgstr "Los Elementales de Hielo, como los proyectiles de tus varitas, son manifestaciones de poder mágico. Pero la Magia de Fuego es lo opuesto del Elemental de Hielo. ¡Debes usarlos rápido!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:152
+#, no-wrap
+msgid "Tell the Wizard you have slain the Ice Elemental."
+msgstr "Dile al Hechicero que has matado el Elemental de Hielo."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:148
+#, no-wrap
+msgid "With the completion of this task, I believe you are finally ready to face the Ice Dragon."
+msgstr "Con la realización de esta tarea, creo que estás finalmente listo para enfrentarte al Dragón de Hielo."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:167
+#, no-wrap
+msgid "Your battle with the Ice Dragon is nigh, Dragon Rider.  Are you prepared to face your greatest challenge yet?"
+msgstr "Tu batalla con el Dragón de Hielo se acerca, Jinete del Dragón. ¿Estás preparado para hacer frente a tu mayor desafío?"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:170
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:181
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:193
+#, no-wrap
+msgid "Tell the Wizard you are ready to face the Ice Dragon."
+msgstr "Dile al Hechicero que estás listo para enfrentarte al Dragón de Hielo."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:178
+#, no-wrap
+msgid "Take all the time you need to get ready."
+msgstr "Tómate todo el tiempo que necesites para prepararte."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:190
+#, no-wrap
+msgid "The Ice Dragon has frozen entire farms in the middle of summer.  The unseasonable cold was devastating.  Mass starvation set in.  I remember these dark times well.  I do not wish to burden you with more sorrowful tales.  Needless to say, the people of this land hold you in their hearts this day."
+msgstr "El Dragón de Hielo ha congelado granjas enteras en mitad del verano. El frío fuera de estación fue devastador. Hubo una hambruna masiva. Recuerdo bien estos tiempos tan oscuros. No quiero agobiarte con más cuentos tristes. No hace falta decir que la gente de esta tierra hoy te llevan en sus corazones."
+
+#. (itstool) path: removestep/intro
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:200
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:201
+#, no-wrap
+msgid "I require the soul of the Ice Dragon, so you will need to craft a Soul Catcher to contain its essence.  The Ice Dragon is quite powerful.  You may need to smack it around a bit to make it easier to contain."
+msgstr "Necesito el alma del Dragón de Hielo, por lo que tendrás que elaborar un Cazador de Almas para que contenga su esencia. El Dragón de Hielo es bastante poderoso. Puede que tengas que golpearle un poco para que sea más fácil de retener."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:206
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:239
+#, no-wrap
+msgid "Tell the Wizard you have captured the Ice Dragon."
+msgstr "Dile al Hechicero que has capturado al Dragón de Hielo."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:202
+#, no-wrap
+msgid "The Dragon Rider returns triumphant!  Quick, give me the Ice Dragon.  Excellent.  I will take care of this monster.  As for you, bask in your victory.  But not for too long.  There are more dragons to hunt, and greater battles.  Until then, remember, the world belongs to those who shape it."
+msgstr "¡El Jinete del Dragón regresa triunfante! Rápido, dame al Dragón de Hielo. Excelente. Yo me encargaré de ese monstruo. En cuanto a ti, disfruta de tu victoria. Pero no por mucho tiempo. Hay más dragones que cazar y más batallas. Hasta entonces, recuerda, el mundo pertenece a los que le dan forma."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:236
+#, no-wrap
+msgid "Do you feel the power radiating through you?  The magic of the ice dragon has imbued you with its energy.  Yes...  I feel it.  An old spell is coming back to me."
+msgstr "¿Sientes el poder que sale de ti? La magia del dragón de hielo te ha empapado con su energía. Si...lo siento. Un antiguo hechizo se apodera de mí."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:252
+#, no-wrap
+msgid "Once you find the stones, binding them to the staff will create a powerful magical effect."
+msgstr "Una vez encuentres las piedras, al atarlas crearás un potente efecto mágico."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:260
+#, no-wrap
+msgid "Tell the Wizard you have the power to cast Life Magic."
+msgstr "Dile al Hechicero que tienes el poder para lanzar Magia de la Vida."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:256
+#, no-wrap
+msgid "Now you see the power these dragons possess.  The wisdom.  But there is much more to do, and so little time."
+msgstr "Ahora ves el poder que tienen estos dragones. La sabiduría. Pero hay mucho más por hacer, y muy poco tiempo."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:275
+#, no-wrap
+msgid "I must continue to reflect on the power of the dragons.  While I meditate, you should check on Ted to see if he requires any assistance."
+msgstr "Tengo que seguir reflexionando sobre el poder de los dragones. Mientras medito, debes comprobar si Ted necesita ayuda."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:281
+#, no-wrap
+msgid "Speak with Ted about any assistance he may require."
+msgstr "Habla con Ted sobre si necesita ayuda."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:295
+#, no-wrap
+msgid "Now how did that old spell go?  Bibbity bob-bama?  Banana-nana—no, no, no, that’s not it."
+msgstr "Ahora, ¿cómo era ese viejo hechizo? ¿Bibbity bob-bama? ¿Banana-nana-no, no? No, así no era."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:298
+#, no-wrap
+msgid "Wait for the Wizard to complete his meditation."
+msgstr "Espera a que el Hechicero termine de meditar."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:308
+#, no-wrap
+msgid ""
+"BLAH! ~~ Dragon Rider.\n"
+"\n"
+"Listen carefully to my voice.  I have possessed this foul creature in hope of reaching you.  Rendezvous with my corporeal form.  There is much to do."
+msgstr ""
+"¡BLAH! ~~Jinete del Dragón. \n"
+"\n"
+"Escucha atentamente mi voz. Tengo a esta asquerosa criatura con la esperanza de cogerte. Encuentra mi forma corporal. Hay mucho que hacer."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:315
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:331
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:556
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:602
+#, no-wrap
+msgid "Speak to the Wizard about the next task."
+msgstr "Habla con el Hechicero sobre la siguiente tarea."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:328
+#, no-wrap
+msgid "You are late.  It is time to face your next great challenge."
+msgstr "Llegas tarde. Es hora de enfrentarte al próximo gran reto."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:344
+#, no-wrap
+msgid ""
+"From the depths of hell came the roar of the Fire Dragon.  The earth shook.  The seas boiled.  The sky turned the color of blood.\n"
+"\n"
+"Are you ready to begin your quest?"
+msgstr ""
+"Desde lo más profundo del infierno resuena el rugido del Dragón del Fuego. La tierra tiembla. El mar hierve. El cielo se vuelve del color de la sangre. \n"
+"\n"
+"¿Estás listo para empezar tu misión?"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:351
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:362
+#, no-wrap
+msgid "Tell the Wizard you are ready to face the Fire Dragon."
+msgstr "Dile al Hechicero que estás listo para enfrentarte al Dragón de Fuego."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:359
+#, no-wrap
+msgid "I grow weary of your indecisiveness, Dragon Rider."
+msgstr "Estoy cansado de tu indecisión, Jinete del Dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:371
+#, no-wrap
+msgid "To begin, you will need a way to cross the sea.  Speak to Ted.  He will help you."
+msgstr "Para empezar, necesitarás cruzar el mar. Habla con Ted. Él te ayudará."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:374
+#, no-wrap
+msgid "Speak to Ted to learn how to cross the sea."
+msgstr "Habla con Ted para saber cómo cruzar el mar."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:389
+#, no-wrap
+msgid "While you’ve been running errands, I have been honing my power."
+msgstr "Mientras tú estabas haciendo recados, yo he perfeccionado mi poder."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:392
+#, no-wrap
+msgid "Learn how to sail the seas from Ted."
+msgstr "Aprende cómo navegar con Ted."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:402
+#, no-wrap
+msgid "You’re late.  Now, come closer.  I have a mission for you."
+msgstr "Llegas tardes. Ahora, acércate. Tengo una misión para ti."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:405
+#, no-wrap
+msgid "Speak to the Wizard to prepare for the Fire Dragon."
+msgstr "Habla con el Hechicero para prepararte para el Dragón de Fuego."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:412
+#, no-wrap
+msgid "The Fire Dragon has great power.  He can breathe the fire of life into the already deceased.  He has raised an army of Dark Knights and Dark Mages who patrol the depths of the Underworld.  You must take the fight to these minions if you hope to capture the Fire Dragon."
+msgstr "El Dragón de Fuego tiene mucho poder. Puede soplar fuego de vida a los muertos. Ha resucitado a un ejército de Caballeros Oscuros y Magos Oscuros que patrullaban las profundidades del Inframundo. Debes luchar contra esos secuaces si quieres capturar al Dragón de Fuego."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:413
+#, no-wrap
+msgid "Hurry, Dragon Rider.  Use your weapons to remind these Dark Knights and Dark Mages that they are supposed to be dead."
+msgstr "Date prisa, Jinete del Dragón. Utiliza tus armas para recordar que se supone que esos Caballeros Oscuros y Magos Oscuros están muertos."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:418
+#, no-wrap
+msgid "Tell the Wizard you have slain the undead minions."
+msgstr "Dile al Hechicero que has matado a los secuaces resucitados."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:414
+#, no-wrap
+msgid "Sickening.  I can smell the stench of death on you.  But at least you were effective."
+msgstr "Enfermo. Puedo percibir el hedor de la muerte junto a ti. Pero al menos fuiste eficaz."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:435
+#, no-wrap
+msgid "The Fire Dragon’s Dark Boss is a brutal taskmaster.  Return to the dragon’s domain and destroy this monster."
+msgstr "El Jefe Oscuro del Dragón de Fuego es un capataz brutal. Vuelve al dominio del dragón y destruye a este monstruo."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:436
+#, no-wrap
+msgid "They say Dark Boss buries his victims deep underground without a pickaxe and no way out, trapping them forever."
+msgstr "Dicen que el Jefe Oscuro entierra a sus víctimas en lo más profundo con un pico y los esconde, dejándolos para siempre en ese agujero."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:441
+#, no-wrap
+msgid "Tell the Wizard you have slain the Dark BOSS."
+msgstr "Dile al Mago que has matado al JEFE Oscuro."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:437
+#, no-wrap
+msgid "You have become a skilled killer, Dragon Rider.  You bring such death, and yet you never hesitate."
+msgstr "Te has convertido en un buen asesino, Jinete del Dragón. Matas con seguridad y nunca dudas."
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:457
+#, no-wrap
+msgid "No more games.  The time to face the Fire Dragon has come.  It will take all your strength and skill to vanquish him.  Remember!  Bring me the Fire Dragon’s spawner once he is defeated.  Now go."
+msgstr "Se acabó el juego. Es hora de enfrentarse al Dragón de Fuego. Necesitarás toda tu fuerza y habilidad para vencerlo. ¡Recuerda! Tráeme el huevo del Dragón de Fuego una vez lo hayas derrotado. Ahora ve."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:458
+#, no-wrap
+msgid "Do not fail me, Dragon Rider.  You are the only one who can defeat the Fire Dragon."
+msgstr "No me falles, Jinete del Dragón. Eres el único que puede derrotar al Dragón de Fuego."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:463
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:484
+#, no-wrap
+msgid "Tell the Wizard you have captured the Fire Dragon."
+msgstr "Dile al Hechicero que has capturado al Dragón de Fuego."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:459
+#, no-wrap
+msgid "Yes, at last!  At long last.  Give me the Fire Dragon Spawner.  I will put it to good use."
+msgstr "¡Si, al fin! ¡Por fin! Dame el Huevo del Dragón de Fuego. Le daré buen uso."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:479
+#, no-wrap
+msgid "The dragon you slew was filled with power.  The magical knowledge I once had is returning to me now.  Let me teach you something I have recalled."
+msgstr "El dragón que mataste estaba lleno de poder. El conocimiento mágico que tuve una vez ahora vuelve a mí. Deja que te enseñe algo que he recordado."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:497
+#, no-wrap
+msgid "You can imbue a staff with the Spikes Magic.  Do it, and you will wield phenomenal power."
+msgstr "Puedes empapar a alguien con las Púas Mágicas. Hazlo y podrás ejercer un poder fenomenal."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:507
+#, no-wrap
+msgid "Tell the Wizard you have crafted the Spikes Magic."
+msgstr "Dile al Hechicero que has conseguido las Púas Mágicas."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:503
+#, no-wrap
+msgid "A simple task I never doubted you would accomplish.  Now, for the next phase of your journey."
+msgstr "Una tarea sencilla que nunca dudé que pudieras completar. Ahora, a por el siguiente tramo de tu viaje."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:522
+#, no-wrap
+msgid "The final dragon, the Bolt Dragon, Ashkore, awaits.  But you will not last three seconds in that monster’s presence without more suitable equipment.  Speak to Aaron, that mewling coward may be able to help you."
+msgstr "Te espera el dragón final, el Dragón Encerrado, Ashkore. Pero no podrás estar más de tres segundos en presencia de ese monstruo sin el equipamiento adecuado. Habla con Aaron, ese cobarde llorón podrá ayudarte."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:523
+#, no-wrap
+msgid "Speak to Aaron, Dragon Rider.  You must learn how to vanquish the Bolt Dragon, Ashkore."
+msgstr "Habla con Aaron, Jinete del Dragón. Debes saber cómo vencer al Dragón Encerrado, Ashkore."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:526
+#, no-wrap
+msgid "Speak to Aaron to learn how to craft better equipment."
+msgstr "Habla con Aaron para saber cómo conseguir mejor equipamiento."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:540
+#, no-wrap
+msgid "Work quickly, Dragon Rider.  You must vanquish the Bolt Dragon, Ashkore."
+msgstr "Trabaja rápido, Jinete del Dragón. Debes vencer al Dragón Encerrado, Ashkore."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:543
+#, no-wrap
+msgid "Learn how to craft better equipment from Aaron."
+msgstr "Aprende de Aaron cómo conseguir mejor equipamiento."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:553
+#, no-wrap
+msgid "Hello.  During your absence, I have been meditating on Ashkore’s powers."
+msgstr "Hola. Durante tu ausencia he estado meditando sobre los poderes de Ashkore."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:569
+#, no-wrap
+msgid "Ashkore resides in the Sky World high above this land.  Your dragon will need to be strong if you hope to fly there.  Perhaps that pet trainer, Paula, can help you."
+msgstr "Ashkore vive en el Mundo del Cielo, sobre esta tierra. Tu dragón necesitará ser fuerte si quieres volar hasta alli. Quizás la entrenadora de mascotas, Paula, pueda ayudarte."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:572
+#, no-wrap
+msgid "Speak to Paula to learn how to ride your dragon."
+msgstr "Habla con Paula para saber cómo cabalgar con tu dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:586
+#, no-wrap
+msgid "Speak to me again when your dragon has grown stronger."
+msgstr "Habla conmigo de nuevo cuando tu dragón sea más fuerte."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:589
+#, no-wrap
+msgid "Learn how to ride the dragon from Paula."
+msgstr "Aprende con Paula cómo cabalgar con el dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:599
+#, no-wrap
+msgid "You continue to amaze me, Dragon Rider.  Now you are ready to take to skies."
+msgstr "Sigues sorprendiéndome, Jinete del Dragón. Ya estás listo para ponerte los esquís."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:609
+#, no-wrap
+msgid "We are nearly finished.  Ohhhh...the old bones can FEEL it.  Now go!  Head to the Sky World and weaken Ashkore’s defenses."
+msgstr "Ya casi hemos acabado. Ohhhh, puedo SENTIR los viejos huesos. ¡Ahora ve! Dirígete hacia el Mundo del Cielo y debilita las defensas de Ashkore."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:610
+#, no-wrap
+msgid "Ashkore is the strongest of the Dragon Lord’s terrible brood.  His land is the hardest to get to, his minions the most vicious, his breath the most deadly.  Even a skilled dragon slayer like you could perish."
+msgstr "Ashkore es el más fuerte de la terrible tropa del Señor Dragón. Su tierra es la más difícil de conquistar, sus secuaces son los más feroces, su aliento es el más letal. Incluso un habilidoso asesino de dragones como tú corre peligro."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:615
+#, no-wrap
+msgid "Tell the Wizard you have slain the eagles."
+msgstr "Dile al Hechicero que has matado a las águilas."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:611
+#, no-wrap
+msgid "Wipe your blade clean, and ready your spells.  There is more work to be done."
+msgstr "Ten las cuchillas afiladas y la magia lista. Hay más trabajo que hacer."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:631
+#, no-wrap
+msgid "What are you waiting for?  Eliminate the last of Ashkore’s monsters so you can capture him!  Go!  I grow tired of this dawdling."
+msgstr "¿A qué esperas? Elimina los últimos monstruos de Ashkore para poder capturarlo. ¡Corre! Me estoy cansando de perder el tiempo."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:632
+#, no-wrap
+msgid "If I come across as curt with you, it is only because we are so close to the end.  You trust me, of course."
+msgstr "Si soy tan brusco contigo, es sólo porque estamos tan cerca del final... Confía en mí, por supuesto."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:637
+#, no-wrap
+msgid "Tell the Wizard you have slain the visitors."
+msgstr "Dile al Hechicero que has matado a los visitantes."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:633
+#, no-wrap
+msgid "The way is clear.  Are you ready for the final step?"
+msgstr "El camino está despejado. ¿Estás listo para el paso final?"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:653
+#, no-wrap
+msgid ""
+"Ashkore creates great storms with its power, terrorizing people from his palace in the clouds.  The Dragon Lord made good use of that power when he tightened his grip on this land.  It could happen again.\n"
+"\n"
+"Capture Ashkore for me."
+msgstr ""
+"Ashkore crea tormentas grandes con su poder y aterroriza a la gente en su palacio en las nubes. El Señor Dragón abusa de ese poder para establecer su dominio sobre esta tierra.\n"
+"\n"
+"Captura a Ashkore."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:658
+#, no-wrap
+msgid ""
+"The power.  So much power.  I feel it!\n"
+"\n"
+"Capture Ashkore for me."
+msgstr ""
+"El poder. Tanto poder. ¡Puedo sentirlo!\n"
+"\n"
+"Atrapa a Ashkore por mí."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:667
+#, no-wrap
+msgid "Tell the Wizard you have captured Ashkore."
+msgstr "Dile al Hechicero que has atrapado a Ashkore."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:663
+#, no-wrap
+msgid "At last!  YES!  At long last!  I have the dragons.  You fool!"
+msgstr "¡Por fin! ¡SI! Tengo a los dragones. ¡Tonto!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:682
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:7
+#, no-wrap
+msgid "My dragons abandoned me, but you brought them back.  Yes, you, my stupid little pawn.  Now, with fire, ice, and lightning, you will see the true power of the Dragon Lord!"
+msgstr "Mis dragones me abandonaron, pero los has traído de regreso. Si, tú, mi pequeño y estúpido peón. Ahora, con fuego, hielo y rayos, ¡verás el verdadero poder del Señor Dragón!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Lord.xml:685
+#, no-wrap
+msgid "Speak to Paula about the Wizard's betrayal."
+msgstr "Habla con Paula sobre la traición del Hechicero."
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:1
+msgid "Dragon Master"
+msgstr "Maestro de Dragónes"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:6
+#, no-wrap
+msgid "As you may have seen, when our golden star takes its slumber below the horizon, dangerous monsters roam the countryside.  Pretty scary!"
+msgstr "Como habras podido ver, cuando nuestra estrella dorada desaparece tras el horizonte, aparecen monstruos peligrosos. ¡Menudo susto!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:9
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:21
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:261
+#, no-wrap
+msgid "Tell the Wizard you have opened the Recipe Book."
+msgstr "Dile al Hechicero que has abierto el Libro de Recetas."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:18
+#, no-wrap
+msgid "There are other dangers too.  It gets dark.  You might walk into something and bump your head!  To counteract this problem (I call it Headbumpitis) you can use torches or candles to light your way."
+msgstr "Hay también otros peligros. Se hace de noche. Te puedes tropezar con algo y golpearte en la cabeza. Para contrarrestar este problema puedes usar antorchas o velas para iluminar tu camino."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:28
+#, no-wrap
+msgid "But that will not be your biggest concern.  You see.  I have a baby dragon that I can't give the proper care.  There are too many spiders in the areas I like to travel to gather ingredients, and I fear this may become problematic in the future.  Kill some cave dwelling spiders and you will have my blessing to care for the baby dragon."
+msgstr "Pero esa no será tu mayor preocupación. Ya sabes. Tengo un bebé dragón y no puedo cuidarlo adecuadamente. Hay demasiadas arañas en la zona a la que quiero viajar para coger los ingredientes y temo que eso sea un problema en el futuro. Mata unas cuantas arañas de las que viven en las cuevas y tendrás mi bendición para cuidar al bebé dragón."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:29
+#, no-wrap
+msgid "If you kill some cave dwelling spiders, you will have my blessing to care for the baby dragon."
+msgstr "Las velas también pueden espantar a los monstruos. Ya queda poco. Termina de matar esas arañas y las velas estarán listas."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:34
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:21
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:133
+#, no-wrap
+msgid "Tell the Wizard you have slain the spiders."
+msgstr "Dile al Hechicero que has matado las arañas."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:30
+#, no-wrap
+msgid "Thank you for your help with those monsters.  Take good care of the baby dragon.  It will need your utmost attention."
+msgstr "Gracias por tu ayuda con esos monstruos. Cuida bien del bebé dragón. Necesitara toda tu atención."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:20
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:24
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:82
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:71
+# UnityGame/Assets/Scripts/Quests/Quest.cs:305
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:30
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:52
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:929
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:648
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:503
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:55
+#, no-wrap
+msgid ""
+"Feed the baby dragon by dropping food it can consume.\n"
+"\n"
+"View the [FF0000]Dragon Soul[-] description to see what the dragon likes to eat."
+msgstr ""
+"Arroja comida en el piso para alimentar tu dragón.\n"
+"\n"
+"Ve la descripción de tu dragon para ver que le gusta comer."
+
+#. (itstool) path: consumestep/intro
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:49
+#, no-wrap
+msgid ""
+"It appears the baby dragon is hungry.  It can't fight monsters at full strength without being fed.\n"
+"\n"
+"Kill some of the local wildlife for meat, and be sure to search for some apples too.  It would be a shame for the dragon to be hungry before you run off adventuring."
+msgstr ""
+"Al parecer, el dragón bebé tiene hambre. No puede luchar contra monstruos con toda su fuerza sin no se alimenta. \n"
+"\n"
+"Mata algunos animales de la fauna local para conseguir carne y busca también unas manzanas. Sería una vergüenza que el dragón tuviera hambre antes de irte de aventuras."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:71
+#, no-wrap
+msgid "Tell the Wizard you have fed the Baby Dragon."
+msgstr "Díle al Hechicerp que has recogido una buena cantidad de comida para el Bebé Dragón."
+
+#. (itstool) path: consumestep/finish
+#: UnityGame/Assets/Quests/Wizard/Dragon%20Master.xml:67
+#, no-wrap
+msgid "Some say the Dragon Lord has a telepathic connection with his dragons.  That a piece of his soul is in each of them.  It appears you and your dragon make a good team as well.  This plan may work after all.  But there is much more to do."
+msgstr "Algunos dicen que el Señor Dragón tiene una conexión telepática con sus dragones. Que hay un pedazo de su alma en cada uno de ellos. Parece que tú y tu dragón también hacéis un buen equipo. Este plan puede funcionar después de todo. Pero hay mucho más por hacer."
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:1
+msgid "Final Battle Dialog"
+msgstr "Diálogo de la Batalla Final"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:18
+#, no-wrap
+msgid "Well, well, well.  Our foolish peon has returned.  Have you come to admit defeat?"
+msgstr "Bueno, bueno, bueno. Nuestro estúpido peón ha vuelto. ¿Vienes a reconocer tu derrota?"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:24
+#, no-wrap
+msgid "We’re not so different, you and I.  We both have the strength and the guts to harness the power of dragons.  And think of all those beings you’ve killed.  You’re a murderer too, Dragon Rider.  Just like me.  Join me, and we will destroy this world together, then move on to others."
+msgstr "Tú y yo no somos tan diferentes. Ambos tenemos fuerza y agallas para destripar el poder de los dragones. Y piensa en todos esos seres a los que has matado. Tú también eres un asesino, Jinete del Dragón. Igual que yo. Únete a mi y junto destruiremos el mundo. Y luego nos iremos a otro."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:58
+#, no-wrap
+msgid "MWA HA HA!  Still so naïve and stupid.  Why would I ever share my power with you?"
+msgstr "¡HA, HA, HA! Sigues siendo ingenuo y estúpido. ¿Por qué iba a compartir mi poder contigo?"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:88
+#, no-wrap
+msgid "No?  THEN DIE!"
+msgstr "¿No? ¡ENTONCES MUERE!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:117
+#, no-wrap
+msgid "You may have defeated me, but I would enjoy a rematch if you are up to it, Dragon Rider."
+msgstr "Puede que me hayas derrotado, pero disfrutaré de la revancha si te atreves, Jinete del Dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:127
+#, no-wrap
+msgid "Speak to me again if you are serious about our rematch, Dragon Rider."
+msgstr "Vuelve a hablar conmigo si quieres la revancha, Jinete del Dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Final%20Battle%20Dialog.xml:157
+#, no-wrap
+msgid "MWA HA HA!  DIE!!!"
+msgstr "¡HA, HA, HA! ¡MUERE!"
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:1
+msgid "Mining Master"
+msgstr "Maestro Minero"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:6
+#, no-wrap
+msgid ""
+"You must not only survive in this world.  You must command it!  With the resources you gather, you can build shelter, a castle, perhaps even a whole city!\n"
+"\n"
+"You will need to learn how to craft special tools to help gather resources faster.  Let's get started."
+msgstr ""
+"No solo debes sobrevivir en este mundo. ¡También debes mandar en él! Con los recursos que recojas, puedes construir un cobertizo, un castillo o quizás una ciudad entera! \n"
+"\n"
+"Necesitarás aprender a hacer herramientas especiales para poder recoger recursos rápidamente. Vamos a empezar."
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:30
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:35
+#, no-wrap
+msgid ""
+"The pick axe works best when digging through stone or mining materials.\n"
+"\n"
+"Craft a pick axe and test it out."
+msgstr ""
+"El pico funciona mejor cuando cavas a través de materiales de piedra o mineral. \n"
+"\n"
+"Construye un pico y pruébalo."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:44
+#, no-wrap
+msgid "Tell the Wizard you have a pick axe."
+msgstr "Dile al Hechicero que tienes un pico."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:40
+#, no-wrap
+msgid "Now that you have the pick axe, we can move on to the next digging tool."
+msgstr "Ahora que tienes el pico, podemos pasar a la siguiente herramienta para cavar."
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:55
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:60
+#, no-wrap
+msgid ""
+"The next tool available is the axe.  Axes work best on trees and the various plant life.\n"
+"\n"
+"Craft an axe and test it out."
+msgstr ""
+"La siguiente herramienta disponible es el hacha. Funciona mejor en los árboles y plantas.\n"
+"\n"
+"Fabrica un hacha y úsala."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:69
+#, no-wrap
+msgid "Tell the Wizard you have an axe."
+msgstr "Dile al Hechicero que tienes un hacha."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:65
+#, no-wrap
+msgid "Now that you have the axe, we can move on to the next digging tool."
+msgstr "Ahora que tienes el hacha, podemos pasar a la siguiente herramienta para cavar."
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:80
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:85
+#, no-wrap
+msgid ""
+"The next tool available is the hammer.  Hammers work best on stone objects and generally well on anything.\n"
+"\n"
+"Craft a hammer and test it out."
+msgstr ""
+"La siguiente herramienta disponible es el martillo. Los martillos funcionan mejor en rocas y otros materiales.\n"
+"\n"
+"Construye un martillo y úsalo."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:94
+#, no-wrap
+msgid "Tell the Wizard you have a hammer."
+msgstr "Dile al Hechicero que tienes un martillo."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:90
+#, no-wrap
+msgid "Now that you have the hammer, we can move on to the next digging tool."
+msgstr "Ahora que tienes el martillo, podemos pasar a la siguiente herramienta para cavar."
+
+#. (itstool) path: craftstep/intro
+#. (itstool) path: craftstep/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:105
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:110
+#, no-wrap
+msgid ""
+"The last tool available is the shovel.  Shovels work best on dirt and sand.\n"
+"\n"
+"Craft a shovel and test it out."
+msgstr ""
+"La última herramienta disponible es la pala. Las palas funcionan mejor en la tierra y en la arena. \n"
+"\n"
+"Construye una pala y úsala."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:119
+#, no-wrap
+msgid "Tell the Wizard you have a shovel."
+msgstr "Dile al Hechicero que tienes una pala."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:115
+#, no-wrap
+msgid "Now that you have a shovel, you possess all the tools necessary to dig with efficiency."
+msgstr "Ahora que tienes una pala, ya posees todas las herramientas necesarias para cavar con eficiencia."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:130
+#, no-wrap
+msgid "Wonderful!  Simply wonderful.  I gathered a few goodies to help you settle in.  Now, if you're not too busy, I have a problem I could really use your help with."
+msgstr "¡Maravilloso! Simplemente maravilloso. Recogí unos regalitos para ayudarle a instalarte. Ahora, si no estás muy ocupado, tengo un problema con el que realmente podrías ayudarme."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:152
+#, no-wrap
+msgid "That crafting table you built has many uses.  With it, you can forge powerful weapons, construct magnificent contraptions, perhaps even tap into the arcane power of MAGIC!"
+msgstr "Esa mesa de artesanía que has construido tiene muchos usos. Con ella, puedes fabricar armas poderosas, magníficos artilugios, incluso llegar a usar el poder arcano de la MAGIA!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:155
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1195
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1209
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1219
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1229
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1239
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1249
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1259
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1269
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1279
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1289
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1299
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1309
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1319
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1329
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1339
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1349
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1359
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1369
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1379
+#, no-wrap
+msgid "Tell the Wizard you have crafted a sword."
+msgstr "Dile al Hechicero que has fabricado una espada."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:162
+#, no-wrap
+msgid ""
+"But first thing's first.  Instructions for how to craft various items can be found in the Recipe Book.\n"
+"\n"
+"Go ahead.  Open your inventory and open the Recipe Book in the lower left hand corner."
+msgstr ""
+"Pero lo primero es lo primero. Las instrucciones para fabricar los objetos se pueden encontrar en el Libro de Recetas. \n"
+"\n"
+"Adelante. Abre tu inventario y abre el Libro de Reectas en la esquina inferior izquierda."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:167
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:224
+#, no-wrap
+msgid ""
+"What's the matter?  Never opened a book before?  I guess you're more a warrior than a scholarly type, but still!\n"
+"\n"
+"Click on your inventory and open the Recipe Book in the lower left hand corner."
+msgstr ""
+"¿Qué pasa? ¿No has abierto nunca un libro? Supongo que eres más bien un guerrero que un estudioso, pero aún así! \n"
+"\n"
+"Haz clic en tu inventario y abre el Libro de Recetas en la esquina inferior izquierda."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:174
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:231
+#, no-wrap
+msgid "Open the Recipe Book within your Inventory."
+msgstr "Abre el Libro de Recetas en el Inventario."
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:178
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:570
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:610
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:648
+#, no-wrap
+msgid "Open Inventory"
+msgstr "Abrir Inventario"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Mining%20Master.xml:258
+#, no-wrap
+msgid "There.  That wasn't so hard, was it?  Now you can do some serious crafting."
+msgstr "Bien. No ha sido tan difícil, ¿a que no? Ahora puedes ponerte a trabajar en serio."
+
+#. (itstool) path: UnityGame/Assets/Quests/Wizard/Tutorial.xml/quest@title
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:14
+#, no-wrap
+msgid "You there!  Young one!  Are you all right?  Looks like you took a nasty spill.  I think it best you move around a bit; make sure nothing's broken."
+msgstr "¡Tú! ¡Jóven! ¿Estás bien? Parece que te has hecho daño. Creo que será mejor que andes un poco, para ver si no te has roto algo."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:15
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:91
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:222
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:303
+#, no-wrap
+msgid "Go on!  Count your fingers.  Wiggle your toes.  I'll be here when you get back."
+msgstr "¡Vamos! Cuéntate los dedos.  Mueve los dedos de los pies.  Estaré aquí cuando vuelvas."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:18
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:94
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:225
+#, no-wrap
+msgid "Follow the instructions to learn how to move around."
+msgstr "Sigue las instrucciones para aprender a moverte."
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:22
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:46
+#, no-wrap
+msgid "Look Around"
+msgstr "Mira alrededor"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:98
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:122
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:179
+#, no-wrap
+msgid "Walk"
+msgstr "Caminar"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:134
+#, no-wrap
+msgid "S"
+msgstr "S"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:146
+#, no-wrap
+msgid "W"
+msgstr "W"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:158
+#, no-wrap
+msgid "A"
+msgstr "A"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:170
+#, no-wrap
+msgid "D"
+msgstr "D"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:229
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:251
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:272
+#, no-wrap
+msgid "Jump"
+msgstr "Saltar"
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:263
+#, no-wrap
+msgid "Space"
+msgstr "Espacio"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:307
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:411
+#, no-wrap
+msgid "Tell the Wizard nothing is broken by pressing R2 while targeting him."
+msgstr "Dile al Hechicero que no hay nada roto presionando R2 mientras lo apuntas."
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:310
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:336
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:377
+#, no-wrap
+msgid "Open Quest Log"
+msgstr "Abrir Registro de Misión"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:333
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:417
+#, no-wrap
+msgid "Tell the Wizard nothing is broken by clicking on him."
+msgstr "Dile al Hechicero que no se ha roto nada haciendo clic sobre él."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:334
+# UnityGame/Assets/Localization/T.cs:43
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestDrawableColumn.cs:49
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:115
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:111
+# UnityGame/Assets/Scripts/Quests/Quest.cs:382
+# UnityGame/Assets/Scripts/Quests/QuestOptionAuto.cs:77
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:348
+#, no-wrap
+msgid "J"
+msgstr "J"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:374
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:423
+#, no-wrap
+msgid "Tell the Wizard nothing is broken by pressing down on him."
+msgstr "Dile al Hechicero que no hay nada roto presionando sobre él."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:407
+#, no-wrap
+msgid "Glad to see you're all in one piece."
+msgstr "Me alegra ver que sigues entero."
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:432
+#, no-wrap
+msgid ""
+"You need to learn how to dig.\n"
+"\n"
+"Hold down R2 on a block to break it.\n"
+"\n"
+"This is the best way to dig holes, burrow tunnels, and generally alter your surroundings."
+msgstr ""
+"Necesitas aprender acavar. \n"
+"\n"
+"Mantén pulsado R2 en un bloque para romperlo. \n"
+"\n"
+"Esta es la mejor manera de cavar hoyos, excavar túneles y, en general, alterar tu entorno."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:441
+#, no-wrap
+msgid "Hold down R2 on a block to break it."
+msgstr "Mantén pulsado R2 en un bloque para romperlo."
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:446
+#, no-wrap
+msgid ""
+"You need to learn how to dig.\n"
+"\n"
+"Hold down the left mouse button on a block to break it.\n"
+"\n"
+"This is the best way to dig holes, burrow tunnels, and generally alter your surroundings."
+msgstr ""
+"Necesitas aprender a escavar.\n"
+"\n"
+"Mantén el botón izquierdo del ratón sobre un bloque para romperlo.\n"
+"\n"
+"Esta es la mejor manera de escavar huecos, túneles y alterar el terreno."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:455
+#, no-wrap
+msgid "Hold down the left mouse button on a block to break it."
+msgstr "Mantén presionado el botón izquierdo del ratón en un bloque para romperlo."
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:460
+#, no-wrap
+msgid ""
+"You need to learn how to dig.\n"
+"\n"
+"Press down on a block to break it.\n"
+"\n"
+"This is the best way to dig holes, burrow tunnels, and generally alter your surroundings."
+msgstr ""
+"Necesitas aprender a cavar. \n"
+"\n"
+"Pulsa sobre un bloque para romperlo.\n"
+"\n"
+"Es la mejor forma de cavar agujeros y túneles y, en general, cambiar el entorno."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:469
+#, no-wrap
+msgid "Press down on a block to break it."
+msgstr "Pulsa un bloque para romperlo."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:481
+#, no-wrap
+msgid "Now that you understand how the simple things in this world work, you must be prepared for the dangers that inhabit the land."
+msgstr "Ahora que entiendes cómo funcionan las cosas simples de este mundo, debes estar preparado para los peligros que habitan la tierra."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:484
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:494
+#, no-wrap
+msgid "Tell the Wizard you know how to break blocks."
+msgstr "Dile al Hechicero que sabes romper bloques."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:491
+#, no-wrap
+msgid "When the last beam of sunlight vanishes below the horizon, you can be sure all sorts of dangerous monsters will come looking for food.  You don't want to end up as someone's midnight snack!"
+msgstr "Cuando el último rayo de sol desaparece bajo el horizonte, puedes estar seguro de que todo tipo de monstruos peligrosos vendrán en busca de comida. ¡No querrás acabar siendo el aperitivo de medianoche de alguien!"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:501
+#, no-wrap
+msgid ""
+"You will need a torch to see them coming.\n"
+"\n"
+"Collect some wood and let's get started."
+msgstr ""
+"Necesitarás una antorcha para verlos venir.\n"
+"\n"
+"Recoge un poco de madera y empecemos."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:507
+#, no-wrap
+msgid ""
+"To survive the night, you will need a torch.  Torches provide limited protection against monsters.\n"
+"\n"
+"Collect some wood and let's get started."
+msgstr ""
+"Para sobrevivir por la noche, necesitarás una antorcha. Las antorchas proporcionan una protección limitada contra los monstruos.\n"
+"\n"
+"Recoge un poco de madera y empecemos."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:529
+#, no-wrap
+msgid "Good.  To make torches,  you will need to make sticks out of wood."
+msgstr "Bien. Para hacer antorchas, tendrás que hacer palos de madera."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:533
+#, no-wrap
+msgid "Tell the Wizard you have collected the piece of wood."
+msgstr "Dile al Hechicero que has recogido la madera."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:542
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:679
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:761
+#, no-wrap
+msgid ""
+"Craft the wood into planks,  then craft the planks into sticks.\n"
+"\n"
+"Open your inventory and drag the wood to an empty crafting slot to begin."
+msgstr ""
+"Corta madera en tablones y, luego, en palos.\n"
+"\n"
+"Abre tu inventario y mueve la madera a un espacio de trabajo vacío para empezar."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:549
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:686
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:768
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:857
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:945
+#, no-wrap
+msgid "Follow the instructions on how to craft the items required to create a torch."
+msgstr "Sigue las instrucciones para hacer los elementos necesarios para crear una antorcha."
+
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:622
+#, no-wrap
+msgid "Q"
+msgstr "Q"
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: info/label
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:692
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:774
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:863
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:951
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:699
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:781
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:870
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:958
+#, no-wrap
+msgid ""
+"You can do this by pressing [00FF00]A[-] to grab or place one item, [7777FF]X[-] to grab or place half a stack, or [FFFF00]Y[-] to grab or place the entire stack.\n"
+"\n"
+"Items can also be dropped once they have been grabbed by pressing [FF0000]B[-]."
+msgstr ""
+"Puedes hacer esto pulsando [00FF00]A[-] para coger o colocar un objeto, [7777FF]X[-] para coger o colocar la mitad de una pila, o [FFFF00]Y[-] para coger o colocar toda la pila. \n"
+"\n"
+"Los elementos también se pueden soltar, una vez cogidos pulsando [FF0000]B[-]."
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: info/label
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:709
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:791
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:880
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:968
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:716
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:798
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:887
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:975
+#, no-wrap
+msgid ""
+"You can do this by holding the left mouse button and dragging the cursor to grab one item, middle mouse button to grab half a stack, or right mouse button to grab the entire stack.\n"
+"\n"
+"Items can also be dropped by dragging the item away from a valid slot and releasing."
+msgstr ""
+"Puedes hacerlo pulsando el botón izquierdo del ratón y arrastrando el cursor para coger un objeto, el botón central para coger media pila o el botón derecho para coger la pila entera.\n"
+"\n"
+"También podrás soltar los objetos arrastrándolos a un espacio válido y soltando el botón."
+
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: info/label
+#. #-#-#-#-#  - (PACKAGE VERSION)  #-#-#-#-#
+#. (itstool) path: condition/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:726
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:808
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:897
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:985
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:733
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:815
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:904
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:992
+#, no-wrap
+msgid ""
+"You can do this by dragging your finger from the item slot to grab one item, or pressing and holding on the item slot to grab the entire stack.\n"
+"\n"
+"Items can also be dropped by dragging the item away from a valid slot and releasing."
+msgstr ""
+"Puedes hacer esto arrastrando el dedo hasta los objetos para agarrar un objeto o pulsando y manteniendo el objeto en el espacio para coger toda la pila. \n"
+"\n"
+"Los elementos también se pueden soltar arrastrando el elemento desde su sitio y soltándolo."
+
+#. (itstool) path: step/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:741
+#, no-wrap
+msgid "Drag wood here"
+msgstr "Arrastra la madera aquí"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:850
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:938
+#, no-wrap
+msgid ""
+"Now that you have some planks, you can make sticks.\n"
+"\n"
+"Open your inventory, and drag the planks on the indicated crafting slots."
+msgstr ""
+"Ahora que tienes algunos tablones, puedes hacer palos. \n"
+"\n"
+"Abre tu inventario y arrastra los tablones a los espacio de trabajo indicados."
+
+#. (itstool) path: step/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:912
+#, no-wrap
+msgid "Drag planks here"
+msgstr "Arrastra los tablones aquí"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1029
+#, no-wrap
+msgid "Tell the Wizard you have crafted sticks for the torch."
+msgstr "Dile al Hechicero que has hecho los palos para la antorcha."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1036
+#, no-wrap
+msgid "The last ingredient to make the torch is coal.  Coal, which glows a purple hue, is easily found in caves.  When you have the coal, speak to me about how to make the torch."
+msgstr "El último ingrediente para hacer la antorcha es el carbón. El carbón, que se ilumina en un tono púrpura, se encuentra fácilmente en las cuevas. Cuando tengas el carbón, pregúntame cómo hacer la antorcha."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1055
+#, no-wrap
+msgid "Tell the Wizard you have collected the piece of coal."
+msgstr "Dile al Hechicero que has recogido el trozo de carbón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1064
+#, no-wrap
+msgid "Now that you have the ingredients I have asked of you, it is finally time to craft the torch you so desperately require."
+msgstr "Ahora que tienes los ingredientes que te he pedido, por fin es hora de construir la antorcha que necesitas tan desesperadamente."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1070
+#, no-wrap
+msgid "Craft a torch."
+msgstr "Construye una antorcha."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1083
+#, no-wrap
+msgid "Good work, but there is still much more to do if you hope to stay alive."
+msgstr "Buen trabajo, pero todavía queda mucho por hacer si quieres seguir con vida."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1086
+#, no-wrap
+msgid "Tell the Wizard you have crafted a torch."
+msgstr "Dile al Hechicero que has construido la antorcha."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1093
+#, no-wrap
+msgid "A crafting table is required to make most tools.  You will need more wood to get the planks required to make the table.  Return when you have crafted the table."
+msgstr "Necesitas una mesa de artesanía para hacer la mayoría de las herramientas. Necesitarás más madera para conseguir las tablas necesarias para hacer la mesa. Vuelve cuando hayas elaborado la mesa."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1100
+#, no-wrap
+msgid "Craft a crafting table."
+msgstr "Construye una mesa de artesanía."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1114
+#, no-wrap
+msgid "Tell the Wizard you have crafted a crafting table."
+msgstr "Dile al Hechicero que has construido una mesa de artesanía."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1121
+#, no-wrap
+msgid "Now that you've made a crafting table, you can craft weapons to protect yourself.  Collect a few supplies, then come back and I will show you how."
+msgstr "Ahora que has hecho una mesa de artesanía, puedes crear armas para protegerte. Recoge algunas provisiones, vueve y te mostraré cómo."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1148
+#, no-wrap
+msgid "Tell the Wizard you have gathered the ingredients to craft a sword."
+msgstr "Dile al Hechicero que has recogido los ingredientes para fabricar una espada."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1159
+#, no-wrap
+msgid "Use the crafting table to craft a sword."
+msgstr "Usa la mesa de artesanía para fabricar una espada."
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1164
+#, no-wrap
+msgid "It's time to try out that crafting table.  Place it on the ground by pressing L2, and let's use it to craft a sword."
+msgstr "Es hora de probar esa mesa de artesanía. Ponla en el suelo pulsando L2 y vamos a usarla para fabricar una espada."
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1168
+#, no-wrap
+msgid "It's time to try out that crafting table.  Place it on the ground by pressing the right mouse button, and let's use it to craft a sword."
+msgstr "Es el momento de darle uso a esa mesa de artesanía.  Colócala en el suelo presionando el botón derecho del ratón y úsala para fabricarte una espada."
+
+#. (itstool) path: condition/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1172
+#, no-wrap
+msgid "It's time to try out that crafting table.  Place it on the ground by tapping on the block you wish to place it next to, and let's use it to craft a sword."
+msgstr "Es hora de probar esa mesa de artesanía. Ponla en el suelo pulsando el bloque junto al cual la quieres ponerla y vamos a usarla para fabricar una espada."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Wizard/Tutorial.xml:1188
+#, no-wrap
+msgid ""
+"Now you look like a proper warrior.\n"
+"\n"
+"Hmm . . . perhaps you can help me with my current dilemma."
+msgstr ""
+"Ahora eres un verdadero guerrero. \n"
+"\n"
+"Hmm...a lo mejor puedes ayudarme con mi problema actual."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Quest.cs:301
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:594
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:109
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
+msgid "The Grand Finale"
+msgstr "El Gran Final"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"What do I see! Really? You subdued my dragons! I underestimated you! You "
+"turned out to be stronger than I thought."
+msgstr ""
+"¡Que es lo que veo! ¿De Verdad? ¡Has sometido a mis dragones! ¡Te subestimé! "
+"Resultaste ser más fuerte de lo que pensaba."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"But that means ... What do you feel now, Dragon Rider? Do you feel the power "
+"that overwhelms you and wants to break out? \n"
+"    Do you want to use all of it? I can help you with this if you join me. "
+"Let’s put all the disagreements behind us and unite together for the great "
+"goal of conquering this world. \n"
+"    No one and nothing can stop us."
+msgstr ""
+"Pero eso significa ... ¿Qué es lo que sientes ahora, Jinete de Dragones? "
+"¿Sientes el poder que te abruma y quiere estallar?\n"
+" ¿Quieres usarlo todo? Puedo ayudarte con esto si te unes a mí. Dejemos "
+"atrás todos los desacuerdos y unámonos para lograr el gran objetivo de "
+"conquistar este mundo.\n"
+"Nadie ni nada puede detenernos."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Are you ready to join me?"
+msgstr "¿Estás listo para unirte a mí?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"At last! For a long time, I had to wait for this hour! You know that I "
+"already tried to conquer this world, but alone I could not do it. \n"
+"    But now, with you, I will become twice as strong, we will conquer not "
+"only this world but also that external one, all around will obey to my "
+"strength! \n"
+"    I will become the omnipotent ruler of all worlds, I will put everyone on "
+"their knees, I ... oh, I wanted to say \"we\"..."
+msgstr ""
+"¡Al Fin! ¡Durante mucho tiempo, tuve que esperar este momento! Sabes que ya "
+"intenté conquistar este mundo, pero solo no pude hacerlo.\n"
+"Pero ahora, contigo, seré el doble de fuerte, conquistaremos no solo este "
+"mundo sino también el Externo, ¡todo lo que obedece obedecerá a mi fuerza!\n"
+"Me convertiré en el gobernante omnipotente de todos los mundos, pondré a "
+"todos de rodillas, yo ... oh, quería decir \"nosotros\" ..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Why are you looking at me like that? I am the Dragon Lord, and you are only "
+"their Rider. The title of Lord still needs to be earned. \n"
+"      Do you want to become equal to me and get the title of Lord of the "
+"Dragons so that miserable little people tremble at the mention of your "
+"name?\n"
+"\n"
+"      Then take my staff..."
+msgstr ""
+"¿Por qué me miras así? Soy el Señor Dragón, y tú solo eres su Jinete. El "
+"título de Señor todavía necesita ser ganado.\n"
+"¿Quieres ser igual a mí y obtener el título de Señor de los Dragones para "
+"que las personas miserables tiemblen ante la mención de tu nombre?\n"
+"\n"
+"Entonces toma mi bastón ..."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "... and kill them all!"
+msgstr "... y mátalos a todos!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "What are you waiting for? Are you scared?"
+msgstr "¿Qué estás esperando? ¿Tienes miedo?"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestLabel.cs:47
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfoLabel.cs:21
+# UnityGame/Assets/Scripts/Quests/Drawables/QuestInfo.cs:25
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:83
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:72
+# UnityGame/Assets/Scripts/Quests/Quest.cs:306
+# UnityGame/Assets/Scripts/Quests/Components/QuestEntry.cs:14
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:32
+# UnityGame/Assets/Blocksters/Scripts/Gui/UIQuestsStorage.cs:54
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1030
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:652
+# UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:561
+msgid "Tell Dragon Lord about your success."
+msgstr "Cuéntale al Señor Dragón sobre tu éxito."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:137
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:322
+# UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:629
+# UnityGame/Assets/Scripts/Quests/Components/QuestMenuSelect.cs:11
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Now we are connected forever, and our agreement is signed by the blood of "
+"all these people whom you killed."
+msgstr ""
+"Ahora estamos conectados para siempre, y nuestro acuerdo está firmado por la "
+"sangre de todas esas personas a las que mataste."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:46
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:150
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStepNode.cs:132
+# UnityGame/Assets/Scripts/Quests/Steps/QuestStep.cs:145
+# UnityGame/Assets/Scripts/Quests/Quest.cs:379
+# UnityGame/Assets/Scripts/Quests/Components/QuestOptionMessage.cs:17
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:103
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs:55
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid ""
+"Let's start destroying this world together, let everyone see the strength "
+"and power of the Dragon Lords!"
+msgstr ""
+"¡Comencemos a destruir este mundo juntos, que todos vean la fuerza y el "
+"poder de los Señores Dragón!"

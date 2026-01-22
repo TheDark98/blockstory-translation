@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-10 03:26+0000\n"
+"Last-Translator: Paul Pacheco <paul@blockstory.net>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"hints/es/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "You can enable Split Touch Controls in the Controls settings."
+msgstr ""
+"Puedes activar los Controles Táctiles en la configuración de los Controles."
+
+msgid ""
+"To place block, equip it in inventory and simply click on the spot where you "
+"want to place it."
+msgstr ""
+"Para poner un bloque equípatelo en el inventario y simplemente haz click "
+"sobre el terreno donde quieras colocarlo."
+
+msgid "The [FF0000]Source of Life[-] only spawns at night."
+msgstr "La [FF0000]Fuente de Vida[-] sólo aparece por la noche."
+
+msgid ""
+"The [00FF00]Boat[-] is good for travelling on more than [00FF00]Water[-]."
+msgstr ""
+"El [00FF00]Barco[-] va bien para viajar en algo más que sólo [00FF00]Agua[-]."
+
+msgid "Watch that rogue orchard! Growing trees can damage nearby buildings."
+msgstr ""
+"¡Cuidado con esa pícara arboleda! Los árboles en crecimiento pueden dañar "
+"edificios cercanos."
+
+msgid "Plants can grow anywhere with the right type of soil."
+msgstr ""
+"Las plantas pueden crecer en cualquier lugar con el tipo de suelo adecuado."
+
+msgid "Make some [00FF00]Torch[-] before you go exploring."
+msgstr "Haz algunas [00FF00]Antorchas[-] antes de ir a explorar."
+
+msgid "Complete [FF0000]Aarons'[-] quests to unlock the radar recipe."
+msgstr ""
+"Completa la misión de [FF0000]Aaron[-] para desbloquear la receta del radar."
+
+msgid "Go into caves to easily find ore."
+msgstr "Entra en las cuevas para encontrar fácilmente el mineral."
+
+msgid "Stronger enemies drop better items."
+msgstr "Los enemigos más fuertes dropean mejores artículos."
+
+msgid "With the teleport staff you can teleport to any placed bed."
+msgstr ""
+"Con una vara de teletransporte puedes ir a cualquier sitio donde hayas "
+"puesto una cama."
+
+msgid ""
+"If you die, you will be respawned near the last placed [00FF00]Bed[-] block."
+msgstr ""
+"Si te mueres, resucitarás cerca del último bloque de [00FF00]Cama[-] que "
+"vayas puesto."
+
+msgid "A lost world resides deep underwater."
+msgstr "Un mundo perdido reside bajo las aguas profundas."
+
+msgid "Go to [FF0000]www.blockstory.net[-] for more info about the game."
+msgstr ""
+"Ve a [FF0000]www.blockstory.net[-] para obtener más información sobre el "
+"juego."
+
+msgid "Collect a spawner to take any creature with you."
+msgstr ""
+"Colecta un spawner (generador de criaturas) para llevar contigo a cualquier "
+"criatura."
+
+msgid "The amount of time you can fly is linked to your [FF0000]Mana[-]."
+msgstr ""
+"La cantidad de tiempo que puedes volar está vinculada a tu [FF0000]Maná[-]."
+
+msgid "Creatures: Red - Aggressive, Yellow - Neutral, Green - peaceful."
+msgstr "Las criaturas: Rojo: Agresivo, Amarillo: Neutral, Verde: Pacífico."
+
+msgid ""
+"Eliminate a spawner to prevent being overwhelmed by monsters (eg. spiders)."
+msgstr ""
+"Elimina un spawner (generador de criaturas) para evitar ser arrollado por "
+"los monstruos (por ejemplo, arañas)."
+
+msgid "The [FF0000]Alchemist[-] is also a merchant."
+msgstr "El [FF0000]Alquimista[-] es un comerciante también."
+
+msgid ""
+"DON'T stab an [FF0000]Electric Dragon[-] (or any other [FF0000]Dragon[-])!"
+msgstr ""
+"¡NO apuñales a un [FF0000]Dragón Eléctrico[-]! (o a cualquier otro [FF0000]"
+"Dragón[-])!"
+
+msgid "Make a diving suit before traveling to [FF0000]Atlantis[-]."
+msgstr "Haz un traje de buceo antes de viajar a [FF0000]Atlantis[-]."
+
+msgid "[00FF00]Clouds[-] are pretty to look at, but will not hold you up."
+msgstr ""
+"Las [00FF00]nubes[-] son bonitas para mirarlas, pero no soportarán tu peso."
+
+msgid ""
+"Hold a [00FF00]Bucket[-] of [00FF00]Water[-] in your hand to place water; "
+"hold an empty [00FF00]Bucket[-] in your hand to collect [00FF00]Water[-]."
+msgstr ""
+"Agarra un [00FF00]Cubo[-] de [00FF00]Agua[-] en la mano para poner agua; "
+"agarra un [00FF00]Cubo[-] vacío en la mano para recoger [00FF00]Agua[-]."
+
+msgid ""
+"Water in Forgotten Sky islands is often open to the sky below it - be "
+"careful when swimming, you can fall out of the water into open air!"
+msgstr ""
+"El agua de las Islas del Cielo Olvidado a veces surcan hacia el vacío. Ten "
+"cuidado al nadar, ¡puedes salirte del agua y caer por el cielo!"
+
+msgid ""
+"[00FF00]Iron Ore[-] glows a weak grey light - you may not be able to see it "
+"when brighter ores are nearby."
+msgstr ""
+"El [00FF00]Mineral de Hierro[-] se ilumina con una luz gris muy débil, puede "
+"que no los veas cuando otros minerales más brillantes están cerca."
+
+msgid ""
+"[00FF00]Sea Grass[-] contains trapped air. You can swim into it to replenish "
+"your [FF0000]Breath[-] while deep underwater."
+msgstr ""
+"La [00FF00]Hierba del Mar[-] contiene aire atrapado. Puedes nadar en ella "
+"para reponer la [FF0000]Respiración[-]cuando estés bajo aguas profundas."
+
+msgid "Sleeping restores your [FF0000]Mana[-] and [FF0000]Health[-]."
+msgstr "Dormir restaura tu [FF0000]Maná[-] y tu [FF0000]Salud[-]."
+
+msgid "Spend skill points on dig speed to dig faster."
+msgstr "Gasta puntos de habilidad en Velocidad de cavar para cavar más rápido."
+
+msgid ""
+"[00FF00]Lava[-], [00FF00]Acid[-], and [00FF00]Cactus[-] do damage when you "
+"touch them."
+msgstr ""
+"La [00FF00]Lava[-], el [00FF00]Ácido[-] y el [00FF00]Cactus[-] hacen daño "
+"cuando los tocas."
+
+msgid "Dig deep to find [FF0000]Moria[-] and the [FF0000]Underworld[-]."
+msgstr ""
+"Cava profundo para encontrar [FF0000]Moria[-] y el [FF0000]Inframundo[-]."
+
+msgid "Fly high above to find a forgotten world."
+msgstr "Vuela hacia arriba para encontrar un mundo olvidado."
+
+msgid "You can trade with [FF0000]The Alchemist[-] for useful items."
+msgstr ""
+"Puedes comerciar con el [FF0000]Alquimista[-] para conseguir artículos "
+"útiles."
+
+msgid "The recipe book can be found within the inventory window."
+msgstr "El libro de recetas puede encontrarse en la ventana de inventario."
+
+msgid "Use skill points to make your character stronger."
+msgstr ""
+"Utiliza los puntos de habilidad para hacer que tu personaje sea más fuerte."
+
+msgid "Dont attack [FF0000]Ted[-]!!!"
+msgstr "¡No ataques a [FF0000]Ted[-]!"
+
+msgid ""
+"[FF0000]Quests[-] need to be completed for certain recipes to be unlocked."
+msgstr "Debes completar [FF0000]Misiones[-] para desbloquear ciertas recetas."
+
+msgid ""
+"Need [00FF00]Sulfur[-] or [00FF00]Unobtainium[-]? Go to the [FF0000]"
+"Underworld[-]!"
+msgstr ""
+"¿Necesitas [00FF00]Azufre[-] o una [00FF00]Unobtanium[-]? ¡Ve al [FF0000]"
+"Inframundo[-]!"
+
+msgid "[00FF00]Sea Grass[-] can be used to make elevators."
+msgstr "La [00FF00]Hierba del Mar[-] se puede utilizar para hacer elevadores."
+
+msgid "Trees you plant will not stop growing until they are full size."
+msgstr ""
+"Los árboles que plantes no dejarán de crecer hasta que alcancen su tamaño "
+"final."

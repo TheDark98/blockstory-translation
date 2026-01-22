@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-16 17:38-0400\n"
+"PO-Revision-Date: 2023-10-13 19:51+0000\n"
+"Last-Translator: anonymous <noreply@weblate.org>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"item-effects/es/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Health"
+msgstr "{0} Salud Máxima"
+
+msgid "Light"
+msgstr "Produce luz"
+
+msgid "FireMagic"
+msgstr "{0} Daño por Fuego"
+
+msgid "Tick"
+msgstr "por segundo"
+
+msgid "Gravity"
+msgstr "{0} Fuerza gravitatoria"
+
+msgid "LootDistance"
+msgstr "{0} Distancia de Saqueo"
+
+msgid "Mana"
+msgstr "{0} Maná Máximo"
+
+msgid "Duration"
+msgstr "cerca de {0} segundos"
+
+msgid "BowDamage"
+msgstr "{0} Daño por Arco"
+
+msgid "Energy"
+msgstr ""
+"Proporciona [FFFF00]{0} Energía [-] para elaborar objetos en el [FF0000]Horno"
+"[-] o en la [FF0000]Caldera[-]."
+
+msgid "HealthRegen"
+msgstr "{0} Regeneración Máxima de Salud"
+
+msgid "SwordDamage"
+msgstr "{0} Daño por Espada"
+
+msgid "Breath"
+msgstr "{0} Respiración Máxima Bajo el Agua"
+
+msgid "PoisonDamage"
+msgstr "{0} Daño por Veneno"
+
+msgid "JumpHeight"
+msgstr "{0} Altura de Salto"
+
+msgid "LightningMagic"
+msgstr "{0} Daño por Rayo"
+
+msgid "BreathMagic"
+msgstr "Respirar por {0}"
+
+msgid "SlowTime"
+msgstr "Ralentizado por {0} segundos"
+
+msgid "DarkMagic"
+msgstr "{0} Daño por Oscuridad"
+
+msgid "FlySpeed"
+msgstr "{0} Velocidad de Vuelo"
+
+msgid "Explode"
+msgstr "Destruye los bloques"
+
+msgid "ManaRegen"
+msgstr "{0} Regeneración Máxima de Maná"
+
+msgid "Restores"
+msgstr "Restaura"
+
+msgid "Speed"
+msgstr "{0} Velocidad a Pie"
+
+msgid "HealthMagic"
+msgstr "Salud por {0}"
+
+msgid "SwimSpeed"
+msgstr "{0} Velocidad a Nado"
+
+msgid "Effects"
+msgstr "Efectos"
+
+msgid "Magic"
+msgstr "{0} Daño Mágico"
+
+msgid "Armor"
+msgstr "{0} Armadura"
+
+msgid "WaterGravity"
+msgstr "{0} Fuerza gravitatoria en el agua"
+
+msgid "Damages"
+msgstr "Daño"
+
+msgid "HealthRegenMagic"
+msgstr "Salud por {0}"
+
+msgid "EarthMagic"
+msgstr "{0} Daño a la Tierra"
+
+msgid "ManaRegenMagic"
+msgstr "Maná por {0}"
+
+msgid "Radius"
+msgstr "en un radio de {0} bloques"
+
+msgid "RadialDamage"
+msgstr "{0} Daño"
+
+msgid "BreathRegenMagic"
+msgstr "Respiración por {0}"
+
+msgid "AcidDamage"
+msgstr "{0} Daño por Ácido"
+
+msgid "GunDamage"
+msgstr "{0} Daño por Arma de Fuego"
+
+msgid "BreathRegen"
+msgstr "{0} Regeneración Máxima de la Respiración Bajo el Agua"
+
+msgid "HealingMagic"
+msgstr "Salud por {0}"
+
+msgid "HungerMagic"
+msgstr "Satisface {0} de Hambre"
+
+msgid "ManaMagic"
+msgstr "Maná por {0}"
+
+msgid "IceMagic"
+msgstr "{0} Daño de Hielo"
+
+msgid "HungerRegen"
+msgstr "Satisface {0} de Hambre"
+
+msgid "SpaceBreathRegen"
+msgstr "{0} Regeneración Máxima de Respiración Bajo el Agua"
+
+msgid "SpaceGravity"
+msgstr "{0} Fuerza gravitatoria en el Espacio"
+
+msgid "SpaceJumpHeight"
+msgstr "{0} Altura de Salto en el Espacio"
+
+msgid "FlyingGravity"
+msgstr "{0} Fuerza gravitacional volando"
+
+msgid "SpaceFlyingGravity"
+msgstr "{0} Fuerza gravitatoria volando en el espacio"
+
+msgid "PetHealth"
+msgstr "{0} Salud Máxima de mascota"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:296
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "NormalDamage"
+msgstr "{0} Daño normal"

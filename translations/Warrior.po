@@ -1,0 +1,511 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-12-07 17:21-0600\n"
+"PO-Revision-Date: 2021-08-10 03:26+0000\n"
+"Last-Translator: Paul Pacheco <paul@blockstory.net>\n"
+"Language-Team: Spanish <http://translate.blockstory.net/projects/block-story/"
+"warrior/es/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:1
+msgid "Dragon Armor"
+msgstr "Armadura del Dragón"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:6
+#, no-wrap
+msgid "Ack... Dragon Rider... I am...hurt..."
+msgstr "Ahh...Jinete del Dragón...estoy...herido..."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:14
+#, no-wrap
+msgid "You taught me to be brave, my friend.  I saw the Dragon Lord had released his dragons upon the world and I set out to defeat them.  But I was no match for a dragon.  I am badly wounded.  Please, defeat the dragons.  Avenge me."
+msgstr "Me enseñaste a ser valiente, amigo. He visto que el Señor Dragón ha soltado a sus dragones por el mundo y quiero derrotarles. Pero no tengo mucho que hacer contra un dragón. Estoy malherido. Por favor, derrota a los dragones. Véngame."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:24
+#, no-wrap
+msgid "Tell Aaron you have slain the dragons."
+msgstr "Dile a Aaron que has matado a los dragones."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:18
+#, no-wrap
+msgid ""
+"Amazing.  You defeated all three?\n"
+"\n"
+"You’ve given me hope.  Maybe now I can repay the favor."
+msgstr ""
+"Emocionante. ¿Has derrotado a los tres?\n"
+"\n"
+"Me has devuelto la esperanda. Quizás ahora pueda devolverte el favor."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:42
+#, no-wrap
+msgid "I feel weak, but helping you create Dragon Armor is the least I can do."
+msgstr "Me siento débil, pero lo menos que puedo hacer es ayudarte a crear la Armadura del Dragón."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:50
+#, no-wrap
+msgid "Tell Aaron you have crafted the Dragon Armor."
+msgstr "Dile a Aaron que has creado la Armadura del Dragón."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:46
+#, no-wrap
+msgid "Marvelous.  The scales of the dragon will protect you against the Dragon Lord’s barrage of powerful spells.  Now...I am inspired."
+msgstr "Maravillo. Las escamas del dragón te protegerán contra la potente magia del fuego del Señor Dragón. Ahora...estoy inspirado."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:65
+#, no-wrap
+msgid "You are our angel, Dragon Rider.  And our angel needs an Angelic Sword to defeat that devilish Dragon Lord."
+msgstr "Eres un ángel, Jinete del Dragón. Y nuestro ángel necesita una Espada Angelical para derrotar a ese malvado Señor Dragón."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:77
+#, no-wrap
+msgid ""
+"Cough cough!  Dragon Rider.\n"
+"\n"
+"I cannot even lift my hammer.  But you can.  Please, make your glorious sword."
+msgstr ""
+"*Tos* *Tos* Jinete del Dragón.\n"
+"\n"
+"Ni siquiera puedo sujetar mi martillo. Pero tú si. Por favor, saca tu espada gloriosa."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:91
+#, no-wrap
+msgid "Tell Aaron you have crafted the Angelic Swords."
+msgstr "Dile a Aaron que has hecho la Espada Angelical."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:85
+#, no-wrap
+msgid ""
+"The pain is too great...\n"
+"\n"
+"I see an angel before me.  Is this the end?"
+msgstr ""
+"El dolor es tan fuerte...\n"
+"\n"
+"Veo a un ángel tras mí. ¿Esto es el final?"
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:106
+#, no-wrap
+msgid "My friend...you protected me and taught me courage.  I’ll never forget you.  Good-..."
+msgstr "Amigo mío...me has protegido y enseñado valor. Nunca te olvidaré. Adi..."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:107
+#, no-wrap
+msgid "..."
+msgstr "..."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Dragon%20Armor.xml:110
+#, no-wrap
+msgid "Speak to Paula to prepare for your fight against the Dragon Lord."
+msgstr "Habla con Paula para preparar tu lucha contra el Señor Dragón."
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:1
+msgid "Prehistoric Menace"
+msgstr "Amenaza Prehistórica"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:6
+#, no-wrap
+msgid "Dragon Rider!  Thank goodness you’re here.  I’m quaking in my boots with all these monsters running about."
+msgstr "¡Jinete del Dragón! Gracias a dios que estás aquí! Estoy temblando con todos esos monstruos sueltos por ahí."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:19
+#, no-wrap
+msgid "T-Rex!  There are so many T-Rex out there.  You have to stop them, Dragon Rider.  PLEASE!"
+msgstr "¡T-Rex! Hay tantos T-Rex ahí fuera! Tienes que detenerlos, Jinete del Dragón. ¡POR FAVOR!"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:20
+#, no-wrap
+msgid "I heard somewhere that if you stand perfectly still, a T-Rex can’t see you.  But then again, I also heard that they can smell you from a mile away."
+msgstr "Una vez oí que si te quedas completamente quieto, un T-Rex no puede verte. Pero también escuché que pueden olerte a más de una milla."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:25
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:44
+#, no-wrap
+msgid "Tell Aaron you have slain several T-Rex."
+msgstr "Dile a Aaron que has matado muchos T-Rex."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:21
+#, no-wrap
+msgid "I never thought you’d be able to do it, but I guess a terrible lizard is no match for a Dragon Rider!"
+msgstr "Nunca pensé que pudieras hacerlo, ¡pero creo que un lagarto terrible no es nada para Jinete del Dragón!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:41
+#, no-wrap
+msgid "I can feel my heart rate returning to normal.  Okay – crisis averted.  Now we can make a new sword and shield for you."
+msgstr "Parece que los latidos de su corazón vuelven a su ritmo normal. Ok, crisis superada. Ahora podemos hacerte una espada y un escudo nuevos."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:63
+#, no-wrap
+msgid "You have the ability, Dragon Rider.  I believe in you.  Assemble the weapons you need to defeat Ashkore!"
+msgstr "Tienes la capacidad, Jinete del Dragón. Creo en ti. ¡Ensambla las armas que necesitas para derrotar a Ashkore!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:71
+#, no-wrap
+msgid "Tell Aaron you have crafted the Epic Sword and Shield."
+msgstr "Dile a Aaron que has hecho la Espada y Escudo Épicos."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:67
+#, no-wrap
+msgid "Ha ha! Terrific.  That dragon won’t know what hit him."
+msgstr "¡Ahá! Terrorífico. Ese dragón no sabe lo que le ha golpeado."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Prehistoric%20Menace.xml:87
+#, no-wrap
+msgid ""
+"Now that you have new weapons, it’s time to return to the Wizard.  I’m sure he has big plans for you.\n"
+"\n"
+"If you ever need anything metal-related, like weapons or armor, I’m your man.  You can think of me as your alloy ally."
+msgstr ""
+"Ahora que tienes tus armas nuevas, es hora de volver al Hechicero. Estoy seguro de que tiene grandes planes para ti.\n"
+"\n"
+"Si alguna vez necesitas algo relacionado con el metal, como armas o armaduras, yo soy tu hombre. Piensa en mí como tu aliado de acero."
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:1
+msgid "Stinky Mining"
+msgstr "Minería Sucia"
+
+#. (itstool) path: removestep/intro
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:23
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:44
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:65
+#, no-wrap
+msgid "Hey, Dragon Rider!  I’m working on a weapon worthy of a warrior such as you.  Wow!  That’s a lot of W’s.  I’m going to need a lot of Sulfur to make it, though.  That’s where you come in."
+msgstr "Hola Jinete de Dragones!  estoy trabajando en una arma digna de un guerrero como tú.  Voy a necesitar Azufre para construirla.  Para eso te necesito."
+
+#. (itstool) path: removestep/desc
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:24
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:45
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:66
+#, no-wrap
+msgid "The system I’m working with can process up to fifty Sulfur per day.  I’ll need a lot more than that, but you’ve got a nose for finding those stinky rocks, don’t you?"
+msgstr "El sistema con que trabajo puede requerir hasta 50 pedazos de Azufre diarios. Voy a necesitar mas que eso, pero tu tienes buen olfato para encontrar esas rocas olorosas ¿no?"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:29
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:50
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:71
+#, no-wrap
+msgid "Tell Aaron you have the Sulfur."
+msgstr "Dile a Aaron que tienes el Azufre."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:25
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:67
+#, no-wrap
+msgid "Nice!  Check back tomorrow and I’ll send you out for more ore."
+msgstr "Muy bien!  Chequea mañana que voy a necesitar más."
+
+#. (itstool) path: removestep/finish
+#: UnityGame/Assets/Quests/Warrior/Stinky%20Mining.xml:46
+#, no-wrap
+msgid "I have great news!  That’s all the ore I need.  Now feast your eyes on my ultimate weapon!"
+msgstr "¡Tengo buenas noticias!  Eso es todo lo que necesito. ¡Deleita tus ojos con mi nueva arma!"
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:1
+msgid "Warrior Defense"
+msgstr "Defensa del Guerrero"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:6
+#, no-wrap
+msgid "Why are you talking to me?  Is something wrong?  Do you have bad news?  Oh.  Oh I see.  Armor?  Well why didn't you say so?"
+msgstr "¿Por qué me estás hablando a mí? ¿Ocurre algo? ¿Tienes una mala noticia? Oh. Oh, ya veo. ¿Armadura? Bueno, ¿por qué no lo dijiste?"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:12
+#, no-wrap
+msgid "We're all doomed.  Doomed, I tell you!  That Dragon Lord is going to obliterate everyone in this whole world!"
+msgstr "Todos estamos condenados. ¡Condenados, te digo! Ese Señor Dragó va a destruir este mundo!"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:18
+#, no-wrap
+msgid "It's sad.  I know.  I should go hide in a cave.  But there are SPIDERS in the caves.  Spiders!  With spindly legs and big buggy eyes and they shoot webbing out of their butts.  Spiders are the deadliest predators in the animal kingdom, you know."
+msgstr "Es triste. Lo sé. Debería esconderme en una cueva. Pero hay ARAÑAS en las cuevas. ¡Arañas! Con patas delgadas y ojos grandes y disparan telaraña con sus traseros. Las arañas son los depredadores más letales del reino animal, ya sabes."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:26
+#, no-wrap
+msgid "There's a super scary spider called Aragog who prowls near here.  I'm so scared of him, I can't work!  If you want to learn how to make armor, you have to defeat Aragog first."
+msgstr "Hay una araña súper aterradora llamada Aragog que merodea cerca de aquí.¡Me da tanto miedo, no puedo trabajar! Si quieres aprender cómo hacer la armadura, tienes que derrotar a Aragog primero."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:27
+#, no-wrap
+msgid "Is it safe?  Is he gone?  Then what are you talking to me for?!  Go get Aragog!"
+msgstr "¿Es seguro?¿Se ha ido?¿Entonces porque sigues aquí hablando?! ¡Ve a por Aragog!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:32
+#, no-wrap
+msgid "Tell Aaron that Aragog has been slain."
+msgstr "Dile a Aaron que has matado a Aragog."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:28
+#, no-wrap
+msgid "Thank goodness that nasty Aragog is gone.  So it's safe to come out and craft some armor?  I guess so, as long as zombie spiders aren't a thing.  Wait.  Are zombie spiders a thing?"
+msgstr "Gracias a Dios que ese Aragog tan desagradable se ha ido. ¿Así que es seguro salir y hacer una armadura? Supongo que sí, siempre y cuando no existan las arañas zombies. Espera. ¿Existen las arañas zombies?"
+
+#. (itstool) path: collectstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:52
+#, no-wrap
+msgid "You impressed me with how you handled Aragog, Dragon Rider.  Here are some recipes to craft the armor that will help you defeat the Ice Dragon.  I'm all out of raw materials.  You'll have to craft the armor yourself using a Furnace.  Good luck!"
+msgstr "Me impresionó cómo te enfrentastea Aragog, Jinete del Dragón. Aquí tienes algunas recetas para hacer la armadura que te ayudará a derrotar al Dragón de Hielo. Me he quedado sin materias primas. Vas a tener que crear la armadura tu mismo utilizando un Horno. ¡Buena suerte!"
+
+#. (itstool) path: collectstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:53
+#, no-wrap
+msgid "They say that warriors are not so much brave as they are very skilled at being terrified.  I am an expert at that.  Besides, warriors get the best armor, which provides the best protection.  Stay safe!  That's my motto.  You'll have to craft the armor yourself using a Furnace."
+msgstr "Dicen que los guerreros no son tan valientes como miedosos. Soy un experto en eso. Además, los guerreros tienen la mejor armadura, que ofrece la mejor protección. ¡Manténte a salvo! Ese es mi lema. Vas a tener que crear la armadura tu mismo utilizando un Horno."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:58
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:85
+#, no-wrap
+msgid "Tell Aaron you have crafted the armor."
+msgstr "Dile a Aaron que has creado la armadura."
+
+#. (itstool) path: collectstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:54
+#, no-wrap
+msgid "Well, it's clear no expert crafted this armor, but it'll do.  Good job, Dragon Rider.  May courage guide your hand.  And if not, may cowardice guide your feet so you don't get eaten by a dragon."
+msgstr "Bueno, está claro que esta armadura no la ha hecho por un experto, pero servirá. Buen trabajo, Jinete del Dragón. Que la valentía guíe tu mano. Y si no, que la cobardía guíe tus pies para que no te coma un dragón."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Defense.xml:75
+#, no-wrap
+msgid ""
+"You know my motto: \"If you know you're not the winner, run away so you're not dinner.\"\n"
+"\n"
+"Take care and ask the Wizard what the next step is."
+msgstr ""
+"Sabes que mi lema es: \"Si sabes que no eres el ganador, huye para no ser la cena.\"\n"
+"\n"
+"Ten cuidado y pregunta al Hechicero qué hacer a continuación."
+
+#. (itstool) path: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml/quest@title
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:1
+msgid "Warrior Offense"
+msgstr "Ofensiva del Guerrero"
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:6
+#, no-wrap
+msgid "Anvils aghast!  You startled me, Dragon Rider.  Yeah, yeah, nice to see you too."
+msgstr "¡Por todos los yunques! Me has asustado, Jinete del Dragón. Si, si, yo también me alegro de verte."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:19
+#, no-wrap
+msgid "Swamp snakes!  Why’d it have to be swamp snakes?  They’re everywhere, Dragon Rider, and they’re a menace.  Please, these pests have me scared stiff.  Take care of them, and I’ll be able to help you craft powerful weapons once again."
+msgstr "¡Serpientes del pantano! ¿Por qué tiene que ser serpientes del pantano? Están por todas partes, Jinete del Dragón, y son una amenaza. Por favor, estas plagas me tienen asustado. Encárgate de ellas y yo podré ayudarte a diseñar armas de gran alcance, una vez más."
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:20
+#, no-wrap
+msgid "Are the swamp snakes gone yet?  Is it safe to come out?"
+msgstr "¿Ya se han ido las serpientes del pantano? ¿Es seguro salir?"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:29
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:48
+#, no-wrap
+msgid "Tell Aaron you have slain the swamp snakes."
+msgstr "Dile a Aaron que has matado a las serpientes del pantano."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:21
+#, no-wrap
+msgid ""
+"I’m so relieved that you took care of those nasty serpents.\n"
+"\n"
+"[FF00FF]* * * SHUDDER * * *[-]\n"
+"\n"
+"Now let’s get to work."
+msgstr ""
+"Estoy tan aliviado de que te encargaras de esas repugnantes serpientes.\n"
+"\n"
+"[FF00FF]* * *TEMBLOR * * *[-]\n"
+"\n"
+"Ahora volvamos al trabajo."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:45
+#, no-wrap
+msgid "You remember how to brew a Mana Potion, right?  Well, with Mana Potions it’s a snap to create Magic Arrows."
+msgstr "¿Te acuerdas de cómo preparar una Poción de Maná, ¿verdad? Bueno, con las Pociones de Maná lo tienes fácil para crear Flechas Mágicas."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:61
+#, no-wrap
+msgid "You’re going to love how cool-looking and powerful Magic Arrows are.  Give it a try."
+msgstr "Te va a encantar el nuevo aspecto moderno y poderoso de las Flechas Mágicas. Dales una oportunidad."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:69
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:94
+#, no-wrap
+msgid "Tell Aaron you have crafted the Magic Arrows."
+msgstr "Dile a Aaron que has creado las Flechas Mágicas."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:65
+#, no-wrap
+msgid "That was fast! Not too shabby, Dragon Rider. Next we’ll make something to help protect your delicate bones."
+msgstr "¡Ha sido rápido! Pero no te desgastes demasiado, Jinete del Dragón. A continuación haremos algo para ayudar a proteger tus delicados huesos."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:85
+#, no-wrap
+msgid ""
+"Get it?\n"
+"\n"
+"...\n"
+"\n"
+"Bones?  We’re gonna make a Bones Shield.  It’s the latest in high grade calcium protection technology."
+msgstr ""
+"¿Lo tienes?\n"
+"\n"
+"\n"
+"\n"
+"¿Huesos? Vamos a hacer un Escudo de Huesos. Es lo último en alta tecnología para la máxima protección de calcio."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:107
+#, no-wrap
+msgid ""
+"With the Bones Shield, you’ll be able to deflect arrows, blunt attacks, and even take a meteor strike to the face!  Okay, maybe not that last one.  But it’s still pretty great!\n"
+"\n"
+"And it’s perfect timing, because there are a ton of skeletons trashing the caves near here.  Kill them, collect their bones, and make the shield!"
+msgstr ""
+"Con el Escudo de Huesos, podrás desviar flechas, ataques contundentes e incluso ¡enfrentarte a un meteorito cara la cara! Bueno, tal vez lo último no. ¡Pero aún así es bastante genial! ↵\n"
+"↵\n"
+"Y es el momento perfecto, porque hay un montón de esqueletos destrozados en las cuevas de aquí cerca. Mátalos, recoge sus huesos y construye el escudo!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:119
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:139
+#, no-wrap
+msgid "Tell Aaron you have crafted the Bones Shield."
+msgstr "Dile a Aaron que has hecho el Escudo de Huesos."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:115
+#, no-wrap
+msgid "Thank iron and steel those skeletons are gone.  Er...  I mean...  I’m glad you have that Bones Shield now.  Heh.  Heheh."
+msgstr "Gracias al hierro y al acero los esqueletos se han marchado. Ummm...quiero decir...me alegro de que ya tengas el Escudo de Huesos. Je. Jejeje."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:134
+#, no-wrap
+msgid "They say the best defense is a good offense, so we better get you a new weapon, Dragon Rider.  I have in mind a Great Sword, one that will smite any opponent.  Here are the blueprints."
+msgstr "Dicen que la mejor defensa es un buen ataque, así que mejor consigue armas nuevas, Jinete del Dragón. Tengo en mente una Gran Espada, una que aniquile a cualquier oponente. Aquí tienes los planos."
+
+#. (itstool) path: craftstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:152
+#, no-wrap
+msgid "Some say a sword is only as great as the one who wields it.  Or in other words: swords don’t kill people, dudes with serious upper body strength kill people.  Now smiter, get smiting!"
+msgstr "Algunos dicen que una espada solamente es grande según quien la blanda. O en otras palabras: las espadas no matan a la gente, los tios fuertes sí. Ahora, a por ellos, ¡aniquílalos!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:160
+#, no-wrap
+msgid "Tell Aaron you have crafted the Great Sword."
+msgstr "Dile a Aaron que has creado la Gran Espada."
+
+#. (itstool) path: craftstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:156
+#, no-wrap
+msgid "Exceptional work, Dragon Rider.  With that weapon, you’ll be able to deal with some of the more serious monster problems we have around here."
+msgstr "Excepcional trabajo, Jinete del Dragón. Con esa arma, podrás solucionar cualquier problema serio que tengamos con los monstruos de por aquí."
+
+#. (itstool) path: killstep/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:175
+#, no-wrap
+msgid "I expected the Dark Slashers to disperse once you thinned them out, but those bone heads are back, and in greater numbers!  Take care of them for me, will you?  The thought of them creeping about chills me to the – ugh, I don’t even want to say it!"
+msgstr "Yo esperaba que los Cuchillos Oscuros se dispersaran una vez que los hubieras vencido, pero esas cabezas óseas han vuelto, ¡y en mayor número! Ocúpate de ellos por mí, ¿quieres? Pensar en ellos arrastrándose sobre mí me produce escalofríos. Ugh, ¡no quiero ni que decirlo!"
+
+#. (itstool) path: killstep/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:176
+#, no-wrap
+msgid "You’re doing great work, Dragon Rider.  Keep fighting those Dark Slashers!"
+msgstr "Estás haciendo un gran trabajo, Jinete del Dragón. ¡Sigue luchando contra esos Cuchillos Oscuros!"
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:181
+#, no-wrap
+msgid "Tell Aaron you have slain the Dark Slashers."
+msgstr "Dile a Aaron que has matados a los Cuchillos Oscuros."
+
+#. (itstool) path: killstep/finish
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:177
+#, no-wrap
+msgid "Hey!  You did it!  Looks like that sword did the trick."
+msgstr "¡Eh! ¡Lo has conseguido! Parece que la espada funciona bien."
+
+#. (itstool) path: step/intro
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:197
+#, no-wrap
+msgid ""
+"With the tools I’ve given you, I’m sure you’ll be able to take on any challenge.\n"
+"\n"
+"(Or at least, any challenge until you need even BIGGER weapons.)\n"
+"\n"
+"Go see Ted.  He may need further assistance."
+msgstr ""
+"Con las herramientas que te he dado, estoy seguro de que podrás enfrentarte a cualquier reto.\n"
+"\n"
+"(O, al menos, a cualquier reto antes de que necesites armas aún MÁS GRANDES).\n"
+"\n"
+"Ve a ver a Ted. Puede que necesite ayuda."
+
+#. (itstool) path: step/desc
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:204
+#, no-wrap
+msgid ""
+"Your bravery will always inspire me, Dragon Rider.\n"
+"\n"
+"Go see Ted.  He may need further assistance."
+msgstr ""
+"Tu valentía siempre me inspira, Jinete del Dragón. \n"
+"\n"
+"Ve a ver a Ted. Puede que necesite ayuda."
+
+#. (itstool) path: info/label
+#: UnityGame/Assets/Quests/Warrior/Warrior%20Offense.xml:211
+#, no-wrap
+msgid "Speak to Ted about his current dilemma."
+msgstr "Habla con Ted sobre su problema actual."
