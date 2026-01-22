@@ -16,11 +16,11 @@ msgstr ""
 
 # mission title
 msgid "Intimidating Boss"
-msgstr "Capo intimidatorio"
+msgstr "Capo Intimidatorio"
 
 # mission completed
 msgid "Tell the Source of Life you have slain the Dark BOSS."
-msgstr "Dì alla Fonte della Vita che hai ucciso Dark BOSS."
+msgstr "Fai sapere alla Fonte della Vita che hai ucciso Dark BOSS."
 
 # mission dialogue
 msgid ""
