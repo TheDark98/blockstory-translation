@@ -1,0 +1,756 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-22 21:08+0000\n"
+"Last-Translator: Andreii Vetoshko <andvetol@gmail.com>\n"
+"Language-Team: English <http://translate.blockstory.net/projects/block-story/"
+"mobs/en/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0.1\n"
+
+msgid "BabyDeer"
+msgstr "Bambi"
+
+msgid "BlackSheep"
+msgstr "Sheep"
+
+msgid "Turtle"
+msgstr "Turtle"
+
+msgid "MrGoblin"
+msgstr "Mr. Goblin Blue"
+
+msgid "Shiva"
+msgstr "Shiva"
+
+msgid "SmallHugo"
+msgstr "Baby Hugo"
+
+msgid "DuckF"
+msgstr "Miss. Duck"
+
+msgid "BobCat"
+msgstr "Bob Cat"
+
+msgid "DuckM"
+msgstr "Mr. Duck"
+
+msgid "ForgottenGoblin"
+msgstr "Angel Goblin"
+
+msgid "ClownFish"
+msgstr "Clown Fish"
+
+msgid "JungleBat"
+msgstr "Small Bat"
+
+msgid "WerewoolfBlack"
+msgstr "Black Werewolf"
+
+msgid "MediumWorm"
+msgstr "Earth Worm"
+
+msgid "GruntFish"
+msgstr "GruntFish"
+
+msgid "SkeletonNormal"
+msgstr "Skeleton Talky"
+
+msgid "BigWorm"
+msgstr "Big Worm"
+
+msgid "Cow"
+msgstr "Cow"
+
+msgid "Squirrel"
+msgstr "Squirrel"
+
+msgid "Starfish"
+msgstr "Starfish"
+
+msgid "Bull"
+msgstr "Bull"
+
+msgid "Wizard"
+msgstr "Wizard"
+
+msgid "Snake"
+msgstr "Snake"
+
+msgid "Eagle"
+msgstr "Eagle"
+
+msgid "Visitors"
+msgstr "Visitors"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "BabyBearPolar"
+msgstr "Baby Polar Bear"
+
+msgid "Dragon_Pet"
+msgstr "Drako"
+
+msgid "IceElemental"
+msgstr "Ice Elemental"
+
+msgid "Basilisk"
+msgstr "Basilisk"
+
+msgid "LionFish"
+msgstr "Lion Fish"
+
+msgid "PoisonDartFrog"
+msgstr "Poison Dart Frog"
+
+msgid "DarkBoss"
+msgstr "Dark BOSS"
+
+msgid "TriggerFish"
+msgstr "Trigger Fish"
+
+msgid "Panther"
+msgstr "Panther"
+
+msgid "Dog_Pet"
+msgstr "Slinki"
+
+msgid "Lizard"
+msgstr "Lizard"
+
+msgid "DragonBug"
+msgstr "Kraden"
+
+msgid "SwampSnake"
+msgstr "Swamp Snake"
+
+msgid "GiantSpider"
+msgstr "Aragog"
+
+msgid "Ashkore"
+msgstr "Ashkore"
+
+msgid "Werewoolf"
+msgstr "Werewolf"
+
+msgid "Chicken"
+msgstr "Chicken"
+
+msgid "Spider_Pet"
+msgstr "Arachy"
+
+msgid "ShadowHunter"
+msgstr "Alchemist"
+
+msgid "Tiger"
+msgstr "Tiger"
+
+msgid "BabyGoblin"
+msgstr "Baby Goblin"
+
+msgid "BigHugo"
+msgstr "Hugo Square"
+
+msgid "Deer"
+msgstr "Deer"
+
+msgid "BearPolar"
+msgstr "Polar Bear"
+
+msgid "SkeletonMage"
+msgstr "Dark Mage"
+
+msgid "ColoredSheep"
+msgstr "Sheep"
+
+msgid "FeralPig"
+msgstr "Feral Pig"
+
+msgid "SkeletonFresh"
+msgstr "Dark Slasher"
+
+msgid "Jackelope"
+msgstr "Jackelope"
+
+msgid "Spider"
+msgstr "Spider"
+
+msgid "SourceOfLife"
+msgstr "Source Of Life"
+
+msgid "Striker"
+msgstr "Striker"
+
+msgid "Megalodon"
+msgstr "Megalodon"
+
+msgid "BabyBearGrizzly"
+msgstr "Baby Grizzly"
+
+msgid "FemaleWarrior"
+msgstr "Paula"
+
+msgid "Raven"
+msgstr "Raven"
+
+msgid "BearGrizzly"
+msgstr "Grizzly"
+
+msgid "Bear"
+msgstr "Bear"
+
+msgid "WhiteRaven"
+msgstr "Raven"
+
+msgid "Squid"
+msgstr "Squid"
+
+msgid "Stingray"
+msgstr "Stingray"
+
+msgid "DarkWorm"
+msgstr "Dark Worm"
+
+msgid "Pig"
+msgstr "Piggie"
+
+msgid "Viking"
+msgstr "Ted"
+
+msgid "Urchin"
+msgstr "Urchin"
+
+msgid "Alien_Dog_Pet"
+msgstr "Gontar"
+
+msgid "SkeletonDark"
+msgstr "Dark Knight"
+
+msgid "SnowWorm"
+msgstr "Snow Worm"
+
+msgid "DarkBigWorm"
+msgstr "Big Dark Worm"
+
+msgid "WhiteSheep"
+msgstr "Sheep"
+
+msgid "Enemy"
+msgstr "Enemy"
+
+msgid "Rooster"
+msgstr "Rooster"
+
+msgid "SnowBigWorm"
+msgstr "Big Snow Worm"
+
+msgid "Dragon"
+msgstr "Dragon"
+
+msgid "Barlog"
+msgstr "Barlog"
+
+msgid "Yeti"
+msgstr "Yeti South"
+
+msgid "Cat_Pet"
+msgstr "Perseus"
+
+msgid "Bird"
+msgstr "Wren"
+
+msgid "MissDeer"
+msgstr "Miss. Deer"
+
+msgid "BabyHorse"
+msgstr "Baby Horse"
+
+msgid "IceDragon"
+msgstr "Ice Dragon"
+
+msgid "Hydra"
+msgstr "Hydra"
+
+msgid "Tentaclon"
+msgstr "Tentaclon"
+
+msgid "GoblinWarrior"
+msgstr "Goblin Warrior"
+
+msgid "SmallWorm"
+msgstr "Small Worm"
+
+msgid "Warrior"
+msgstr "Aaron"
+
+msgid "BabyBear"
+msgstr "Baby Bear"
+
+msgid "DragonBat"
+msgstr "Dragon Bat"
+
+msgid "Otter"
+msgstr "Otter"
+
+msgid "Horse"
+msgstr "Horse"
+
+msgid "Chupacabra"
+msgstr "Chupacabra"
+
+msgid "Shark"
+msgstr "Great White Shark"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:127
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:58
+msgid "Trex"
+msgstr "Tyrannosaurus Rex"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:277
+# UnityGame/Assets/Localization/T.cs:127
+# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:26
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:79
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:145
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:672
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
+msgid "TRex"
+msgstr "Tyrannosaurus Rex"
+
+msgid "DragonLord"
+msgstr "Dragon Lord"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:129
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:75
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:30
+msgid "Mech_Pet"
+msgstr "870-CK-570-RY"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:129
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:76
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:31
+msgid "Snowman_Pet"
+msgstr "Frosty"
+
+msgid "BabyAshkore_Pet"
+msgstr "Bolt"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:131
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mati"
+msgstr "Mati"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:131
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:74
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:31
+msgid "RainbowBasilisk_Pet"
+msgstr "Rainbow Basilisk"
+
+msgid "Mati_Pet"
+msgstr "Mati"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:78
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:35
+msgid "Onyx_Pet"
+msgstr "Onyx"
+
+msgid "Daithir_Pet"
+msgstr "Daithir"
+
+msgid "Vairmut_Pet"
+msgstr "Vairmut"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:78
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:35
+msgid "Xordaraxus_Pet"
+msgstr "Xordaraxus"
+
+msgid "SwampGolem"
+msgstr "Swamp Golem"
+
+msgid "VikingShip"
+msgstr "Ted"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "AlchemistShip"
+msgstr "Alchemist"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Jellyfish"
+msgstr "Jellyfish"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Manowar"
+msgstr "Manowar"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "DumboOctopus"
+msgstr "Dumbo Octopus"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dunkleosteus"
+msgstr "Dunkleosteus"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fangtooth"
+msgstr "Fangtooth"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gulper"
+msgstr "Gulper"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Purplefish"
+msgstr "Purplefish"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Tylosaurus"
+msgstr "Tylosaurus"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Liopleurodon"
+msgstr "Liopleurodon"
+
+msgid "Dagi"
+msgstr "Dagi"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rucal"
+msgstr "Rucal"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:129
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:75
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:30
+msgid "Mech"
+msgstr "Mech"
+
+msgid "Bulm"
+msgstr "Bulm"
+
+msgid "Umhi"
+msgstr "Umhi"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dreamcat"
+msgstr "Dreamcat"
+
+msgid "Screl"
+msgstr "Screl"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fuza"
+msgstr "Fuza"
+
+msgid "Angel Goblin"
+msgstr "Angel Goblin"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:30
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:96
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix"
+msgstr "Phoenix"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:30
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:96
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:25
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:205
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:104
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Phoenix Egg"
+msgstr "Phoenix Egg"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:79
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:36
+msgid "Eldriar_Pet"
+msgstr "Eldriar"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118 
+msgid "PeasantMale"
+msgstr "Countryman"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118 
+msgid "PeasantFemale"
+msgstr "Countrywoman"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
+msgid "FemalePeasant"
+msgstr "Countrywoman"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118 
+#, fuzzy
+msgid "MalePeasant"
+msgstr "Countryman"

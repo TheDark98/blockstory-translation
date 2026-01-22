@@ -1,0 +1,3589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: support@blockstory.net\n"
+"POT-Creation-Date: 2015-02-08 15:59-0400\n"
+"PO-Revision-Date: 2023-10-13 17:45+0000\n"
+"Last-Translator: Andreii Vetoshko <andvetol@gmail.com>\n"
+"Language-Team: English <http://translate.blockstory.net/projects/block-story/"
+"items/en/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Sky Leaves"
+msgstr ""
+"Leaves that are only found in the [FF0000]Forgotten Skies[-]. If you look "
+"closely there are snips of acorns inside. Wonder if a squirrel got to it."
+
+msgid "Axe"
+msgstr ""
+"Useful tool to dig wood. Digs much faster and further than with your bare "
+"hands.\n"
+"\n"
+"To use, open inventory, select the [FF0000]Axe[-], and tap and hold a block "
+"you want to break."
+
+msgid "Jungle Bush Plant"
+msgstr "Grows on [FF0000]Dirt[-] or [FF0000]Grass[-]."
+
+msgid "Spider Venom"
+msgstr ""
+"If you thought the bite hurt, you ain't seen nothing yet!  The venom flows "
+"through your veins, turning your blood to fire and melting your bones.  "
+"BWAHAHAHA!"
+
+msgid "Saw Shield"
+msgstr ""
+"Circular and spiky shield.  It's looks may decieve you, but when you are "
+"fighting a vicious monster you will want to have this one around."
+
+msgid "Animal Spawner"
+msgstr ""
+"Peaceful spawner that can be found almost anywhere.  It will usually spawn "
+"animals, and \"friendly\" beings.  Generates a blue glow."
+
+msgid "Old Stone Fence"
+msgstr "Ornate stone fence.  Great for trapping or holding animals."
+
+msgid "Palm Bark"
+msgstr "Wood from a coconut tree that is used as a crafting material."
+
+msgid "TRex"
+msgstr ""
+"For quite some time, these natural born killers were thought to be extinct."
+
+msgid "Bricks"
+msgstr ""
+"One of the strongest blocks in existence, which makes great foundations and "
+"defenses.\n"
+"\n"
+"Crafted using [FF0000]Clear Stone[-]."
+
+msgid "Hammer"
+msgstr ""
+"Useful tool to dig hard surfaces.  Digs much faster and further than with "
+"your bare hands.\n"
+"                                \n"
+"To use, open inventory, select the [FF0000]Hammer[-], and tap and hold a "
+"block you want to break."
+
+msgid "Cactus Plant"
+msgstr "Grows on [FF0000]Sand[-]."
+
+msgid "Oak Leaves"
+msgstr ""
+"A set of leaves that have acorns inside.  Usually found in the Grass Biome.  "
+"If your lucky enough you can find wax around it."
+
+msgid "Poplar Leaves"
+msgstr "Leaves of Desert Poplars."
+
+msgid "Brick Stairs"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+msgid "Jungle Bush Green"
+msgstr ""
+"Very similar to the Jungle Leaves, but these are found on the surface of the "
+"Jungle Biome."
+
+msgid "Dragonscale"
+msgstr ""
+"The scale from a powerful dragon.\n"
+"\n"
+"Used to craft the mightiest of armors."
+
+msgid "Poplar Plant"
+msgstr "Grows on [FF0000]Dirt[-], [FF0000]Grass[-], or [FF0000]Sand[-]."
+
+msgid "Remove_Item"
+msgstr "[00FF00]Removed {0}x {1} from inventory.[-]"
+
+msgid "Warrior Boots"
+msgstr "Well made leather and Iron boots.  Designed to allow faster movement."
+
+msgid "Arrow"
+msgstr ""
+"Nice small arrow that pierces through it's target.  An archer will "
+"definitely need this."
+
+msgid "Old Stone Stairs"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+msgid "Gravity Boots"
+msgstr ""
+"Magic boots that artificially increase gravity.\n"
+"Can be used with the [FF0000]Diver Suit[-]."
+
+msgid "Ticket"
+msgstr "Use it to watch movies and get some free diamonds."
+
+msgid "Electrite"
+msgstr "A rare material said to form from the heavens."
+
+msgid "Necklace Of Life"
+msgstr ""
+"This ornament taps into the healing abilities of [FF0000]Kryptonite[-] and "
+"[FF0000]Forgotten Bushes[-], healing physical wounds at incredible rates."
+
+msgid "Red Leaves"
+msgstr ""
+"Leafs of trees from your worst nightmares that will for ever be in flames."
+
+msgid "Storage Row Player"
+msgstr "Hold 5 more items in your inventory."
+
+msgid "Wood Window"
+msgstr "A pretty wicker window.  Perfect for cottages."
+
+msgid "Soul Catcher"
+msgstr "With this magic you can transform creatures into their spawners."
+
+msgid "Miner Helmet"
+msgstr ""
+"If you want to be a real miner you definetly should have this thing.\n"
+"\n"
+"Equip it to illuminate caves or at night to see in the dark."
+
+msgid "Pumpkin"
+msgstr ""
+"A very rare block that can be found in the desert.  It's great to use in "
+"Gardens or Farms."
+
+msgid "Forgotten Bushes"
+msgstr ""
+"Bushes that grow in the rolling grasslands of the [FF0000]Forgotten Skies"
+"[-].  Valued for medicinal purposes and their beauty."
+
+msgid "Magic Arrow"
+msgstr "Arrow imbued with magic from within the [FF0000]Block Story[-] world."
+
+msgid "Ashkore"
+msgstr ""
+"Absorbing the energy of thunder, the ancient essence, drawn by a thirst for "
+"destruction, torn loose."
+
+msgid "Cryptonite"
+msgstr ""
+"Cryptonite is the embodiment of nature's healing power.  This precious "
+"substance is used primarily in jewelry that enhances the wearer's ability to "
+"heal."
+
+msgid "Life Magic"
+msgstr ""
+"Utilizes the magical properties of a purified form of [FF0000]Cryptonite[-] "
+"to heal wounds.\n"
+"Damages undead."
+
+msgid "Dragon Soul"
+msgstr ""
+"Bring a small dragon to life.  Ready to fight beside you without biting your "
+"head off.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Meat, Apples, Fried Fishes and Coconuts to "
+"satisfy its hunger."
+
+msgid "Tentackle Magic"
+msgstr ""
+"An evil weapon.  Uses corrupt [000000]Unobtainium[-] to summon a beast of "
+"pure greed and hunger."
+
+msgid "Spider Soul"
+msgstr ""
+"Bring a small spider to life.  Ready to fight beside you without wrapping "
+"you up in webbing.\n"
+"\n"
+"Consumes Meat to satisfy its hunger."
+
+msgid "Storage Row Pet"
+msgstr "Hold 4 more items in your pet's inventory."
+
+msgid "Skull"
+msgstr ""
+"At first glance, this is an ordinary skull, but in fact it is imbued with "
+"the secret magic of the underworld. If you touch him while he is lying on "
+"the ground, secret magic comes into effect and can cause both a storm and "
+"calm, clear weather."
+
+msgid "Pan Tool"
+msgstr "Used for sifting Gold from sand, and seeds from grass."
+
+msgid "Monster Spawner"
+msgstr ""
+"Evil Mystical spawner that can generate all sorts of creeps.  It can be a "
+"nuisance and produces a red glow."
+
+msgid "Plank"
+msgstr ""
+"Crafted from [FF0000]Wood[-].\n"
+"\n"
+"A crafting material that can be dyed or placed."
+
+msgid "Forgotten Stone Antique"
+msgstr ""
+"These ancient relics hold powerfull secrets; secrets the Goblins will defend "
+"at all costs."
+
+msgid "Birch Plank"
+msgstr ""
+"White messy Plank that is often overlooked in a lot of creations.  Can also "
+"be painted."
+
+msgid "water"
+msgstr ""
+"A Natural Resource that brought you all the fish, and sharks to the sea.  "
+"Can be found almost anywhere, literally."
+
+msgid "Meat"
+msgstr ""
+"Tasty meat can be taken from many animals.  Eating it makes a filling meal, "
+"restoring health."
+
+msgid "Desert Bird Spawner"
+msgstr "Fragile nest of broken twigs. Shelters Ravens from the arid Desert."
+
+msgid "Yellow Coral"
+msgstr "Beautiful fluorescent Coral spawns all over the Ocean floor."
+
+msgid "Teleportation Arrow"
+msgstr ""
+"Teleport a monster to the player on impact.\n"
+"Teleports player to impact location on terrain."
+
+msgid "Leaves"
+msgstr "Green ripe blocks that grow on trees."
+
+msgid "Baobab Plant"
+msgstr "Grows on [FF0000]Dirt[-], [FF0000]Grass[-], or [FF0000]Sand[-]."
+
+msgid "Car"
+msgstr ""
+"A vehicle that allows any adventurer to quickly move from place to place.  "
+"Cruise through Block Story in the Car's all new, primitive-state, four wheel "
+"drive!\n"
+"It can be dyed on a crafting table."
+
+msgid "Apple Tree Plant"
+msgstr ""
+"Grows on [FF0000]Dirt[-] or [FF0000]Grass[-].\n"
+"Produces Apples."
+
+msgid "Gun"
+msgstr ""
+"A ranged weapon that can shred through anything, but be make sure you have a "
+"target.\n"
+"\n"
+"Requires [FF0000]Bullets[-] and [FF0000]GunPowder[-] to use."
+
+msgid "Dragon Armor"
+msgstr "Made from [FF0000]Dragonscale[-]."
+
+msgid "Birch Bark"
+msgstr ""
+"Nice smooth wood that is found in forests.  Useful for building [FF0000]Cars"
+"[-]."
+
+msgid "Angelic Swords"
+msgstr ""
+"A weapon with immense power.\n"
+"Legend goes it was created by Zeus himself and locked away as it was "
+"considered too dangerous for human hands."
+
+msgid "Goblin Pants"
+msgstr ""
+"Pants that nearly transform you into a Goblin.  Goblins really do know how "
+"to make their own clothing.\n"
+"\n"
+"The only problem is that these pants make you look fat."
+
+msgid "Baobab Leaves"
+msgstr "Crisp set of leaves that are most frequent in the Grass Biome."
+
+msgid "Crystal Block Red"
+msgstr "A blood red block made from Rubies."
+
+msgid "Glass"
+msgstr ""
+"A very nice transparent block that allows you to look inside a certain "
+"area.\n"
+"\n"
+"Dye the sand before making the glass to get different shades."
+
+msgid "Diver Suit"
+msgstr ""
+"Allows you to go deep underwater without drowning.\n"
+"\n"
+"Fills with oxygen using [FF0000]Fuel[-]."
+
+msgid "Forgotten Grass"
+msgstr "Grass that came from the [FF0000]Forgotten Skies[-]."
+
+msgid "Chair"
+msgstr "Common household decoration."
+
+msgid "Dye"
+msgstr ""
+"Dye can be combined on the Coloring Table to create new colors, and is "
+"primarily used to dye items or blocks, or create a Brush."
+
+msgid "Magic Orb"
+msgstr "Teleport between saved worlds."
+
+msgid "Dragon Shield"
+msgstr ""
+"Nicely detailed, yet rusty, shield with the depiction of a dragon crafted on "
+"the front of it.  While the shield in general looks great, it can also "
+"protect you from random attacks."
+
+msgid "Fire Arrow"
+msgstr "Deals additional fire damage on impact."
+
+msgid "Bread"
+msgstr "Old fashioned whole grain wheat bread."
+
+msgid "Gold Bar"
+msgstr ""
+"Crafted from the [FF0000]Furnace[-].\n"
+"\n"
+"Can be used to craft weapons and other tools."
+
+msgid "Birch Stairs"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+msgid "Watermelon"
+msgstr ""
+"This cousin to the [FF0000]Pumpkin[-] is an extremely rare commodity.  The "
+"watermelon makes so few appearances that little is known about its growth.  "
+"Only mature samples have been found, further hindering study.  The only "
+"solid knowledge is that they prefer [FF0000]Grasslands[-]."
+
+msgid "Pine Plant"
+msgstr "Grows on [FF0000]Snow[-]."
+
+msgid "Bow"
+msgstr ""
+"A great weapon for those that like to aim and shoot.  Make sure you don't "
+"\"Take an Arrow to the Knee\n"
+"Use it with any variety of arrow."
+
+msgid "Unobtainium Bar"
+msgstr ""
+"Crafted from the [FF0000]Furnace[-].\n"
+"\n"
+"Can be used to craft the most powerful tools in this world."
+
+msgid "Klorium"
+msgstr ""
+"Green ore found in the sky lands.  It has some magic powers that can be "
+"weaponized."
+
+msgid "Stone"
+msgstr ""
+"Hard material that makes up the very foundations of the earth.\n"
+"\n"
+"Can be used to craft several tools such as [FF0000]Pickaxes[-] and [FF0000]"
+"Swords[-]."
+
+msgid "Clouds"
+msgstr ""
+"Fluffy clouds form in the highest reaches of the [FF0000]Forgotten Skies"
+"[-].  Great for Manmade Biomes."
+
+msgid "Spider Web"
+msgstr ""
+"A sticky white block that allows the pests (Spiders) to form.  It can be "
+"found in most caves."
+
+msgid "Iron Hammer"
+msgstr ""
+"Useful tool to dig hard surfaces.  Digs much faster and further than the "
+"regular Hammer.\n"
+"                                \n"
+"To use, open inventory, select the [FF0000]Iron Hammer[-], then tap and hold "
+"a block you want to break."
+
+msgid "Crystal Block Blue"
+msgstr "Glistening Blue Cube formed from [FF0000]Sapphires[-]."
+
+msgid "Window"
+msgstr ""
+"A block that has 4 frames.  Great for adding variety and detail to "
+"buildings.\n"
+"\n"
+"Whether your house is made out of Stone, Planks, or you name it, it will "
+"look fabulous with the essential building materials."
+
+msgid "Aragog Eye"
+msgstr ""
+"The eye of the massive spider [FF0000]Aragog[-].  Gross or yummy, depends "
+"who you ask."
+
+msgid "Spider Fang"
+msgstr ""
+"Itsy bitsy spider.  WOAH!  You just killed a Spider, and it dropped a Fang."
+
+msgid "Wheat Crop"
+msgstr "You can farm Wheat using Hoe on planted Wheat Seed."
+
+msgid "Iron Shovel"
+msgstr ""
+"Useful tool to dig sand and dirt.  Digs much faster and further than the "
+"regular Shovel.\n"
+"                                \n"
+"To use, open inventory, select the [FF0000]Iron Shovel[-], then tap and hold "
+"a block you want to break."
+
+msgid "Fence"
+msgstr "Great for trapping or holding animals."
+
+msgid "Stick"
+msgstr "Wooden sticks that sure don't ever go to waste."
+
+msgid "Green Coral"
+msgstr "Green fluorecent coral where lots of marine life hatches."
+
+msgid "Cauldron"
+msgstr "Used to create various potions."
+
+msgid "Wood Door"
+msgstr "A wooden door that is equivalent to the length of two blocks."
+
+msgid "Antique Spawner"
+msgstr ""
+"All Goblin family households have a relic they protect at all costs.\n"
+"\n"
+"Use a [FF0000]Soul Catcher[-] to capture some creatures into this type of "
+"spawner."
+
+msgid "Palm Stairs"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+msgid "Shiva"
+msgstr "Shiva"
+
+msgid "Megalodon Tooth"
+msgstr ""
+"A Tooth that came out of a Megalodon.  Can be turned into a weapon in the "
+"right hands."
+
+msgid "Hunting Knife"
+msgstr ""
+"A small, one handed sword that is great for close combat.  The name speaks "
+"for itself.  Great to have in your pocket when you need numerous supplies "
+"from the animals.  (Just make sure you don't hit a dragon with this weapon!)"
+
+msgid "Forgotten Stone"
+msgstr ""
+"The ancient pillars and walls of castles are composed of this enduring "
+"material."
+
+msgid "Dig"
+msgstr ""
+"An adventurer's bread and butter.  Without pickaxes, you are beating stone "
+"with your bare hands."
+
+msgid "Pumpkin Head"
+msgstr ""
+"A great Halloween decoration that is carved from a [FF0000]Pumpkin[-] to "
+"form bright orange eyes."
+
+msgid "Unobtainium"
+msgstr ""
+"The very stone of the [FF0000]Underworld[-] is imbued with the [FF0000]Barlog"
+"[-]'s hateful greed.  His spirit pools into the corrupt pockets of "
+"Unobtainium.  Only the greatest adventurers can claim its dark secrets...\n"
+"\n"
+"To get some, you will need to go deep into the Underworld, and when you get "
+"there, go even deeper.  Or you can stay safe and sound right where you are."
+
+msgid "Sulphure Ore"
+msgstr ""
+"Yellow ore found abundant in the [FF0000]Underworld[-].  Can be used for "
+"making yellow dye, acid, or gunpowder."
+
+msgid "Spruce Plant"
+msgstr "Grows on [FF0000]Snow[-]."
+
+msgid "Radar"
+msgstr "Shows creatures nearby as well as the location of your beds."
+
+msgid "Forgotten Stone Old"
+msgstr "The stone that has been forgotten."
+
+msgid "Iron Axe"
+msgstr ""
+"Useful tool to dig wood.  Digs much faster and further than the regular "
+"Axe.\n"
+"                                \n"
+"To use, open inventory, select the [FF0000]Iron Axe[-], then tap and hold a "
+"block you want to break."
+
+msgid "Dragon Pants"
+msgstr "Made from [FF0000]Dragonscale[-]."
+
+msgid "Blue Flower"
+msgstr ""
+"Orange/Green ripe Flowers that are usually found on the dirt or grass.  They "
+"will always be cuddled up with the Red Flower."
+
+msgid "Storage Row Error"
+msgstr "Connect to the internet to expand your inventory."
+
+msgid "Cactus"
+msgstr ""
+"Prickly desert plant.  I don't care what you see.  The heat's in your head.  "
+"DONT HUG IT!!"
+
+msgid "Graviton"
+msgstr ""
+"A massless particle that produces a gravitational force.\n"
+"\n"
+"Used as fuel for the [FF0000]Jetpack[-]."
+
+msgid "Air Ring"
+msgstr "A ring of solid air."
+
+msgid "Skill Reset Error"
+msgstr "Connect to the internet to reset your skills."
+
+msgid "Deerskin"
+msgstr ""
+"Skin from a deer.  Used for crafting warrior armor and other useful things."
+
+msgid "Elevator"
+msgstr ""
+"Place it on pipes and then you can travel everywhere pipes goes.  Elevator "
+"can automatically stop near every [FF0000]Generator[-] block.\n"
+"It can be dyed on a crafting table."
+
+msgid "Blue Crystals"
+msgstr ""
+"Blue ore found deep within caves.\n"
+"Produces a blue glow to it's surroundings when untouched.\n"
+"Can be used to craft mana potions and blue dye."
+
+msgid "Snow"
+msgstr ""
+"A strange cold substance that forms in the Ice Elemental's mountainous "
+"realm.  Deathly cold, yet strangely soft and beautiful. \n"
+"Can be dyed into many colors.\n"
+"Don't eat the yellow snow.\n"
+"Place it to Snowman inventory so he can attack with snowballs."
+
+msgid "TNT"
+msgstr ""
+"Serves as a devastating mining tool and weapon.\n"
+"\n"
+"Made from [FF0000]Gunpowder[-] and [FF0000]Wood[-]."
+
+msgid "Great Sword"
+msgstr ""
+"Looks a bit funny, but it carries a lot of power.  Diminishing everything in "
+"it's path.  Great for the close combat category."
+
+msgid "Jungle Tree Plant"
+msgstr ""
+"Grows on [FF0000]Dirt[-] or [FF0000]Grass[-].\n"
+"[FF0000]Dragon Bats[-] are born from the flowers on this tree."
+
+msgid "Epic Sword"
+msgstr ""
+"A one handed sword that boasts with the name Epic.  Does a great deal of "
+"damage in it's class."
+
+msgid "Bullet"
+msgstr ""
+"Requires [FF0000]Gun Powder[-] to be used as ammunition for the [FF0000]Gun"
+"[-].\n"
+"\n"
+"Pierces the thickest monster skin at lethal speeds."
+
+msgid "Torch"
+msgstr ""
+"A fiery block made from [FF0000]Wood[-], [FF0000]Glass[-], and magically "
+"trapped [FF0000]Fire[-].\n"
+"\n"
+"Very useful as a light source around your camp, or to carry in your hand."
+
+msgid "Generator"
+msgstr ""
+"Used for creating speed up on [FF0000]Rails[-], power up [FF0000]Wires[-] "
+"and for creating auto stop for [FF0000]Elevator[-].\n"
+"\n"
+"[FF0000]Pipes[-], [FF0000]Wires[-] and [FF0000]Rails[-] can be connected to "
+"it."
+
+msgid "Drill"
+msgstr ""
+"Vanishes matter into thin air.\n"
+"\n"
+"Tap on a block, and it will vanish 10 consecutive blocks without a trace."
+
+msgid "Snow Leaves"
+msgstr ""
+"Leaves with a cherry on top.  I mean snow on top.  Can be found in the Snow "
+"Biome."
+
+msgid "Trident"
+msgstr ""
+"Forged in the likeness of the god Poseidon's mythical weapon, this powerful "
+"item produces a thunderous blast of lightning."
+
+msgid "Apple"
+msgstr "Bright red Apples are sure to put the pep in your step."
+
+msgid "Cat Soul"
+msgstr ""
+"Bring a cute cat to life.  Will follow you everywhere.\n"
+"\n"
+"Consumes Shark Fin Soup, Fried Fishes and Meat."
+
+msgid "Gold Ore"
+msgstr ""
+"Valuable and malleable ore that spreads a yellow glow to it's surroundings.\n"
+"\n"
+"Can be found underground, in caves, under floating islands, or panned out of "
+"sand."
+
+msgid "Acacia Plant"
+msgstr "Grows on [FF0000]Sand[-]."
+
+msgid "Ladder"
+msgstr "Link these together to pull yourself out of the darkest hole."
+
+msgid "Palm Plank"
+msgstr ""
+"Dark messy brown Plank that is very similar to the other planks. Can also be "
+"painted."
+
+msgid "Book Shelf"
+msgstr ""
+"Amaze your friends by showing them the walls of books you have read.\n"
+"\n"
+"All you need to do is gather some [FF0000]Wooden Planks[-] and a few [FF0000]"
+"Boar Skin[-]."
+
+msgid "CarBody"
+msgstr ""
+"Without this sturdy frame, the Car would collapse...which would be bad."
+
+msgid "Dragon Boots"
+msgstr "Made from [FF0000]Dragonscale[-]."
+
+msgid "Iron Block"
+msgstr "Valuable block made from iron."
+
+msgid "Electric Pipe"
+msgstr "Attaches to [FF0000]Pipes[-] and [FF0000]Generators[-]."
+
+msgid "Grass"
+msgstr ""
+"The living ground of Block Story.  As long as there is green grass, there is "
+"hope.\n"
+"\n"
+"Very common on the surface."
+
+msgid "Poisoned Arrow"
+msgstr "Arrow covered with highly venomous poison."
+
+msgid "Blue Dye"
+msgstr ""
+"Crafted from [FF0000]Sapphire[-].  Used to create colored blocks.\n"
+"\n"
+"Combine with other dyes to make many different colors."
+
+msgid "Jungle Leaves"
+msgstr ""
+"Most common leaves that are found in the Jungle.  Tarzan is even familiar "
+"with them."
+
+msgid "Yellow Dye"
+msgstr ""
+"Crafted from [FF0000]Sulfur[-].  Used to create colored blocks.\n"
+"\n"
+"Combine with other dyes to make many different colors."
+
+msgid "Swamp"
+msgstr ""
+"Green, muddy blocks that make you feel like you puked on water.  They are "
+"most frequent in the Jungle Biome."
+
+msgid "Hand Torch"
+msgstr ""
+"A handy thing for any Blockstorian to help light the night, brighten up any "
+"deep and ominous cavern, or keep the evil Yeti away."
+
+msgid "BoarSkin"
+msgstr ""
+"Nice healthy, I mean nasty skin that comes from a dead boar.\n"
+"\n"
+"Useful for crafting [FF0000]Goblin Pickaxes[-] or [FF0000]Book Shelves[-]."
+
+msgid "Stone Stairs"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+msgid "Springs"
+msgstr "Place these on the soles of your boots to jump higher."
+
+msgid "Dragon Heart"
+msgstr ""
+"The beating heart of a mighty Dragon.  Eating it can restore you to perfect "
+"health.  But getting it can cost you your life."
+
+msgid "Jungle Bush Leaves"
+msgstr "Dark Green Leaves that are found on the surface of the Jungle Biome."
+
+msgid "Skill Reset"
+msgstr "Redistribute all skill points."
+
+msgid "Hoe"
+msgstr ""
+"Farming tool. It can be used to transform grass into soil suitable for wheat "
+"growth."
+
+msgid "Candle"
+msgstr ""
+"Great for lighting up an area.  If you dye the wax before making the candle, "
+"then it will glow in color.\n"
+"\n"
+"You might burn yourself if you put your hand over it."
+
+msgid "Fence Gate"
+msgstr ""
+"A gate for the fence that allows you to go inside or out withought having to "
+"jump over the fence."
+
+msgid "GiantSpider"
+msgstr ""
+"A prehistoric beast that withstood the test of time.\n"
+"Resides deep underground.\n"
+"[FF0000]Aragog[-] has an unparalleled hunger, and has evolved into the "
+"perfect killer."
+
+msgid "Fuel"
+msgstr "Powers the [FF0000]Engine[-] of various vehicles."
+
+msgid "Table"
+msgstr "Common household decoration."
+
+msgid "Fire"
+msgstr ""
+"Your mom told you not to play with fire.\n"
+"\n"
+"If you are careful enough, you can use it to cook food, light up arrows on "
+"fire, make torches, candles, some magic items, smelt metals and make glass."
+
+msgid "Wheat"
+msgstr ""
+"Plant used for farming.\n"
+"Grows only on [FF0000]Dirt[-] near [FF0000]Water[-]."
+
+msgid "Red Flower"
+msgstr ""
+"Dark Green Flowers that are usually found on the dirt or grass.  They will "
+"always be settled next to the Blue Flower.  You can also play hide, and seek "
+"inside of the blocks."
+
+msgid "My Precious"
+msgstr ""
+"A very powerful ring forged by the great [FF0000]Lord Saurone[-] for the "
+"chosen one to use during the [FF0000]Great War[-]."
+
+msgid "Epic Shield"
+msgstr ""
+"A cool looking shield with red symbols on the front.  It is indeed epic.  "
+"You will want to use this when fighting a [FF0000]Dragon[-]."
+
+msgid "Ice"
+msgstr ""
+"Cold, hard, and unforgiving.  The natural proccesses that create water "
+"formations have been corrupted by the Ice Elemental.  This substances "
+"extrudes cruelty.  \n"
+"\n"
+"It also goes great with a soda."
+
+msgid "Hydra"
+msgstr ""
+"A creature of instinctual Primal Rage.  Soldiers quiver in fear of the power "
+"of this creature.\n"
+"Only spawns at night."
+
+msgid "Crystal Block Black"
+msgstr ""
+"A glossy black cube formed from [FF0000]Coal[-].  Despite its ominous "
+"appearance, it is quite harmless.\n"
+"(Note: Don't strike a match D:)"
+
+msgid "Sword"
+msgstr ""
+"Go ahead, keep laughing at it--we will see who laughs when you're huddled in "
+"some corner with a stone [FF0000]Sword[-] in hand."
+
+msgid "Swamp Stone"
+msgstr ""
+"Weathered stone.  Crafted by combining [FF0000]Clear Stone[-] with [FF0000]"
+"Mud[-].\n"
+"\n"
+"Abundant in [FF0000]Atlantis[-]."
+
+msgid "Energy"
+msgstr ""
+"Items that possess Energy, such as [FF0000]Coal[-], [FF0000]Wood[-], [FF0000]"
+"Planks[-], and [FF0000]Sticks[-], can be used to craft items for the [FF0000]"
+"Furnace[-] and [FF0000]Cauldron[-]."
+
+msgid "Rose Bush"
+msgstr "Several roses on one beautiful stalk."
+
+msgid "Sand Stone"
+msgstr ""
+"Beautiful stone made from compact [FF0000]Sand[-].\n"
+"\n"
+"Appears in the expansive plains of the [FF0000]Skyland[-]."
+
+msgid "Bed"
+msgstr "Used to get some much-needed rest after an exhausting adventure."
+
+msgid "Dirt"
+msgstr ""
+"Ah, Dirt.  Feel it, smell it, you'll see alot of it.  Dirt is one of the "
+"most common substances in existence."
+
+msgid "Nest"
+msgstr ""
+"A nest surrounded by Leaves.  Make sure you don't step on top of the eggs.  "
+"The nest can be found on some floating islands or on trees."
+
+msgid "Bucket"
+msgstr ""
+"Ahh!  The good old days when we would use these things as toilets.  "
+"Thankfully, it is now more suitable for picking up [FF0000]Lava[-] or "
+"[FF0000]Water[-]."
+
+msgid "Red Crystals"
+msgstr ""
+"Red ore found deep within caves.\n"
+"Produces a red glow to it's surroundings when untouched.\n"
+"Can be used to craft dark magic and red dye."
+
+msgid "Saddle"
+msgstr "Can be used to ride animals."
+
+msgid "Shovel"
+msgstr ""
+"Useful tool to dig sand and dirt.  Digs much faster and further than with "
+"your bare hands.\n"
+"                                \n"
+"To use, open inventory, select the [FF0000]Shovel[-], and tap and hold a "
+"block you want to break."
+
+msgid "Store Row Pet Error"
+msgstr "Connect to the internet to expand your pet's inventory."
+
+msgid "Crystal Block Green"
+msgstr "Glowing jungle Green block made from beautiful [FF0000]Emeralds[-]."
+
+msgid "Acid"
+msgstr ""
+"Eats 7 blocks down after being placed.\n"
+"\n"
+"Only [FF0000]Glass[-] stops and catches it."
+
+msgid "Birch Leaves"
+msgstr "Rare set of leaves that are usually found in the Jungle Biome."
+
+msgid "Wax"
+msgstr ""
+"Waxy substance taken from hives found in [FF0000]Oak Trees[-].\n"
+"\n"
+"Dye can be used to create colorful candles."
+
+msgid "Iron Dig"
+msgstr ""
+"Like the pickaxe, this is the most important tool to any miner.  Unlike the "
+"pickaxe, the [FF0000]Iron Pickaxe[-] will cut through any material with ease."
+
+msgid "Brush"
+msgstr "You can paint almost all blocks in the world with this tool."
+
+msgid "Birch Fence"
+msgstr "Ornate wood fence.  Great for trapping or holding animals."
+
+msgid "Coco Bean"
+msgstr ""
+"A hard shelled tropical fruit.  The milk inside is said to raise even the "
+"lowest of spirits.  Found along the beach on [FF0000]Coconut Trees[-]."
+
+msgid "Magic"
+msgstr ""
+"A simple practice tool.  This staff is powered by mystic [FF0000]Red Crystals"
+"[-] which give the wielder an offensive blast!"
+
+msgid "Paraffin"
+msgstr ""
+"Beehive blocks can be found in the forest.\n"
+"\n"
+"Smelt it in a [FF0000]Furnace[-] to get [FF0000]Wax[-]."
+
+msgid "Sand Clock"
+msgstr ""
+"Slows down the time.\n"
+"\n"
+"To use, equip clocks in left hand, and then press the sand clock button in "
+"top right corner."
+
+msgid "Alien Dog Soul"
+msgstr ""
+"Bring an alien dog to life.  Ready to fight beside you without requiring you "
+"to take him to your leader.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Fried Fishes and Meat to satisfy its hunger."
+
+msgid "Spirit Necklace"
+msgstr ""
+"A dark tool made from trapped souls and corrupt [000000]Unobtainium[-].\n"
+"Increases the user's ability to replenish their mana reserves."
+
+msgid "Gold Block"
+msgstr "Valuable block made from gold."
+
+msgid "Emeralds"
+msgstr ""
+"Green bright ore found in caves.  Can be crafted into a beautiful green "
+"crystal."
+
+msgid "Brick Fence"
+msgstr "Ornate brick fence.  Great for trapping or holding animals."
+
+msgid "Green Fluorite"
+msgstr "Crafting material."
+
+msgid "Iron Ore"
+msgstr ""
+"One of the most useful and hard to find ores.  Can be found underground and "
+"in your morning cereal.\n"
+"\n"
+"Iron can be used to craft a lot of things, like bullets, pickaxes, cars, "
+"jetpacks, and weapons."
+
+msgid "Red Dye"
+msgstr ""
+"Crafted from crushed [FF0000]Rubies[-].  Used to create colored blocks.\n"
+"\n"
+"Combine with other dyes to make many different colors."
+
+msgid "Warrior Armor"
+msgstr ""
+"Now here's something that you don't see everyday.  Finally, man enough to "
+"take on a Dragon.  You sure will need this set of Armor to take that fiery "
+"beast head on."
+
+msgid "Shark Fin Soup"
+msgstr ""
+"You can get a fin from a dead shark.\n"
+"\n"
+"Requires the [FF0000]Cauldron[-] to craft."
+
+msgid "Stone Fence"
+msgstr "Ornate stone fence.  Great for trapping or holding animals."
+
+msgid "Boat"
+msgstr ""
+"A buoyant creation made from wood.  Allows for fast travel on water, mud and "
+"lava.\n"
+"It can be dyed on a crafting table."
+
+msgid "Palm Leaves"
+msgstr ""
+"Palm Leaves.  Usually found on the beach.  Coconuts are said to be below the "
+"leaves."
+
+msgid "Skeletone Helmet"
+msgstr ""
+"Helmet made from iron.  Don't worry you won't have to shove this in your "
+"chest.  Simply put it on your head, and it will give you a great boost of "
+"protection."
+
+msgid "JetPack"
+msgstr ""
+"A vehicle that allows you to fly without mana.\n"
+"\n"
+"Uses [FF0000]Graviton[-] to power the [FF0000]Engine[-]."
+
+msgid "Spikes Magic"
+msgstr ""
+"Extremely powerful Staff that summons spikes underneath the target, and it "
+"does it quickly."
+
+msgid "Bone"
+msgstr ""
+"The enchanted Bone of a Skeleton.  Used in a variety of recipes, namely "
+"weapons and shields."
+
+msgid "Jungle Flower"
+msgstr "Beautiful red flower.  Be warned, its sweet smell attracts Bats."
+
+msgid "Oak Tree Plant"
+msgstr ""
+"Grows on [FF0000]Dirt[-] or [FF0000]Grass[-].\n"
+"Produces Wax."
+
+msgid "Palm Plant"
+msgstr ""
+"Grows on [FF0000]Sand[-].\n"
+"Produces [FF0000]Coconuts[-]."
+
+msgid "Grass 3D"
+msgstr "Small tufts of noncubic foliage spring up everywhere on the surface."
+
+msgid "Wheel"
+msgstr ""
+"A revolutionary invention.  This thin cylinder allows the car to move at "
+"rapid speed.  Much better than the square.  Can you imagine how bumpy a car "
+"ride would be with square wheels?"
+
+msgid "Teleport"
+msgstr ""
+"A futuristic device which allows you to teleport to any placed [FF0000]Bed"
+"[-].\n"
+"\n"
+"Do not leave home without one, and don't cry if you get lost in the woods "
+"because you didn't have one."
+
+msgid "Metal Fence Gate"
+msgstr ""
+"A gate for the fence that allows you to go inside or out withought having to "
+"jump over the fence."
+
+msgid "Coal Ore"
+msgstr "An ore found underground."
+
+msgid "Palm Fence"
+msgstr "Ornate wood fence.  Great for trapping or holding animals."
+
+msgid "Goblin Armor"
+msgstr "Goblins have a great sense of fashion!"
+
+msgid "Iron Bar"
+msgstr ""
+"Crafted from the [FF0000]Furnace[-].\n"
+"\n"
+"Can be used to craft items like swords and pickaxes."
+
+msgid "Sea Grass"
+msgstr ""
+"Found in the ocean.  Traps air inside which allows you to breath.  Collect "
+"it and place it at home to make elevators."
+
+msgid "Antique Window"
+msgstr "An old metal window, crafted by Goblins for defence, not comfort."
+
+msgid "TrapDoor"
+msgstr "Great for hiding secret rooms and avoiding relatives."
+
+msgid "Devil Rock"
+msgstr ""
+"The Barlog's corrupt spirit flows into the foundations of the Underworld.  "
+"Even when brought to the surface, these stones glow with a hateful light."
+
+msgid "Birch Plant"
+msgstr "Grows on [FF0000]Dirt[-] or [FF0000]Grass[-]."
+
+msgid "Raven Wing"
+msgstr ""
+"Wings taken from midnight-black Ravens.  I wonder if I can use it to fly."
+
+msgid "Coloring Block"
+msgstr "Can be used to color blocks or combine dyes."
+
+msgid "Stair"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+msgid "Mistic Ring"
+msgstr ""
+"A sorcerer's tool.  This ring heightens the users connections to the spirit "
+"world.  It is crafted from enchanted [FF0000]Spider Webs[-] and the eye of "
+"the great [FF0000]Aragog[-]."
+
+msgid "Duck Spawner"
+msgstr ""
+"A spawner that looks very different from the rest.  Formed from Lily Pads on "
+"top of water.  I wonder if the frogs hop on top of them."
+
+msgid "Dragon Helmet"
+msgstr "Made from [FF0000]Dragonscale[-].."
+
+msgid "Explosive Arrow"
+msgstr ""
+"Explodes on impact, dealing damage to all creatures and destroying blocks "
+"nearby."
+
+msgid "Swamp Spawner"
+msgstr "Horrid muddy block that spawns serpentine foes."
+
+msgid "Replicator"
+msgstr ""
+"Uses the power of Shiva to replicate matter.   \n"
+"\n"
+"Tap on any block from one side, and it will replicate it 10 times in the "
+"opposite side."
+
+msgid "Bark"
+msgstr ""
+"The most common type of wood. Essential to a beginning adventurer.\n"
+"\n"
+"Found on trees in forests. Can be turned into [FF0000]Planks[-] to craft "
+"several items including [FF0000]Pickaxes[-] and [FF0000]Swords[-]."
+
+msgid "Sand"
+msgstr ""
+"A sedimentary material that can be dyed and smelted into [FF0000]Glass[-].\n"
+"\n"
+"Commonly found near Beaches and in Deserts."
+
+msgid "Short Sword"
+msgstr ""
+"A short sword that has a greater advantage when fighting foes.  It doesn't "
+"do well in long range, but it excels in short range combat."
+
+msgid "Crystal Sword"
+msgstr ""
+"Forged in a risky gamble by a lone adventurer who combined what little "
+"[FF0000]Cryptonite[-] he had, the [FF0000]Bones[-] of fallen [FF0000]"
+"Skeletons[-], and [000000]Unobtainium[-] from the depths of the [FF0000]"
+"Underworld[-]."
+
+msgid "Bones Shield"
+msgstr ""
+"A scary looking shield formed from bones.  There is a skull attached to the "
+"front.  Don't be afraid.  It will protect you."
+
+msgid "Dog Soul"
+msgstr ""
+"Bring a cute dog to life.  Will follow you everywhere.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, and Meat."
+
+msgid "GunPowder"
+msgstr "A useful ingredient for [FF0000]Bullets[-] or [FF0000]TNT[-]."
+
+msgid "SheepSkin"
+msgstr ""
+"Killing an animal for skin isn't always a bad thing.\n"
+"\n"
+"Useful for crafting comfy [FF0000]Beds[-]."
+
+msgid "Dragon Ring"
+msgstr "I thought it looked quite fashionable on the dragon..."
+
+msgid "Collect_Failed"
+msgstr "[FF0000]Cannot collect {0}x {1}[-]"
+
+msgid "Clear Stone"
+msgstr ""
+"Crafting material.\n"
+"\n"
+"Produced by heating up [FF0000]Stone[-]."
+
+msgid "Furnace"
+msgstr ""
+"Furnaces can be used for smelting material into useful items.\n"
+"\n"
+"Add an energy based item, such as Coal, Wood, Sticks, or Planks, and a "
+"smeltable item, then wait some time."
+
+msgid "Goblin PickAxe"
+msgstr ""
+"Used to dig ores.  Digs much faster and further than with your bare hands "
+"and the [FF0000]Iron Pickaxe[-].\n"
+"                                \n"
+"To use, open inventory, select the [FF0000]Goblin PickAxe[-], and tap and "
+"hold a block you want to break."
+
+msgid "Lilia Flower"
+msgstr "Beautiful Lily Pads."
+
+msgid "Clear Plank"
+msgstr ""
+"An orange plank that looks like someone spilt dye all over it.  Either way "
+"it's great for flooring or walls."
+
+msgid "Lava"
+msgstr "Don't go near it or you will burn unless you have a boat... naturally."
+
+msgid "Forgotten Leaves"
+msgstr ""
+"The main set of leaves that are found in the [FF0000]Forgotten Skies[-].  "
+"You can't miss it."
+
+msgid "HorseSkin"
+msgstr ""
+"Skin from a dead horse.\n"
+"\n"
+"Useful for crafting goblin armor."
+
+msgid "Health Potion"
+msgstr ""
+"Use the Healing Potion to restore health.\n"
+"\n"
+"Requires [FF0000]Cauldron[-] to craft."
+
+msgid "Flippers"
+msgstr ""
+"Made from [FF0000]Wood[-] and [FF0000]Iron[-], these interesting looking "
+"boots are worn to propel the wearer underwater at great speeds."
+
+msgid "Warrior Pants"
+msgstr ""
+"Warrior Pants, it won't only make you look taller, but it wil also give you "
+"a defense boost when attacked."
+
+msgid "Long Sword"
+msgstr ""
+"Long one handed stone sword that performs well when fighting a powerful "
+"monster."
+
+msgid "Letter"
+msgstr ""
+"Parchment letter containing an important message.  (And a gag birthday card.)"
+
+msgid "Engine"
+msgstr ""
+"Without this wonderful invention, the [FF0000]Car[-] would not be anything "
+"more than a heap of useless junk."
+
+msgid "Shark Fin"
+msgstr ""
+"A fin that fell right off a dead Shark.  Useful for making shark fin soup."
+
+msgid "Yellow Flower"
+msgstr "You know,  a yellow flower."
+
+msgid "Mana Potion"
+msgstr ""
+"Use the Mana Potion to restore mana.\n"
+"\n"
+"Requires [FF0000]Cauldron[-] to craft."
+
+msgid "Safebox"
+msgstr ""
+"A container valued for its storage capabilities.  Featuring several slots, "
+"any amount of one item can go into a slot."
+
+msgid "Goblin Helmet"
+msgstr ""
+"Not only will it protect you, but you can maybe sneak over to a Goblin "
+"Party, and pose as one."
+
+msgid "Pine Leaves"
+msgstr ""
+"Messy Green Leaves that are found in the Snow Biome.  Would you be suprised "
+"if I told you that snow lays on top of the leaves?"
+
+msgid "Fire Magic"
+msgstr ""
+"A staff that is used to incinerate foes.  Just don't go in the ocean with it."
+
+msgid "Rose Flower"
+msgstr "Beautiful white Rose.  Be sure to watch out for thorns."
+
+msgid "Craft Table"
+msgstr ""
+"A Handy Craftman's tool.  Without this you won't be able to create any "
+"recipes.\n"
+"\n"
+"Use it for crafting things that require a 3x3 crafting grid."
+
+msgid "Replicon"
+msgstr "Mutates the DNA of an organism."
+
+msgid "Marble Block"
+msgstr "Metamorphic rock made out of calcite.  Typically found in caves."
+
+msgid "Anvil"
+msgstr "A sturdy block where you can repair your damaged tools and weapons."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Pet"
+msgstr "A robotic companion that can shoot rockets."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Left"
+msgstr "A part used to complete the Mech Pet."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Rocket Launcher"
+msgstr "A part used to complete the Mech Pet."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Cannon"
+msgstr "A part used to complete the Mech Pet."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Mech Leg Left"
+msgstr "A part used to complete the Mech Pet."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Ventilation Right"
+msgstr "A part used to complete the Mech Pet."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Computer"
+msgstr "A device used to issue commands and process information."
+
+msgid "Rockets"
+msgstr "Place the rockets in the Mech's inventory to put them to good use."
+
+msgid "Mystical Block"
+msgstr "Used for decoration."
+
+msgid "Devil Bush"
+msgstr "A bush commonly found in the [FF0000]Underworld[-]."
+
+msgid "Desert Bush"
+msgstr "A bush commonly found in the [FF0000]Desert[-]."
+
+msgid "Carpet"
+msgstr "Used for decoration."
+
+msgid "Ice Bricks"
+msgstr "Bricks made entirely of ice."
+
+msgid "Granite"
+msgstr "An igneous rock commonly used for crafting structures."
+
+msgid "Skulls Block"
+msgstr "Block made from the skulls of the fallen."
+
+msgid "Devil Bricks"
+msgstr "Bricks commonly found in the [FF0000]Underworld[-]."
+
+msgid "Dark Axe"
+msgstr ""
+"An enhanced Battle Axe capable of inflicting damage from the dark magical "
+"arts."
+
+msgid "Fire Axe"
+msgstr "A magical Battle Axe engulfed in flames."
+
+msgid "Ice Axe"
+msgstr "A magical Battle Axe capable of freezing anything it touches."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Battle Axe"
+msgstr "Powerful axe capable of taking down the largest of enemies."
+
+msgid "Snowman"
+msgstr ""
+"A representation of a human figure made entirely of snow, sticks, and a "
+"bucket.\n"
+"Place it to snowman inventory so he can attack with snowballs.\n"
+"\n"
+"Consumes Snow to satisfy its hunger."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:44
+# UnityGame/Assets/Localization/BaseTranslation.cs:346
+# UnityGame/Assets/Localization/T.cs:89
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:211
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Christmas Tree"
+msgstr "A tree decorated in celebration of the Christmas holiday."
+
+msgid "Teleporter"
+msgstr ""
+"A futuristic device which allows you to teleport to any other [FF0000]"
+"Teleporter[-] by stepping inside it.\n"
+"\n"
+"Don't cry if you get lost in the woods because you left home without one."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1523
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rails"
+msgstr ""
+"Rails can be used to create rail roads for [FF0000]Minecart[-] and [FF0000]"
+"Locomotive[-]. Place [FF0000]Generator block[-] near Rails to add speed up."
+
+msgid "Minecart"
+msgstr ""
+"Small Minecart used to travel fast on your railroads.\n"
+"It can be dyed on a crafting table."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1511
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Sign"
+msgstr ""
+"The label for a variety of notes.\n"
+"The text color can be painted with paint or brush.\n"
+"Maximum number of characters 30."
+
+msgid "Fireworks"
+msgstr ""
+"Decorative lights of various colors and shapes, resulting from the "
+"combustion of pyrotechnic compositions.\n"
+"Place the rocket on the ground and after a few seconds they will launch "
+"automatically.\n"
+"[FF0000]Warning! Never launch fireworks indoors! [-]"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Rainbow Basilisk Soul"
+msgstr ""
+"A rare pet, he can change his skin to a random color. Very good swimming in "
+"water.\n"
+"\n"
+"Consumes Fried Fishes to satisfy its hunger."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Viking Boat"
+msgstr ""
+"Legendary Ted boat.\n"
+"It can be dyed on a crafting table."
+
+msgid "Bait"
+msgstr "Stuff that fish really like."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fish Rod"
+msgstr "Use it to catch fish."
+
+msgid "Fried Meat"
+msgstr "Cooked meat, gives you more health."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "ClownFish"
+msgstr "Fish fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried ClownFish"
+msgstr "Cooked fish."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "LionFish"
+msgstr "Fish fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried LionFish"
+msgstr "Cooked fish."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "GruntFish"
+msgstr "Fish fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried GruntFish"
+msgstr "Cooked fish."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "TriggerFish"
+msgstr "Fish fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried TriggerFish"
+msgstr "Cooked fish."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Squid"
+msgstr "Squid fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Squid"
+msgstr "Cooked squid."
+
+msgid "Stingray"
+msgstr "Fish fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Stingray"
+msgstr "Cooked fish."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Urchin"
+msgstr "Urchin fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Urchin"
+msgstr "Cooked urchin."
+
+msgid "StarFish"
+msgstr "StarFish fresh out of the water."
+
+msgid "Fried StarFish"
+msgstr "Cooked StarFish."
+
+msgid "Shark"
+msgstr "Shark fresh out of the water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Shark"
+msgstr "Cooked shark."
+
+msgid "Mati Soul"
+msgstr ""
+"A small piece of darkness. Why it's so cute?\n"
+"\n"
+"Consumes Meat and Fried Fishes to satisfy its hunger."
+
+msgid "Wall Torch"
+msgstr "You can put it on any wall you want."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Alien Fish Rod"
+msgstr "Use it to catch strong outer world fish."
+
+msgid "Sunshard"
+msgstr "A magic staff that can bring meteorites to your opponents."
+
+msgid "Space Suit"
+msgstr "Allow breathing in the outer world."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Angel Wings"
+msgstr "Allows flying without mana."
+
+msgid "Phoenix Shield"
+msgstr "Incredibly strong fire shield."
+
+msgid "Alien Shield"
+msgstr "Very durable shield from the shell of the Dunkleosteus."
+
+msgid "Amber Boots"
+msgstr "Incredibly Strong Armor. Made from [FF0000]Amber[-]."
+
+msgid "Amber Pants"
+msgstr "Incredibly Strong Armor. Made from [FF0000]Amber[-]."
+
+msgid "Amber Armor"
+msgstr "Incredibly Strong Armor. Made from [FF0000]Amber[-]."
+
+msgid "Amber Helmet"
+msgstr "Incredibly Strong Armor. Made from [FF0000]Amber[-]."
+
+msgid "World Breaker"
+msgstr ""
+"The result of combining [FF0000]Angelic Swords[-] and the [FF0000]Phoenix "
+"Swords[-]."
+
+msgid "Phoenix Swords"
+msgstr "Incredible two-handed swords forged in the fire of the Phoenix."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:166
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:42
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+msgid "Goblin Rocket Launcher"
+msgstr "Allows you to shoot with [FF0000]Rockets[-]."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mashine Gun"
+msgstr "Very fast-fire weapons but with a wide spread."
+
+msgid "Chain"
+msgstr "Common household decoration."
+
+msgid "Clear Planks Fence Gate"
+msgstr ""
+"A gate for the fence that allows you to go inside or out without having to "
+"jump over the fence."
+
+msgid "Palm Fence Gate"
+msgstr ""
+"A gate for the fence that allows you to go inside or out without having to "
+"jump over the fence."
+
+msgid "Birch Fence Gate"
+msgstr ""
+"A gate for the fence that allows you to go inside or out without having to "
+"jump over the fence."
+
+msgid "Gold Fence"
+msgstr "Ornate gold fence.  Great for trapping or holding animals."
+
+msgid "Marble Fence"
+msgstr "Ornate stone fence.  Great for trapping or holding animals."
+
+msgid "Metal Fence"
+msgstr "Ornate metal fence.  Great for trapping or holding animals."
+
+msgid "Clear Planks Fence"
+msgstr "Ornate wood fence.  Great for trapping or holding animals."
+
+msgid "Metal Trap Door"
+msgstr "Great for hiding secret rooms and avoiding relatives. Made from metal."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Metal Door"
+msgstr "Massive iron door."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Metal Lattice Door"
+msgstr "A door made of metal bars."
+
+msgid "Simple Wood Door"
+msgstr "A wooden door that is equivalent to the length of two blocks."
+
+msgid "Metal Ladder"
+msgstr ""
+"Link these together to pull yourself out of the darkest hole. Made from "
+"metal."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wood Half"
+msgstr ""
+"Crafted from [FF0000]Planks[-].\n"
+"\n"
+"A crafting material that can be placed."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wood Vertical"
+msgstr ""
+"Crafted from [FF0000]Planks[-].\n"
+"\n"
+"A crafting material that can be placed."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wood Triangle"
+msgstr ""
+"Crafted from [FF0000]Planks[-].\n"
+"\n"
+"A crafting material that can be placed."
+
+msgid "Birch Half"
+msgstr "White messy Plank that is often overlooked in a lot of creations."
+
+msgid "Birch Vertical"
+msgstr "White messy Plank that is often overlooked in a lot of creations."
+
+msgid "Birch Triangle"
+msgstr "White messy Plank that is often overlooked in a lot of creations."
+
+msgid "Palm Half"
+msgstr "Dark messy brown Plank that is very similar to the other planks."
+
+msgid "Palm Vertical"
+msgstr "Dark messy brown Plank that is very similar to the other planks."
+
+msgid "Palm Triangle"
+msgstr "Dark messy brown Plank that is very similar to the other planks."
+
+msgid "Clear Planks Half"
+msgstr ""
+"An orange plank that looks like someone spilled dye all over it.  Either "
+"way, it's great for flooring or walls."
+
+msgid "Clear Planks Vertical"
+msgstr ""
+"An orange plank that looks like someone spilled dye all over it.  Either "
+"way, it's great for flooring or walls."
+
+msgid "Clear Planks Triangle"
+msgstr ""
+"An orange plank that looks like someone spilled dye all over it.  Either "
+"way, it's great for flooring or walls."
+
+msgid "Clear Planks Stairs"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+msgid "Stone Half"
+msgstr ""
+"The ancient pillars and walls of castles are composed of this enduring "
+"material."
+
+msgid "Stone Vertical"
+msgstr ""
+"The ancient pillars and walls of castles are composed of this enduring "
+"material."
+
+msgid "Stone Triangle"
+msgstr ""
+"The ancient pillars and walls of castles are composed of this enduring "
+"material."
+
+msgid "Old Stone Half"
+msgstr "The stone that has been forgotten."
+
+msgid "Old Stone Vertical"
+msgstr "The stone that has been forgotten."
+
+msgid "Old Stone Triangle"
+msgstr "The stone that has been forgotten."
+
+msgid "Bricks Half"
+msgstr ""
+"One of the strongest blocks in existence, which makes great foundations and "
+"defenses.\n"
+"\n"
+"Crafted using [FF0000]Clear Stone[-]."
+
+msgid "Bricks Vertical"
+msgstr ""
+"One of the strongest blocks in existence, which makes great foundations and "
+"defenses.\n"
+"\n"
+"Crafted using [FF0000]Clear Stone[-]."
+
+msgid "Bricks Triangle"
+msgstr ""
+"One of the strongest blocks in existence, which makes great foundations and "
+"defenses.\n"
+"\n"
+"Crafted using [FF0000]Clear Stone[-]."
+
+msgid "Carpet Half"
+msgstr "Used for decoration."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Carpet Vertical"
+msgstr "Used for decoration."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Metal Tile"
+msgstr "Tiles found in the Outer World completely cast from metal."
+
+msgid "Marble Half"
+msgstr "Metamorphic rock made out of calcite."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Marble Vertical"
+msgstr "Metamorphic rock made out of calcite."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Marble Triangle"
+msgstr "Metamorphic rock made out of calcite."
+
+msgid "Marble Stairs"
+msgstr ""
+"A block that gives you an excuse not to use planks for your roof.  Also a "
+"great replacement for steps."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Pillar Bottom"
+msgstr "The lower part of the ancient column."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Pillar"
+msgstr "Ancient column."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Pillar Top"
+msgstr "The upper part of the ancient column."
+
+msgid "Miracle Stone"
+msgstr "Crafting material. Found in Outer Worlds."
+
+msgid "Iron Half"
+msgstr "Crafted from the [FF0000]Furnace[-]."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Iron Vertical"
+msgstr "Crafted from the [FF0000]Furnace[-]."
+
+msgid "Iron Triangle"
+msgstr "Crafted from the [FF0000]Furnace[-]."
+
+msgid "Gold Half"
+msgstr "Crafted from the [FF0000]Furnace[-]."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gold Vertical"
+msgstr "Crafted from the [FF0000]Furnace[-]."
+
+msgid "Gold Triangle"
+msgstr "Crafted from the [FF0000]Furnace[-]."
+
+msgid "Sponge"
+msgstr ""
+"A block that absorbs water very well. Install it near water and it quickly "
+"absorbs everything around it in a small radius."
+
+msgid "Daithir Soul"
+msgstr ""
+"Bring a small dragon to life.  Ready to fight beside you without biting your "
+"head off.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Meat, Apples, Fried Fishes and Coconuts to "
+"satisfy its hunger."
+
+msgid "Vairmut Soul"
+msgstr ""
+"Bring a small dragon to life.  Ready to fight beside you without biting your "
+"head off.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Meat, Apples, and Coconuts to satisfy its "
+"hunger."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Baby Ashkore Soul"
+msgstr ""
+"Bring a small dragon to life.  Ready to fight beside you without biting your "
+"head off.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Meat, Apples, and Coconuts to satisfy its "
+"hunger."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Xordaraxus Soul"
+msgstr ""
+"Bring a small dragon to life.  Ready to fight beside you without biting your "
+"head off.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Meat, Apples, and Coconuts to satisfy its "
+"hunger."
+
+msgid "Onyx Soul"
+msgstr ""
+"The legendary Phoenix who will fight by your side.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Meat, Apples, and Coconuts to satisfy its "
+"hunger."
+
+msgid "Sequoia Tree Plant"
+msgstr ""
+"Very big tree.\n"
+"\n"
+"Grows on [FF0000]Snow[-], [FF0000]Dirt[-] or [FF0000]Grass[-]."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Big Liana"
+msgstr "Jungle creepers."
+
+msgid "Liana"
+msgstr "Jungle creepers."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Amber"
+msgstr "Crafting material found in Outer Worlds."
+
+msgid "Amber Bricks"
+msgstr "Bricks made entirely of Amber. Very rare Outer World material."
+
+msgid "Paving Stone"
+msgstr ""
+"A good block for the construction of roads and the arrangement of your city."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Purplefish"
+msgstr "Small fish from Outer Worlds."
+
+msgid "Fried Purplefish"
+msgstr "Cooked Purplefish."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "DumboOctopus"
+msgstr "Weird water creature from Outer Worlds."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried DumboOctopus"
+msgstr "Cooked DumboOctopus."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Dunkleosteus"
+msgstr ""
+"Weird fish from Outer Worlds. They live in swamps and has a very strong "
+"shell."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:91
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fried Dunkleosteus"
+msgstr "Cooked Dunkleosteus."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Fangtooth"
+msgstr "A strange water creature from the Outer Worlds with huge fangs."
+
+msgid "Fried Fangtooth"
+msgstr "Cooked Fangtooth."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gulper"
+msgstr ""
+"A strange water creature from the Outer Worlds with a snake body and a huge "
+"mouth."
+
+msgid "Fried Gulper"
+msgstr "Cooked Gulper."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Concrete"
+msgstr "Good building material."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mashine Gun Bullet"
+msgstr "Bullets for Machine Gun."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Leafs"
+msgstr "Leaves from Outer Worlds trees."
+
+msgid "Space Flower"
+msgstr "Flowers from Outer Worlds."
+
+msgid "Acid Grass"
+msgstr "Green glowing grass found in Outer Worlds."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Glowing Grass"
+msgstr "Blue glowing grass found in Outer Worlds."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mushroom"
+msgstr "Very poisonous mushroom."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Moss"
+msgstr "Moss was found in the Outer Worlds."
+
+msgid "Straight Grass"
+msgstr "Small tufts of noncubic foliage spring up everywhere on the surface."
+
+msgid "Blooming Grass"
+msgstr "Small tufts of noncubic foliage spring up everywhere on the surface."
+
+msgid "Moon Sand"
+msgstr "A sedimentary material that can be found in Outer Worlds."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mushroom Trunk"
+msgstr "Very poisonous mushroom."
+
+msgid "Space Grass"
+msgstr "Grass that came from the Outer Worlds."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:765
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Dirt"
+msgstr "Dirt that came from the Outer Worlds."
+
+msgid "Grace"
+msgstr "Material that can be used to create Angel Wings."
+
+msgid "Phoenix Wing"
+msgstr "Phoenix feathers."
+
+msgid "Fire Essence"
+msgstr "An incredibly hot particle of the Phoenix itself."
+
+msgid "Jungle Grass"
+msgstr "Most common grass that is found in the Jungle."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:733
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Cheat Diamond"
+msgstr "When you trying to cheat you getting this Fake Diamonds."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Railway Dead End"
+msgstr ""
+"Place it at the end of your railroad and Minecart or Locomotive will stop "
+"automatically."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle Empty Note"
+msgstr "Weird bottle with a note inside. Was found in water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle Poi Note"
+msgstr "Weird bottle with a note inside. Was found in water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Bottle son Note"
+msgstr "Weird bottle with a note inside. Was found in water."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Note son"
+msgstr "*** --- -*"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:741
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Note Empty"
+msgstr " "
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:741
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Note Poi"
+msgstr "*--* --- **"
+
+msgid "Magic Scroll"
+msgstr ""
+"A unique magic scroll that contains a recipe for an ancient instrument."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Note With Symbols"
+msgstr "52656369706520696e6772656469656e74732047726163652038204669726520457373656e63652032302050686f656e69782057696e6720313030"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wrench"
+msgstr ""
+"Using a wrench, you can disassemble the vehicles and put them back in your "
+"inventory."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Locomotive"
+msgstr ""
+"A beautiful old Locomotive, a little faster than an ordinary Minecart. This "
+"old goblin knows his job for sure.\n"
+"It can be dyed on a crafting table."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:43
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Multitool"
+msgstr ""
+"A versatile tool that allows you to dig quickly and from a long distance."
+
+msgid "Meteorite Ore"
+msgstr ""
+"Where did this come from? Legend states this mysterious material can be used "
+"to craft ancient items."
+
+msgid "Eldriar Soul"
+msgstr ""
+"The legend states that this dragon was once so powerful that even the Dragon "
+"Lord himself couldn't tame this beast. \n"
+"He was once so powerful he could call in a meteor shower just by the sound "
+"of his roar.\n"
+"\n"
+"Consumes Shark Fin Soup, Bread, Meat, Apples, Fried Fishes and Coconuts to "
+"satisfy its hunger."
+
+msgid "Dragon Egg"
+msgstr ""
+"This incredibly rare egg is used to summon Eldriar. Legend states that this "
+"egg is well hidden in a random chest in this world."
+
+msgid "Blue Dragon Armor"
+msgstr ""
+"Armor forged specifically for the fighting dragon. But it can also increase "
+"the survival of other pets. To use it, put it on the pet by placing it in "
+"the appropriate slot in its inventory."
+
+msgid "Red Dragon Armor"
+msgstr ""
+"Armor forged specifically for the fighting dragon. But it can also increase "
+"the survival of other pets. To use it, put it on the pet by placing it in "
+"the appropriate slot in its inventory."
+
+msgid "Emerald Dragon Armor"
+msgstr ""
+"Armor forged specifically for the fighting dragon. But it can also increase "
+"the survival of other pets. To use it, put it on the pet by placing it in "
+"the appropriate slot in its inventory."
+
+msgid "Old Dragon Armor"
+msgstr ""
+"Armor forged specifically for the fighting dragon. But it can also increase "
+"the survival of other pets. To use it, put it on the pet by placing it in "
+"the appropriate slot in its inventory."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Flame of the Cosmic Forge"
+msgstr ""
+"The flame from the furnace of ancient cosmic civilizations, burning in the "
+"form of the letter S, is used to create a very powerful weapon designed to "
+"defeat the Phoenix. Five secret rooms in space hold the secret of the rest "
+"of the ingredients.\n"
+"2 1 2\n"
+"2 1 2\n"
+"4 3 4"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Airplane"
+msgstr ""
+"An unusual mechanism with wings similar to a bird. It was created by goblins "
+"under the leadership of the king of this world. TOP SECRET!!!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Remote Sensor"
+msgstr ""
+"Wireless transmitter of electricity. Used to transmit electricity through "
+"walls or to activate certain vehicles."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Relay Sensor"
+msgstr ""
+"The relay is capable of changing the electrical current signal to positive "
+"or negative. It allows you to gain more control over some electrically "
+"controlled blocks."
+
+msgid "Electric Torch"
+msgstr "A lantern that is controlled by electricity by connecting wires to it."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Relay Controller"
+msgstr ""
+"The control unit for some modules located in the vicinity by means of "
+"passing an electric charge through it. It can switch units such as timer, "
+"relay, diode or resistor."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Piston"
+msgstr ""
+"A piston that can push or pull up to 10 blocks in a set direction. Powered "
+"by electricity."
+
+msgid "Wood Piston"
+msgstr ""
+"A piston that can push or pull 1 block towards itself in a set direction. "
+"Powered by electricity."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Light Sensor"
+msgstr ""
+"This sensor sends a positive or negative charge of electricity through the "
+"wires depending on the lighting."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gramophone"
+msgstr "Antique turntable for listening to musical records."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Wires"
+msgstr ""
+"Another insane goblin invention.\n"
+"The wire connects to a generator or sensor to create an electrical charge "
+"that can be controlled by multiple modules and blocks to create complex "
+"mechanisms.\n"
+"Can be mounted both on the floor and on walls and ceilings. To create a "
+"button, a wire must be installed on the side of the generator, and to create "
+"a pressure plate, the wire must be installed on top."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Motion Sensor"
+msgstr ""
+"A sensor that sends an electrical charge when a moving object enters its "
+"field of view."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Timer Sensor"
+msgstr ""
+"The module sends an electrical charge at intervals of 5, 10, 20, 30 or 60 "
+"seconds depending on the position of the switches."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Variable Resistor"
+msgstr "Electrical flow rate control module."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Heavy Metal Swords"
+msgstr ""
+"Swords forged according to the secret recipe of the best alien craftsmen. "
+"You can rightfully call yourself a great master!"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Clock"
+msgstr "Wall clock showing the current time of day."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Drum Music Box"
+msgstr ""
+"Musica block with sounds of percussion instruments, can be activated by "
+"electricity."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Accordion Music Box"
+msgstr ""
+"Music block with accordion and organ sounds, can be activated by electricity."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Guitar Music Box"
+msgstr ""
+"Music block with sounds of acoustic and electric guitar, can be activated by "
+"electricity."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Piano Music Box"
+msgstr "Music block with piano sounds, can be activated by electricity."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Diode"
+msgstr ""
+"Allows you to control the direction of the electrical flow. The position of "
+"the arrow can be used to set the direction in which electricity can flow."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Siren"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Haven"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Abyss"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Arpeggio"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Atmosphere"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Atmosphere Piano"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Boss Fight"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Desrtino"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Epic"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Guitar Accords"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Menu Theme"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Miracles"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Mistery"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record New Forest"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Pip Orquesta"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Solar"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Vanity"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Wonderland"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - 8bit"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Indie"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Ragga"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Ray of sunset"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Serenity"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Space 80s"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Thoughts"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Tradiore - Walpurgis Night"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Pirates - Silent Sea"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Record Pirates - Ending"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Gold Coin"
+msgstr "A coin smelted from the purest gold, highly valued by merchants."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Space Bark"
+msgstr "Wood from a space tree that is used as a crafting material."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:92 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217 
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Sentinel's Branch"
+msgstr ""
+"A branch that has the power to keep the creatures from within 64 blocks of "
+"spawning. Some say it has the ability to teleport lifeforms to safety."
+
+msgid "Sakura Leaves"
+msgstr "In development."
+
+msgid "Lost Bark"
+msgstr "In development."
+
+msgid "Dead Bark"
+msgstr "In development."
+
+msgid "Lost Leaves"
+msgstr "In development."
+
+msgid "Autumn Leaves"
+msgstr "In development."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Aragog"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ashkore"
+msgstr "Musical record, can be used in a gramophone."
+
+#, fuzzy
+msgid "Record Dragon Lord"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Mati"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Phoenix"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Swamp Golem"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Space Mushrooms"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:94 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:222 
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:50 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Liquid Fog"
+msgstr ""
+"A magical substance born from the fusion of pure mana and drifting clouds. "
+"Though stored in a humble wooden bucket, its power is anything but ordinary. "
+"Once released, the fog begins to spread slowly across the land, forming a "
+"thick, creeping veil. It seeps into cracks, wraps around objects, and blurs "
+"the boundaries of the world, turning the familiar into the uncanny. This is "
+"no mere mist — it’s the breath of magic, capable of reshaping the very "
+"fabric of reality."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Ocean Ripples"
+msgstr "Musical record, can be used in a gramophone."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:92
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:217
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:49
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:62
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Record Begin"
+msgstr "Musical record, can be used in a gramophone."
+
+#, fuzzy
+msgid "Skill Reset Scroll"
+msgstr ""
+"An ancient scroll inscribed with arcane glyphs, allowing the bearer to "
+"forget all previously learned skills and redistribute their points anew. "
+"Favored by seasoned warriors and wise mages seeking a fresh path of mastery."
+
+#, fuzzy
+msgid "Swamp Grass"
+msgstr "In development."
+
+#, fuzzy
+msgid "Peony Flower"
+msgstr "In development."
+
+#, fuzzy
+msgid "Swamp Plank"
+msgstr "In development."
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:94 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:222 
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIInfoSlot.cs:50 
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/Game/UIItemSlot.cs:740 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1530 
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+msgid "Elf Column"
+msgstr "In development."
+
+#, fuzzy
+msgid "Elf Bricks"
+msgstr "In development."

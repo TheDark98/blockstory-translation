@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-13 17:45+0000\n"
+"Last-Translator: Andreii Vetoshko <andvetol@gmail.com>\n"
+"Language-Team: English <http://translate.blockstory.net/projects/block-story/"
+"item-effects/en/>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgid "Health"
+msgstr "{0} Max. Health"
+
+msgid "Light"
+msgstr "Produces light"
+
+msgid "FireMagic"
+msgstr "{0} Fire Damage"
+
+msgid "Tick"
+msgstr "per second"
+
+msgid "Gravity"
+msgstr "{0} Gravitational force"
+
+msgid "LootDistance"
+msgstr "{0} Looting Distance"
+
+msgid "Mana"
+msgstr "{0} Max. Mana"
+
+msgid "Duration"
+msgstr "over {0} seconds"
+
+msgid "BowDamage"
+msgstr "{0} Bow Damage"
+
+msgid "Energy"
+msgstr ""
+"Provides [FFFF00]{0} Energy[-] for crafting items in the [FF0000]Furnace[-] "
+"or [FF0000]Cauldron[-]."
+
+msgid "HealthRegen"
+msgstr "{0} Max. Health Regeneration"
+
+msgid "SwordDamage"
+msgstr "{0} Sword Damage"
+
+msgid "Breath"
+msgstr "{0} Max. Underwater Breath"
+
+msgid "PoisonDamage"
+msgstr "{0} Poison Damage"
+
+msgid "JumpHeight"
+msgstr "{0} Jumping Height"
+
+msgid "LightningMagic"
+msgstr "{0} Lightning Damage"
+
+msgid "BreathMagic"
+msgstr "Breath by {0}"
+
+msgid "SlowTime"
+msgstr "Slow Time for {0} seconds"
+
+msgid "DarkMagic"
+msgstr "{0} Dark Damage"
+
+msgid "FlySpeed"
+msgstr "{0} Flying Speed"
+
+msgid "Explode"
+msgstr "Destroys blocks"
+
+msgid "ManaRegen"
+msgstr "{0} Max. Mana Regeneration"
+
+msgid "Restores"
+msgstr "Restores"
+
+msgid "Speed"
+msgstr "{0} Walking Speed"
+
+msgid "HealthMagic"
+msgstr "Health by {0}"
+
+msgid "SwimSpeed"
+msgstr "{0} Swimming Speed"
+
+msgid "Effects"
+msgstr "Effects"
+
+msgid "Magic"
+msgstr "{0} Magic Damage"
+
+msgid "Armor"
+msgstr "{0} Armor"
+
+msgid "WaterGravity"
+msgstr "{0} Gravitational force in water"
+
+msgid "Damages"
+msgstr "Damages"
+
+msgid "HealthRegenMagic"
+msgstr "Health by {0}"
+
+msgid "EarthMagic"
+msgstr "{0} Earth Damage"
+
+msgid "ManaRegenMagic"
+msgstr "Mana by {0}"
+
+msgid "Radius"
+msgstr "in a {0} block radius"
+
+msgid "RadialDamage"
+msgstr "{0} Damage"
+
+msgid "BreathRegenMagic"
+msgstr "Breath by {0}"
+
+msgid "AcidDamage"
+msgstr "{0} Acid Damage"
+
+msgid "GunDamage"
+msgstr "{0} Gun Damage"
+
+msgid "BreathRegen"
+msgstr "{0} Max. Underwater Breath Regeneration"
+
+msgid "HealingMagic"
+msgstr "Health by {0}"
+
+msgid "HungerMagic"
+msgstr "Satisfies {0} Hunger"
+
+msgid "ManaMagic"
+msgstr "Mana by {0}"
+
+msgid "IceMagic"
+msgstr "{0} Ice Damage"
+
+msgid "HungerRegen"
+msgstr "{0} Hunger Regeneration"
+
+msgid "SpaceBreathRegen"
+msgstr "{0} Max. Space Breath Regeneration"
+
+msgid "SpaceGravity"
+msgstr "{0} Gravitational force in Space"
+
+msgid "SpaceJumpHeight"
+msgstr "{0} Space Jumping Height"
+
+msgid "FlyingGravity"
+msgstr "{0} Flying Gravitational force"
+
+msgid "SpaceFlyingGravity"
+msgstr "{0} Flying Gravitational force in Space"
+
+msgid "PetHealth"
+msgstr "{0} Max. Pet Health"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:87
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:296
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemDescription.cs:135
+# UnityGame/Assets/Blocksters/Scripts/Gui/RecipeItemClick.cs:23
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "NormalDamage"
+msgstr "{0} Normal Damage"
