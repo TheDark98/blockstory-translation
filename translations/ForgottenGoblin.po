@@ -32,10 +32,11 @@ msgid ""
 "receive my grace, you will be able to possess them. But are you worthy? "
 "Let's check your strength."
 msgstr ""
-"Finalmente vedo un degno avversario! Guarda le mie magnifiche ali, vuoi "
-"avere lo stesso? Ti daranno forza e libertà di volo, e non dovrai più usare "
-"le pozioni di questo ciarlatano Alchimista. Quando riceverai la mia grazia, "
-"potrai possederli. Ma sei degno? Controlliamo la tua forza."
+"Alfin scorgo un avversario degno d'onore! Volgi lo sguardo alle mie ali splendenti, "
+"le brami anche tu? Esse ti infonderanno vigore e l'ardore di librarti nei cieli, "
+"e mai più dovrai ricorrere agli intrugli di quel ciarlatano Alchimista. "
+"Quando la mia grazia scenderà su di te, potrai reclamarle come tuo retaggio."
+"Ma dimmi, sei degno davvero? Che il giudizio della tua forza si dispieghi ora!"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -54,8 +55,8 @@ msgid ""
 "I see you're not ready to fight me yet. Muster up the nerve and come next "
 "time, I do not want to think that you are a coward."
 msgstr ""
-"Vedo che non sei ancora pronto a combattere contro di me. Fatti coraggio e "
-"vieni la prossima volta, non voglio pensare che tu sia un codardo."
+"Scorgo in te un animo esitante, non ancora pronto alla mia lama. "
+"Raccogli il tuo coraggio e torna un'altra volta, non desidero credere che tu sia un vile."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -97,9 +98,8 @@ msgid ""
 "will fight you every day until I am convinced that you are worthy to receive "
 "my wings."
 msgstr ""
-"Non sono ancora sicuro della tua forza. La tua vittoria potrebbe essere un "
-"incidente. Ti combatterò ogni giorno finché non sarò convinto che sei degno "
-"di ricevere le mie ali."
+"Non ho ancora certezza della tua forza, la tua vittoria potrebbe essere frutto del caso. "
+"Ti affronterò giorno dopo giorno, finché non dimostrerai di essere degno delle mie ali."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -133,7 +133,7 @@ msgstr "Parla con Angel Goblin della tua vittoria."
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:160
 msgid "Now I see that you are worthy. You can take my wings."
-msgstr "Ora vedo che sei degno. Puoi prendere le mie ali."
+msgstr "La tua forza è ormai evidente ai miei occhi. Le mie ali sono tue.."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -144,7 +144,7 @@ msgstr "Ora vedo che sei degno. Puoi prendere le mie ali."
 # UnityGame/Assets/Scripts/Quests/Quest.cs:379
 # UnityGame/Assets/Scripts/Quests/QuestOption.cs:150
 msgid "Finally, I see a worthy opponent! What I see, you want more grace?"
-msgstr "Finalmente vedo un degno avversario! Quello che vedo, vuoi più grazia?"
+msgstr "Alfin mi si para innanzi un avversario degno! Dimmi, il tuo cuore brama forse un dono di grazia superiore?"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:336
@@ -162,6 +162,5 @@ msgstr "Finalmente vedo un degno avversario! Quello che vedo, vuoi più grazia?"
 msgid ""
 "Now I see that you are worthy. Come back tomorrow if you need more grace, I "
 "need some time to replenish it."
-msgstr ""
-"Ora vedo che sei degno. Torna domani se hai bisogno di più grazia, ho "
-"bisogno di un po' di tempo per riempirla."
+msgstr "Hai dimostrato di essere degno. Torna il prossimo giorno se cerchi altra grazia, "
+"poiché ora deve rinvigorirsi."
