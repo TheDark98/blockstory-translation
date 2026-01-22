@@ -14,335 +14,24 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
-msgid "BabyDeer"
-msgstr "Cerbiatto Bambi"
+# Pets
 
-msgid "BlackSheep"
-msgstr "Pecora"
-
-msgid "Turtle"
-msgstr "Tartaruga"
-
-msgid "MrGoblin"
-msgstr "Mr.Goblin blu"
-
-msgid "Shiva"
-msgstr "Shiva"
-
-msgid "SmallHugo"
-msgstr "Piccolo Ugo"
-
-msgid "DuckF"
-msgstr "Signorina Papera"
-
-msgid "BobCat"
-msgstr "Lince rossa"
-
-msgid "DuckM"
-msgstr "Sig.Papero"
-
-msgid "ForgottenGoblin"
-msgstr "Angelo Goblin"
-
-msgid "ClownFish"
-msgstr "Pesce pagliaccio"
-
-msgid "JungleBat"
-msgstr "Piccolo Pipistrello"
-
-msgid "WerewoolfBlack"
-msgstr "Lupo Mannaro nero"
-
-msgid "MediumWorm"
-msgstr "Sig.Risatina"
-
-msgid "GruntFish"
-msgstr "Pesce grunt"
-
-msgid "SkeletonNormal"
-msgstr "Scheletro parlante"
-
-msgid "BigWorm"
-msgstr "Risate da Nonno"
-
-msgid "Cow"
-msgstr "Vacca"
-
-msgid "Squirrel"
-msgstr "Scoiattolo"
-
-msgid "Starfish"
-msgstr "Stella Marina"
-
-msgid "Bull"
-msgstr "Toro"
-
-msgid "Wizard"
-msgstr "mago"
-
-msgid "Snake"
-msgstr "Serpente"
-
-msgid "Eagle"
-msgstr "Aquila"
-
-msgid "Visitors"
-msgstr "Visitatori"
-
-msgid "Dolphin"
-msgstr "Delfino"
-
-msgid "BabyBearPolar"
-msgstr "Piccolo Orso Polare"
-
-msgid "Dragon_Pet"
-msgstr "Drako"
-
-msgid "IceElemental"
-msgstr "Ghiaccio Elementare"
-
-msgid "Basilisk"
-msgstr "Basilisco"
-
-msgid "LionFish"
-msgstr "Pesce Leone"
-
-msgid "PoisonDartFrog"
-msgstr "Rana dal dardo velenoso"
-
-msgid "DarkBoss"
-msgstr "BOSS nero"
-
-msgid "TriggerFish"
-msgstr "Pesce Balestra"
-
-msgid "Panther"
-msgstr "Pantera"
 
 msgid "Dog_Pet"
 msgstr "Slinki"
 
-msgid "Lizard"
-msgstr "Lucertola"
-
-msgid "DragonBug"
-msgstr "Kraden"
-
-msgid "SwampSnake"
-msgstr "Serpente d'acqua"
-
-msgid "GiantSpider"
-msgstr "Aragog"
-
-msgid "Ashkore"
-msgstr "Ashklore"
-
-msgid "Werewoolf"
-msgstr "Lupo Mannaro"
-
-msgid "Chicken"
-msgstr "Galline"
-
-msgid "Spider_Pet"
-msgstr "Arachy"
-
-msgid "ShadowHunter"
-msgstr "Alchimista"
-
-msgid "Tiger"
-msgstr "Tigre"
-
-msgid "BabyGoblin"
-msgstr "Piccolo Goblin"
-
-msgid "BigHugo"
-msgstr "Piazza Hugo"
-
-msgid "Deer"
-msgstr "Cervo"
-
-msgid "BearPolar"
-msgstr "Orso Polare"
-
-msgid "SkeletonMage"
-msgstr "Magia Nera"
-
-msgid "ColoredSheep"
-msgstr "Pecora"
-
-msgid "FeralPig"
-msgstr "Maiale selvaggio"
-
-msgid "SkeletonFresh"
-msgstr "Oscuro Assassino"
-
-msgid "Jackelope"
-msgstr "Lepre con le corna"
-
-msgid "Spider"
-msgstr "Ragno"
-
-msgid "SourceOfLife"
-msgstr "Fonte della Vita"
-
-msgid "Striker"
-msgstr "Battitore"
-
-msgid "Megalodon"
-msgstr "Megalodonte"
-
-msgid "BabyBearGrizzly"
-msgstr "Piccolo Grizzly"
-
-msgid "FemaleWarrior"
-msgstr "Paula"
-
-msgid "Raven"
-msgstr "Corvo"
-
-msgid "BearGrizzly"
-msgstr "Grizzly"
-
-msgid "Bear"
-msgstr "Orso"
-
-msgid "WhiteRaven"
-msgstr "Corvo Bianco"
-
-msgid "Squid"
-msgstr "Calamaro"
-
-msgid "Stingray"
-msgstr "Pastinaca"
-
-msgid "DarkWorm"
-msgstr "Mr. Risatina nero"
-
-msgid "Pig"
-msgstr "Porco"
-
-msgid "Viking"
-msgstr "Ted"
-
-msgid "Urchin"
-msgstr "Riccio di mare"
-
-msgid "Alien_Dog_Pet"
-msgstr "Gontar"
-
-msgid "SkeletonDark"
-msgstr "Cavaliere nero"
-
-msgid "SnowWorm"
-msgstr "Mr Risatina Neve"
-
-msgid "DarkBigWorm"
-msgstr "Risate  del Nonno nero"
-
-msgid "WhiteSheep"
-msgstr "Pecora"
-
-msgid "Enemy"
-msgstr "nemico"
-
-msgid "Rooster"
-msgstr "Gallo"
-
-msgid "SnowBigWorm"
-msgstr "Risate del Nonno Neve"
-
-msgid "Dragon"
-msgstr "Drago"
-
-msgid "Barlog"
-msgstr "Barlog"
-
-msgid "Yeti"
-msgstr "Yeti del Sud"
-
 msgid "Cat_Pet"
 msgstr "Perseo"
 
-msgid "Bird"
-msgstr "Scricciolo"
+msgid "Dragon_Pet"
+msgstr "Drako"
 
-msgid "MissDeer"
-msgstr "Signorina Cervo"
+#, fuzzy
+msgid "BabyAshkore_Pet"
+msgstr "Ashklore"
 
-msgid "BabyHorse"
-msgstr "Piccolo Cavallo"
-
-msgid "IceDragon"
-msgstr "Drago di ghiaccio"
-
-msgid "Hydra"
-msgstr "Idra"
-
-msgid "Tentaclon"
-msgstr "Tentazione"
-
-msgid "GoblinWarrior"
-msgstr "Guerriero Goblin"
-
-msgid "SmallWorm"
-msgstr "Risatina di Piccolo"
-
-msgid "Warrior"
-msgstr "Aaron"
-
-msgid "BabyBear"
-msgstr "Orso piccolo"
-
-msgid "DragonBat"
-msgstr "Pipistrello Drago"
-
-msgid "Otter"
-msgstr "Lontra"
-
-msgid "Horse"
-msgstr "Cavallo"
-
-msgid "Chupacabra"
-msgstr "Chupacabra"
-
-msgid "Shark"
-msgstr "Grande Squalo Bianco"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:38
-# UnityGame/Assets/Localization/BaseTranslation.cs:275
-# UnityGame/Assets/Localization/T.cs:127
-# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:58
-msgid "Trex"
-msgstr "Tirannosauro Rex"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:38
-# UnityGame/Assets/Localization/BaseTranslation.cs:277
-# UnityGame/Assets/Localization/T.cs:127
-# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:26
-# UnityGame/Assets/Scripts/Achievements/Achievement.cs:79
-# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
-# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:145
-# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
-# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:672
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
-msgid "TRex"
-msgstr "Tirannosauro"
-
-msgid "DragonLord"
-msgstr "Signore Drago"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:38
-# UnityGame/Assets/Localization/BaseTranslation.cs:297
-# UnityGame/Assets/Localization/T.cs:129
-# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:75
-# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:30
-msgid "Mech_Pet"
-msgstr "870-CK-570-RY"
+msgid "Spider_Pet"
+msgstr "Arachy"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -352,28 +41,16 @@ msgstr "870-CK-570-RY"
 msgid "Snowman_Pet"
 msgstr "Gelido"
 
-#, fuzzy
-msgid "BabyAshkore_Pet"
-msgstr "Ashklore"
+msgid "Alien_Dog_Pet"
+msgstr "Gontar"
 
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:336
-# UnityGame/Assets/Localization/T.cs:131
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
-# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Mati"
-msgstr "Mati"
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:297
+# UnityGame/Assets/Localization/T.cs:129
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:75
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:30
+msgid "Mech_Pet"
+msgstr "870-CK-570-RY"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -411,32 +88,125 @@ msgstr "Perseo"
 msgid "Xordaraxus_Pet"
 msgstr "Xordaraxus"
 
-#, fuzzy
-msgid "SwampGolem"
-msgstr "Serpente d'acqua"
-
-#, fuzzy
-msgid "VikingShip"
-msgstr "Ted"
-
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:132
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
-# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "AlchemistShip"
-msgstr "Alchimista"
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:79
+# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:36
+msgid "Eldriar_Pet"
+msgstr "Eldriar"
+
+# Passive Mobs
+
+msgid "ColoredSheep"
+msgstr "Pecora"
+
+msgid "WhiteSheep"
+msgstr "Pecora"
+
+msgid "BlackSheep"
+msgstr "Pecora"
+
+msgid "BabyDeer"
+msgstr "Cerbiatto"
+
+msgid "Deer"
+msgstr "Cervo"
+
+msgid "MissDeer"
+msgstr "Cervo"
+
+msgid "Cow"
+msgstr "Mucca"
+
+msgid "Bull"
+msgstr "Toro"
+
+msgid "Chicken"
+msgstr "Pollo"
+
+msgid "Rooster"
+msgstr "Gallo"
+
+msgid "Squirrel"
+msgstr "Scoiattolo"
+
+msgid "Raven"
+msgstr "Corvo"
+
+msgid "WhiteRaven"
+msgstr "Corvo Bianco"
+
+msgid "Stingray"
+msgstr "Manta"
+
+msgid "Eagle"
+msgstr "Aquila"
+
+#, fuzzy
+msgid "BabyHorse"
+msgstr "Pony"
+
+msgid "Horse"
+msgstr "Cavallo"
+
+msgid "Lizard"
+msgstr "Lucertola"
+
+msgid "DuckF"
+msgstr "Papera"
+
+msgid "DuckM"
+msgstr "Papero"
+
+#, fuzzy
+msgid "Chupacabra"
+msgstr "Chupacabra"
+
+msgid "Pig"
+msgstr "Maiale"
+
+msgid "Bird"
+msgstr "Scricciolo"
+
+msgid "Turtle"
+msgstr "Tartaruga"
+
+msgid "ClownFish"
+msgstr "Pesce Pagliaccio"
+
+msgid "Starfish"
+msgstr "Stella Marina"
+
+msgid "LionFish"
+msgstr "Pesce Leone"
+
+msgid "Dolphin"
+msgstr "Delfino"
+
+msgid "Otter"
+msgstr "Lontra"
+
+msgid "TriggerFish"
+msgstr "Balisti"
+
+msgid "Jackelope"
+msgstr "Lepre Cornuta"
+
+msgid "GruntFish"
+msgstr "Emulidi"
+
+msgid "Squid"
+msgstr "Calamaro"
+
+msgid "Urchin"
+msgstr "Riccio Marino"
+
+msgid "BobCat"
+msgstr "Lince Rossa"
+
+msgid "PoisonDartFrog"
+msgstr "Rana velenosa"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -457,6 +227,85 @@ msgstr "Alchimista"
 msgid "Jellyfish"
 msgstr "Medusa"
 
+# Neutral Mobs
+
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118
+msgid "PeasantMale"
+msgstr "Abitante"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:132 
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118
+msgid "PeasantFemale"
+msgstr "Abitante"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167
+msgid "FemalePeasant"
+msgstr "Abitante"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46 
+# UnityGame/Assets/Localization/BaseTranslation.cs:348 
+# UnityGame/Assets/Localization/T.cs:134 
+# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
+# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
+# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167
+msgid "MalePeasant"
+msgstr "Abitante"
+
+msgid "BabyGoblin"
+msgstr "Goblin Bambino"
+
+msgid "MrGoblin"
+msgstr "Goblin"
+
+msgid "GoblinWarrior"
+msgstr "Goblin Guerriero"
+
+#, fuzzy
+msgid "ForgottenGoblin"
+msgstr "Goblin Angelico"
+
+#, fuzzy
+msgid "Angel Goblin"
+msgstr "Goblin Angelico"
+
+msgid "SmallHugo"
+msgstr "Hugo Bambino"
+
+msgid "BigHugo"
+msgstr "Hugo"
+
+#, fuzzy
+msgid "SkeletonNormal"
+msgstr "Scheletro Parlante"
+
+msgid "FeralPig"
+msgstr "Cinghiale"
+
+msgid "Yeti"
+msgstr "Yeti"
+
+msgid "FemaleWarrior"
+msgstr "Paula"
+
+msgid "Warrior"
+msgstr "Aaron"
+
+msgid "SourceOfLife"
+msgstr "Fonte della Vita"
+
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:132
@@ -473,27 +322,44 @@ msgstr "Medusa"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "AlchemistShip"
+msgstr "Alchimista"
+
+msgid "ShadowHunter"
+msgstr "Alchimista"
+
+msgid "Wizard"
+msgstr "Mago"
+
+msgid "VikingShip"
+msgstr "Ted"
+
+msgid "Viking"
+msgstr "Ted"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Manowar"
 msgstr "Manowar"
 
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:132
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
-# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "DumboOctopus"
-msgstr "Polpo Dumbo"
+#, fuzzy
+msgid "Umhi"
+msgstr "Alieno"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -511,6 +377,233 @@ msgstr "Polpo Dumbo"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "Fuza"
+msgstr "Alieno Glaciale"
+
+# Aggressive
+
+
+msgid "Shiva"
+msgstr "Shiva"
+
+msgid "JungleBat"
+msgstr "Pipistrello della Giungla"
+
+msgid "Werewoolf"
+msgstr "Lupo Mannaro"
+
+msgid "WerewoolfBlack"
+msgstr "Lupo Mannaro nero"
+
+msgid "SmallWorm"
+msgstr "Verme Piccolo"
+
+msgid "MediumWorm"
+msgstr "Verme"
+
+msgid "DarkWorm"
+msgstr "Verme Oscuro"
+
+msgid "SnowWorm"
+msgstr "Verme Glaciale"
+
+msgid "BigWorm"
+msgstr "Verme Gigante"
+
+msgid "DarkBigWorm"
+msgstr "Verme Oscuro Gigante"
+
+msgid "SnowBigWorm"
+msgstr "Verme Glaciale Gigante"
+
+msgid "Snake"
+msgstr "Serpente"
+
+msgid "Visitors"
+msgstr "Visitatori"
+
+msgid "BabyBearPolar"
+msgstr "Cucciolo di Orso Polare"
+
+msgid "BearPolar"
+msgstr "Orso Polare"
+
+msgid "BabyBearGrizzly"
+msgstr "Cucciolo Grizzly"
+
+msgid "BearGrizzly"
+msgstr "Grizzly"
+
+msgid "Bear"
+msgstr "Orso"
+
+msgid "BabyBear"
+msgstr "Cucciolo d'Orso"
+
+#, fuzzy
+msgid "IceElemental"
+msgstr "Elemento Ghiacciato"
+
+msgid "Basilisk"
+msgstr "Basilisco"
+
+#, fuzzy
+msgid "DarkBoss"
+msgstr "Dark BOSS"
+
+msgid "Panther"
+msgstr "Pantera"
+
+msgid "DragonBug"
+msgstr "Kraden"
+
+msgid "SwampSnake"
+msgstr "Serpente d'acqua"
+
+msgid "Spider"
+msgstr "Ragno"
+
+msgid "GiantSpider"
+msgstr "Aragog"
+
+msgid "Ashkore"
+msgstr "Ashkore"
+
+msgid "Tiger"
+msgstr "Tigre"
+
+msgid "SkeletonMage"
+msgstr "Mago Scheletrico"
+
+msgid "SkeletonFresh"
+msgstr "Combattente Scheletrico"
+
+msgid "SkeletonDark"
+msgstr "Guerriero Scheletrico"
+
+msgid "Striker"
+msgstr "Scorpione"
+
+msgid "Megalodon"
+msgstr "Megalodonte"
+
+msgid "Enemy"
+msgstr "Nemico"
+
+msgid "Dragon"
+msgstr "Drago"
+
+msgid "Barlog"
+msgstr "Barlog"
+
+msgid "IceDragon"
+msgstr "Drago Glaciale"
+
+msgid "Hydra"
+msgstr "Idra"
+
+msgid "Tentaclon"
+msgstr "Tentaclon"
+
+msgid "DragonBat"
+msgstr "Pipistrello Dragonico"
+
+msgid "Shark"
+msgstr "Squalo"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:275
+# UnityGame/Assets/Localization/T.cs:127
+# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:58
+#, fuzzy
+msgid "Trex"
+msgstr "T.Rex"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:38
+# UnityGame/Assets/Localization/BaseTranslation.cs:277
+# UnityGame/Assets/Localization/T.cs:127
+# UnityGame/Assets/Scripts/Achievements/Options/Combat/AchieveKill.cs:26
+# UnityGame/Assets/Scripts/Achievements/Achievement.cs:79
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:24
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementManager.cs:145
+# UnityGame/Assets/Scripts/Achievements/Components/AchievementCategories.cs:74
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:672
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1492
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:928
+#, fuzzy
+msgid "TRex"
+msgstr "T.Rex"
+
+msgid "DragonLord"
+msgstr "Signore dei Draghi"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:336
+# UnityGame/Assets/Localization/T.cs:131
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+msgid "Mati"
+msgstr "Mati"
+
+
+#, fuzzy
+msgid "SwampGolem"
+msgstr "Golem Paludoso"
+
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
+msgid "DumboOctopus"
+msgstr "Polpo Ostile"
+
+# UnityGame/Assets/Localization/BaseTranslation.cs:46
+# UnityGame/Assets/Localization/BaseTranslation.cs:348
+# UnityGame/Assets/Localization/T.cs:132
+# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
+# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
+# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
+# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
+# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
+# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Dunkleosteus"
 msgstr "Dunkleosteus"
 
@@ -530,8 +623,9 @@ msgstr "Dunkleosteus"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Fangtooth"
-msgstr "dente di zanna"
+msgstr "Anoplogastridae"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -549,6 +643,7 @@ msgstr "dente di zanna"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Gulper"
 msgstr "Gulper"
 
@@ -568,8 +663,9 @@ msgstr "Gulper"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Purplefish"
-msgstr "pesce viola"
+msgstr "Pesce Viola"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -587,8 +683,9 @@ msgstr "pesce viola"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Tylosaurus"
-msgstr "tilosauro"
+msgstr "Tilosauro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -606,6 +703,7 @@ msgstr "tilosauro"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Liopleurodon"
 msgstr "Liopleurodon"
 
@@ -629,6 +727,7 @@ msgstr "Drago"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Rucal"
 msgstr "Rucal"
 
@@ -648,16 +747,13 @@ msgstr "Rucal"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Mech"
-msgstr "mech"
+msgstr "Mecatron"
 
 #, fuzzy
 msgid "Bulm"
-msgstr "Toro"
-
-#, fuzzy
-msgid "Umhi"
-msgstr "Riccio di mare"
+msgstr "Bulm"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -675,35 +771,13 @@ msgstr "Riccio di mare"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Dreamcat"
-msgstr "gatto dei sogni"
+msgstr "Dreamcat"
 
 #, fuzzy
 msgid "Screl"
-msgstr "Scoiattolo"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:132
-# UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvGameItem.cs:140
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:59
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:47
-# UnityGame/Assets/Blocksters/Scripts/Gui/DisplayCreativeItem.cs:35
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBook.cs:83
-# UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:109
-# UnityGame/Assets/NGUI/Scripts/Interaction/UIRadioEvent.cs:34
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:184
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:89
-# UnityGame/Assets/NGUI/Scripts/Interaction/UICheckbox.cs:130
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
-# UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
-msgid "Fuza"
-msgstr "Fuza"
-
-#, fuzzy
-msgid "Angel Goblin"
-msgstr "Mr.Goblin blu"
+msgstr "Screl"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -729,45 +803,3 @@ msgstr "Fenice"
 # UnityGame/Assets/Blocksters/Scripts/AI/PhoenixEggHealth.cs:91
 msgid "Phoenix Egg"
 msgstr "Uovo di Fenice"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46
-# UnityGame/Assets/Localization/BaseTranslation.cs:348
-# UnityGame/Assets/Localization/T.cs:132
-# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:79
-# UnityGame/Assets/Blocksters/Scripts/AI/PetNames.cs:36
-msgid "Eldriar_Pet"
-msgstr "Eldriar"
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46 
-# UnityGame/Assets/Localization/BaseTranslation.cs:348 
-# UnityGame/Assets/Localization/T.cs:132 
-# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118 
-msgid "PeasantMale"
-msgstr ""
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46 
-# UnityGame/Assets/Localization/BaseTranslation.cs:348 
-# UnityGame/Assets/Localization/T.cs:132 
-# UnityGame/Assets/Blocksters/Scripts/AI/Health.cs:118 
-msgid "PeasantFemale"
-msgstr ""
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46 
-# UnityGame/Assets/Localization/BaseTranslation.cs:348 
-# UnityGame/Assets/Localization/T.cs:134 
-# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
-# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
-# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
-# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
-msgid "FemalePeasant"
-msgstr ""
-
-# UnityGame/Assets/Localization/BaseTranslation.cs:46 
-# UnityGame/Assets/Localization/BaseTranslation.cs:348 
-# UnityGame/Assets/Localization/T.cs:134 
-# UnityGame/Assets/Blocksters/Scripts/Gui/NPCButton.cs:108 
-# UnityGame/Assets/Blocksters/Selector/Use.cs:94 
-# UnityGame/Assets/Blocksters/Selector/Use.cs:66 
-# UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
-msgid "MalePeasant"
-msgstr ""
