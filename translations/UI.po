@@ -13,7 +13,7 @@ msgstr ""
 msgid "Loaded Succesfully"
 msgstr "Caricamento riuscito"
 
-#, unknown
+#, fuzzy
 msgid "Sync"
 msgstr "Sync"
 
@@ -80,28 +80,28 @@ msgstr "Non puoi guidare un'auto in acqua!"
 msgid "Back"
 msgstr "Indietro"
 
-#, unknown
+#, fuzzy
 msgid "Moving Joysticks"
 msgstr "Joysticks movibili"
 
 msgid "Enable Weather"
 msgstr "Attiva il tempo atmosferico"
 
-#, weird
+#, fuzzy
 msgid "Walk Speed:"
-msgstr "Velocità del passo:"
+msgstr "Velocità del Passo:"
 
 msgid "Misc"
 msgstr "Varie"
 
 msgid "Skill Pt:"
-msgstr "Punti abilità:"
+msgstr "Punti Abilità:"
 
-#, unknown
+#, fuzzy
 msgid "Unable to purchase key"
 msgstr "Impossibile comprare la chiave"
 
-#, weird
+#, fuzzy
 msgid "Interactive Blocks"
 msgstr "Blocchi interattivi"
 
@@ -118,7 +118,7 @@ msgid "Spawn point direction"
 msgstr "Direzione del punto di rinascita"
 
 msgid "Successfully uploaded world {0}"
-msgstr "Mondo {0} caricato correttamente"
+msgstr "Mondo {0} caricato con successo"
 
 msgid "Suomalainen"
 msgstr "Finlandese"
@@ -135,7 +135,7 @@ msgstr "Non puoi salire nel veicolo con la Sella!"
 msgid "Graphics"
 msgstr "Grafica"
 
-#, weird
+#, fuzzy
 msgid "Mouse Smoothing: [FF0000]{0:0.00}"
 msgstr "velocità scorrimento del mouse: [FF0000]{0:0.00}"
 
@@ -155,9 +155,9 @@ msgid "FPS counter"
 msgstr "Contatore di FPS"
 
 msgid "View distance: [FF0000]{0:0}"
-msgstr "Distanza visuale: [FF0000]{0:0}"
+msgstr "Distanza Visuale: [FF0000]{0:0}"
 
-#, weird
+#, fuzzy
 msgid "Elevator move forward"
 msgstr "L'Ascensore si muove in alto"
 
@@ -190,7 +190,7 @@ msgid "<<Resume"
 msgstr "<<Riprendi"
 
 msgid "Not enough Fuel!"
-msgstr "Non hai abbastanza carburante!"
+msgstr "Non hai abbastanza Carburante!"
 
 msgid "Selector quality: [FF0000]{0:0}"
 msgstr "Qualità della selezione: [ff0000]{0:0}"
@@ -237,7 +237,7 @@ msgstr "Italiano"
 msgid "{0}"
 msgstr "{0}"
 
-#, to do
+#, fuzzy
 msgid ""
 "Increases the amount of time before damage is taken while underwater. If you "
 "like to swim and investigate deep oceans to find epic underwater monsters or "
@@ -254,11 +254,10 @@ msgid "Русский"
 msgstr "Russo"
 
 msgid "New World"
-msgstr "Nuovo mondo"
+msgstr "Nuovo Mondo"
 
-#, to check
 msgid "Respawn"
-msgstr "Respawn"
+msgstr "Rinascita"
 
 msgid "Load World"
 msgstr "Carica mondo"
@@ -267,7 +266,7 @@ msgid "Skills: [00FF00]{0:0}"
 msgstr "Abilità: [00FF00]{0:0}"
 
 msgid "Profile name"
-msgstr "Nome del profilo"
+msgstr "Nome del Profilo"
 
 msgid "Select friends to invite to Block Story"
 msgstr "Seleziona gli amici da invitare a Block Story"
@@ -284,7 +283,7 @@ msgstr "Vuoi ottenerne di più?"
 msgid "Use"
 msgstr "Usa"
 
-#, weird
+#, fuzzy
 msgid "Cross"
 msgstr "Attraversa"
 
@@ -319,7 +318,7 @@ msgstr ""
 "Modalità creativa :\n"
 "risorse, mana e vita infiniti."
 
-#, weird
+#, fuzzy
 msgid ""
 "Normal survival mode:\n"
 "quests, skills, crafting."
@@ -359,7 +358,7 @@ msgstr "Buono"
 msgid "Can't fly in water!"
 msgstr "Non puoi volare nell'acqua!"
 
-#, to do
+#, fuzzy
 msgid ""
 "[FF0000]Use the following keys:[-]\n"
 "Quick button access with [FFFF00]\"R1\"[-] trigger\n"
@@ -415,7 +414,7 @@ msgstr "Danno inflitto con la spada:"
 msgid "MOGA Pocket Connected"
 msgstr "MOGA Pocket connesso"
 
-#, to check
+#, fuzzy
 msgid "Start game"
 msgstr "Avvia il gioco"
 
@@ -692,7 +691,7 @@ msgstr ""
 "Tieni premuto uno stack con un dito,e premi uno slot vuoto con un altro dito "
 "per dividere lo stack."
 
-#, to check
+#, fuzzy
 msgid ""
 "Swords are close range weapons.  If you like to fight, spend some skill "
 "points to improve the damage of the sword's attack.  To use the sword, "
@@ -703,7 +702,7 @@ msgstr ""
 "Per usare la spada, selezionala nell' inventario e premi su un nemico per "
 "attaccarlo."
 
-#, to check
+#, fuzzy
 msgid ""
 "You can mix dyes in color table so then colored dye can be used on craft "
 "table to color other blocks.\n"
@@ -789,7 +788,7 @@ msgstr "Mondi"
 msgid "Weapons"
 msgstr "Armi"
 
-#, weird
+#, fuzzy
 msgid "Show тews at startup"
 msgstr "Vedi all'avvio"
 
@@ -980,7 +979,7 @@ msgstr "Controllo del Joystick"
 msgid "Preview Pictures"
 msgstr "Immagini di anteprima"
 
-#, weird
+#, fuzzy
 msgid "Current fly time: {0}"
 msgstr "Tempo di volo attuale: {0}"
 
@@ -2148,7 +2147,7 @@ msgstr "Batteria scarica"
 # UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
 #, fuzzy
 msgid "Failed to load rewarded video"
-msgstr "Impossibile caricare il video premiato"
+msgstr "Impossibile caricare il video dei premi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2156,7 +2155,7 @@ msgstr "Impossibile caricare il video premiato"
 # UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
 #, fuzzy
 msgid "Awarded [FF0000]{0:0}[-] Diamonds"
-msgstr "Assegnati [FF0000]{0:0}[-] Diamanti"
+msgstr "Guadagnati [FF0000]{0:0}[-] Diamanti"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2164,7 +2163,7 @@ msgstr "Assegnati [FF0000]{0:0}[-] Diamanti"
 # UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
 #, fuzzy
 msgid "Awarded Respawn"
-msgstr "Rigenerazione premiata"
+msgstr "Rigenerazione Guadagnata"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2175,7 +2174,7 @@ msgstr "Rigenerazione premiata"
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
 #, fuzzy
 msgid "Collector"
-msgstr "Collettore"
+msgstr "Collezionatore"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2211,7 +2210,7 @@ msgstr "Trascina un oggetto qui per distruggerlo."
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Destroy this item?"
-msgstr "Distruggi questo oggetto?"
+msgstr "Distruggere questo oggetto?"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2224,7 +2223,7 @@ msgstr "Distruggi questo oggetto?"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Destroy item {0}?"
-msgstr "Distruggi l'oggetto {0}?"
+msgstr "Distruggere l'oggetto {0}?"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2299,7 +2298,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Examples/Scripts/InventorySystem/System/InvEffectTimedDamage.cs:39
 #, fuzzy
 msgid "Losing experience..."
-msgstr "Perdere esperienza..."
+msgstr "Hai Perso Esperienza..."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2358,7 +2357,7 @@ msgstr "Non puoi evocare più di {0} creature contemporaneamente!"
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
 #, fuzzy
 msgid "Past Code"
-msgstr "Codice passato"
+msgstr "Codice Incollato"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2370,7 +2369,7 @@ msgstr "Codice passato"
 # UnityGame/Assets/NGUI/Scripts/Editor/UIWidgetInspector.cs:754
 #, fuzzy
 msgid "Get Code"
-msgstr "Ottenere il codice"
+msgstr "Ottenere il Codice"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2402,7 +2401,7 @@ msgstr "Inserisci il codice qui"
 # UnityGame/Assets/Boxit/DropboxLogin.cs:68
 #, fuzzy
 msgid "Used: {0}% ({1}/{2})"
-msgstr "Utilizzato: {0}% ({1}/{2})"
+msgstr "Utilizzo: {0}% ({1}/{2})"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2418,7 +2417,7 @@ msgstr "Ciao, {0}"
 # UnityGame/Assets/Boxit/DropboxLogin.cs:71
 #, fuzzy
 msgid "Used: {0}% ({1} Mb/{2} Mb)"
-msgstr "Utilizzato: {0}% ({1} Mb/{2} Mb)"
+msgstr "Utilizzo: {0}% ({1} Mb/{2} Mb)"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2426,7 +2425,7 @@ msgstr "Utilizzato: {0}% ({1} Mb/{2} Mb)"
 # UnityGame/Assets/Boxit/DropboxLogin.cs:71
 #, fuzzy
 msgid "Used: {0}% ({1}/{2} Mb)"
-msgstr "Utilizzato: {0}% ({1}/{2} Mb)"
+msgstr "Utilizzo: {0}% ({1}/{2} Mb)"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2453,7 +2452,7 @@ msgstr "Mostra notizie all'avvio"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Logging in"
-msgstr "Entrando"
+msgstr "Accesso"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2467,7 +2466,7 @@ msgstr "Entrando"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Downloading character {0} - {1}%"
-msgstr "Download carattere {0} - {1}%"
+msgstr "Download personaggio {0} - {1}%"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2481,7 +2480,7 @@ msgstr "Download carattere {0} - {1}%"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Uploading character {0} - {1}%"
-msgstr "Caricamento carattere {0} - {1}%"
+msgstr "Caricamento personaggio {0} - {1}%"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2489,7 +2488,7 @@ msgstr "Caricamento carattere {0} - {1}%"
 # UnityGame/Assets/Boxit/ListAvailableChars.cs:115
 #, fuzzy
 msgid "Failed to download character {0}, {1}"
-msgstr "Impossibile scaricare il carattere {0}, {1}"
+msgstr "Impossibile scaricare il personaggio {0}, {1}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2497,7 +2496,7 @@ msgstr "Impossibile scaricare il carattere {0}, {1}"
 # UnityGame/Assets/Boxit/ListMyChars.cs:79
 #, fuzzy
 msgid "Failed to upload character {0}, {1}"
-msgstr "Impossibile caricare il carattere {0}, {1}"
+msgstr "Impossibile caricare il personaggio {0}, {1}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2524,7 +2523,7 @@ msgstr "Caricamento mondo {0} - {1}%"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Compressing world {0}"
-msgstr "Comprimere il mondo {0}"
+msgstr "Compressando il mondo {0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2546,7 +2545,7 @@ msgstr "Download mondo {0} - {1}%"
 # UnityGame/Assets/Boxit/ListAvailableWorlds.cs:119
 #, fuzzy
 msgid "Decompressing world {0}"
-msgstr "Mondo in decompressione {0}"
+msgstr "Decompressione Mondo {0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2570,7 +2569,7 @@ msgstr "Impossibile caricare il mondo {0}, {1}"
 # UnityGame/Assets/Boxit/ListMyWorlds.cs:78
 #, fuzzy
 msgid "Searching for remote world {0}"
-msgstr "Alla ricerca del mondo remoto {0}"
+msgstr "Ricerca dei mondi salvati in remoto {0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2590,7 +2589,7 @@ msgstr "Incolla il codice dal buffer"
 # UnityGame/Assets/Boxit/ListMyChars.cs:60
 #, fuzzy
 msgid "Searching for remote character {0}"
-msgstr "Ricerca del carattere remoto {0}"
+msgstr "Ricerca dei personaggi salvati in remoto {0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2671,7 +2670,7 @@ msgstr "Quantità"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Amount: {0:0}"
-msgstr "Importo: {0:0}"
+msgstr "Quantità: {0:0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2693,7 +2692,7 @@ msgstr "Ruota della fortuna"
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
 #, fuzzy
 msgid "Respin"
-msgstr "Respin"
+msgstr "Rigira"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2719,9 +2718,9 @@ msgid ""
 "\n"
 "Only special record items can be placed here."
 msgstr ""
-"Slot speciale per grammofono.\n"
+"Slot speciale per Grammofono.\n"
 "\n"
-"Qui è possibile inserire solo elementi record speciali."
+"Qui è possibile inserire solo elementi speciali."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2731,6 +2730,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UILabel.cs:692
 # UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
+#, fuzzy
 msgid "Mass Build"
 msgstr ""
 
@@ -2767,7 +2767,7 @@ msgid ""
 "\n"
 "Would you like to purchase more Diamonds?"
 msgstr ""
-"Coupon già rimborsato\n"
+"Coupon già riscattato\n"
 "\n"
 "Vuoi acquistare altri Diamanti?"
 
@@ -2781,7 +2781,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082
 #, fuzzy
 msgid "Paste"
-msgstr "Codice passato"
+msgstr "Incolla"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2789,7 +2789,7 @@ msgstr "Codice passato"
 # UnityGame/Assets/Blocksters/Scripts/AI/PlayerStateSave.cs:73
 #, fuzzy
 msgid "Awarded [0000FF]{0:0}[-] Diamonds!"
-msgstr "Assegnati [FF0000]{0:0}[-] Diamanti"
+msgstr "Guadagnati [FF0000]{0:0}[-] Diamanti!"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2798,7 +2798,7 @@ msgstr "Assegnati [FF0000]{0:0}[-] Diamanti"
 # UnityGame/Assets/Blocksters/Scripts/Gui/IntPreference.cs:75
 #, fuzzy
 msgid "Target FPS: [FF0000]{0:0}"
-msgstr "Sincronizzazione verticale: [FF0000]{0:0}"
+msgstr "Limite FPS: [FF0000]{0:0}"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2808,7 +2808,7 @@ msgstr "Sincronizzazione verticale: [FF0000]{0:0}"
 # UnityGame/Assets/Blocksters/Scripts/ControlsMobile/SummonerRevive.cs:29 
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:588 
 msgid "Speed Up for [2b65a0]{0} {1}[-]?"
-msgstr ""
+msgstr "Velocizza per [2b65a0]{0} {1}[-]?"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2819,11 +2819,11 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
 msgid "Don't interrupt music when changing biomes"
-msgstr ""
+msgstr "Non interrompere la musica durante un cambio bioma"
 
 #, fuzzy
 msgid "Collapse"
-msgstr "Chiudi"
+msgstr "Riduci"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2839,7 +2839,7 @@ msgstr "Chiudi"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
 #, fuzzy
 msgid "Vertical Sync"
-msgstr "Sincronizzazione verticale (60 fps)"
+msgstr "Sincronizzazione Verticale"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2854,15 +2854,15 @@ msgstr "Sincronizzazione verticale (60 fps)"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:1254 
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:440 
 msgid "Disable Music Cutoff"
-msgstr ""
+msgstr "Disabilita Tagli Musica"
 
 #, fuzzy
 msgid "Enable Jumping Sounds"
-msgstr "Abilita il suono"
+msgstr "Abilita il Suono del Salto"
 
 #, fuzzy
 msgid "Max Peasants Count: [FF0000]{0}[-]"
-msgstr "Creature Max: [FF0000]{0}[-]"
+msgstr "Conteggio Massimo Paesanti: [FF0000]{0}[-]"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2873,7 +2873,7 @@ msgstr "Creature Max: [FF0000]{0}[-]"
 # UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
 msgid "Always Run"
-msgstr ""
+msgstr "Corri Sempre"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2884,7 +2884,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
 msgid "Run"
-msgstr ""
+msgstr "Corri"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2895,7 +2895,7 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/Internal/UIWidget.cs:719 
 # UnityGame/Assets/NGUI/Scripts/UI/UIPanel.cs:1082 
 msgid "Left Shift"
-msgstr ""
+msgstr "Shift Sinistro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2903,7 +2903,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:100 
 # UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:63 
 msgid "Are you sure you want to reset your skills?"
-msgstr ""
+msgstr "Sicuro di voler resettare le tue abilità?"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2911,7 +2911,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:99 
 # UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:62 
 msgid "Nothing to reset!"
-msgstr ""
+msgstr "Niente da resettare!"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2930,12 +2930,13 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+#, fuzzy
 msgid "Why?"
-msgstr ""
+msgstr "Perché?"
 
 #, fuzzy
 msgid "Ready"
-msgstr "ricompense:"
+msgstr "Pronto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2951,7 +2952,7 @@ msgstr "ricompense:"
 # UnityGame/Assets/Blocksters/Scripts/Gui/Inventory.cs:436
 #, fuzzy
 msgid "Fight"
-msgstr "Leggero"
+msgstr "Combatti"
 
 #, fuzzy
 msgid "Nope"
@@ -2970,7 +2971,7 @@ msgstr "No"
 # UnityGame/Assets/Scripts/Quests/Components/QuestManager.cs:678 
 # UnityGame/Assets/Scripts/Quests/Options/QuestStart.cs:42 
 msgid "Go!"
-msgstr ""
+msgstr "Via!"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -2990,21 +2991,23 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
 msgid "Thx"
-msgstr ""
+msgstr "Grazie"
 
 #, fuzzy
 msgid "Bye"
-msgstr "Acquista"
+msgstr "Ciao"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:79 
 # UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:103 
 # UnityGame/Assets/Blocksters/Scripts/AI/SkillResetTool.cs:62 
+#, fuzzy
 msgid ""
 "Oblivion does not touch the armored. It reaches only those who stand "
 "exposed. Unequip all of your armor and gear before using this item."
-msgstr ""
+msgstr "L'Oblivion non tocca l'armatura. Raggiunge soltanto chi sta esposto. "
+"Rimuovi la tua armatura e artefatti prima su usare questo oggetto."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -3017,10 +3020,12 @@ msgstr ""
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515 
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924 
+#, fuzzy
 msgid ""
 "Oblivion does not touch the armored. It reaches only those who stand "
 "exposed. Unequip all of your armor and gear."
-msgstr ""
+msgstr "L'Oblivion non tocca l'armatura. Raggiunge soltanto chi sta esposto. "
+"Rimuovi la tua armatura e artefatti."
 
 #, fuzzy
 msgid "Fade Joysticks"
