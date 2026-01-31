@@ -467,41 +467,47 @@ msgstr "Impossibile!!!!"
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "If you’ve got spare hands, we’ve got work that needs doing."
-msgstr ""
+msgstr "Se hai del tempo, abbiamo del lavoro da fare"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "The sea gives little, and takes plenty."
-msgstr ""
+msgstr "Il mare dà poco, e prende tanto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "Got any spare gear? Even broken tools help."
-msgstr ""
+msgstr "Hai utenzili che non usi? pure quelli rotti aiutano"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "We’re not just surviving. We’re trying to live."
-msgstr ""
+msgstr "Non stiamo solo sopravvivendo. Stiamo provando a vivere"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "Hope’s a fragile thing out here. Don’t let it sink."
-msgstr ""
+msgstr "Speriamo sia una cosa fragile qua fuori. Non lasciarlo sprofondare"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "We trade stories for supplies. Got any to share?"
 msgstr ""
 
@@ -509,24 +515,27 @@ msgstr ""
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "We need harpoons, not hope! These beasts don’t care about royal blood!"
-msgstr ""
+msgstr "Abbiamo bisogno di arpioni, non speranza! A questi bestioni non importa del sangue reale!"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid ""
 "The megalodon’s not a myth! I saw it breach once! Like a mountain rising "
 "from the deep!"
-msgstr ""
+msgstr "Il megalodonte non e' un mito! L'ho visto nuotare velocissimo, come un razzo!"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "What happened to the king? Some say he’s alive. Others whisper he fled."
-msgstr ""
+msgstr "Cosa succedera' al re? Qualcuno dice sia vivo. Altri dicono sia scappato"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -607,15 +616,17 @@ msgstr ""
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "I used to dream of gardens. Now I dream of clean water."
-msgstr ""
+msgstr "Sognavo giardini. Ora sogno acqua pulita"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
 # UnityGame/Assets/Localization/T.cs:84 
 # UnityGame/Assets/Blocksters/Scripts/AI/SpeakBubbleControl.cs:94 
+#, fuzzy
 msgid "Even scraps can be salvaged. We’re not picky out here."
-msgstr ""
+msgstr "Pure i rifiuti possono essere salvati"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
