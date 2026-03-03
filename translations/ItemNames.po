@@ -60,7 +60,7 @@ msgid "Brick Stairs"
 msgstr "Scale in Mattoni"
 
 msgid "Jungle Bush Green"
-msgstr "Cespuglio Verde della Giungla"
+msgstr "Cespuglio della Giungla"
 
 msgid "Dragonscale"
 msgstr "Scaglia di Drago"
