@@ -402,7 +402,7 @@ msgid "Cat Soul"
 msgstr "Anima di gatto"
 
 msgid "Book Shelf"
-msgstr "Scaffale di Libreria"
+msgstr "Scaffale"
 
 msgid "Iron Ore"
 msgstr "Ferro Grezzo"
