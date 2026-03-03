@@ -20,7 +20,7 @@ msgid "Jungle Bush Plant"
 msgstr "Cespuglio della Giungla"
 
 msgid "Goblin Pants"
-msgstr "Pantaloni Goblin"
+msgstr "Pantaloni del Goblin"
 
 msgid "Tentackle Staff"
 msgstr "Bastone Tentacolo"
@@ -30,7 +30,7 @@ msgstr "Scudo Pungente"
 
 #, fuzzy
 msgid "Animal Spawner"
-msgstr "Riproduttore di animali"
+msgstr "Generatore di animali"
 
 msgid "Old Stone Fence"
 msgstr "Recinzione in Pietra Antica"
@@ -63,7 +63,7 @@ msgid "Jungle Bush Green"
 msgstr "Cespuglio della Giungla"
 
 msgid "Dragonscale"
-msgstr "Scaglia di Drago"
+msgstr "Scaglia del Drago"
 
 msgid "Shiva"
 msgstr "Shiva"
@@ -77,7 +77,6 @@ msgstr "Stivali da Guerriero"
 msgid "Arrow"
 msgstr "Freccia"
 
-#, fuzzy
 msgid "Replicon"
 msgstr "Agente Mutageno"
 
@@ -85,7 +84,7 @@ msgid "Old Stone Stairs"
 msgstr "Scale in Pietra Antica"
 
 msgid "Gravity Boots"
-msgstr "Scarponi Per la Gravità"
+msgstr "Scarponi Gravitazionali"
 
 msgid "Ticket"
 msgstr "Biglietto"
@@ -123,9 +122,8 @@ msgstr "Legno Grezzo di Palma"
 msgid "Cryptonite"
 msgstr "Kryptonite"
 
-#, fuzzy
 msgid "Life Magic"
-msgstr "Bacchetta Rigenerante"
+msgstr "Bacchetta Curatrice"
 
 msgid "Dragon Soul"
 msgstr "Anima del Drago"
@@ -141,10 +139,10 @@ msgid "Skull"
 msgstr "Teschio"
 
 msgid "Acacia Plant"
-msgstr "Pianta di Acacia"
+msgstr "Arboscello d'Acacia"
 
 msgid "Birch Plank"
-msgstr "Tavola di Betulla"
+msgstr "Asse di Betulla"
 
 msgid "water"
 msgstr "Acqua"
@@ -162,25 +160,25 @@ msgid "Gold Ore"
 msgstr "Oro Grezzo"
 
 msgid "Baobab Plant"
-msgstr "Pianta di Baobab"
+msgstr "Piantina di Baobab"
 
 msgid "Car"
 msgstr "Automobile"
 
 msgid "Apple Tree Plant"
-msgstr "Pianta di Melo"
+msgstr "Arboscello di Melo"
 
 msgid "Food"
-msgstr "cibo"
+msgstr "Cibo"
 
 msgid "Gun"
 msgstr "Pistola"
 
 msgid "Dragon Armor"
-msgstr "Armatura Da Drago"
+msgstr "Armatura del Drago"
 
 msgid "Birch Bark"
-msgstr "Legno di Betulla"
+msgstr "Legno grezzo di Betulla"
 
 msgid "Ring"
 msgstr "Anello"
@@ -195,7 +193,7 @@ msgid "Baobab Leaves"
 msgstr "Foglie di Baobab"
 
 msgid "Crystal Block Red"
-msgstr "Rubino"
+msgstr "Blocco di Rubino"
 
 msgid "Glass"
 msgstr "Vetro"
@@ -210,13 +208,13 @@ msgid "Bucket"
 msgstr "Secchio"
 
 msgid "Dye"
-msgstr "Tinta"
+msgstr "Colorante"
 
 msgid "Magic Orb"
 msgstr "Sfera magica"
 
 msgid "Dragon Shield"
-msgstr "Scudo da Drago"
+msgstr "Scudo del Drago"
 
 msgid "Fire Arrow"
 msgstr "Freccia Infuocata"
@@ -225,19 +223,19 @@ msgid "Gold Bar"
 msgstr "Lingotto d'Oro"
 
 msgid "Birch Stairs"
-msgstr "Scale in Legno di Betulla"
+msgstr "Scale di Betulla"
 
 msgid "Watermelon"
 msgstr "Anguria"
 
 msgid "Pine Plant"
-msgstr "Pino"
+msgstr "Arboscello di Pino"
 
 msgid "Bow"
 msgstr "Arco"
 
 msgid "Unobtainium Bar"
-msgstr "Lingotto di unobtanio"
+msgstr "Lingotto di Unobtainium"
 
 msgid "Brick Fence"
 msgstr "Recinzione in Mattoni"
@@ -255,7 +253,7 @@ msgid "Iron Hammer"
 msgstr "Martello di Ferro"
 
 msgid "Crystal Block Blue"
-msgstr "Zaffiro"
+msgstr "Blocco di Zaffiro"
 
 msgid "Window"
 msgstr "Finestra"
@@ -270,7 +268,7 @@ msgid "Spider Fang"
 msgstr "Zanna di ragno"
 
 msgid "Wheat Crop"
-msgstr "Grano Raccolto"
+msgstr "Mazzo di Grano"
 
 msgid "Iron Shovel"
 msgstr "Pala di Ferro"
@@ -303,25 +301,25 @@ msgid "Hunting Knife"
 msgstr "Coltello da Caccia"
 
 msgid "Palm Stairs"
-msgstr "Scale in legno di Palma"
+msgstr "Scale di Palma"
 
 msgid "Trident"
 msgstr "Tridente"
 
 msgid "Dig"
-msgstr "Piccone di pietra"
+msgstr "Piccone di Pietra"
 
 msgid "Pumpkin Head"
-msgstr "Testa di zucca"
+msgstr "Zucca Intagliata"
 
 msgid "Unobtainium"
-msgstr "Unobtainio"
+msgstr "Unobtainium"
 
 msgid "Sulphure Ore"
-msgstr "Zolfo Grezzo"
+msgstr "Zolfo"
 
 msgid "Shirt"
-msgstr "Camicia"
+msgstr "Maglia"
 
 msgid "Sand Clock"
 msgstr "Clessidra"
@@ -336,13 +334,13 @@ msgid "Iron Axe"
 msgstr "Ascia di Ferro"
 
 msgid "Dragon Pants"
-msgstr "Pantaloni da Drago"
+msgstr "Pantaloni del Drago"
 
 msgid "Blue Flower"
-msgstr "Fiore blu"
+msgstr "Fiore Blu"
 
 msgid "Soul Catcher"
-msgstr "Cacciatore di Anime"
+msgstr "Catalizzatore di Anime"
 
 msgid "Cactus"
 msgstr "Cactus"
@@ -350,6 +348,7 @@ msgstr "Cactus"
 msgid "Graviton"
 msgstr "Gravitone"
 
+#, fuzzy
 msgid "Air Ring"
 msgstr "Anello d'aria"
 
@@ -369,37 +368,37 @@ msgid "TNT"
 msgstr "TNT"
 
 msgid "Great Sword"
-msgstr "Grande Spada"
+msgstr "Spadone"
 
 msgid "Shark Fin Soup"
-msgstr "Zuppa di pinne di Squalo"
+msgstr "Zuppa di Pinne di Squalo"
 
 msgid "Red Flower"
-msgstr "Fiori rossi"
+msgstr "Fiori Rossi"
 
 msgid "Jungle Tree Plant"
-msgstr "Albero della giungla"
+msgstr "Arboscello della Giungla"
 
 msgid "Epic Sword"
 msgstr "Spada Epica"
 
 msgid "Torch"
-msgstr "Torcia"
+msgstr "Fiaccola"
 
 msgid "Generator"
-msgstr "Generatore"
+msgstr "Generatore Elettrico"
 
 msgid "Drill"
 msgstr "Distruttore"
 
 msgid "Snow Leaves"
-msgstr "Foglie di neve"
+msgstr "Foglie Innevate"
 
 msgid "Apple"
 msgstr "Mela"
 
 msgid "Cat Soul"
-msgstr "Anima di gatto"
+msgstr "Anima di Gatto"
 
 msgid "Book Shelf"
 msgstr "Scaffale"
@@ -411,55 +410,55 @@ msgid "Grass 3D"
 msgstr "Erba 3D"
 
 msgid "Palm Plant"
-msgstr "Palma"
+msgstr "Piantina di Palma"
 
 msgid "CarBody"
 msgstr "Carrozzeria dell'auto"
 
 msgid "Dragon Boots"
-msgstr "Stivali da Drago"
+msgstr "Stivali del Drago"
 
 msgid "Iron Block"
-msgstr "Blocco di ferro"
+msgstr "Blocco di Ferro"
 
 msgid "Electric Pipe"
-msgstr "Tubo"
+msgstr "Tubo Elettrico"
 
 msgid "Grass"
 msgstr "Erba"
 
 msgid "Poisoned Arrow"
-msgstr "Freccia avvelenata"
+msgstr "Freccia Avvelenata"
 
 msgid "Blue Dye"
-msgstr "Colorante blu"
+msgstr "Colorante Blu"
 
 msgid "Ashkore"
 msgstr "Ashkore"
 
 msgid "Yellow Dye"
-msgstr "Colorante giallo"
+msgstr "Colorante Giallo"
 
 msgid "Swamp"
 msgstr "Palude"
 
 msgid "Hand Torch"
-msgstr "Torcia"
+msgstr "Fiaccola"
 
 msgid "BoarSkin"
-msgstr "Pelle di cinghiale"
+msgstr "Pelle di Cinghiale"
 
 msgid "Stone Stairs"
 msgstr "Scale in Pietra"
 
 msgid "Springs"
-msgstr "Molle"
+msgstr "Trampoli"
 
 msgid "Dragon Heart"
-msgstr "Cuore di drago"
+msgstr "Cuore del Drago"
 
 msgid "Magic Arrow"
-msgstr "Freccia magica"
+msgstr "Freccia Magica"
 
 msgid "Coal"
 msgstr "Carbone"
@@ -498,7 +497,7 @@ msgid "Epic Shield"
 msgstr "Scudo Epico"
 
 msgid "Jungle Grass"
-msgstr "Erba della giungla"
+msgstr "Erba della Giungla"
 
 msgid "Ice"
 msgstr "Ghiaccio"
@@ -506,14 +505,15 @@ msgstr "Ghiaccio"
 msgid "Hydra"
 msgstr "Idra"
 
+#, fuzzy
 msgid "Crystal Block Black"
-msgstr "Blocco di cristallo nero"
+msgstr "Blocco di Carbone Cristallizzato"
 
 msgid "Swamp Stone"
 msgstr "Pietra Paludosa"
 
 msgid "Rose Bush"
-msgstr "Cespuglio di Rose"
+msgstr "Roseto"
 
 msgid "Sand Stone"
 msgstr "Arenaria"
@@ -527,8 +527,9 @@ msgstr "Terra"
 msgid "Spider Venom"
 msgstr "Veleno"
 
+#, fuzzy
 msgid "Dark Staff"
-msgstr "Bastone oscuro"
+msgstr "Bastone Oscuro"
 
 msgid "Forgotten Stone"
 msgstr "Pietra Dimenticata"
@@ -537,34 +538,34 @@ msgid "Forgotten Stone Antique"
 msgstr "Antica Pietra Dimenticata"
 
 msgid "Shovel"
-msgstr "Vanga"
+msgstr "Pala"
 
 msgid "Crystal Block Green"
-msgstr "Smeraldo"
+msgstr "Blocco di Smeraldo"
 
 msgid "Birch Leaves"
-msgstr "Foglie di betulla"
+msgstr "Foglie di Betulla"
 
 msgid "Wax"
 msgstr "Cera"
 
 msgid "Iron Dig"
-msgstr "Piccone di ferro"
+msgstr "Piccone di Ferro"
 
 msgid "Brush"
 msgstr "Pennello"
 
 msgid "Birch Fence"
-msgstr "Recinzione in legno di Betulla"
+msgstr "Recinzione in Betulla"
 
 msgid "Coco Bean"
-msgstr "Cocco"
+msgstr "Noce di Cocco"
 
 msgid "GiantSpider"
 msgstr "Aragog"
 
 msgid "Furnace"
-msgstr "Caldaia"
+msgstr "Fornace"
 
 msgid "Paraffin"
 msgstr "Alveare"
@@ -579,7 +580,7 @@ msgid "Boots"
 msgstr "Stivali"
 
 msgid "Spirit Necklace"
-msgstr "Collana degli spiriti"
+msgstr "Collana degli Spiriti"
 
 msgid "Forgotten Bushes"
 msgstr "Cespugli Dimenticati"
@@ -588,25 +589,26 @@ msgid "Bullet"
 msgstr "Proiettile"
 
 msgid "Magic"
-msgstr "Magia nera"
+msgstr "Magia Nera"
 
 msgid "Safebox"
-msgstr "Cassaforte"
+msgstr "Cassa"
 
 msgid "Green Fluorite"
-msgstr "Smeraldo Grezzo"
+msgstr "Smeraldo"
 
 msgid "Saddle"
 msgstr "Sella"
 
 msgid "Red Dye"
-msgstr "Colorante rosso"
+msgstr "Colorante Rosso"
 
 msgid "Warrior Armor"
-msgstr "Armatura da guerriero"
+msgstr "Armatura da Guerriero"
 
+#, fuzzy
 msgid "Nature Staff"
-msgstr "Bastone della natura"
+msgstr "Bastone della Natura"
 
 msgid "Pan Tool"
 msgstr "Setaccio"
@@ -615,28 +617,29 @@ msgid "Stone Fence"
 msgstr "Recinzione in Pietra"
 
 msgid "Palm Leaves"
-msgstr "Foglie di palma"
+msgstr "Foglie di Palma"
 
 msgid "Skeletone Helmet"
-msgstr "Elmo di scheletro"
+msgstr "Elmo dello Scheletro"
 
 msgid "JetPack"
-msgstr "Zaino-jet"
+msgstr "JetPack"
 
+#, fuzzy
 msgid "Spikes Magic"
-msgstr "Chiodo magico"
+msgstr "Aculeo Magico"
 
 msgid "Bone"
 msgstr "Osso"
 
 msgid "Spruce Plant"
-msgstr "Abete Rosso"
+msgstr "Arboscello d'Abete"
 
 msgid "Oak Tree Plant"
-msgstr "Quercia"
+msgstr "Arboscello di Quercia"
 
 msgid "Clear Plank"
-msgstr "Tavola pulita"
+msgstr "Parquet"
 
 msgid "Wheel"
 msgstr "Ruota"
@@ -648,97 +651,101 @@ msgid "Replicator"
 msgstr "Replicatore"
 
 msgid "Coal Ore"
-msgstr "Carbone Grezzo"
+msgstr "Carbone"
 
 msgid "Palm Fence"
-msgstr "Recinzione in legno di Palma"
+msgstr "Recinzione in Palma"
 
 msgid "Goblin Armor"
-msgstr "Armatura Goblin"
+msgstr "Armatura del Goblin"
 
 msgid "Fire Staff"
-msgstr "Bastone del fuoco"
+msgstr "Bastone del Fuoco"
 
 msgid "Iron Bar"
-msgstr "Sbarra di ferro"
+msgstr "Lingotto di ferro"
 
 msgid "Sea Grass"
 msgstr "Alghe"
 
 msgid "Antique Window"
-msgstr "Finestra antica"
+msgstr "Finestra Antica"
 
 msgid "TrapDoor"
 msgstr "Botola"
 
+#, fuzzy
 msgid "Devil Rock"
 msgstr "Roccia dell'Inferno"
 
 msgid "Birch Plant"
-msgstr "Pianta di Betulla"
+msgstr "Arboscello di Betulla"
 
+#, fuzzy
 msgid "Raven Wing"
-msgstr "Ala di corvo"
+msgstr "Piuma di Corvo"
 
 msgid "Coloring Block"
-msgstr "Blocco da colorare"
+msgstr "Blocco da Colorare"
 
 msgid "Metal Fence Gate"
-msgstr "Cancello di Ferro"
+msgstr "Cancello in Ferro"
 
 msgid "Stair"
 msgstr "Scala"
 
 msgid "Mistic Ring"
-msgstr "Anello mistico"
+msgstr "Anello Mistico"
 
 msgid "Duck Spawner"
-msgstr "Fecondatrice di anatre"
+msgstr "Generatore di Anatre"
 
 msgid "Dragon Helmet"
-msgstr "Elmo di Drago"
+msgstr "Elmo del Drago"
 
 msgid "Teleport"
-msgstr "Teletrasportatore"
+msgstr "Teletrasporto"
 
 msgid "Bark"
-msgstr "Legno"
+msgstr "Legno Grezzo"
 
 msgid "Sand"
 msgstr "Sabbia"
 
 msgid "Short Sword"
-msgstr "Spada corta"
+msgstr "Pugnale"
 
 msgid "Crystal Sword"
 msgstr "Spada di Cristallo"
 
+#, fuzzy
 msgid "Bones Shield"
-msgstr "Scudo d'osso"
+msgstr "Scudo d'Osso"
 
 msgid "Dog Soul"
-msgstr "Anima di cane"
+msgstr "Anima del Cane"
 
 msgid "GunPowder"
-msgstr "Polvere da sparo"
+msgstr "Polvere da Sparo"
 
 msgid "SheepSkin"
-msgstr "Pelle di pecora"
+msgstr "Pelle di Pecora"
 
 msgid "Dragon Ring"
-msgstr "Anello del drago"
+msgstr "Anello del Drago"
 
 msgid "Clear Stone"
-msgstr "Pietra pulita"
+msgstr "Pietra Chiara"
 
 msgid "Chair"
 msgstr "Sedia"
 
+#, fuzzy
 msgid "Red Leaves"
 msgstr "Melma"
 
 msgid "Red Crystals"
-msgstr "Rubino Grezzo"
+msgstr "Blocco di Rubino"
 
 msgid "Lava"
 msgstr "Lava"
@@ -747,37 +754,39 @@ msgid "Forgotten Leaves"
 msgstr "Foglie Dimenticate"
 
 msgid "HorseSkin"
-msgstr "Pelle di cavallo"
+msgstr "Pelle di Cavallo"
 
 msgid "Poplar Plant"
-msgstr "Pioppo"
+msgstr "Arboscello di Pioppo"
 
+#, fuzzy
 msgid "Flippers"
-msgstr "Pinne"
+msgstr "Pinne da Sub"
 
 msgid "Warrior Pants"
-msgstr "Pantaloni da guerriero"
+msgstr "Pantaloni da Guerriero"
 
+#, fuzzy
 msgid "Long Sword"
-msgstr "Spada lunga"
+msgstr "Spada Lunga"
 
 msgid "Sword"
-msgstr "Spada"
+msgstr "Spada in Pietra"
 
 msgid "Engine"
 msgstr "Motore"
 
 msgid "Shark Fin"
-msgstr "Pinna di squalo"
+msgstr "Pinna di Squalo"
 
 msgid "Yellow Flower"
 msgstr "Fiore Giallo"
 
 msgid "Mana Potion"
-msgstr "Pozione del mana"
+msgstr "Pozione del Mana"
 
 msgid "Explosive Arrow"
-msgstr "Freccia esplosiva"
+msgstr "Freccia Esplosiva"
 
 msgid "Diamond"
 msgstr "Diamanti"
@@ -786,49 +795,52 @@ msgid "Plank"
 msgstr "Asse"
 
 msgid "Goblin Helmet"
-msgstr "Elmo Goblin"
+msgstr "Elmo del Goblin"
 
 msgid "Pine Leaves"
-msgstr "Aghi di pino"
+msgstr "Aghi di Pino"
 
+#, fuzzy
 msgid "Fire Magic"
-msgstr "Fuoco Magico"
+msgstr "Bastone Infuocato"
 
 msgid "Rose Flower"
 msgstr "Rosa"
 
 msgid "Blue Crystals"
-msgstr "minerale di Zaffiro"
+msgstr "Blocco di Zaffiro"
 
 msgid "Craft Table"
-msgstr "Crea Tavolo"
+msgstr "Tavolo da Lavoro"
 
+#, fuzzy
 msgid "Spikes Staff"
-msgstr "Bastone a punta"
+msgstr "Bastone a Punta"
 
 msgid "Ladder"
-msgstr "scala"
+msgstr "Scala"
 
 msgid "Klorium"
-msgstr "Clorium"
+msgstr "Cloro"
 
 msgid "Jungle Bush Leaves"
-msgstr "Cespuglio di Foglie di Giungla"
+msgstr "Cespuglio della Giungla"
 
 msgid "Jungle Leaves"
 msgstr "Foglie di Giungla"
 
 msgid "Rose Flowers"
-msgstr "Fiori di Rose"
+msgstr "Rose"
 
 msgid "Jungle Flower"
-msgstr "Fiore di giungla"
+msgstr "Fiore della Giungla"
 
 msgid "Vehicles"
 msgstr "Veicoli"
 
+#, fuzzy
 msgid "Neck"
-msgstr "Collo"
+msgstr "Collana"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
@@ -846,7 +858,7 @@ msgid "Skill Reset"
 msgstr "Ripristino Abilità"
 
 msgid "Marble Block"
-msgstr "Blocco di marmo"
+msgstr "Marmo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
@@ -869,10 +881,10 @@ msgstr "Incudine"
 # UnityGame/Assets/Scripts/Achievements/Achievement.cs:131
 # UnityGame/Assets/Scripts/Achievements/Components/AchievementDisplay.cs:32
 msgid "DarkBoss"
-msgstr "Dark Boss"
+msgstr "Dark BOSS"
 
 msgid "DragonLord"
-msgstr "Signore Drago"
+msgstr "Signore dei Draghi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -885,7 +897,7 @@ msgstr "Signore Drago"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Mech Pet"
-msgstr "Mech Pet"
+msgstr "Mech"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -924,7 +936,7 @@ msgstr "Computer"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Mech Leg Left"
-msgstr "Mech gamba sinistra"
+msgstr "Gamba Sinistra del Mech"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -937,7 +949,7 @@ msgstr "Mech gamba sinistra"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Mech Leg Right"
-msgstr "Mech gamba destra"
+msgstr "Gamba Destra del Mech"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -963,7 +975,7 @@ msgstr "Lanciarazzi"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Ventilation Left"
-msgstr "Ventilazione sinistra"
+msgstr "Ventilazione Sinistra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -976,7 +988,7 @@ msgstr "Ventilazione sinistra"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1424
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
 msgid "Ventilation Right"
-msgstr "Ventilazione a destra"
+msgstr "Ventilazione Destra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:297
@@ -1004,6 +1016,7 @@ msgstr "Razzi"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:668
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1489
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:925
+#, fuzzy
 msgid "Storage Row"
 msgstr "Riga di archiviazione"
 
@@ -1018,7 +1031,7 @@ msgstr "Riga di archiviazione"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Desert Bush"
-msgstr "Cespuglio del deserto"
+msgstr "Cespuglio del Deserto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1031,7 +1044,7 @@ msgstr "Cespuglio del deserto"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mystical Block"
-msgstr "Blocco mistico"
+msgstr "Blocco Mistico"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1043,8 +1056,9 @@ msgstr "Blocco mistico"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Devil Bush"
-msgstr "Cespuglio del diavolo"
+msgstr "Lingue di Diavolo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1052,7 +1066,7 @@ msgstr "Cespuglio del diavolo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Ice Bricks"
-msgstr "Mattoni di ghiaccio"
+msgstr "Mattoni di Ghiaccio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1073,7 +1087,7 @@ msgstr "Tappeto"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Devil Bricks"
-msgstr "Mattoni del diavolo"
+msgstr "Mattoni del Diavolo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1081,7 +1095,7 @@ msgstr "Mattoni del diavolo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:76
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Skulls Block"
-msgstr "Blocco di teschi"
+msgstr "Blocco di Teschi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1107,7 +1121,7 @@ msgstr "Granito"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Battle Axe"
-msgstr "Ascia da battaglia"
+msgstr "Ascia da Battaglia"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1120,7 +1134,7 @@ msgstr "Ascia da battaglia"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fire Axe"
-msgstr "Ascia di fuoco"
+msgstr "Ascia Infuocata"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1133,7 +1147,7 @@ msgstr "Ascia di fuoco"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Ice Axe"
-msgstr "Ascia di ghiaccio"
+msgstr "Ascia Glaciale"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1146,7 +1160,7 @@ msgstr "Ascia di ghiaccio"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Dark Axe"
-msgstr "Ascia oscura"
+msgstr "Ascia Oscura"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1159,7 +1173,7 @@ msgstr "Ascia oscura"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Snowman"
-msgstr "Pupazzo di neve"
+msgstr "Pupazzo di Neve"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:44
 # UnityGame/Assets/Localization/BaseTranslation.cs:346
@@ -1185,7 +1199,7 @@ msgstr "Albero di Natale"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Teleporter"
-msgstr "Teletrasportatore"
+msgstr "Teletrasporto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1198,7 +1212,7 @@ msgstr "Teletrasportatore"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Baby Ashkore Soul"
-msgstr "Baby Ashkore Soul"
+msgstr "Anima di Ashkore"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1224,7 +1238,7 @@ msgstr "Rotaie"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Minecart"
-msgstr "Carrello della miniera"
+msgstr "Carrello"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1245,7 +1259,7 @@ msgstr "Cartello"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1446
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fireworks"
-msgstr "Fuochi d'artificio"
+msgstr "Fuochi d'Artificio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1270,8 +1284,9 @@ msgstr "Anima di Mati"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Rainbow Basilisk Soul"
-msgstr "Anima del Basilisco Arcobaleno"
+msgstr "Anima del Basilisco"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1284,7 +1299,7 @@ msgstr "Anima del Basilisco Arcobaleno"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Viking Boat"
-msgstr "Barca vichinga"
+msgstr "Barca Vichinga"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1310,7 +1325,7 @@ msgstr "Esca"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fish Rod"
-msgstr "canna da pesca"
+msgstr "Canna da Pesca"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1323,7 +1338,7 @@ msgstr "canna da pesca"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fried Meat"
-msgstr "Carne Fritta"
+msgstr "Carne Arrosto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1331,7 +1346,7 @@ msgstr "Carne Fritta"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried ClownFish"
-msgstr "Pesce pagliaccio fritto"
+msgstr "Pesce Pagliaccio Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1346,8 +1361,9 @@ msgstr "Pesce Leone Fritto"
 # UnityGame/Assets/Localization/T.cs:96
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+#, fuzzy
 msgid "Fried GruntFish"
-msgstr "Grunt Fritto Di Pesce"
+msgstr "Pesce Grunt Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1363,7 +1379,7 @@ msgstr "Pesce Balestra Fritto"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Squid"
-msgstr "Calamaro fritto"
+msgstr "Calamaro Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1371,7 +1387,7 @@ msgstr "Calamaro fritto"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Stingray"
-msgstr "Pastinaca Fritta"
+msgstr "Manta Fritta"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1379,7 +1395,7 @@ msgstr "Pastinaca Fritta"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Urchin"
-msgstr "Ricci Di Mare Fritti"
+msgstr "Riccio Marino Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1387,7 +1403,7 @@ msgstr "Ricci Di Mare Fritti"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried StarFish"
-msgstr "Pesce Stellato Fritto"
+msgstr "Stella Marina Fritta"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1407,7 +1423,7 @@ msgstr "Squalo Fritto"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "ClownFish"
-msgstr "Pesce pagliaccio"
+msgstr "Pesce Pagliaccio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1430,8 +1446,9 @@ msgstr "Pesce leone"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "GruntFish"
-msgstr "pesce grugnito"
+msgstr "Pesce Grunt"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1443,7 +1460,7 @@ msgstr "pesce grugnito"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "TriggerFish"
-msgstr "pesce balestra"
+msgstr "Pesce Balestra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1467,7 +1484,7 @@ msgstr "Calamaro"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Stingray"
-msgstr "Raggio"
+msgstr "Manta"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1479,7 +1496,7 @@ msgstr "Raggio"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Urchin"
-msgstr "Riccio di mare"
+msgstr "Riccio Marino"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1491,7 +1508,7 @@ msgstr "Riccio di mare"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "StarFish"
-msgstr "Pesce stella"
+msgstr "Stella Marina"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1511,7 +1528,7 @@ msgstr "Squalo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wall Torch"
-msgstr "Torcia da muro"
+msgstr "Fiaccola da Parete"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1523,6 +1540,7 @@ msgstr "Torcia da muro"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Mashine Gun"
 msgstr "Mitragliatrice"
 
@@ -1545,7 +1563,7 @@ msgstr "Ambra"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wood Half"
-msgstr "Metà legno"
+msgstr "Lastra in Legno"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1553,7 +1571,7 @@ msgstr "Metà legno"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wood Vertical"
-msgstr "Legno verticale"
+msgstr "Lastra Verticale in Legno"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1561,7 +1579,7 @@ msgstr "Legno verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Wood Triangle"
-msgstr "Triangolo di legno"
+msgstr "Triangolo in Legno"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1569,7 +1587,7 @@ msgstr "Triangolo di legno"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Half"
-msgstr "Metà betulla"
+msgstr "Lastra in Betulla"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1577,7 +1595,7 @@ msgstr "Metà betulla"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Vertical"
-msgstr "Betulla verticale"
+msgstr "Lastra Verticale in Betulla"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1585,7 +1603,7 @@ msgstr "Betulla verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Triangle"
-msgstr "Triangolo di betulla"
+msgstr "Triangolo in Betulla"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1593,7 +1611,7 @@ msgstr "Triangolo di betulla"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Half"
-msgstr "Palma a metà"
+msgstr "Lastra in Palma"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1601,7 +1619,7 @@ msgstr "Palma a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Vertical"
-msgstr "Palma verticale"
+msgstr "Lastra Verticale in Palma"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1609,7 +1627,7 @@ msgstr "Palma verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Triangle"
-msgstr "Triangolo di palma"
+msgstr "Triangolo in Palma"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1617,7 +1635,7 @@ msgstr "Triangolo di palma"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Half"
-msgstr "Legno a metà"
+msgstr "Lastra di Parquet"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1625,7 +1643,7 @@ msgstr "Legno a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Vertical"
-msgstr "Legno verticale"
+msgstr "Lastra Verticale di Parquet"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1633,7 +1651,7 @@ msgstr "Legno verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Triangle"
-msgstr "Triangolo di legno"
+msgstr "Triangolo in Parquet"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1641,7 +1659,7 @@ msgstr "Triangolo di legno"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Stairs"
-msgstr "Scale di legno"
+msgstr "Scale in Parquet"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1649,7 +1667,7 @@ msgstr "Scale di legno"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Stone Half"
-msgstr "Pietra a metà"
+msgstr "Lastra in Pietra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1657,7 +1675,7 @@ msgstr "Pietra a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Stone Vertical"
-msgstr "Pietra Verticale"
+msgstr "Lastra Verticale in Pietra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1665,7 +1683,7 @@ msgstr "Pietra Verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Stone Triangle"
-msgstr "Triangolo di pietra"
+msgstr "Triangolo in Pietra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1673,7 +1691,7 @@ msgstr "Triangolo di pietra"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Old Stone Half"
-msgstr "Vecchia pietra a metà"
+msgstr "Vecchia Lastra in Pietra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1681,7 +1699,7 @@ msgstr "Vecchia pietra a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Old Stone Vertical"
-msgstr "Vecchia pietra verticale"
+msgstr "Vecchia Lastra Verticale in Pietra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1689,7 +1707,7 @@ msgstr "Vecchia pietra verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Old Stone Triangle"
-msgstr "Vecchio triangolo di pietra"
+msgstr "Vecchio Triangolo in Pietra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1697,7 +1715,7 @@ msgstr "Vecchio triangolo di pietra"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Bricks Half"
-msgstr "Bricks Half"
+msgstr "Lastra in Mattoni"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1705,7 +1723,7 @@ msgstr "Bricks Half"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Bricks Vertical"
-msgstr "Bricks Vertical"
+msgstr "Lastra Verticale in Mattoni"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1713,7 +1731,7 @@ msgstr "Bricks Vertical"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Bricks Triangle"
-msgstr "Triangolo di mattoni"
+msgstr "Triangolo in mattoni"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1721,7 +1739,7 @@ msgstr "Triangolo di mattoni"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Carpet Half"
-msgstr "Tappeto a metà"
+msgstr "Lastra in Tappeto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1729,7 +1747,7 @@ msgstr "Tappeto a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Carpet Vertical"
-msgstr "Tappeto verticale"
+msgstr "Lastra Verticale in Tappeto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1737,7 +1755,7 @@ msgstr "Tappeto verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Tile"
-msgstr "Piastrelle di metallo"
+msgstr "Piastrella Metallica"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1745,7 +1763,7 @@ msgstr "Piastrelle di metallo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Half"
-msgstr "Marmo a metà"
+msgstr "Lastra in Marmo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1753,7 +1771,7 @@ msgstr "Marmo a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Vertical"
-msgstr "Marmo verticale"
+msgstr "Lastra Verticale in Marmo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1761,7 +1779,7 @@ msgstr "Marmo verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Triangle"
-msgstr "Triangolo di marmo"
+msgstr "Triangolo in Marmo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1769,7 +1787,7 @@ msgstr "Triangolo di marmo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Stairs"
-msgstr "Scale di marmo"
+msgstr "Scale in Marmo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1777,7 +1795,7 @@ msgstr "Scale di marmo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Pillar Bottom"
-msgstr "Pilastro inferiore"
+msgstr "Base del Pilastro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1793,7 +1811,7 @@ msgstr "Pilastro"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Pillar Top"
-msgstr "Pilastro in alto"
+msgstr "Capitello"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1801,7 +1819,7 @@ msgstr "Pilastro in alto"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Miracle Stone"
-msgstr "Pietra del miracolo"
+msgstr "Pietra Miracolosa"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1809,7 +1827,7 @@ msgstr "Pietra del miracolo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Iron Half"
-msgstr "Ferro a metà"
+msgstr "Lastra in Ferro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1817,7 +1835,7 @@ msgstr "Ferro a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Iron Vertical"
-msgstr "Ferro verticale"
+msgstr "Lastra Verticale in Ferro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1825,7 +1843,7 @@ msgstr "Ferro verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Iron Triangle"
-msgstr "Ferro triangolare"
+msgstr "Triangolo in Ferro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1833,7 +1851,7 @@ msgstr "Ferro triangolare"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Half"
-msgstr "Oro a metà"
+msgstr "Lastra in Oro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1841,7 +1859,7 @@ msgstr "Oro a metà"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Vertical"
-msgstr "Oro verticale"
+msgstr "Lastra Verticale in Oro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1849,7 +1867,7 @@ msgstr "Oro verticale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Triangle"
-msgstr "Oro triangolare"
+msgstr "Triangolo in Oro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1857,23 +1875,25 @@ msgstr "Oro triangolare"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Ladder"
-msgstr "Scala di metallo"
+msgstr "Scala in Ferro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:97
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+#, fuzzy
 msgid "Simple Wood Door"
-msgstr "Porta di legno semplice"
+msgstr "Porta Semplice in Legno"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:97
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+#, fuzzy
 msgid "Metal Lattice Door"
-msgstr "Porta a grata metallica"
+msgstr "Porta in Sbarre di Ferro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1881,7 +1901,7 @@ msgstr "Porta a grata metallica"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Door"
-msgstr "Porta di metallo"
+msgstr "Porta in Ferro Rinforzato"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1889,15 +1909,16 @@ msgstr "Porta di metallo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Trap Door"
-msgstr "Porta trappola di metallo"
+msgstr "Botola in Ferro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:97
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+#, fuzzy
 msgid "Clear Planks Fence"
-msgstr "Cancello di assi chiare"
+msgstr "Staccionata in Parquet"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1905,7 +1926,7 @@ msgstr "Cancello di assi chiare"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Metal Fence"
-msgstr "Cancello di metallo"
+msgstr "Staccionata in Ferro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1913,7 +1934,7 @@ msgstr "Cancello di metallo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Marble Fence"
-msgstr "Cancello di marmo"
+msgstr "Staccionata in Marmo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1921,7 +1942,7 @@ msgstr "Cancello di marmo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Gold Fence"
-msgstr "Cancello d'oro"
+msgstr "Staccionata in Oro"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1929,7 +1950,7 @@ msgstr "Cancello d'oro"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Birch Fence Gate"
-msgstr "Porta del cancello di betulla"
+msgstr "Cancello in Betulla"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1937,7 +1958,7 @@ msgstr "Porta del cancello di betulla"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Palm Fence Gate"
-msgstr "Porta del cancello di palme"
+msgstr "Cancello in Palma"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1945,7 +1966,7 @@ msgstr "Porta del cancello di palme"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Clear Planks Fence Gate"
-msgstr "Porta del cancello di assi chiare"
+msgstr "Cancello in Parquet"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1961,7 +1982,7 @@ msgstr "Catena"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Sponge"
-msgstr "Sponda"
+msgstr "Spugna"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1969,15 +1990,16 @@ msgstr "Sponda"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Alien Fish Rod"
-msgstr "Canna da pesca aliena"
+msgstr "Canna da Pesca Aliena"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:97
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+#, fuzzy
 msgid "Sunshard Paula"
-msgstr "Frammento solare"
+msgstr "Staffa Solare"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1985,7 +2007,7 @@ msgstr "Frammento solare"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Sunshard Wizard"
-msgstr "Frammento solare"
+msgstr "Staffa Solare"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -1993,7 +2015,7 @@ msgstr "Frammento solare"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Goblin Rocket Launcher"
-msgstr "Lanciarazzi Goblin"
+msgstr "Lanciarazzi del Goblin"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2001,7 +2023,7 @@ msgstr "Lanciarazzi Goblin"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Phoenix Swords"
-msgstr "Spade della fenice"
+msgstr "Spade della Fenice"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2009,7 +2031,7 @@ msgstr "Spade della fenice"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "World Breaker"
-msgstr "Rompimondo"
+msgstr "Distruttore di Mondi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2017,7 +2039,7 @@ msgstr "Rompimondo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Amber Helmet"
-msgstr "Elmo di ambra"
+msgstr "Elmo in Ambra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2025,7 +2047,7 @@ msgstr "Elmo di ambra"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Amber Armor"
-msgstr "Armatura di ambra"
+msgstr "Corazza in Ambra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2033,7 +2055,7 @@ msgstr "Armatura di ambra"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Amber Pants"
-msgstr "Pantaloni di ambra"
+msgstr "Pantaloni in Ambra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2041,7 +2063,7 @@ msgstr "Pantaloni di ambra"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Amber Boots"
-msgstr "Stivali di ambra"
+msgstr "Stivali in Ambra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2057,7 +2079,7 @@ msgstr "Scudo Alieno"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Phoenix Shield"
-msgstr "Scudo della fenice"
+msgstr "Scudo della Fenice"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2065,7 +2087,7 @@ msgstr "Scudo della fenice"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Space Suit"
-msgstr "Tuta spaziale"
+msgstr "Tuta Spaziale"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2073,7 +2095,7 @@ msgstr "Tuta spaziale"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Angel Wings"
-msgstr "Ali d'angelo"
+msgstr "Ali Angeliche"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2105,15 +2127,16 @@ msgstr "Anima di Xordaraxus"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Onyx Soul"
-msgstr "Anima di Onice"
+msgstr "Anima di Fenice"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:97
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+#, fuzzy
 msgid "SwampGolem"
-msgstr "Golem del Palude"
+msgstr "Golem della Palude"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2137,7 +2160,7 @@ msgstr "Grande Liana"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Sequoia Tree Plant"
-msgstr "Pianta di Sequoia"
+msgstr "Arboscello di Sequoia"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2145,8 +2168,9 @@ msgstr "Pianta di Sequoia"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:22
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
+#, fuzzy
 msgid "Amber From Bricks"
-msgstr "ambra dai mattoni"
+msgstr "Blocco d'Ambra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2155,15 +2179,16 @@ msgstr "ambra dai mattoni"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayLockedRecipe.cs:17
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:57
 msgid "Amber Bricks"
-msgstr "Mattoni di Ambra"
+msgstr "Mattoni in Ambra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
 # UnityGame/Assets/Localization/T.cs:97
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
+#, fuzzy
 msgid "Paving Stone"
-msgstr "Pietra di Calcestruzzo"
+msgstr "Strada in Pietra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2171,7 +2196,7 @@ msgstr "Pietra di Calcestruzzo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Purplefish"
-msgstr "Pesce Porpora Fritto"
+msgstr "Pesce Viola Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2179,7 +2204,7 @@ msgstr "Pesce Porpora Fritto"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried DumboOctopus"
-msgstr "Polpo Dumbo Fritto"
+msgstr "Polpo Ostile Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2187,7 +2212,7 @@ msgstr "Polpo Dumbo Fritto"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Dunkleosteus"
-msgstr "Dunkleosteus fritto"
+msgstr "Dunkleosteus Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2195,7 +2220,7 @@ msgstr "Dunkleosteus fritto"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Fangtooth"
-msgstr "Fangtooth Fritto"
+msgstr "Pesce Orco Fritto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2203,7 +2228,7 @@ msgstr "Fangtooth Fritto"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Fried Gulper"
-msgstr "Gulper Fritto"
+msgstr "Angulla degli Abissi Fritta"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2219,7 +2244,7 @@ msgstr "Calcestruzzo"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Mashine Gun Bullet"
-msgstr "Proiettile di mitragliatrice"
+msgstr "Proiettile della Mitragliatrice"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2232,7 +2257,7 @@ msgstr "Proiettile di mitragliatrice"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Sunshard"
-msgstr "Frammento di Sole"
+msgstr "Staffa Solare"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2244,7 +2269,7 @@ msgstr "Frammento di Sole"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Purplefish"
-msgstr "Pesce Porpora"
+msgstr "Pesce Viola"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2256,7 +2281,7 @@ msgstr "Pesce Porpora"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "DumboOctopus"
-msgstr "Polpo Dumbo"
+msgstr "Polpo Ostile"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2280,7 +2305,7 @@ msgstr "Dunkleosteus"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Fangtooth"
-msgstr "Fangtooth"
+msgstr "Pesce Orco"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2292,7 +2317,7 @@ msgstr "Fangtooth"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Gulper"
-msgstr "Gulper"
+msgstr "Anguilla degli Abissi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2305,7 +2330,7 @@ msgstr "Gulper"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Moon Sand"
-msgstr "Sabbia lunare"
+msgstr "Sabbia Lunare"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2344,7 +2369,7 @@ msgstr "Terra dello Spazio"
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:85
 # UnityGame/Assets/Blocksters/Scripts/Recipes/CreativeBookList.cs:36
 msgid "Space Bark"
-msgstr "Corteccia spaziale"
+msgstr "Legno Grezzo dello Spazio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2363,7 +2388,7 @@ msgstr "Corteccia spaziale"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Static Water"
-msgstr "Acqua statica"
+msgstr "Acqua Immobile"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2382,7 +2407,7 @@ msgstr "Acqua statica"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Static Lava"
-msgstr "Lava statica"
+msgstr "Lava Immobile"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2401,7 +2426,7 @@ msgstr "Lava statica"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Static Swamp"
-msgstr "Palude Statica"
+msgstr "Fanghiglia Immobile"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2439,7 +2464,7 @@ msgstr "Corallo Ghiacciato"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Mushroom Trunk"
-msgstr "Tronco di funghi"
+msgstr "Gambo del Fungo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2496,7 +2521,7 @@ msgstr "Fungo"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Glowing Grass"
-msgstr "Erba Brillante"
+msgstr "Erba Luminosa"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2553,7 +2578,7 @@ msgstr "Muschio"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Space Leafs"
-msgstr "Spazio Foglie"
+msgstr "Foglie dello Spazio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2572,7 +2597,7 @@ msgstr "Spazio Foglie"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Straight Grass"
-msgstr "Erba Dritta"
+msgstr "Ciuffo d'Erba"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2591,7 +2616,7 @@ msgstr "Erba Dritta"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Blooming Grass"
-msgstr "Erba in fiore"
+msgstr "Erba Fiorita"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2603,7 +2628,7 @@ msgstr "Erba in fiore"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Grace"
-msgstr "Gratia"
+msgstr "Grazia"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2614,8 +2639,9 @@ msgstr "Gratia"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Phoenix Wing"
-msgstr "Ala di Fenice"
+msgstr "Piuma di Fenice"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2626,6 +2652,7 @@ msgstr "Ala di Fenice"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Fire Essence"
 msgstr "Essenza di Fuoco"
 
@@ -2640,7 +2667,7 @@ msgstr "Essenza di Fuoco"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Cheat Diamond"
-msgstr "Diamante Trucco"
+msgstr "Diamante Falso"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2653,7 +2680,7 @@ msgstr "Diamante Trucco"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Railway Dead End"
-msgstr "Vicolo cieco ferroviario"
+msgstr "Binario Tronco"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2666,7 +2693,7 @@ msgstr "Vicolo cieco ferroviario"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle son Note"
-msgstr "Bottiglia con nota"
+msgstr "Bottiglia con Messaggio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2678,8 +2705,9 @@ msgstr "Bottiglia con nota"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:667
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
+#, fuzzy
 msgid "Bottle Poi Note"
-msgstr "Bottiglia con nota"
+msgstr "Bottiglia con Messaggio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2692,7 +2720,7 @@ msgstr "Bottiglia con nota"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1447
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Bottle Empty Note"
-msgstr "Bottiglia con nota"
+msgstr "Bottiglia con Messaggio Vuoto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2700,7 +2728,7 @@ msgstr "Bottiglia con nota"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Empty"
-msgstr "Nota vuota"
+msgstr "Messaggio Vuoto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -2708,7 +2736,7 @@ msgstr "Nota vuota"
 # UnityGame/Assets/Blocksters/Scripts/Gui/DisplayRecipe.cs:77
 # UnityGame/Assets/Blocksters/Scripts/Recipes/RecipeBook.cs:49
 msgid "Note Poi"
-msgstr "Nota con simboli"
+msgstr "Nota con Simboli"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
