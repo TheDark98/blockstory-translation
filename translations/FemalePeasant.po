@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2017-12-07 17:21-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Andre13581 <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Female"
-msgstr ""
+msgstr "Donna"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -22,7 +22,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Store"
-msgstr ""
+msgstr "Negozio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -34,7 +34,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Trade"
-msgstr ""
+msgstr "Commercia"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -46,7 +46,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Get Water"
-msgstr ""
+msgstr "Aiutaci a ottenere dell'acqua"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -58,7 +58,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Protect Us"
-msgstr ""
+msgstr "Aiutaci a proteggerci"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -70,7 +70,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Get Food"
-msgstr ""
+msgstr "Aiutaci a ottenere del cibo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -82,7 +82,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Add Beauty To Our Town"
-msgstr ""
+msgstr "Aiutaci ad abbellire la nostra città"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -94,7 +94,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Light Up The Town"
-msgstr ""
+msgstr "Aiutaci a illuminare la città"
 
 msgid ""
 "Hey there traveler! We could really use your help. Our people are struggling "
@@ -103,9 +103,14 @@ msgid ""
 "fresh water to drink. If you can bring us buckets of water, maybe we can "
 "make some deals to get you some supplies in return."
 msgstr ""
+"Hey viaggiatore! Abbiamo veramente bisogno del tuo aiuto. La nostra gente fa davvero "
+"fatica. Riusciamo a malapenaa sopravvivere  alla notte qui. Potresti aiutarci? Noi "
+"siamo davvero assetati. Abbiamo perso le nostre provviste d'acqua e abbiamo bisogno di trovare "
+"un po' di acqua fresca da bere. Se riuscissi a portarci dei secchi d'acqua, forse "
+"potremmo fare degli affari con te per darti delle risorse in cambio"
 
 msgid "Have you managed to get the buckets of water yet? We are very thirsty!"
-msgstr ""
+msgstr "Sei già riuscito a ottenere dei secchi d'acqua? Siamo molto assetati!"
 
 msgid ""
 "Thank you so much for bringing us these buckets of water! We will be able to "
@@ -113,9 +118,13 @@ msgid ""
 "time I went fishing and cooked them up for you as a token of our gratitude. "
 "Keep helping us out and I might have something special for you soon."
 msgstr ""
+"Grazie mille per aver portato questi secchi d'acqua! Ora saremo in grado di "
+"sopravvivere un po' più a lungo grazie al tuo aiuto, Prendi questo. L'ho trovato "
+"l'ultima volta che sono andato a pescare e l'ho cotto per te come segno della nostra gratitudine. "
+"Continua ad aiutarci e potrei avere qualcosa di speciale da darti presto."
 
 msgid "Tell a Countrywoman you have the Buckets of Water."
-msgstr ""
+msgstr "Dì alla donna del villaggio che hai i secchi d'acqua."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -137,6 +146,16 @@ msgid ""
 "Music Disk. What do you think, fellow traveler? If this place does exist, "
 "can you bring me some Space Flowers?"
 msgstr ""
+"Bentornato viaggiatore! Sei stato di grande aiuto nelle nostre città. Di recente "
+"stavo esplorando per conto mio, e ho trovato questo disco musicale, in "
+"un baule, che forse potrebbe interessarti. Ho sentito che questi aggeggi possono "
+"essere di valore per viaggiatori come te. Il nostro Re ci raccontava storie su "
+"delle terre situate molto in alto nel cielo. Così in alto che la gravità si abbassa. "
+"Ci diceva che lassù c'erano delle giungle bellissime. Se questo posto dovesse esistere, "
+"potresti portarmi dei fiori dello spazio per le nostre città? Attirerebbero
+"altri viaggiatori che, fermandosi, commercerebbero con noi. In cambio, ti darò questo "
+"disco musicale. Cosa ne pensi, viaggiatore? Se questo posto dovesse esistere, "
+"mi potresti portare dei fiori dello spazio?"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -156,6 +175,8 @@ msgid ""
 "Do you have the Space Flowers? We could really use them to attract fellow "
 "travelers from all over!"
 msgstr ""
+"Hai i fiori dello spazio? Potremmo usarli per attirare dei viaggiatori "
+"da ogni dove!"
 
 msgid ""
 "Wow! These Space Flowers are incredible! I've never seen anything like them "
@@ -163,9 +184,13 @@ msgid ""
 "them to the others in our village! I hope you enjoy the Music Disk I give "
 "you in return!"
 msgstr ""
+"Wow! Questi fiori dello spazio sono incredibili! Non ho mai visto nulla di simile "
+"prima d'ora! Grazie mille per averceli portati! Non vedo l'ora di mostrarli "
+"agli altri nel nostro villaggio! Spero ti piaccia il disco musicale che ti do "
+"in cambio"
 
 msgid "Tell a Countrywoman you have the Space Flowers."
-msgstr ""
+msgstr "Dì alla donna del villaggio che hai i fiori dello spazio"
 
 msgid ""
 "Welcome back traveler! Our people are doing better thanks to your help. "
@@ -177,11 +202,21 @@ msgid ""
 "keep us safe. In return, I'll make sure to reward you with some of our "
 "finest Fried LionFish for your efforts."
 msgstr ""
+"Bentornato viaggiatore! La nostra gente sta meglio grazie al tuo aiuto. "
+"Nonostante ciò, dobbiamo ancora affrontare grandi pericoli causati da creature selvagge"
+"che vagano in queste terre e che nuotano in queste acque. Ho sentito di questo ramo magico "
+"chiamato Bastone di Guardia che può aiutarci a proteggerci. Il bastone è composto da "
+"piume di Corvo e da alcuni bastoncini. Se riuscissi a portarci un po' di questi "
+"bastoni, potremmo usarli per creare dei distretti protetti nelle nostre città per "
+"tenerci al sicuro. In cambio, premierò i tuoi sforzi con i nostri pesci leone "
+"più succolenti. "
 
 msgid ""
 "Have you managed to craft the Sentinel Branches yet? We could really use "
 "them to protect out people from the dangers on the outside."
 msgstr ""
+"Sei già riuscito a creare il Bastone di Guardia? Servirebbe davvero "
+"per proteggere le persone dai pericoli dell'esterno"
 
 msgid ""
 "Thank you so much for bringing us these Sentinel Branches! We will be able "
@@ -189,9 +224,13 @@ msgid ""
 "these and saved them for you. Keep helping us out and I might have something "
 "special for you soon."
 msgstr ""
+"Grazie mille per averci portato questi Bastoni di Guardia! Saremo in grado di "
+"proteggere la nostra gente dai pericoli grazie al tuo aiuto! Prendi questo. Ho "
+"cotto questi e li ho conservati per te. Continua ad aiutarci e potrei avere "
+"qualcosa di speciale per te presto. "
 
 msgid "Tell a Countrywoman you have the Sentinel Branches."
-msgstr ""
+msgstr "Dì alla donna del villaggio che hai i Bastoni di Guardia"
 
 msgid ""
 "Oh it's you again traveler! It's amazing, these Sentienel Branches are "
@@ -201,9 +240,15 @@ msgid ""
 "people. In return, I'll make sure to reward you with some Mana Potions for "
 "your efforts."
 msgstr ""
+"Oh sei ancora tu viaggiatore! È fantastico, questi Bastoni di Guardia fanno "
+"miracoli per noi! La nostra gente si sente molto più al sicuro ora! Ma abbiamo "
+"ancora bisogno del tuo aiuto. Le nostre piantagioni vanno male e stiamo finendo "
+"le scorte di cibo. Se riuscissi a portarci del Grano, potremmo cuocere del pane "
+"per sfamare la nostra gente. In cambio, per i tuoi sforzi ti premierò con alcune "
+"Pozioni Mana "
 
 msgid "Have you managed to get the wheat yet? Our people are hungry!"
-msgstr ""
+msgstr "Sei già riuscito a ottenere il grano? La nostra gente ha fame! "
 
 msgid ""
 "Thank you so much for bringing us this Wheat! We will be able to bake some "
@@ -211,9 +256,13 @@ msgid ""
 "Potions. These will help you on your journey. Keep helping us out and I "
 "might have something special for you soon."
 msgstr ""
+"Grazie mille per averci portato questo Grano! Saremo in grado di cuocere "
+"del pane e sfamare la nostra gente grazie al tuo aiuto. Puoi avere queste "
+"Pozioni Mana. Ti aiuteranno nei tuoi viaggi. Continua ad aiutarci e "
+"potrei avere qualcosa di speciale per te presto."
 
 msgid "Tell a Countrywoman you have the Wheat."
-msgstr ""
+msgstr "Dì alla donna del villaggio che hai il Grano."
 
 msgid ""
 "Good to see you again, traveler! The town is flourishing thanks to your "
@@ -223,11 +272,19 @@ msgid ""
 "some Rose Bushes, we can exchange another reward for your efforts. Would "
 "Health Potions meet your needs?"
 msgstr ""
+"È bello vederti ancora, viaggiatore! La città prospera grazie al tuo "
+"aiuto! È l'ora di decorare la nostra città. La nostra gente sta parlando "
+"di come belli sarebbero dei giardini fioridi attorno alle nostre case. Potresti "
+"aiutarci a raccogliere dei Cespugli di Rose da piantare nelle nostre città? Se "
+"riuscissi a portarci dei Cespugli di Rose, potremmo scambiarli con un altro "
+"premio in cambio dei tuoi sforzi. Potrebbero esserti utili delle Pozioni di Vita? "
 
 msgid ""
 "Have you managed to get the rose bushes yet? Our town could really use some "
 "beautification!"
 msgstr ""
+"Sei già riuscito a ottenere i cespugli di rose? La nostra città necessita di "
+"un abbellimento!"
 
 msgid ""
 "Thank you for bringing us these Rose Bushes! We will be able to plant them "
@@ -235,9 +292,13 @@ msgid ""
 "These Health Potions should help you on your adventures. Keep helping us out "
 "and I might have something special for you soon."
 msgstr ""
+"Grazie mille per aver portato questi Cespugli di Rose! Saremo in grado di piantarli "
+"nella nostra città e renderla molto più bella grazie a te! Eccoti! Queste "
+"Pozioni di Vita dovrebbero aiutarti nelle tue avventure. Continua ad aiutarci "
+"e potrei avere qualcosa di speciale per te presto. "
 
 msgid "Tell a Countrywoman you have the Rose Bushes."
-msgstr ""
+msgstr "Dì alla donna del villaggio che hai i Cespugli di Rose."
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -255,11 +316,18 @@ msgid ""
 "return, I'll make sure to reward you with some of the best cooked food you "
 "can find for your efforts!"
 msgstr ""
+"È bello rivederti, viaggiatore! La nostra città diventa buia di notte "
+"ed è difficile muoversi in sicurezza per la nostra gente. Ci serve "
+"aiuto per illuminare la città. Se riuscissi a portarci delle Fiaccole "
+"da parete, ti premierò per i tuoi sforzi con il cibo più buono che "
+"tu possa trovare!"
 
 msgid ""
 "Have you managed to get the Wall Torches yet? Our town could really use some "
 "light at night!"
 msgstr ""
+"Sei già riuscito a ottenere le Fiaccole da Parete? La nostra città ha davvero "
+"bisogno di luce di notte!"
 
 msgid ""
 "Thank you so much for bringing us these Wall Torches! We will be able to "
@@ -267,6 +335,10 @@ msgid ""
 "promised, here are some of the best cooked fish I could find for you! Keep "
 "helping us out and I might have something special for you soon."
 msgstr ""
+"Grazie mille per averci portato queste Torce da Parete! Saremo in grado di "
+"illuminare la città e tenere al sicuro la nostra gente di notte grazie al tuo "
+"aiuto! Come promesso, eccoti alcuni dei migliori pesci cotti che io possa trovare "
+"per te! Continua ad aiutarci e potrei avere qualcosa di speciale per te presto."
 
 msgid "Tell a Countrywoman you crafted the Wall Torches."
-msgstr ""
+msgstr "Dì alla donna del viallaggio che hai creato le Fiaccole da Parete"
