@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2017-12-07 17:21-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Andre13581 <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Male"
-msgstr ""
+msgstr "Uomo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -22,7 +22,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Store"
-msgstr ""
+msgstr "Negozio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -34,7 +34,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Trade"
-msgstr ""
+msgstr "Commercia"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -46,7 +46,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Feed Us"
-msgstr ""
+msgstr "Aiutaci a ottenere del cibo"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -58,7 +58,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Repair Our Tools"
-msgstr ""
+msgstr "Aiutaci a riparare i nostri attrezzi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -70,7 +70,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Upgrade Our Tools"
-msgstr ""
+msgstr "Aiutaci a migliorare i nostri attrezzi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -82,7 +82,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Upgrade Our Towns"
-msgstr ""
+msgstr "Aiutaci a migliorare le nostre città"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -94,7 +94,7 @@ msgstr ""
 # UnityGame/Assets/Blocksters/Selector/Use.cs:66 
 # UnityGame/Assets/Blocksters/Selector/EventFallthrough.cs:167 
 msgid "Help Us Power On Our Equipment"
-msgstr ""
+msgstr "Aiutaci a rinforzare il nostro equipaggiamento"
 
 msgid ""
 "Hello fellow traveler, if you're here to help, you're already welcome. We're "
@@ -105,20 +105,32 @@ msgid ""
 "this meat. If you bring us some, we have some extra coal we can spare for "
 "your journey."
 msgstr ""
+"Salve viaggiatore, se sei qui per aiutare, sei già il benvenuto. Facciamo "
+"fatica a sopravvivere in questo mondo crudele, e qualsiasi aiuto è davvero "
+"apprezzato. Credi di poterci aiutare? Anche il più piccolo contributo è ben"
+"accetto. Aiutaci e ricostruire i nostri villaggi. Che ne dici? Potresti "
+"portarci della Carne Arrostita? Stiamo morendo di fame qui. Ti servirà una "
+"fornace per cuocere la carne. Se ce ne porti un po', ti potremmo ricompensare "
+"con del carbone."
 
 msgid ""
 "Have you managed to gather some Fried Meat for us? We desperately need it to "
 "survive."
 msgstr ""
+"Sei riuscito a ottenere della Carne Arrostita per noi? Ne abbiamo disperatamente "
+"bisogno per sopravvivere."
 
 msgid ""
 "Thank you so much for bringing us this Fried Meat! We will be able to "
 "survive a little longer thanks to your help. Keep helping us out and I'll "
 "have something special for you soon."
 msgstr ""
+"Ti ringraziamo molto per averci portato questa Carne Arrostita! Adesso saremo "
+"in grado di sopravvivere un po' più a lungo grazie al tuo aiuto. Continua ad "
+"aiutarci e potrei avere qualcosa di speciale per te presto."
 
 msgid "Tell a Countryman you have the Fried Meat."
-msgstr ""
+msgstr "Dì all'uomo del villaggio che hai la Carne Arrostita"
 
 msgid ""
 "Hello again fellow traveler, You've been a great help to our towns. We've "
@@ -132,24 +144,40 @@ msgid ""
 "for this one that I have. What do you say, fellow traveler? Want to make a "
 "deal?"
 msgstr ""
+"Salve di nuovo viaggiatore. Sei stato di grande aiuto per le nostre città. Siamo "
+"riusciti a crescere e a difendere i nostri villaggi grazie a te. Dunque, "
+"ho un premio speciale da darti questa volta. Ho trovato questo disco musicale "
+"durante i miei viaggi, e ho pensato che sarebbe stata una bella aggiunta alla "
+"tua collezione. L'ho ascoltato più e più volte, tuttavia mi sono stufato e "
+"adesso vorrei provare qualcosa di nuovo. Una volta, nel mercato vicino ho sentito "
+"una traccia musicale che si chiama Pirati - Finale. Per caso avresti questo " #fuzzy
+"disco musicale? Sarei ben disposto a scambiarlo con te. In cambio ti darò "
+"il disco che ho io. Cosa ne pensi, viaggiatore? Vuoi per caso fare un affare?"
 
 msgid ""
 "Do you have the disk I'm looking for? I'd be happy to trade it for the one I "
 "have."
 msgstr ""
+"Hai per caso il disco che sto cercando? Sarei ben disposto a scambiarlo con "
+"quello che ho io."
 
 msgid ""
 "Thank you so much for bringing me this music disk! I can't wait to hear this "
 "song once more! I hope you enjoy the one I give you in return!"
 msgstr ""
+"Ti ringrazio per avermi portato questo disco musicale! Non vedo l'ora di "
+"ascoltare di nuovo questa canzone! Spero tu possa apprezzare il disco che "
+"ti do in cambio!"
 
 msgid "Tell a Countryman you have the matching music disk."
-msgstr ""
+msgstr "Dì all'uomo del villaggio che hai il disco musicale"
 
 msgid ""
 "Thank you so much for bringing us this Fried Meat! We will be able to "
 "survive a little longer thanks to your help."
 msgstr ""
+"Ti ringrazio per averci portato questa Carne Arrostita! Adesso saremo in "
+"grado di sopravvivere un po' più a lungo grazie al tuo aiuto."
 
 msgid ""
 "Hello fellow traveler, I have another request for you. Our tools are falling "
@@ -159,20 +187,31 @@ msgid ""
 "coins that can be used to purchase items by the fellow Alchemist that visits "
 "our towns."
 msgstr ""
+"Salve viaggiatore, ho un'altra richiesta da farti. I nostri attrezzi si stanno "
+"usurando. Non possiamo sostenere le nostre città senza strumenti adeguati. Un "
+"Martello di Pietra è indispensabile per riparare i nostri utensili. Se riesci "
+"a portarcene un po', ti saremo infinitamente grati. In cambio, ti possiamo dare "
+"delle monete d'oro, che possono essere usate per comprare oggetti presso "
+"l'Alchimista che visita le nostre città"
 
 msgid ""
 "Have you managed to craft hammers for our tools? We need them to keep our "
 "towns in shape."
 msgstr ""
+"Sei riuscito a creare i martelli per riparare i nostri attrezzi? Ne abbiamo "
+"bisogno per mantenere in forma le nostre città."
 
 msgid ""
 "Thank you so much for bringing us these Stone Hammers! We will be able to "
 "repair our tools and survive longer thanks to your help. Keep helping us out "
 "and I'll have something special for you soon."
 msgstr ""
+"Ti ringrazio per averci portato questi Martelli di Pietra! Adesso saremo in "
+"grado di riparare i nostri attrezzi e di sopravvivere più a lungo grazie al tuo "
+"aiuto. Continua ad aiutarci e potrei avere qualcosa di speciale per te presto."
 
 msgid "Tell a Countryman you have the Stone Hammers."
-msgstr ""
+msgstr "Dì all'uomo del villaggio che hai i Martelli di Pietra"
 
 msgid ""
 "Welcome back fellow traveler! Our towns are in better shape thanks to you. "
@@ -182,20 +221,32 @@ msgid ""
 "we'll make sure to reward you well for your efforts with some Arrows for "
 "your journey."
 msgstr ""
+"Bentornato viaggiatore! Le nostre città hanno un aspetto migliore grazie a te. "
+"Adesso è giunta l'ora per noi di ottenere dei miglioramenti per i nostri attrezzi."
+"Abbiamo bisogno di utensili più forti per sopravvivere e svolgere i nostri lavori "
+"più efficientemente. Potresti portarci dei Lingotti di Ferro per poter potenziare i "
+"nostri attrezzi? Se riuscissi a portarcene un po', faremo in modo di ricompensarti "
+"bene per i tuoi sforzi con delle Frecce." #fuzzy
 
 msgid ""
 "Have you managed to smelt the Iron Bars yet? We need them to upgrade our "
 "tools."
 msgstr ""
+"Sei già riuscito a fondere i Lingotti di Ferro? Ne abbiamo bisogno per "
+"migliorare i nostri attrezzi."
 
 msgid ""
 "Thank you so much for bringing us these Iron Bars! We will be able to "
 "upgrade our tools and complete tasks much quicker! Keep helping us out and "
 "I'll have something special for you soon."
 msgstr ""
+"Ti ringrazio per averci portato questi Lingotti di Ferro! Adesso saremo in "
+"grado di migliorare i nostri attrezzi e di completare i nostri lavori molto "
+"più rapidamente! Continua ad aiutarci e potrei avere qualcosa di speciale per "
+te presto."
 
 msgid "Tell a Countryman you have the Iron Bars."
-msgstr ""
+msgstr "Dì all'uomo del villaggio che hai i Lingotti di Ferro"
 
 msgid ""
 "Thank you for returning, fellow traveler! Our new tools have been a great "
@@ -208,20 +259,35 @@ msgid ""
 "some, we'll reward you with some Gold Bars to help you upgrade your own "
 "equipment."
 msgstr ""
+"Grazie per essere tornato viaggiatore! I nostri nuovi attrezzi sono stati "
+"davvero d'aiuto alle nostre città. Adesso vorremmo migliorare la struttura dei "
+"nostri villaggi. Delle fondamente robuste ci aiuteranno a resistere a condizioni "
+"climatiche estreme e ci permetteranno di espandere ulteriormente le nostre città. "
+"Potresti portarci dei Mattoni? Questo materiale è uno dei blocchi più resistenti "
+"in circolazione e sarebbe perfetto per migliorare le nostre città. Devi fondere "
+"della Pietra per ottenere della Pietra Chiara. Dopodiché fondi la Pietra Chiara " #fuzzy
+"per trasformarla in Mattoni. Se riuscissi a portarcene un po', ti ricompenseremo "
+"con dei Lingotti d'Oro per aiutarti a potenziare il tuo equipaggiamento."
 
 msgid ""
 "Have you managed to smelt the Clear Stone into Bricks yet? We need them to "
 "upgrade our towns."
 msgstr ""
+"Sei già riuscito a fondere la Pietra Chiara in Mattoni? Ne abbiamo bisogno "
+"per migliorare le nostre città. "
+
 
 msgid ""
 "Thank you so much for bringing us these Bricks! We will be able to upgrade "
 "our towns and protect our people much better! Keep helping us out and I'll "
 "have something special for you soon."
 msgstr ""
+"Ti ringrazio per averci portato questi Mattoni! Adesso saremo in grado di "
+"migliorare le nostre città e proteggere al meglio la nostra gente! Continua ad "
+"aiutarci, e potrei avere qualcosa di speciale per te presto."
 
 msgid "Tell a Countryman you have the Bricks."
-msgstr ""
+msgstr "Dì all'uomo del villaggio che hai i Mattoni"
 
 msgid ""
 "Thank you for returning, fellow traveler! Our towns are in much better shape "
@@ -234,15 +300,27 @@ msgid ""
 "need to locate Sulfur, Coal, and get buckets of water. These will allow you "
 "to craft Fuel."
 msgstr ""
+"Grazie per essere tornato viaggiatore! Le nostre città hanno un aspetto "
+"migliore grazie a te! Siamo riusciti ad espanderci e a scoprire delle risorse "
+"preziose. Potremmo condividerne un po' con te, ma solo se ci aiuterai a svolgere "
+"una missione. Stiamo cercando di ottenere del Carburante per le nostre città "
+"per accendere i nostri macchinari. Nel caso tu riuscissi a portarci delle taniche di "
+"Carburante, ti ricompenseremo con dell'Unobtainium e delle Monete d'Oro come premio "
+"per i tuoi sforzi. Ottenere delle taniche di Carburante può essere difficile. Devi "
+"trovare dello Zolfo e del Carbone, e poi ottenere dei secchi d'acqua. Questi oggetti "
+"ti permetteranno di creare del Carburante. "
 
 msgid "Have you managed to craft Fuel? We need it to power our equipment."
-msgstr ""
+msgstr "Sei già riuscito a creare del Carburante? Ne abbiamo bisogno per accendere i nostri macchinari. "
 
 msgid ""
 "Thank you so much for bringing us this Fuel! We will be able to power our "
 "equipment and evolve as a society much quicker! Keep helping us out and I'll "
 "have something special for you soon."
 msgstr ""
+"Ti ringrazio per averci portato questo Carburante! Adesso saremo in grado di accendere "
+"i nostri macchinari ed evolvere come società più rapidamente! Continua ad aiutarci, e "
+"potrei avere qualcosa di speciale per te presto."
 
 msgid "Tell a Countryman you have the Fuel."
-msgstr ""
+msgstr "Dì all'uomo del villaggio che hai il Carburante."
