@@ -152,7 +152,7 @@ msgstr ""
 "essere di valore per viaggiatori come te. Il nostro Re ci raccontava storie su "
 "delle terre situate molto in alto nel cielo. Così in alto che la gravità si abbassa. "
 "Ci diceva che lassù c'erano delle giungle bellissime. Se questo posto dovesse esistere, "
-"potresti portarmi dei fiori dello spazio per le nostre città? Attirerebbero
+"potresti portarmi dei fiori dello spazio per le nostre città? Attirerebbero "
 "altri viaggiatori che, fermandosi, commercerebbero con noi. In cambio, ti darò questo "
 "disco musicale. Cosa ne pensi, viaggiatore? Se questo posto dovesse esistere, "
 "mi potresti portare dei fiori dello spazio?"

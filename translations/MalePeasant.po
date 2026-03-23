@@ -243,7 +243,7 @@ msgstr ""
 "Ti ringrazio per averci portato questi Lingotti di Ferro! Adesso saremo in "
 "grado di migliorare i nostri attrezzi e di completare i nostri lavori molto "
 "più rapidamente! Continua ad aiutarci e potrei avere qualcosa di speciale per "
-te presto."
+"te presto."
 
 msgid "Tell a Countryman you have the Iron Bars."
 msgstr "Dì all'uomo del villaggio che hai i Lingotti di Ferro"
