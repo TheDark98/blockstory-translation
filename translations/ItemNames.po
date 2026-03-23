@@ -3175,7 +3175,7 @@ msgstr "Zolla della Giungla"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Siren"
-msgstr "Registratore di Sirena"
+msgstr "Disco di Sirena"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3194,7 +3194,7 @@ msgstr "Registratore di Sirena"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Haven"
-msgstr "Registratore di Haven"
+msgstr "Disco di Haven"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3213,7 +3213,7 @@ msgstr "Registratore di Haven"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Abyss"
-msgstr "Registratore di Abyss"
+msgstr "Disco di Abyss"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3232,7 +3232,7 @@ msgstr "Registratore di Abyss"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Arpeggio"
-msgstr "Registratore di Arpeggio"
+msgstr "Disco di Arpeggio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3251,7 +3251,7 @@ msgstr "Registratore di Arpeggio"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Atmosphere"
-msgstr "Registratore di Atmosfera"
+msgstr "Disco di Atmosfera"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3270,7 +3270,7 @@ msgstr "Registratore di Atmosfera"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Atmosphere Piano"
-msgstr "Registratore di Atmosfera del Pianoforte"
+msgstr "Disco di Atmosfera del Pianoforte"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3289,7 +3289,7 @@ msgstr "Registratore di Atmosfera del Pianoforte"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Boss Fight"
-msgstr "Registratore della battaglia contro il boss"
+msgstr "Disco della battaglia contro il boss"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3308,7 +3308,7 @@ msgstr "Registratore della battaglia contro il boss"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Desrtino"
-msgstr "Registratore di Desrtino"
+msgstr "Disco di Desrtino"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3327,7 +3327,7 @@ msgstr "Registratore di Desrtino"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Epic"
-msgstr "Registratore di Epico"
+msgstr "Disco di Epico"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3346,7 +3346,7 @@ msgstr "Registratore di Epico"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Guitar Accords"
-msgstr "Registratore di Accordi per Chitarra"
+msgstr "Disco di Accordi per Chitarra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3365,7 +3365,7 @@ msgstr "Registratore di Accordi per Chitarra"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Menu Theme"
-msgstr "Registratore del Tema del Menu"
+msgstr "Disco del Tema del Menu"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3384,7 +3384,7 @@ msgstr "Registratore del Tema del Menu"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Miracles"
-msgstr "Registratore di Miracoli"
+msgstr "Disco di Miracoli"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3403,7 +3403,7 @@ msgstr "Registratore di Miracoli"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Mistery"
-msgstr "Registratore del Mistero"
+msgstr "Disco del Mistero"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3422,7 +3422,7 @@ msgstr "Registratore del Mistero"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record New Forest"
-msgstr "Registratore della Nuova Foresta"
+msgstr "Disco della Nuova Foresta"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3441,7 +3441,7 @@ msgstr "Registratore della Nuova Foresta"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Pip Orquesta"
-msgstr "Registratore di Orchestra"
+msgstr "Disco di Orchestra"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3460,7 +3460,7 @@ msgstr "Registratore di Orchestra"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Solar"
-msgstr "Registratore Solare"
+msgstr "Disco Solare"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3479,7 +3479,7 @@ msgstr "Registratore Solare"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Vanity"
-msgstr "Registratore di Vanità"
+msgstr "Disco di Vanità"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3498,7 +3498,7 @@ msgstr "Registratore di Vanità"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Wonderland"
-msgstr "Registratore del Paese delle Meraviglie"
+msgstr "Disco del Paese delle Meraviglie"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3517,7 +3517,7 @@ msgstr "Registratore del Paese delle Meraviglie"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - 8bit"
-msgstr "Registratore di Tradiore - 8bit"
+msgstr "Disco di Tradiore - 8bit"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3536,7 +3536,7 @@ msgstr "Registratore di Tradiore - 8bit"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - Indie"
-msgstr "Registratore di Tradiore - Indie"
+msgstr "Disco di Tradiore - Indie"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3555,7 +3555,7 @@ msgstr "Registratore di Tradiore - Indie"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - Ragga"
-msgstr "Registratore di Tradiore - Ragga"
+msgstr "Disco di Tradiore - Ragga"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3574,7 +3574,7 @@ msgstr "Registratore di Tradiore - Ragga"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - Ray of sunset"
-msgstr "Registratore di Tradiore - Raggio di tramonto"
+msgstr "Disco di Tradiore - Raggio di tramonto"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3593,7 +3593,7 @@ msgstr "Registratore di Tradiore - Raggio di tramonto"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - Serenity"
-msgstr "Registratore di Tradiore - Serenity"
+msgstr "Disco di Tradiore - Serenity"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3612,7 +3612,7 @@ msgstr "Registratore di Tradiore - Serenity"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - Space 80s"
-msgstr "Registratore di Tradiore - Spazio anni '80"
+msgstr "Disco di Tradiore - Spazio anni '80"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3631,7 +3631,7 @@ msgstr "Registratore di Tradiore - Spazio anni '80"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - Thoughts"
-msgstr "Registratore di Tradiore - Pensieri"
+msgstr "Disco di Tradiore - Pensieri"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3650,7 +3650,7 @@ msgstr "Registratore di Tradiore - Pensieri"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Tradiore - Walpurgis Night"
-msgstr "Registratore di Tradiore - La notte di Valpurga"
+msgstr "Disco di Tradiore - La notte di Valpurga"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3669,7 +3669,7 @@ msgstr "Registratore di Tradiore - La notte di Valpurga"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Pirates - Silent Sea"
-msgstr "Registratore di Pirates - Silent Sea"
+msgstr "Disco di Pirates - Silent Sea"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3688,7 +3688,7 @@ msgstr "Registratore di Pirates - Silent Sea"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Pirates - Ending"
-msgstr "Registratore di Pirates - Finale"
+msgstr "Disco di Pirates - Finale"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3796,7 +3796,7 @@ msgstr "Ramo Custode"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Aragog"
-msgstr "Registratore di Aragog"
+msgstr "Disco di Aragog"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3816,11 +3816,11 @@ msgstr "Registratore di Aragog"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Ashkore"
-msgstr "Registratore di Ashkore"
+msgstr "Disco di Ashkore"
 
 #, fuzzy
 msgid "Record Dragon Lord"
-msgstr "Registratore del Signore dei Draghi"
+msgstr "Disco del Signore dei Draghi"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3840,7 +3840,7 @@ msgstr "Registratore del Signore dei Draghi"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Mati"
-msgstr "Registratore di Vanità"
+msgstr "Disco di Vanità"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3860,7 +3860,7 @@ msgstr "Registratore di Vanità"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Phoenix"
-msgstr "Registratore della Feonice"
+msgstr "Disco della Fenice"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3879,7 +3879,7 @@ msgstr "Registratore della Feonice"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:1515
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 msgid "Record Swamp Golem"
-msgstr "Registratore del Golem della Palude"
+msgstr "Disco del Golem della Palude"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3899,7 +3899,7 @@ msgstr "Registratore del Golem della Palude"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Space Mushrooms"
-msgstr "Registratore dei Funghi dello Spazio"
+msgstr "Disco dei Funghi dello Spazio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46 
 # UnityGame/Assets/Localization/BaseTranslation.cs:348 
@@ -3938,7 +3938,7 @@ msgstr "Nebbia Liquida"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Ocean Ripples"
-msgstr "Registratore di Raggi di Oceano"
+msgstr "Disco di Raggi di Oceano"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:46
 # UnityGame/Assets/Localization/BaseTranslation.cs:348
@@ -3958,7 +3958,7 @@ msgstr "Registratore di Raggi di Oceano"
 # UnityGame/Assets/NGUI/Scripts/UI/UICamera.cs:924
 #, fuzzy
 msgid "Record Begin"
-msgstr "Registratore dell'Inizio"
+msgstr "Disco dell'Inizio"
 
 # UnityGame/Assets/Localization/BaseTranslation.cs:38
 # UnityGame/Assets/Localization/BaseTranslation.cs:275
